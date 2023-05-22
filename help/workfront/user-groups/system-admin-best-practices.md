@@ -1,0 +1,19 @@
+---
+title: Prácticas recomendadas para el administrador del sistema (29 de septiembre de 2020)
+description: Escuche a Anthony Imgrund en FCB y comparta algunas prácticas recomendadas cuando sea administrador de sistemas globales para su organización.
+role: Admin
+level: Beginner, Intermediate, Experienced
+kt: 10009
+thumbnail: 341227.jpeg
+source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 0%
+
+---
+
+# Prácticas recomendadas para el administrador del sistema (29 de septiembre de 2020)
+
+Escuche a Anthony Imgrund en FCB y comparta algunas prácticas recomendadas cuando sea administrador de sistemas globales para su organización.
+
+>[!VIDEO](https://video.tv.adobe.com/v/341227/?quality=12&learn=on)
