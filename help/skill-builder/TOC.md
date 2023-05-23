@@ -44,8 +44,6 @@ ht-degree: 47%
       + [Tendencias de Recorrido del cliente e innovación en B2B y B2C](customer-journeys/2022/keynote.md)
       + [Mejor juntos: Adobe Marketo Engage y Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Experiencias B2B con Marketo Engage y Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    + 
-[Adobe Campaign Classic V7 frente a V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + Datos y perspectivas {#data-and-insights}
    + [Información general](data-and-insights/overview.md)
    + 2022 {#2022}
