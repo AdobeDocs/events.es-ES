@@ -1,7 +1,7 @@
 ---
 title: 'Creadores de experiencia: intercambio de habilidades'
 description: Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Introducción a Adobe Analytics</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Mantenimiento de datos</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 consejos para sorprender a tu Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

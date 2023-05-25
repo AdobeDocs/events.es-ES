@@ -1,14 +1,16 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
 description: '"Aprenda, gracias a los expertos y compañeros del Adobe, cómo sacar el máximo partido a sus soluciones de Adobe. [!DNL Experience Makers - Learn from your peers] es una serie global de eventos virtuales de aprendizaje de clientes, que se centran en profundizar en [!DNL Adobe Experience Cloud] soluciones.'''
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
+
+<!-- <img alt="Experience Makers Learn from your peers" src="./assets/skill-exchange.png" /> -->
 
 Aprenda, con expertos en Adobe y compañeros, a sacar el máximo partido a las soluciones de Adobe. Con temas seleccionados para los profesionales, _por_ Para los profesionales, estas sesiones interactivas comparten casos de uso, prácticas recomendadas y consejos y trucos &quot;parte de lo posible&quot;.
 

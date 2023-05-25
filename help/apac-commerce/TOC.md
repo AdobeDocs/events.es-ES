@@ -2,7 +2,7 @@
 user-guide-title: Eventos de comercio de APAC
 breadcrumb-title: Eventos de comercio de APAC
 user-guide-description: Eventos de Adobe Commerce es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Adobe Commerce.
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 8%
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [Actualizar la versión a la versión 2.4.4](2022/upgrade.md)
 + [Liberar elementos destacados de hoja de ruta](release-highlights.md)
 
-<!---+ Commerce Events {#commerce-events}
+<!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
@@ -37,4 +37,4 @@ ht-degree: 8%
     + [Sensei and Analysis Workspace](data-and-insights/2022/sensei.md)
     + [Personalize and automate with Adobe Target](data-and-insights/2022/personalize.md)
     + [Analytics and Target applications for Mobile and Apps](data-and-insights/2022/mobile-and-apps.md)
-    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) --->
+    + [Cross Device Analytics and Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md) -->

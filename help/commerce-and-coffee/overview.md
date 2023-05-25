@@ -1,7 +1,7 @@
 ---
 title: Comercio y café
 description: La serie de Adobe Commerce and Coffee se centra en las estrategias y tácticas de Commerce, apoyadas en estadísticas que reflejan el tema del evento.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia de Commerce de Sr., Corey Gelato. La serie se centra en estrategias y tácticas de comercio, apoyadas por estadísticas que reflejan el tema del evento. Después de la presentación, hay una demostración en vivo que muestra cómo poner en acción las estrategias discutidas dentro de una plataforma de comercio. Cada evento concluye con la oportunidad de hacer preguntas en directo y hablar directamente con los expertos en Adobe. Dejará cada evento con una sensación renovada de por qué y cómo seguir siendo competitivos y lograr el éxito, todo mientras maximiza lo que su plataforma Adobe Commerce tiene para ofrecer.
 
-<!---
+<!--
 ## What's New
 
 <table>
@@ -58,7 +58,7 @@ La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Co
   </td>
 </tr>
 </table>
---->
+-->
 
 >[!TIP]
 >
