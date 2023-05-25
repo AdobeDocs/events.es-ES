@@ -1,7 +1,7 @@
 ---
 title: Eventos de MBI
 description: Explore los seminarios web grabados por MBI, que cubren una amplia gama de temas y prácticas recomendadas para utilizar MBI al máximo.
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 30%
@@ -21,11 +21,11 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
       <img alt="Introducción a MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
         <strong>Introducción a MBI</strong>
       </a>
     </div>
@@ -34,11 +34,11 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
       <img alt="Administrar conjuntos de datos en MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2022/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
         <strong>Administrar conjuntos de datos en MBI</strong>
       </a>
     </div>
@@ -47,11 +47,11 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
       <img alt="Optimizar el Data Warehouse de MBI" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/mbi/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
         <strong>Optimizar el Data Warehouse de MBI</strong>
       </a>
     </div>

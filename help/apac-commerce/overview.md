@@ -1,7 +1,7 @@
 ---
 title: Serie de seminarios web sobre comercio APAC
 description: La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
-source-git-commit: d18c496ac1a571d3c8ecfe9d222514c35f28147f
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -43,11 +43,11 @@ La serie de seminarios web sobre comercio de APAC es una cadencia mensual de tal
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/commerce-events/apac-commerce/2022/new-relic.html">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
