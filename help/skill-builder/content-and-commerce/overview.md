@@ -1,7 +1,8 @@
 ---
 title: 'Generador de habilidades de: contenido y comercio'
 description: Serie de seminarios web grabados para crear su base de conocimientos y maximizar su inversión en contenido de Adobe y soluciones de comercio
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -18,7 +19,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Ofrecer experiencias sin encabezado con Adobe Experience Manager" src="assets/343816.jpeg" />
+      <img alt="Ofrecer experiencias sin encabezado con Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
@@ -31,7 +32,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Haga que los metadatos trabajen para su negocio en Adobe Experience Manager Assets" src="assets/343815.jpeg" />
+      <img alt="Haga que los metadatos trabajen para su negocio en Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
@@ -44,7 +45,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="Aproveche al máximo la administración de flujos de trabajo empresariales" src="assets/343817.jpeg" />
+      <img alt="Aproveche al máximo la administración de flujos de trabajo empresariales" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">

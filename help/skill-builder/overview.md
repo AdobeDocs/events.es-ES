@@ -1,9 +1,10 @@
 ---
 title: Información general de Skill Builder
 description: Serie de seminarios web grabados para generar su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
-source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
+exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---
@@ -36,7 +37,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fuentes para crear recorridos personalizados en canales múltiples.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar sesiones</span>
     </a>
   </td>
@@ -48,7 +49,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Impulse la personalización en tiempo real en cualquier canal mediante perspectivas de datos en línea y sin conexión en toda la organización.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar sesiones</span>
     </a>
   </td>  
