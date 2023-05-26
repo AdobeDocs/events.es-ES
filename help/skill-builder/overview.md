@@ -1,7 +1,7 @@
 ---
 title: Información general de Skill Builder
 description: Serie de seminarios web grabados para generar su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 3%
@@ -48,7 +48,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Impulse la personalización en tiempo real en cualquier canal mediante perspectivas de datos en línea y sin conexión en toda la organización.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Examinar sesiones</span>
     </a>
   </td>  
