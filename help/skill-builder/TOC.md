@@ -1,7 +1,7 @@
 ---
 user-guide-title: Generador de habilidades
 user-guide-description: Esta es una descripción de la guía del usuario que se mostrará en la página de aterrizaje.
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 45%
@@ -44,8 +44,6 @@ ht-degree: 45%
       + [Tendencias de Recorrido del cliente e innovación en B2B y B2C](customer-journeys/2022/keynote.md)
       + [Mejor juntos: Adobe Marketo Engage y Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Experiencias B2B con Marketo Engage y Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + Datos y perspectivas {#data-and-insights}
    + [Información general](data-and-insights/overview.md)
    + 2022 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 45%
       + [Personalización y automatización con Adobe Target](data-and-insights/2022/personalize.md)
       + [Aplicaciones de Analytics y Target para aplicaciones móviles y móviles](data-and-insights/2022/mobile-and-apps.md)
       + [Customer Journey Analytics y análisis entre dispositivos](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
