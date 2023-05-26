@@ -13,7 +13,7 @@ kt: 7178
 type: Event
 thumbnail: 331743.jpg
 exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Cargue el React o Angular SPA existente en el Editor de páginas y, con una intervención mínima, permita a los autores insertar contenido que editan en contexto.
 
-Continúe la conversación en **[Comunidades Experience League](http://adobe.ly/36Yd3v6)**.
+Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 

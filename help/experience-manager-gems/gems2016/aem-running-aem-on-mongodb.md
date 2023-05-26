@@ -5,10 +5,10 @@ uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 4%
+source-wordcount: '161'
+ht-degree: 8%
 
 ---
 
@@ -30,7 +30,11 @@ AEM AEM Esta Gem de la detallará cómo ejecutar la configuración de la producc
 
 ## Vínculos relacionados {#related-links}
 
-[AEM con MongoDB](https://docs.adobe.com/content/docs/en/aem/6-1/deploy/platform/aem-with-mongodb.html)
+>[!WARNING]
+>
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>
+>En relación con esta sesión, consulte *AEM Consultas e indexación de Oak : con MongoDB* AEM en la documentación de 6.1.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

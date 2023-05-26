@@ -5,10 +5,10 @@ uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: f29e6070-62d3-472c-9772-d470134e76d1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 3%
+source-wordcount: '270'
+ht-degree: 4%
 
 ---
 
@@ -34,5 +34,8 @@ Experto en chat,
 
 ## Vínculos relacionados {#related-links}
 
-* [Plantillas de página](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Creación de plantillas de página  ](https://docs.adobe.com/docs/en/aem/6-2/author/site-page-features/templates.html)
+>[!WARNING]
+>
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>
+>En relación con esta sesión, consulte *Plantillas de página* y *Creación de plantillas de página* AEM en la documentación de 6.2.

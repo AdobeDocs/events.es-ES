@@ -5,10 +5,10 @@ uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
 exl-id: ab0851fb-7271-49c5-9f11-81ea7c7c0d47
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ Conozca el motor de consultas de Oak y cómo se compara con Jackrabbit 2.x. La s
 
 ## Vínculos relacionados {#related-links}
 
-[Documentación de Oak](http://jackrabbit.apache.org/oak/docs/)
+[Documentación de Oak](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

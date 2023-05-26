@@ -12,7 +12,7 @@ kt: 7179
 type: Event
 thumbnail: 331761.jpg
 exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Desbloquee todo el potencial del lado del servidor de AEP Launch con los SDK web y móvil de AEP para optimizar la recopilación de datos empresariales.
 
-Continúe la conversación en **[Comunidades Experience League](http://adobe.ly/36Yd3v6)**.
+Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 

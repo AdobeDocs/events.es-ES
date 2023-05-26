@@ -5,10 +5,10 @@ uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 2%
+source-wordcount: '185'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,10 @@ AEM La determinación de si una instancia de está en buen estado no es una tare
 
 [Obtener archivo](assets/aem-gems-health-checks-for-aem.pdf)
 
+>[!WARNING]
+>
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+
 ## Vínculos relacionados {#related-links}
 
-* [Documentación de AEM](https://docs.adobe.com/docs/en/aem/6-3/administer/operations/operations-dashboard.html#Health%20Reports)
 * [Documentación de Sling](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

@@ -3,7 +3,7 @@ title: Adobe Developers Live, octubre de 2021
 description: Se entrega una colección de vídeos y tutoriales para Adobe Experience Manager Sites como parte del evento de Adobe Developers Live.
 sub-product: sites, content-services
 exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 17%
@@ -95,6 +95,6 @@ Conéctese con otros desarrolladores y únase a las conversaciones de la sesión
 
 ### Generador de aplicaciones
 
-* [Información general sobre App Builder](http://adobe.ly/aem-appbuilder)
-* [Guía para desarrolladores de App Builder](http://adobe.ly/appbuilder)
-* [Registro en el programa de prueba del App Builder](http://adobe.ly/appbuilder-trial)
+* [Información general sobre App Builder](https://adobe.ly/aem-appbuilder)
+* [Guía para desarrolladores de App Builder](https://adobe.ly/appbuilder)
+* [Registro en el programa de prueba del App Builder](https://adobe.ly/appbuilder-trial)
