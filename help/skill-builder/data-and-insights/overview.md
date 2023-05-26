@@ -1,7 +1,7 @@
 ---
 title: Información general de Skill Builder
 description: Impulse la personalización en tiempo real en cualquier canal mediante perspectivas de datos en línea y sin conexión en toda la organización.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -17,11 +17,11 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
       <img alt="Personalización y automatización con Adobe Target" src="assets/343821.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/personalize.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
         <strong>Personalización y automatización con Adobe Target</strong>
       </a>
     </div>
@@ -30,11 +30,11 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
       <img alt="2022 Innovaciones y tendencias" src="assets/343818.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/innovations.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
         <strong>2022 Innovaciones y tendencias</strong>
       </a>
     </div>
@@ -43,11 +43,11 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
       <img alt="Aplicaciones de Analytics y Target para aplicaciones móviles y móviles" src="assets/343819.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/2022/mobile-and-apps.html">
+      <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
         <strong>Aplicaciones de Analytics y Target para aplicaciones móviles y móviles</strong>
       </a>
     </div>
@@ -61,3 +61,4 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 >[!TIP]
 >
 >**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+
