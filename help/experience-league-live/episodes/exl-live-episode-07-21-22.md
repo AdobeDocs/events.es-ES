@@ -3,13 +3,13 @@ title: 'Pregunte a los expertos: Datastreams y preparación de datos'
 description: En esta sesión sobre la recopilación de datos para Adobe Experience Cloud, nuestros expertos profundizarán en las capacidades avanzadas de recopilación de datos de Adobe, incluidas funciones como la preparación para la recopilación de datos. Al final de esta sesión, los asistentes se sentirán seguros con las últimas y más potentes funciones para recopilar datos de experiencias digitales.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 345342.jpeg
+thumbnail: https://video.tv.adobe.com/v/345342?format=jpeg
 event-cta-text: Watch the replay
 event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
