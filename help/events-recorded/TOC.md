@@ -2,7 +2,7 @@
 user-guide-title: Grabaciones de eventos de Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Recopilación de grabaciones de eventos centrados en el uso de productos Enterprise de Adobe
-source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
+source-git-commit: 03d83282eee7d5d3b7a2c5bdf2c6c82ac268b9a9
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 12%
@@ -31,28 +31,28 @@ ht-degree: 12%
    + [El intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Por solución {#solution}
-   + Servicios de Adobe Acrobat
+   + Servicios de Adobe Acrobat {#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-   + Adobe Audience Manager
+   + Adobe Audience Manager {#aam}
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + Adobe Analytics
+   + Adobe Analytics {#aa}
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Aprenda de sus compañeros](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [El intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + Adobe Campaign
+   + Adobe Campaign {#ac}
       + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + Adobe Commerce
+   + Adobe Commerce {#acommerce}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Eventos de comercio de APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [Comercio y café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Seminarios web de MBI](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + Adobe Customer Journey Analytics
+   + Adobe Customer Journey Analytics {#cja}
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + Adobe Experience Manager
+   + Adobe Experience Manager {#aem}
       + [Foro de gestión de contenido de Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -61,26 +61,26 @@ ht-degree: 12%
       + [Aprenda de sus compañeros](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [El intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + Adobe Experience Platform
+   + Adobe Experience Platform {#aep}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Voces de administración de datos del cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + Adobe Marketo
+   + Adobe Marketo {#am}
       + [Profundización](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [Aprenda de sus compañeros](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Marketo y Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [El intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + Adobe Journey Optimizer
+   + Adobe Journey Optimizer {#ajo}
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + Adobe de CDP en tiempo real
+   + Adobe de CDP en tiempo real {#rtcdp}
       + [Voces de administración de datos del cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + Adobe Target
+   + Adobe Target {#at}
       + [Experience League en directo](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + Adobe Workfront
+   + Adobe Workfront {#aw}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [El intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
