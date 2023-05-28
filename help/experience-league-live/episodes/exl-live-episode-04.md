@@ -1,6 +1,6 @@
 ---
 title: ¿Quién ha hecho clic aquí? Y entonces, ¿qué hicieron?
-description: Comprender el recorrido de su cliente lo es todo. Además, informar sobre la interacción de los usuarios con su propiedad web o móvil es lo que le permite llegar a ese entendimiento. Adobe Analytics le muestra el quién, el qué, el por qué y el dónde de cada clic en su aplicación y vamos a profundizar en cómo sacar el máximo partido de él en nuestro evento en directo del 21 de octubre. Le mostraremos cómo utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar fácilmente qué clics conducen a actividades del sitio valiosas.
+description: Comprender el recorrido de su cliente lo es todo. Además, informar sobre la interacción de los usuarios con su propiedad web o móvil es lo que le permite llegar a ese entendimiento. Adobe [!DNL Analytics] le muestra el quién, qué, por qué y dónde de cada clic en su aplicación y vamos a profundizar en cómo sacar el máximo partido de él en nuestro evento en directo del 21 de octubre. Le mostraremos cómo utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar fácilmente qué clics conducen a actividades del sitio valiosas.
 landing-page-description: Aprenda a utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar qué clics conducen a actividades del sitio valiosas.
 short-description: Aprenda a utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar qué clics conducen a actividades del sitio valiosas.
 solution: Analytics
@@ -10,9 +10,9 @@ event-cta-url: null
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '252'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 Comprender el recorrido de su cliente lo es todo.
 
-Además, informar sobre la interacción de los usuarios con su propiedad web o móvil es lo que le permite llegar a ese entendimiento. Adobe Analytics le muestra el quién, el qué, el por qué y el dónde de cada clic en su aplicación y vamos a profundizar en cómo sacar el máximo partido de él en nuestro evento en directo del 21 de octubre. Le mostraremos cómo utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar fácilmente qué clics conducen a actividades del sitio valiosas.
+Además, informar sobre la interacción de los usuarios con su propiedad web o móvil es lo que le permite llegar a ese entendimiento. Adobe [!DNL Analytics] le muestra el quién, qué, por qué y dónde de cada clic en su aplicación y vamos a profundizar en cómo sacar el máximo partido de él en nuestro evento en directo del 21 de octubre. Le mostraremos cómo utilizar las clasificaciones con el Activity Map para comprender mejor el comportamiento del usuario y para trazar fácilmente qué clics conducen a actividades del sitio valiosas.
 
 También se incluyen sugerencias para comprender y aprovechar los informes de atribución.
 

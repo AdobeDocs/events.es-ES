@@ -1,10 +1,10 @@
 ---
 user-guide-title: Generador de habilidades
 user-guide-description: Esta es una descripción de la guía del usuario que se mostrará en la página de aterrizaje.
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 45%
+ht-degree: 38%
 
 ---
 
@@ -40,10 +40,12 @@ ht-degree: 45%
    + [Información general](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Principales sugerencias y trucos para Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-      + [Desarrollar y personalizar modelos de datos en Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+      + [Desarrollar y personalizar modelos de datos en Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Tendencias de Recorrido del cliente e innovación en B2B y B2C](customer-journeys/2022/keynote.md)
-      + [Mejor juntos: Adobe Marketo Engage y Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [Experiencias B2B con Marketo Engage y Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+      + [Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [ [!DNL Marketo Engage] Experiencias B2B con y Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    + 
+[Adobe Campaign Classic V7 frente a V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + Datos y perspectivas {#data-and-insights}
    + [Información general](data-and-insights/overview.md)
    + 2022 {#2022}

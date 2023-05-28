@@ -1,22 +1,22 @@
 ---
-title: Informes dentro del Marketo Engage
-description: Obtenga información sobre las funciones de creación de informes de alto nivel de Marketo Engage y descubra los informes y las listas inteligentes.
+title: Informes dentro de [!DNL Marketo Engage]
+description: Obtenga información sobre las funciones de creación de informes de alto nivel dentro de [!DNL Marketo Engage]y una profundización en Informes y Listas inteligentes.
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---
 
-# Informes dentro del Marketo Engage
+# Informes dentro de [!DNL Marketo Engage]
 
-En esta sesión se revisarán todas las herramientas de creación de informes disponibles en Marketo Engage, entre las que se incluyen:
+En esta sesión se revisarán todas las herramientas de creación de informes disponibles en [!DNL Marketo Engage] incluyendo:
 
 * Informes
 * Listas inteligentes
@@ -29,6 +29,6 @@ En esta sesión se revisarán todas las herramientas de creación de informes di
 * Cuándo usar informes estándar y cuándo listas inteligentes
 * Suscripciones
 
-Saldrá de esta sesión con una comprensión de las funcionalidades de informes de alto nivel dentro de Marketo Engage y una explicación exhaustiva de los informes y las listas inteligentes.
+Saldrá de esta sesión con una comprensión de las funcionalidades de informes de alto nivel dentro de [!DNL Marketo Engage]y una profundización en Informes y Listas inteligentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

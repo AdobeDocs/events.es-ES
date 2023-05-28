@@ -7,9 +7,9 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ En esta sesión, aprenderá a aprovechar el contenido dinámico para enviar cont
 
 **Principales conclusiones**
 
-* Optimice las versiones de su programa de Marketo Engage y ahorre tiempo mediante el uso de contenido dinámico.
+* Optimice su [!DNL Marketo Engage] compilaciones de programas y ahorrar tiempo utilizando contenido dinámico
 * Aprenda a segmentar la base de datos para potenciar el contenido dinámico
 * Informe sobre el impacto del contenido dinámico para orientar las futuras decisiones de marketing
 
