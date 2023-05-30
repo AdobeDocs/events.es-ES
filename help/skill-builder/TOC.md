@@ -1,10 +1,10 @@
 ---
 user-guide-title: Generador de habilidades
 user-guide-description: Esta es una descripción de la guía del usuario que se mostrará en la página de aterrizaje.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+source-git-commit: 14496a09a0e2dccb88b1ef90a6a070f8f5c3990c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 38%
+source-wordcount: '164'
+ht-degree: 31%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 38%
       + [Desarrollar y personalizar modelos de datos en Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [Tendencias de Recorrido del cliente e innovación en B2B y B2C](customer-journeys/2022/keynote.md)
       + [Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [ [!DNL Marketo Engage] Experiencias B2B con y Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+      + [Experiencias B2B con [!DNL Marketo Engage] y ADOBE EXPERIENCE CLOUD](customer-journeys/2022/b2b-experiences.md)
 + Datos y perspectivas {#data-and-insights}
    + [Información general](data-and-insights/overview.md)
    + 2022 {#2022}
