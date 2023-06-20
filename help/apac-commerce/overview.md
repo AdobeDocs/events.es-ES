@@ -2,9 +2,9 @@
 title: Serie de seminarios web sobre comercio APAC
 description: La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ La serie de seminarios web sobre comercio de APAC es una cadencia mensual de tal
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Estrategias de comercio componibles para un comercio electrónico escalable y ágil" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>Estrategias de comercio componibles para un comercio electrónico escalable y ágil</strong>
       </a>
     </div>
     <p>
-    <em>Únase a este seminario web para aprender a tomar el control de su infraestructura con New Relic. Acérquese a su próxima campaña con absoluta confianza al acceder a los datos de su infraestructura y comprenderlos.</em>
+    <em>Únase a nosotros para asistir a un detallado seminario web que profundizará en el mundo de la arquitectura de composición y en cómo está revolucionando el panorama del comercio electrónico.</em>
     <p>
   </td>  
 </tr>
