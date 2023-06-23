@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 -->
 AEM Nuestro último seminario web de GEM de la sobre **Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido** se ha realizado el *22 de febrero de 2023*.
-El **grabación** se puede encontrar aquí: [AEM Seminario web de entornos de desarrollo rápido](gems2023/Rapid-Development-Environments.md)
+El **grabación** se puede encontrar aquí: [AEM Seminario web de entornos de desarrollo rápido](gems2023/rapid-development-environments.md)
 
 >[!NOTE]
 >
