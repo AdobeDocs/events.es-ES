@@ -3,9 +3,9 @@ title: Eventos de Adobe Experience League
 description: Recopilación de grabaciones de eventos centrados en el uso de productos empresariales de Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0ced31f2961ad441d9b54c4f526c535bdec31e7e
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '792'
 ht-degree: 10%
 
 ---
@@ -59,6 +59,21 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Adobe Developers Live reúne a desarrolladores de Adobes y creadores de experiencias con diversos antecedentes y un único propósito: crear experiencias integrales increíbles.
       </p>
     </td>
+    <td>
+      <a href="/help/aem-champion-office-hours/overview.md">
+      <img style="width:100%" alt="AEM Horario de oficina de Campeón de" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
+      </a>
+      <div>
+         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Horario de oficina de Campeón de</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+      </div>
+      <p>
+        <br/>
+         Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.
+      </p>
+    </td> 
+    </tr>
+    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="Seminarios web de APAC Adobe Commerce" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -72,8 +87,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Comercio y café" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Las grabaciones de eventos bajo demanda de Deep Dive le ayudan a comprender mejor cómo usar Adobe Marketo para apoyar su negocio.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -126,7 +141,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Experience League LIVE es un programa de streaming en vivo producido por el equipo Experience League. Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
       </p>
     </td>
-  <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
       <img style="width:100%" alt="GEMS de Experience Manager" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
@@ -166,6 +180,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Aprenda, con expertos en Adobe y compañeros, a sacar el máximo partido a las soluciones de Adobe. Con los temas seleccionados para los profesionales, por los profesionales, estas sesiones interactivas comparten casos de uso, prácticas recomendadas y consejos y trucos "del arte de lo posible".
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -179,8 +195,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Marketo y Mochas le ayudarán a comprender mejor cómo utilizar Adobe Marketo para dar soporte a su negocio.
       </p>
     </td>
-  </tr>
-  <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Seminarios web de MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -220,6 +234,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
