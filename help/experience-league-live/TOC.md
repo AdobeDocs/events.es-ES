@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
+source-git-commit: f03cd70edc922b35903a4aa7882dbae9278d00e9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '264'
 ht-degree: 8%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Ep. 26: Audiencias procesables, en un solo lugar&#x200B;, desde cualquier fuente, con controles estándar](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25: Explore el futuro de Adobe Journey Optimizer con el canal web y la experimentación de contenido](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24: Maximice el potencial de su aplicación móvil con Adobe Journey Optimizer](episodes/exl-live-episode-5-24-23.md)
    + [Ep. 23: Ponga en marcha la recopilación de datos y el reenvío de eventos con solo unos clics.](episodes/exl-live-episode-4-25-23.md)
