@@ -1,63 +1,66 @@
 ---
-title: Serie de seminarios web sobre comercio APAC
-description: La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+title: AEM Horario de oficina de Campeón de
+description: Este grupo de usuarios de Adobe Experience Manager AEM (AEMUG) se ve facilitado por la clase de campeones de la temporada 2022-2023 de la categoría de campeones de la categoría de. Los Campeones utilizarán esta AEMUG como plataforma para sus horarios de oficina mensuales
+source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# Serie de seminarios web sobre comercio APAC
+# AEM Horario de oficina de Campeón de
 
-La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector. Escuche a varios expertos en productos de toda la empresa y únase a en directo para tener la oportunidad de hacer preguntas y hablar con el equipo directamente. Esta serie le ayudará a tener éxito y a maximizar su inversión en la plataforma de Adobe Commerce.
+Este grupo de usuarios de Adobe Experience Manager AEM (AEMUG) se ve facilitado por la clase de campeones de la temporada 2022-2023 de la categoría de campeones de la categoría de. AEM Los Campeones utilizarán esta AEMUG como plataforma para sus horas de oficina mensuales, a las que pueden asistir profesionales y desarrolladores de todos los niveles de experiencia y en las que los clientes, socios y consultores Experience Manager expertos responderán a sus preguntas más difíciles.
 
-## Novedades
+Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.
+
+<!--
+## What's New
 
 <table>
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Herramienta Adobe Commerce Site Wide Analysis" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+      <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Optimice su negocio con PaaS Cloud Commerce de Adobe</strong>
+        <strong>Streamline Your Business with Adobe's PaaS Cloud Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Únase a nuestro seminario web para descubrir las ventajas de la solución Commerce Cloud PaaS de Adobe, tanto si es un alojamiento propio como si siente curiosidad por PaaS o por un cliente existente que busca optimizar su configuración.</em>
+    <em>Join our webinar to discover the benefits of Adobe's Commerce Cloud PaaS solution, whether you're self-hosting and curious about PaaS or an existing customer seeking to optimize your setup.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Ventajas de actualizar a Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>Personalización con tecnología IA</strong>
+        <strong>AI Powered Personalisation</strong>
       </a>
     </div>
     <p>
-    <em>Aproveche el poder de la IA para obtener una experiencia de cliente excepcional con la inversión de Adobe en IA y su integración en Commerce.</em>
+    <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Estrategias de comercio componibles para un comercio electrónico escalable y ágil" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Composable commerce strategies for scalable and agile e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Estrategias de comercio componibles para un comercio electrónico escalable y ágil</strong>
+        <strong>Composable commerce strategies for scalable and agile e-commerce</strong>
       </a>
     </div>
     <p>
-    <em>Únase a nosotros para asistir a un detallado seminario web que profundizará en el mundo de la arquitectura de composición y en cómo está revolucionando el panorama del comercio electrónico.</em>
+    <em>Join us for an insightful webinar that will delve into the world of composable architecture and how it is revolutionising the e-commerce landscape.</em>
     <p>
   </td>  
 </tr>
 </table>
+-->
 
 >[!TIP]
 >
