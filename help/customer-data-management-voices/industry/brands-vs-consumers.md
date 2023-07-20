@@ -1,7 +1,7 @@
 ---
 title: 'Una historia de dos percepciones: marcas frente a consumidores'
 description: El Adobe revela el nivel de comprensión y preparación de los anunciantes y editores para un futuro sin cookies, el impacto en sus casos de uso y su percepción del ecosistema en general.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -10,7 +10,7 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%

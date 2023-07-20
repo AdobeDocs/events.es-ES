@@ -1,7 +1,7 @@
 ---
 title: El futuro de la administración de datos y el entorno cambiante
 description: Vea cómo Adobe y 451 Research piensan en el futuro de la tecnología y los datos para abordar el nuevo entorno de marketing y comenzar a preparar su negocio para el futuro de la administración de datos.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -10,7 +10,7 @@ thumbnail: 332077.jpg
 kt: 7333
 type: Event
 exl-id: b3821cbf-b11d-4524-bf05-4e2c77300e30
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 62%
