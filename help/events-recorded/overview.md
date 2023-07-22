@@ -3,10 +3,10 @@ title: Eventos de Adobe Experience League
 description: Recopilación de grabaciones de eventos centrados en el uso de productos empresariales de Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
 workflow-type: tm+mt
-source-wordcount: '792'
-ht-degree: 10%
+source-wordcount: '836'
+ht-degree: 9%
 
 ---
 
@@ -87,6 +87,19 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
       </p>
     </td>
+      <td>
+      <a href="/help/adobe-customer-success-webinars/overview.md">
+      <img style="width:100%" alt="Adobe de seminarios web de éxito de clientes" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe de seminarios web de éxito de clientes</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud, Audience Manager, Real-Time CDP</em>
+      </div>
+      <p>
+        <br/>
+         Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
+      </p>
+    </td> 
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Comercio y café" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Una tienda única para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.
       </p>
     </td>
+   <tr> 
    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="Profundización" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
@@ -126,8 +140,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Las grabaciones de eventos bajo demanda de Deep Dive le ayudan a comprender mejor cómo usar Adobe Marketo para apoyar su negocio.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -167,6 +179,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de AEM que comparten los aspectos más destacados de la última versión.
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="Aprenda de sus compañeros" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -180,8 +194,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Aprenda, con expertos en Adobe y compañeros, a sacar el máximo partido a las soluciones de Adobe. Con los temas seleccionados para los profesionales, por los profesionales, estas sesiones interactivas comparten casos de uso, prácticas recomendadas y consejos y trucos "del arte de lo posible".
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -221,6 +233,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -234,8 +248,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
