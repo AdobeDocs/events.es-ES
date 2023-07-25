@@ -2,7 +2,7 @@
 title: Actualizaciones de productos de Adobe Commerce
 description: Las últimas innovaciones de producto en Adobe Commerce, presentadas por el equipo de producto de Adobe Commerce.
 user-guide-breadcrumb: Adobe Commerce Release Updates
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: 1dc2c36424118ee87f3fd7339f2b582306b91392
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 14%
@@ -23,7 +23,7 @@ ht-degree: 14%
         <img alt="Versión 2023.6.0" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
       <div>
-        <a href="2023/2023-6-0.md">
+        <a href="2023/july2023.md">
           <strong>Julio de 2023</strong>
           <br/>
         </a>
