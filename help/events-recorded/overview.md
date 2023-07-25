@@ -3,9 +3,9 @@ title: Eventos de Adobe Experience League
 description: Recopilación de grabaciones de eventos centrados en el uso de productos empresariales de Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '860'
 ht-degree: 9%
 
 ---
@@ -47,6 +47,19 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       </p>
     </td>
    <td>
+      <a href="/help/adobe-commerce-product-updates/overview.md">
+      <img style="width:100%" alt="Actualizaciones de productos de Adobe Commerce" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-commerce-product-updates/overview.md"><strong>Actualizaciones de productos de Adobe Commerce</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Las últimas innovaciones de producto en Adobe Commerce, presentadas por el equipo de producto de Adobe Commerce.
+      </p>
+    </td>
+   <td>
       <a href="/help/adobe-developers-live/overview.md">
       <img style="width:100%" alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
       </a>
@@ -59,6 +72,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Adobe Developers Live reúne a desarrolladores de Adobes y creadores de experiencias con diversos antecedentes y un único propósito: crear experiencias integrales increíbles.
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/aem-champion-office-hours/overview.md">
       <img style="width:100%" alt="AEM Horario de oficina de Campeón de" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
@@ -72,8 +87,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.
       </p>
     </td> 
-    </tr>
-    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="Seminarios web de APAC Adobe Commerce" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -99,7 +112,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
         <br/>
          Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
       </p>
-    </td> 
+    </td>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="Comercio y café" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia de Commerce de Sr., Corey Gelato. La serie se centra en estrategias y tácticas de comercio, apoyadas por estadísticas que reflejan el tema del evento.
       </p>
     </td>
+    </tr>
+    <tr> 
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
       <img style="width:100%" alt="Voces de administración de datos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
@@ -126,8 +141,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Una tienda única para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.
       </p>
     </td>
-   <tr> 
-   <td>
+    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="Profundización" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
@@ -166,6 +180,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Inmersiones técnicas en profundidad de Adobe Experience Manager realizadas por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
       <img style="width:100%" alt="Resumen de la versión de Experience Manager" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
@@ -179,8 +195,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de AEM que comparten los aspectos más destacados de la última versión.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="Aprenda de sus compañeros" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -220,6 +234,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          La serie de seminarios web de MBI es un evento periódico para los clientes de MBI. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar MBI al máximo.
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Generador de habilidades" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -233,8 +249,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
