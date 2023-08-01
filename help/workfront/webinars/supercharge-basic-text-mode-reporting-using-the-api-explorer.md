@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1662'
 ht-degree: 2%
 
 ---
 
 # Consulte al experto - Informes de modo de texto básico de sobrecarga mediante el Explorador de API
 
-Obtenga información sobre el explorador de API, cómo utilizarlo y cómo mejorar sus informes aprovechando el modo de texto básico. Este seminario web se grabó el 22 de enero de 2020.
+Obtenga información acerca de [[!UICONTROL Explorador de API]](https://developer.adobe.com/workfront/api-explorer/), cómo utilizarlo y cómo mejorar sus informes aprovechando el modo de texto básico. Este seminario web se grabó el 22 de enero de 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
