@@ -4,11 +4,12 @@ description: Aprenda a medir y rastrear la velocidad mediante [!DNL Workfront] i
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Formato: Fecha
 Cálculo:
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Primera duración**
@@ -40,7 +41,7 @@ Formato: Texto
 Cálculo:
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Proporción de trabajo a compromiso**
@@ -50,7 +51,7 @@ Formato:Número
 Cálculo:
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **Estado de relación trabajo-compromiso**
@@ -60,7 +61,7 @@ Formato:Texto
 Cálculo:
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Velocidad ajustada**
@@ -70,7 +71,7 @@ Formato:Número
 Cálculo:
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **Estado de velocidad ajustado**
@@ -80,7 +81,7 @@ Formato:Texto
 Cálculo:
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Preguntas y respuestas
@@ -95,7 +96,7 @@ En una situación como esta, puede utilizar el filtrado y la edición masiva par
 
 A continuación se describen los pasos que debe seguir:
 
-1. Determine qué valores de estado desea asignar a los valores de condición. Por ejemplo, supongamos que tiene un valor de estado de &quot;Tarde&quot; y &quot;Muy tarde&quot; que ambos se asignan a un valor de condición de &quot;Con problemas&quot;
+1. Determine qué valores de estado desea asignar a los valores de condición. Por ejemplo, supongamos que tiene un valor de estado de &quot;Late&quot; y &quot;Very Late&quot; que ambos asignan a un valor de condición de &quot;In Trouble&quot;
 1. Cree un informe de proyecto que muestre todos los proyectos con un valor de estado de &quot;Retrasado&quot; y &quot;Muy atrasado&quot;.
 1. Ejecute el informe. Asegúrese de que muestra todos los proyectos (consulte las opciones en la parte inferior derecha del informe)
 1. Haga clic en la casilla de verificación situada en la parte superior izquierda del informe, en la barra con encabezados de columna. Se seleccionarán todos los proyectos del informe
@@ -111,7 +112,7 @@ A continuación se describen los pasos que debe seguir:
 
 **Respuesta**
 
-Este fue solo un ejemplo, pero así es como lo configuré. Primero calculé dos índices:
+Esto fue solo un ejemplo, pero así es como lo configuré. Primero calculé dos índices:
 
 Velocidad ajustada
 
@@ -119,16 +120,16 @@ La fórmula para esto es Duración real/Duración planificada (que se almacena e
 
 Proporción de trabajo a compromiso
 
-Esta fórmula es como Velocidad ajustada excepto que, en lugar de utilizar el valor Duración planificada de la replanificación final, queremos utilizar la Duración planificada que se prometió por primera vez al cliente. Suponemos que la línea de base original contiene esta información (y estamos planeando pedir a nuestros jefes de proyecto que planifiquen sus proyectos de esta manera para que podamos capturar datos precisos). Capturamos este valor de duración a partir de la línea de base original y lo llamamos Primera duración.
+Esta fórmula es como Velocidad ajustada excepto que, en lugar de utilizar el valor Duración planificada de la replanificación final, queremos utilizar la Duración planificada que se prometió por primera vez al cliente. Suponemos que la línea de base original contiene esta información (y planeamos pedir a nuestros jefes de proyecto que planifiquen sus proyectos de esta manera para poder capturar datos precisos). Capturamos este valor de duración a partir de la línea de base original y lo llamamos Primera duración.
 
-Al dividir la duración real entre la duración planificada o la primera duración, obtenemos un número que nos indica hasta dónde hemos llegado para llegar al objetivo. Si la Duración planificada o la Primera duración son iguales a la Duración real, el índice será igual a 1. Si la duración real es buena, la respuesta será mayor que 1. Lo bueno es lo peor que hicimos al cumplir nuestra cita.
+Al dividir la duración real entre la duración planificada o la primera duración, obtenemos un número que nos indica hasta dónde hemos llegado para llegar al objetivo. Si la Duración planificada o la Primera duración son iguales a la Duración real, el índice será igual a 1. Si la duración real es mayor, la respuesta será mayor que 1. Cuanto mayor sea el número peor lo hicimos en el cumplimiento de nuestra fecha.
 
 Por lo tanto, dado todo lo que he decidido asignar estados tanto para la velocidad ajustada como para la relación trabajo-compromiso de la siguiente manera:
 
 * 1,1 o menos yo llamé Excelente.
 * De 1,2 a 1,5 llamé No está mal.
 * De 1,6 a 1,9 llamé Pobre.
-* 2 o bueno yo llamé Terrible.
+* 2 o más Yo llamé Terrible.
 
 **Pregunta**
 
@@ -181,7 +182,7 @@ Me gustaría crear un informe de prueba. Una lista de proyectos que muestre cuá
 
 Crear un informe de documento.
 
-La vista predeterminada muestra el número de versión. Eso debe quedar ahí, pero puede cambiar cualquier otra columna.
+La vista predeterminada muestra el número de versión. Querrá dejar eso allí, pero puede cambiar cualquier otra columna.
 
 Agrupar el informe por nombre de proyecto.
 
@@ -251,9 +252,9 @@ Estoy intentando determinar si es posible crear un panel con un área que busque
 
 **Respuesta**
 
-Vamos a ver si entiendo su pregunta. Supongamos que tengo un formulario personalizado de tareas llamado Formulario Tammy con un campo llamado Campo Tammy.
+Vamos a ver si entiendo tu pregunta. Supongamos que tengo un formulario personalizado de tareas llamado Formulario Tammy con un campo llamado Campo Tammy.
 
-Desea un informe de tareas que muestre todas las tareas que tienen un formulario Tammy adjunto y donde el campo Tammy tiene algún valor en él.
+Desea un informe de tareas que muestre todas las tareas que tienen un formulario Tammy adjunto y en las que el campo Tammy tiene algún valor.
 
 Sí, puedes hacer eso. Solo necesita un filtro en el informe de tareas con dos reglas de filtro:
 
@@ -339,21 +340,21 @@ Un método abreviado para agregar formularios personalizados a un gran número d
 
 La mejor manera de ver las agrupaciones en los informes de listas es esta:
 
-En primer lugar, se controla qué elementos aparecen en la lista mediante la ficha Filtro. No habrá entradas duplicadas. El filtro se aplica a cada objeto. Si pasa por el filtro, aparecerá una vez en la lista; en caso contrario, no aparecerá en absoluto.
+En primer lugar, se controla qué elementos aparecen en la lista mediante la ficha Filtro. No habrá entradas duplicadas. El filtro se aplica a cada objeto. Si pasa por el filtro, aparecerá una vez en la lista; si no lo hace, no aparecerá en absoluto.
 
-La siguiente agrupación se aplica a la lista filtrada. Una agrupación identifica un elemento de los objetos de la lista, como el nombre del portafolio en el que se encuentra (no se puede agrupar en una lista de elementos, solo en una cosa). A continuación, todos los objetos con el mismo valor aparecerán en esa agrupación, como todos los proyectos del mismo portafolio. Los proyectos que no tengan un portafolio seleccionado aparecerán en la agrupación denominada &quot;Sin valor&quot;.
+La siguiente agrupación se aplica a la lista filtrada. Una agrupación identifica una cosa acerca de los objetos de la lista, como el nombre del portafolio en el que se encuentra (no se puede agrupar en una lista de cosas, solo en una). A continuación, todos los objetos con el mismo valor aparecerán en esa agrupación, como todos los proyectos del mismo portafolio. Los proyectos que no tengan seleccionado un portafolio aparecerán en la agrupación denominada &quot;Sin valor&quot;.
 
 Como resultado, no hay forma de que los objetos puedan aparecer en más de una agrupación. El filtro controla totalmente si un objeto aparece en la lista (y si la persona que ejecuta el informe tiene derechos para verlo).
 
 **Pregunta**
 
-¿Recomendaría algún otro informe para rastrear Velocity? Solo una recomendación de alto nivel es buena porque sé que no hay tiempo suficiente para ver los detalles.
+¿Recomendaría algún otro informe para rastrear Velocity? Solo una recomendación de alto nivel es genial porque sé que no hay suficiente tiempo para ir a través de los detalles.
 
 **Respuesta**
 
 Al igual que con cualquier informe, lo primero que debe hacer es decidir lo que desea saber. El siguiente paso es acceder a esa información, lo que en algunos casos significa que debe iniciar el seguimiento.
 
-Una razón por la que decidí comparar la Duración real con dos tipos de Duración planificada fue porque pensé que me proporcionaba perspectivas interesantes sobre la velocidad. Los datos también ya estaban disponibles, por lo que no tuve que empezar a rastrearlos. Con algunos cálculos podría extraer los datos en un formulario del que podría informar.
+Una razón por la que decidí comparar la Duración real con dos tipos de Duración planificada fue porque pensé que me proporcionaba perspectivas interesantes sobre la velocidad. Los datos también ya estaban disponibles, así que no tuve que empezar a rastrearlos. Con algunos cálculos podría extraer los datos en un formulario del que podría informar.
 
 Pero también puede decidir realizar un seguimiento de otra información acerca de tareas o proyectos para crear informes.
 
@@ -367,7 +368,7 @@ Workfront no tiene ningún informe de velocidad integrado, por lo que le recomen
 
 Habría sido posible utilizar una expresión de valor en modo de texto para realizar estos cálculos. Sin embargo, no podríamos haber hecho Primera duración o Primera fecha de compromiso, necesitábamos capturar a los que estaban en un lugar donde no cambiarían.
 
-En cuanto al estado de la relación trabajo-compromiso y el estado de velocidad ajustado, estos debían ser campos personalizados para que pudiéramos utilizarlos en la pestaña Gráfico. La pestaña Gráfico no reconoce las agrupaciones en modo de texto, deben ser campos personalizados. Y como necesitábamos una relación trabajo-compromiso y una velocidad ajustada para calcular esos estados, también los necesitábamos para ser campos personalizados. Por lo tanto, en este caso todos tenían que ser campos personalizados, pero siempre es bueno tener en cuenta ambas formas y elegir cuál funciona mejor. Gracias por la pregunta.
+En cuanto al estado de la relación trabajo-compromiso y el estado de velocidad ajustado, estos debían ser campos personalizados para que pudiéramos utilizarlos en la pestaña Gráfico. La pestaña Gráfico no reconoce las agrupaciones en modo de texto, deben ser campos personalizados. Y como necesitábamos una relación trabajo-compromiso y una velocidad ajustada para calcular esos estados, también los necesitábamos para ser campos personalizados. Por lo tanto, en este caso, todos tenían que ser campos personalizados, pero siempre es bueno tener en cuenta ambas formas y elegir qué es lo que mejor funciona. Gracias por la pregunta.
 
 **Pregunta**
 
@@ -377,7 +378,7 @@ Nuestros proyectos cambian a menudo debido a retrasos de clientes o cambios a lo
 
 La práctica recomendada es utilizar un menú desplegable para rastrearlo. Ponga tantas &quot;razones&quot; como pueda pensar para empezar, luego añada una opción &quot;otro&quot; para capturar una razón que no está en la lista. Si esa nueva razón se ve o se vuelve común, agréguela a la lista desplegable. Puede informar fácilmente sobre las cosas en una lista desplegable y puede agrupar en este campo (no puede agrupar en casillas de verificación o en una lista desplegable de selección múltiple).
 
-Solo otro comentario sobre esto. Es posible que no desee incluir todos los proyectos en los informes de Velocity. Si está arreglando errores o &quot;yendo a donde nadie ha ido antes&quot;, probablemente no esté haciendo el mismo tipo de compromiso con una fecha de finalización que si estuviera construyendo una casa que ha construido muchas veces antes.
+Solo otro comentario sobre esto. Es posible que no desee incluir todos los proyectos en los informes de Velocity. Si estás arreglando errores o &quot;yendo a donde nadie ha ido antes&quot; probablemente no estás haciendo el mismo tipo de compromiso con una fecha de finalización que si estás construyendo una casa que has construido muchas veces antes.
 
 Así que asegúrate de enfocar tu informe de velocidad en lugares donde pueda ayudarte a alcanzar tus metas.
 
@@ -441,7 +442,7 @@ La función Analytics de Workfront ofrece una forma sencilla de ver los datos hi
 
 Sin embargo, también puede obtener información sobre el cambio de estado mediante un informe Nota. Puede filtrar para ver los cambios de estado en los proyectos si realiza el seguimiento del campo Estado del proyecto.
 
-En primer lugar, vaya a Configuración>Interfaz>Actualizar fuentes y asegúrese de que el estado del proyecto es uno de los campos integrados de los que se realiza un seguimiento. Si no es así, debe agregarlo.
+En primer lugar, vaya a Configuración>Interfaz>Actualizar fuentes y asegúrese de que el estado del proyecto es uno de los campos integrados de los que se realiza un seguimiento. Si no lo es, tiene que agregarlo.
 
 Ahora cree un informe Nota y haga lo siguiente:
 
