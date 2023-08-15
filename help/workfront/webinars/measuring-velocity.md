@@ -5,11 +5,11 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14T00:00:00Z
+last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
+source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
 workflow-type: tm+mt
-source-wordcount: '3918'
+source-wordcount: '3958'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,12 @@ Aprenda a medir y rastrear la velocidad mediante [!DNL Workfront] informes. Este
 ## Campos personalizados utilizados en la presentación
 
 Ahorre tiempo copiando y pegando los cálculos siguientes.
+
+>[!NOTE]
+>
+>La sintaxis para los cálculos de campos personalizados ha cambiado desde que se realizó la presentación en 2019, aunque los conceptos y otras instrucciones que se proporcionan en la presentación siguen siendo precisos.
+
+Los cálculos que se incluyen a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.
 
 **Fecha de primera confirmación**
 
