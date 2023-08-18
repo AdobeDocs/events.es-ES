@@ -2,7 +2,7 @@
 user-guide-title: Adobe Horario de oficina
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Horario de oficina es un enfoque proactivo para la desviación de casos que ofrece a los clientes seminarios web específicos de la solución.
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 8fe8b0beb0215dfa4361767216b780b2d8a7b389
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 20%
@@ -21,7 +21,7 @@ ht-degree: 20%
    + Adobe Experience Platform{#adobe-experience-platform-office-hours}
    + [Permisos de Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager{#adobe-experience-manager-office-hours}
-   + [AEM Análisis de errores de implementación de CS](2023/aem-deployment-failures-analysis)
+   + [AEM Análisis de errores de implementación de CS](2023/aem-deployment-failures-analysis.md)
    + Adobe Commerce{#adobe-commerce-office-hours}
    + [Herramienta de análisis de todo el sitio](2023/site-wide-analysis-tool.md)
    + Adobe Marketo{#adobe-marketo-office-hours}
