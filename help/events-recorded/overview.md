@@ -3,7 +3,7 @@ title: Eventos de Adobe Experience League
 description: Recopilación de grabaciones de eventos centrados en el uso de productos empresariales de Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -221,8 +221,6 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Marketo y Mochas le ayudarán a comprender mejor cómo utilizar Adobe Marketo para dar soporte a su negocio.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Horario de oficina" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
          Horario de oficina es un enfoque proactivo para la desviación de casos que ofrece a los clientes seminarios web específicos de la solución. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Seminarios web de MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
         <br/>
          El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
         <br/>
          Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
