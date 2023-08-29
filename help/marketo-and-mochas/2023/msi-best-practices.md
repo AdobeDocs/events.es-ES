@@ -9,7 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: debf0572678929709fdddb8ce098a34673fe3e7a
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -23,3 +23,4 @@ ht-degree: 0%
 
 Cynthia y James se sumergen en las características de MSI, incluidos los momentos interesantes y las mejores apuestas. Explican cómo se integra con Salesforce, la administración de licencias y las estrategias para optimizar la eficiencia operativa en todos los equipos de ventas y marketing. Concluimos con una sesión de preguntas y respuestas en directo de los asistentes.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)
