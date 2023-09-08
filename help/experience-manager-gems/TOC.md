@@ -3,9 +3,9 @@ user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
 feature-set: Experience Manager
-source-git-commit: 84bafc46f0d59774f89be5ccc5f030ef51e81e41
+source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '648'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 
 + [Información general](overview.md)
 + 2023 {#gems2023}
+   + [APM de New Relic AEM para el uso en as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM Certificación de: técnica](gems2023/aem-certification-technical.md)
    + [Acelerar el desarrollo as a Cloud Service Experience Manager con entornos de desarrollo rápido](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [AEM Analizador de prácticas recomendadas para entornos locales y de AMS](gems2023/aem-best-practices-analyzer.md)
@@ -38,7 +39,7 @@ ht-degree: 5%
    + [Adobe Experience Platform: El corazón de Experience Cloud](gems2018/aem-acp.md)
    + [AEM Tiempo real y peso ligero: cree integraciones impulsadas por eventos con el uso de eventos de Adobe I/O de la forma más sencilla y con el uso de la.](gems2018/aem-adobe-io.md)
    + [Eventos de Adobe Developer (IO): Déclencheur de Analytics](gems2018/aem-analytics-triggers.md)
-   + [Experimentos en la escalabilidad de AEM Author](gems2018/aem-author-scalability1.md)
+   + [AEM Experimentos en la escalabilidad de autor de](gems2018/aem-author-scalability1.md)
    + [AEM componentes principales](gems2018/aem-core-components.md)
    + [La explosión de recursos digitales y [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [AEM Introducción a ContextHub en 6.4](gems2018/aem-intro-to-contexthub.md)
