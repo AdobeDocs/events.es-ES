@@ -1,6 +1,6 @@
 ---
 title: apm de newrelic para aem cloud service
-description: AEM "Únase a nosotros y participe en nuestra sesión, donde le guiaremos en el reconocimiento y la solución de los desafíos que afectan a sus clientes finales, garantizando una experiencia sobresaliente a través de la mejora de la eficacia de su proyecto as a Cloud Service AEM de la, la medición de la influencia de los servicios externos para su sistema as a Cloud Service, y haciendo el máximo de las vistas personalizadas y adaptadas. Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con el formato as a Cloud Service de la. No dude en interactuar con sus consultas y preguntas".
+description: AEM Únase a nosotros y participe en nuestra sesión, donde le guiaremos en el reconocimiento y la solución de los desafíos que afectan a sus clientes finales, garantizando una experiencia sobresaliente a través de la mejora de la eficacia de su proyecto as a Cloud Service AEM, la medición de la influencia de los servicios externos para su sistema as a Cloud Service y el aprovechamiento al máximo de las vistas personalizadas y adaptadas. Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con el formato as a Cloud Service de la. No dude en participar con sus preguntas y preguntas.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -35,7 +35,9 @@ Este seminario web se llevará a cabo del 20 de septiembre a las 5 p. m CEST - 8
 
 * AEM Mejora de la eficacia de su proyecto as a Cloud Service de
 * AEM Medición de la influencia de los servicios externos para su sistema as a Cloud Service de la
-* Aprovechamiento al máximo de vistas personalizadas y adaptadas Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con la opción as a Cloud Service de la vista de la aplicación de forma predeterminada. No dude en participar con sus preguntas y preguntas.
+* Aprovechamiento al máximo de vistas personalizadas y adaptadas
+
+Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con el formato as a Cloud Service de la. No dude en participar con sus preguntas y preguntas.
 
 ## Presentadores
 
