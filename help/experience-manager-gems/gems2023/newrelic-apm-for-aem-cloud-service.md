@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
+source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Maximice el rendimiento y agilice la resolución de problemas.
 
-Este seminario web se llevará a cabo del 20 de septiembre a las 5 pm CEST | PDT a las 8 a. m | 20.30 IST
+Este seminario web se llevará a cabo del 20 de septiembre a las 5 p. m CEST \| 8 a. m PDT \| 8.30 p. m IST
 
 ## Registro
 
