@@ -1,24 +1,28 @@
 ---
-title: Análisis profundo de los paneles de MBI
-description: Vea este seminario web para obtener una visita guiada por los cuatro paneles incluidos en la configuración con cada cuenta de MBI.
-landing-page-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de MBI.
-short-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de MBI.
+title: Análisis profundo de los paneles de Commerce Intelligence
+description: Vea este seminario web para obtener una visita guiada por los cuatro paneles incluidos en la configuración con cada cuenta de Commerce Intelligence.
+landing-page-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de Commerce Intelligence.
+short-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de Commerce Intelligence.
 kt: 10496
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: 07faedac-54cd-45fc-a7f0-05379bc8ab28
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Análisis profundo de los paneles de MBI
+# Análisis profundo de los paneles de Commerce Intelligence
 
-Realice una visita guiada por los cuatro paneles incluidos al configurar cada cuenta de MBI. Este seminario web grabado resalta la función que desempeñan sus paneles predeterminados a la hora de obtener valor de los datos de su tienda de comercio electrónico y cubre los objetivos de alto nivel de cada panel. También se adentra en algunos casos de uso comunes de los informes pregenerados, como:
+>[!NOTE]
+>
+>Adobe Commerce Intelligence se conocía anteriormente como [!DNL Magento Business Intelligence (MBI)]. Las grabaciones de eventos anteriores reflejan el nombre anterior.
+
+Realice una visita guiada por los cuatro paneles incluidos en la configuración con cada cuenta de Commerce Intelligence. Este seminario web grabado resalta la función que desempeñan sus paneles predeterminados a la hora de obtener valor de los datos de su tienda de comercio electrónico y cubre los objetivos de alto nivel de cada panel. También se adentra en algunos casos de uso comunes de los informes pregenerados, como:
 
 - Identifique el impacto de las campañas de adquisición de clientes mediante la visualización de las relaciones entre el mes de adquisición del cliente y el valor de duración.
 - Tendencias puntuales en la colocación de pedidos por hora que indican las necesidades de asignación de inventario o personal.
@@ -29,10 +33,6 @@ Realice una visita guiada por los cuatro paneles incluidos al configurar cada cu
 >[!VIDEO](https://video.tv.adobe.com/v/343498?quality=12&learn=on)
 
 ## Recursos útiles
-
->[!TIP]
->
->Si es su primera vez en MBI, la variable [Serie de vídeos de introducción](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) también proporciona información general completa para impulsar mejores perspectivas y resultados empresariales mediante la agregación, el análisis y la visualización de datos.
 
 [Paneles](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
 [Exportación de datos de gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

@@ -1,5 +1,5 @@
 ---
-title: Preparación para las vacaciones con MBI
+title: Preparación para las vacaciones con Commerce Intelligence
 description: Vea este seminario web para aprender a utilizar los datos de comercio electrónico con éxito durante la temporada de vacaciones.
 landing-page-description: Vea este seminario web grabado para aprender a utilizar los datos de comercio electrónico con éxito durante la temporada de vacaciones.
 short-description: Vea este seminario web grabado para aprender a utilizar los datos de comercio electrónico con éxito durante la temporada de vacaciones.
@@ -9,14 +9,18 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
-# Preparación para las vacaciones con MBI
+# Preparación para las vacaciones con Commerce Intelligence
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence se conocía anteriormente como [!DNL Magento Business Intelligence (MBI)]. Las grabaciones de eventos anteriores reflejan el nombre anterior.
 
 Utilice sus datos de comercio electrónico para tener éxito durante la temporada de vacaciones. Este seminario web destaca algunos casos de uso y métodos comunes de análisis estacionales para solucionarlos usando características clave de MBI, entre ellas:
 
@@ -35,9 +39,5 @@ Utilice sus datos de comercio electrónico para tener éxito durante la temporad
 
 ## Recursos útiles
 
->[!TIP]
->
->Si es su primera vez en MBI, la variable [Serie de vídeos de introducción](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) proporciona información general completa para mejorar las perspectivas y los resultados empresariales mediante la agregación, el análisis y la visualización de datos.
-
-[Guía del usuario de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es)
-[Compatibilidad con MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es)
+[Asistencia de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
