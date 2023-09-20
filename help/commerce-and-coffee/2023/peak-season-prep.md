@@ -1,7 +1,7 @@
 ---
 title: Preparación de temporada alta
 description: Corey Gelato profundiza en las mejores prácticas y estrategias de temporada alta, aprende a promocionar con éxito y eficacia tus bienes y/o servicios en tu(s) sitio(s) y mantente competitivo durante una temporada alta en cualquier época del año. Después de una demostración de funciones, que incluye ensayo y vista previa de contenido, promociones, reglas de precios de catálogo y carro de compras y mucho más, Corey responde a preguntas durante una sesión de preguntas y respuestas en directo.
-solution: Adobe Commerce
+solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
 role: Admin, Leader, User
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
+source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
