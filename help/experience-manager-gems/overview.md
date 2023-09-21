@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -44,8 +44,8 @@ ht-degree: 2%
 </table>
 
 -->
-AEM Nuestro último seminario web de GEM de la sobre **Aceleración del desarrollo de Cloud Service de Adobe Experience Manager con entornos de desarrollo rápido** se ha realizado el *22 de febrero de 2023*.
-El **grabación** se puede encontrar aquí: [AEM Seminario web de entornos de desarrollo rápido](gems2023/rapid-development-environments.md)
+AEM Nuestro último seminario web de GEM de la sobre **Liberar el potencial de APM de New Relic AEM para el as a Cloud Service de la. Maximice el rendimiento y agilice la resolución de problemas.** se ha realizado el *20 de septiembre de 2023*.
+El **grabación** se puede encontrar aquí: [New Relic AEM en la](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
