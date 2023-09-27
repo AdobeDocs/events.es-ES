@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 86b13e13d74f4ce99988f9b2db4b330f6583dd14
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 8%
+source-wordcount: '280'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Ep. 28: Análisis profundo de la versión de Workfront: nuevo Workfront Home](episodes/exl-live-episode-10-26-23.md)
    + [Ep. 27: Mensajería activada por API en Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
    + [Ep. 26: Audiencias procesables, en un solo lugar&#x200B;, desde cualquier fuente, con controles estándar](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25: Explore el futuro de Adobe Journey Optimizer con el canal web y la experimentación de contenido](episodes/exl-live-episode-6-14-23.md)
