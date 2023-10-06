@@ -2,17 +2,16 @@
 title: Una profundización en Herramientas para AEM Sites
 description: prácticas recomendadas para aprovechar las herramientas de forma eficaz y transformar la experiencia de AEM Sites. Tipos de etiquetas Descubra cómo los distintos tipos de etiquetas pueden sobrecargar la organización y la capacidad de detección de contenido.  Configuración y aplicación de etiquetas Obtenga información práctica sobre la implementación eficiente de etiquetas para ahorrar tiempo y aumentar la productividad.  Esquemas de metadatos de carpeta Descubra el poder de la administración de contenido estructurado a través de esquemas de metadatos de carpeta.Esquemas de metadatos Aumente la relevancia del contenido y la experiencia del usuario dominando el diseño de esquemas de metadatos. Configuración de informes Aproveche perspectivas basadas en datos para la toma de decisiones estratégicas mediante la configuración de informes completos. Puede acceder a las diapositivas de la presentación aquí.
 feature-set: Experience Manager
-feature: Tagging, 
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 doc-type: Event
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
-source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
+source-git-commit: 426722ebded091c3dc685b951b6823f432e58a4d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
