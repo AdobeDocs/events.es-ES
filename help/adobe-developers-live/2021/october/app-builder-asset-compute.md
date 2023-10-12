@@ -1,6 +1,6 @@
 ---
 title: Trabajador de cómputo de Adobe Experience Manager Assets personalizado con el Generador de aplicaciones y las API de Photoshop
-description: Los microservicios de Asset compute de Adobe Experience Manager as a Cloud Service admiten el desarrollo y la implementación de  personalizados que generan representaciones de recursos personalizadas. Además de aprovechar la automatización de contenido predeterminada para la producción de recursos a escala, los desarrolladores también pueden crear sus propios assets computes de trabajo mediante las API de Photoshop para casos de uso más personalizados. En esta sesión, explicaremos todos los pasos para desarrollar un asistente de asset compute con SDK de App Builder y API de Photoshop para automatizar las representaciones de recursos personalizadas.
+description: Los microservicios de Asset compute de Adobe Experience Manager as a Cloud Service admiten el desarrollo y la implementación de plantillas personalizadas que generan representaciones de recursos personalizadas. Además de aprovechar la automatización de contenido predeterminada para la producción de recursos a escala, los desarrolladores también pueden crear sus propios trabajadores de asset compute mediante las API de Photoshop para casos de uso más personalizados. En esta sesión, explicaremos todos los pasos para desarrollar un asistente de asset compute con SDK de App Builder y API de Photoshop para automatizar las representaciones de recursos personalizadas.
 solution: Experience Manager
 feature: Asset Compute Microservices
 topic: Development
@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9217
 type: Event
-exl-id: 3c7faae0-d8ac-4a5c-ab0c-b25c2694a9dd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 # Trabajador de cómputo de Adobe Experience Manager Assets personalizado con el Generador de aplicaciones y las API de Photoshop
 
-Los microservicios de Asset compute de Adobe Experience Manager as a Cloud Service admiten el desarrollo y la implementación de  personalizados que generan representaciones de recursos personalizadas. Además de aprovechar la automatización de contenido predeterminada para la producción de recursos a escala, los desarrolladores también pueden crear sus propios assets computes de trabajo mediante las API de Photoshop para casos de uso más personalizados. En esta sesión, explicaremos todos los pasos para desarrollar un asistente de asset compute con SDK de App Builder y API de Photoshop para automatizar las representaciones de recursos personalizadas.
+Los microservicios de Asset compute de Adobe Experience Manager as a Cloud Service admiten el desarrollo y la implementación de plantillas personalizadas que generan representaciones de recursos personalizadas. Además de aprovechar la automatización de contenido predeterminada para la producción de recursos a escala, los desarrolladores también pueden crear sus propios trabajadores de asset compute mediante las API de Photoshop para casos de uso más personalizados. En esta sesión, explicaremos todos los pasos para desarrollar un asistente de asset compute con SDK de App Builder y API de Photoshop para automatizar las representaciones de recursos personalizadas.
 
 Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/3F6f5sG)**.
 

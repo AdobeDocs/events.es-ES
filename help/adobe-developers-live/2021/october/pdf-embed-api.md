@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9149
 type: Event
-exl-id: a5e6fcf7-b743-4cb9-ade7-66b088f52fd9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1df3b772-2599-4ab9-842e-2d3c0346fc95
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 17%
+ht-degree: 20%
 
 ---
 
@@ -25,6 +25,6 @@ Con solo echar un vistazo a cómo utilizar la API de incrustación gratuita de A
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

@@ -1,20 +1,20 @@
 ---
-title: Experimentos en la escalabilidad de AEM Author
-description: Escalar AEM Authors se trata principalmente de escalar Oak, pero ¿cuál es la mejor manera de hacerlo? AEM En esta sesión cubriremos una serie de experimentos que se han realizado para explorar cómo escalar el tamaño de los recursos y el espacio de trabajo de los usuarios de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de datos de Oak. Cubriremos lo que se aprendió de estos experimentos, cómo lo que aprendimos afecta la forma en que pensamos del almacenamiento de contenido en el futuro, los proyectos y herramientas que han surgido de estos experimentos, y también algunas conclusiones sorprendentes y no intuitivas.
+title: AEM Experimentos en la escalabilidad de autor de
+description: AEM Escalar autores de la se trata principalmente de escalar Oak, pero ¿cuál es la mejor manera de hacerlo? AEM En esta sesión cubriremos una serie de experimentos que se han realizado para explorar cómo escalar el tamaño de los recursos y el espacio de trabajo de los usuarios de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de datos de Oak. Cubriremos lo que se aprendió de estos experimentos, cómo lo que aprendimos afecta la forma en que pensamos del almacenamiento de contenido en el futuro, los proyectos y herramientas que han surgido de estos experimentos, y también algunas conclusiones sorprendentes y no intuitivas.
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
-exl-id: 8960b457-323b-4a68-a66b-b1cd3bc798af
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c38e4340-1cda-4267-8738-4c83884b6934
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
 
 ---
 
-# Experimentos en la escalabilidad de AEM Author{#experiments-in-aem-author-scalability}
+# AEM Experimentos en la escalabilidad de autor de{#experiments-in-aem-author-scalability}
 
-Escalar AEM Authors se trata principalmente de escalar Oak, pero ¿cuál es la mejor manera de hacerlo? AEM En esta sesión cubriremos una serie de experimentos que se han realizado para explorar cómo escalar el tamaño de los recursos y el espacio de trabajo de los usuarios de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de datos de Oak. Cubriremos lo que se aprendió de estos experimentos, cómo lo que aprendimos afecta la forma en que pensamos del almacenamiento de contenido en el futuro, los proyectos y herramientas que han surgido de estos experimentos, y también algunas conclusiones sorprendentes y no intuitivas.
+AEM Escalar autores de la se trata principalmente de escalar Oak, pero ¿cuál es la mejor manera de hacerlo? AEM En esta sesión cubriremos una serie de experimentos que se han realizado para explorar cómo escalar el tamaño de los recursos y el espacio de trabajo de los usuarios de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de la plataforma de datos de Oak. Cubriremos lo que se aprendió de estos experimentos, cómo lo que aprendimos afecta la forma en que pensamos del almacenamiento de contenido en el futuro, los proyectos y herramientas que han surgido de estos experimentos, y también algunas conclusiones sorprendentes y no intuitivas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 

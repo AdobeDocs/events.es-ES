@@ -1,12 +1,12 @@
 ---
 title: 'Pregunte al experto: prácticas recomendadas para maximizar Workfront Proof'
-description: Obtenga información sobre cómo ajustar la configuración, habilitar los buenos informes y evitar escollos comunes en Proof. Este seminario web se grabó el 26 de febrero de 2020.
+description: Aprenda a configurar los ajustes de, habilitar buenos informes y evitar escollos comunes en Proof. Este seminario web se grabó el 26 de febrero de 2020.
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Pregunte al experto: prácticas recomendadas para maximizar Workfront Proof
 
-Aprenda a configurar las opciones de éxito, acceder a las vistas (y otros trucos) para habilitar los buenos informes y comprender cómo evitar escollos comunes en Proof. Este seminario web se grabó el 26 de febrero de 2020.
+Aprenda a configurar los ajustes para tener éxito, acceder a las vistas (y otros trucos) para habilitar buenos informes, y comprenda cómo evitar escollos comunes en Proof. Este seminario web se grabó el 26 de febrero de 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341122/?quality=12)
 
@@ -237,7 +237,7 @@ Una vez que se toma una decisión, debe volver a cambiar la prueba a producción
 
 **Respuesta**
 
-Si una prueba está bloqueada, deberá desbloquearla para que las personas puedan responder a los comentarios de acción o a los comentarios. Las personas con los siguientes permisos pueden desbloquear la revisión: El propietario de la revisión, los usuarios de Workfront con un nivel de licencia de revisión de administrador o supervisor.
+Si una prueba está bloqueada, deberá desbloquearla para que las personas puedan responder a los comentarios de acción o a los comentarios. Las personas con los siguientes permisos pueden desbloquear la revisión: Propietario de la revisión, Usuarios de Workfront con un nivel de licencia de revisión de Administrador o Supervisor.
 
 **Pregunta**
 

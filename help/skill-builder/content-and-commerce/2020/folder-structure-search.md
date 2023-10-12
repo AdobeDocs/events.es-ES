@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7338
-exl-id: f39da510-d4d6-447e-97cc-b3f9036e14ab
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 8%

@@ -1,8 +1,8 @@
 ---
 title: Seminarios web de Commerce Intelligence
 description: Explore los seminarios web grabados de Commerce Intelligence, que cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence al máximo de su potencial.
-exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%

@@ -2,11 +2,11 @@
 title: Adobe Developers Live, febrero de 2021
 description: Se entrega una colección de vídeos y tutoriales para Adobe Experience Manager Sites como parte del evento de contenido de Adobe Developers Live.
 sub-product: sites, content-services
-exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 10%
+ht-degree: 12%
 
 ---
 
@@ -77,7 +77,7 @@ Conéctese con otros desarrolladores y únase a las conversaciones de sesión en
 * [Documentación de creación de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [Documentación de desarrollo de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [Documentación de administración de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [Documentación de implementación de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Documentación de implementación de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es)
 * [Tutoriales de AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=es)
 * [Tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es)
 * [Tutoriales de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)

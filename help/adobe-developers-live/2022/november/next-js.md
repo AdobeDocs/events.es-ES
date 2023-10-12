@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live, 22 de noviembre. Incluya la creación en contexto y sin encabezado en su aplicación Next.JS
-description: Incorpore la creación en contexto y sin encabezado a su próxima versión.JS AppNext.js proporciona la buena experiencia para desarrolladores que creen aplicaciones de React listas para la producción, especialmente con procesamiento híbrido estático y de servidor. Es un vehículo de envío perfecto para sitios con tecnología de Adobe Experience Manager. En esta sesión, le mostraremos cómo:Arrancar rápidamente una nueva aplicación Next.js que funcione con contenido de Adobe Experience ManagerUtilice el SDK editable de React para habilitar la edición en contextoRecuperar contenido de CMS sin encabezado de Adobe Experience Manager y procesarlo en la aplicación Next.js
+description: Lleve la creación en contexto y sin encabezado a su AppNext.js de Next.JS proporciona una buena experiencia para desarrolladores para crear aplicaciones de React listas para la producción, especialmente con procesamiento híbrido estático y de servidor. Es un vehículo de envío perfecto para sitios con tecnología de Adobe Experience Manager. En esta sesión, le mostraremos cómo:Arrancar rápidamente una nueva aplicación Next.js que funcione con contenido de Adobe Experience ManagerUtilice el SDK editable de React para habilitar la edición en contextoRecuperar contenido de CMS sin encabezado de Adobe Experience Manager y procesarlo en la aplicación Next.js
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ level: Intermediate
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11482
 thumbnail: 3411303.jpeg
-exl-id: d62ea5f5-9239-44f5-9e5d-4d543e94f1c0
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

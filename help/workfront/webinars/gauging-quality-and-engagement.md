@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
-exl-id: 50dbcdf4-2e5d-420b-975e-1e3e683356fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 1%
@@ -92,7 +92,7 @@ Para hacer referencia a la información del proyecto y a la información de la p
 
 **Pregunta**
 
-Uso sharecol a menudo para crear un solo estado de página (muchas columnas). Sin embargo, encuentro que si después de crear un informe quiero agregar una columna en la parte superior de la página, es muy largo volver y modificar. ¿Tiene consejos o trucos para realizar este tipo de cambio?
+Uso sharecol a menudo para crear un solo estado de página (muchas columnas). Sin embargo, encuentro que si después de crear un informe quiero agregar una columna en la parte superior de la página, es muy largo volver atrás y modificar. ¿Tiene consejos o trucos para realizar este tipo de cambio?
 
 **Respuesta**
 

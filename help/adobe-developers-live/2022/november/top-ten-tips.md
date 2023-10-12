@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11476
 thumbnail: 3411300.jpeg
-exl-id: e0c082d4-d35b-4653-9deb-d8b647add3b3
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # Los 10 mejores consejos para acelerar el sitio de Adobe Experience Manager
 
-El bueno rendimiento de la experiencia es clave para el éxito de la experiencia. En esta sesión, compartiremos con usted nuestras 10 sugerencias y prácticas recomendadas principales para ayudar a sus desarrolladores a hacer que sus sitios web de Adobe Experience Manager sean más rápidos.
+Un buen rendimiento de la experiencia es clave para el éxito de la experiencia. En esta sesión, compartiremos con usted nuestras 10 sugerencias y prácticas recomendadas principales para ayudar a sus desarrolladores a hacer que sus sitios web de Adobe Experience Manager sean más rápidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

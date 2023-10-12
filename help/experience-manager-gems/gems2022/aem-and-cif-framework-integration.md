@@ -9,8 +9,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 23%
@@ -19,7 +19,7 @@ ht-degree: 23%
 
 # Integrar el marco de AEM y CIF para crear una experiencia de comercio electrónico enriquecida e inmersiva
 
-AEM Este seminario web de GEMs incluye una presentación y una demostración para ayudarle a comprender cómo se puede utilizar el marco de trabajo del CIF de Adobe para crear una experiencia comercial coherente, enriquecida en contenido e inmersiva. El Experience Manager y Adobe Commerce se integran perfectamente con Commerce Integration Framework (CIF). AEM CIF le permite a los usuarios acceder directamente a la instancia de comercio y comunicarse con ella mediante las API de GraphQL de Adobe Commerce (consulte la agenda de alto nivel que aparece a continuación).
+AEM Este seminario web de GEMs incluye una presentación y una demostración para ayudarle a comprender cómo se puede utilizar la estructura de trabajo de Adobe CIF para crear una experiencia comercial coherente, enriquecida en contenido e inmersiva. El Experience Manager y Adobe Commerce se integran perfectamente con el Commerce integration framework CIF (). CIF AEM La permite a los usuarios acceder directamente a la instancia de comercio y comunicarse con ella mediante las API de GraphQL de Adobe Commerce (consulte la agenda de alto nivel más abajo).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -31,16 +31,15 @@ Este seminario web se llevó a cabo el 27 de abril de 2022 y fue presentado por 
 >* [Hilo contextual correspondiente](https://adobe.ly/3jorz5r)
 >* Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones sobre próximos seminarios web.
 
-
 **Programa de alto nivel:**
 
-* ¿Qué es CIF y por qué utiliza CIF?
+* CIF CIF ¿Qué es la y por qué se utiliza la?
 
-* AEM Tipos de integración de CIF y cómo utilizar CIF con el
+* CIF CIF AEM Tipos de integración de y cómo utilizarlos con el
 
-* Biblioteca de componentes del CIF
+* CIF biblioteca de componentes de
 
-   * AEM Componentes principales de CIF
+   * AEM CIF Componentes principales de
 
    * componentes react de la biblioteca de PWA studio
 

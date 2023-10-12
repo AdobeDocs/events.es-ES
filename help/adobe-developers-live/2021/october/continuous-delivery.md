@@ -9,11 +9,11 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9196
 type: Event
-exl-id: 7da38135-7c38-4bc1-b5f4-3e7d492e6f35
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: d5833f38-30d3-48e2-afb9-6bb7627d36a1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 15%
+ht-degree: 17%
 
 ---
 
@@ -27,6 +27,6 @@ Continúe la conversación en **[Comunidades Experience League](https://adobe.ly
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

@@ -8,8 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -55,4 +55,3 @@ Esto elimina el requisito de que la API proporcione muchos extremos que proporci
 >
 >* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://adobe.ly/3r6P4nr)
 >* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
-

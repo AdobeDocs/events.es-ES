@@ -8,11 +8,11 @@ role: Developer, Architect
 level: Experienced
 kt: 9209
 type: Event
-exl-id: cc887be7-3ef4-42f7-a58f-f93b85dea259
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6b0c3a6a-500b-4f7f-8872-0b6d9035a485
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 13%
+ht-degree: 15%
 
 ---
 
@@ -24,6 +24,6 @@ La API de servicios de PDF de Adobe permite a los desarrolladores crear, combina
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

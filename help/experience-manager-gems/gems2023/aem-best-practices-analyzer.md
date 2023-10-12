@@ -10,8 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-exl-id: 04b5d071-18a4-44e3-af7b-6a4db594cacb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 1%
@@ -43,4 +43,3 @@ AEM AEM Tenga en cuenta que el Analizador de prácticas recomendadas de la no es
 >
 >* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://bit.ly/3Z6AyM1)
 >* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
-
