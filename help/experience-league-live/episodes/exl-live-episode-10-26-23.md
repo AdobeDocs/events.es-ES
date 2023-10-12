@@ -4,14 +4,14 @@ description: Obtenga información de los clientes de Workfront sobre cómo funci
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
-event-cta-url-reg: null
+event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: cdf440d1b1b0957986cfed4565e1af61dcd90693
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Obtenga información de los clientes de Workfront sobre cómo funciona Nueva página de inicio para ellos y sus usuarios. Obtenga información acerca de las nuevas funciones de Inicio entregadas en agosto y nuestros nuevos controles de diseño de administrador. Y descubre lo que sigue para Home en 2024.
 
-[![ExL LIVE 22 de septiembre de 2023](../assets/Oct26_exl_live_WebBanner.png)](https://www.youtube.com/watch?v=dvCuSQfMTZg)
+[![ExL LIVE 22 de septiembre de 2023](../assets/Oct26_exl_live_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
 La página de inicio de Workfront, completamente renovada, se ha convertido en un motor de la productividad. Con sus widgets personalizables, puede optimizar su flujo de trabajo y atravesar sin problemas proyectos, tareas, problemas, solicitudes y menciones, asegurándose de que nada se salga de las grietas. La flexibilidad para ajustar la página de inicio según sus necesidades únicas le permite crear su propio concentrador de Workfront centralizado.
 
@@ -27,4 +27,4 @@ En esta sesión en directo para el Experience League, el experto en productos Be
 
 Como siempre, esta sesión en directo le permite hacer preguntas en el chat y obtener respuestas de los expertos.
 
-**Haga clic en la imagen de arriba para configurar un recordatorio.**
+**Haga clic en la imagen anterior para registrarse en el evento en directo.**
