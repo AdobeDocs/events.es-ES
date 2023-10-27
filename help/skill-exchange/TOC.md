@@ -3,9 +3,9 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 11%
 
 ---
@@ -67,6 +67,15 @@ ht-degree: 11%
       + [Canales De Marketing, Use De Forma Responsable](analytics/jun2021/marketing-channels.md)
       + [Poniéndolo todo junto](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Agosto de 2023 {#aug2023}
+      + Seguimiento del desarrollador {#developer-track}
+         + [AEM Kit de inicio para desarrolladores de](aem/aug2023/deploy-new-project.md)
+         + [Creación de un sistema de estilos efectivo y escalable](aem/aug2023/scalable-style-system.md)
+         + [Migrar a AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Pista web {#webtrack}
+         + [Introducción a AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Aprovechamiento de un DAM colaborativo](aem/aug2023/collaborative-dam.md)
+         + [Escala de preparación para IA](aem/aug2023/metadata.md)
    + Agosto de 2022 {#aug2022}
       + Seguimiento del desarrollador {#developer-track}
          + [Elementos destacados de Experience Makers](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 11%
       + [Informes dentro de [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Últimos Consejos Y Trucos Para Su Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto de 2023 {#aug2023}
+      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
    + Abril de 2022 {#apr2022}
       + [10 consejos para sorprender a tu Workfront](workfront/apr2022/ten-tips.md)
       + [Campos calculados que todos deben conocer](workfront/apr2022/calculated-fields.md)
