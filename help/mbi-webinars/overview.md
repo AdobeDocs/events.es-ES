@@ -2,7 +2,7 @@
 title: Seminarios web de Commerce Intelligence
 description: Explore los seminarios web grabados de Commerce Intelligence, que cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence al máximo de su potencial.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%
@@ -26,11 +26,11 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
       <img alt="Introducción a MBI" src="./assets/getting-started-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
         <strong>Introducción a MBI</strong>
       </a>
     </div>

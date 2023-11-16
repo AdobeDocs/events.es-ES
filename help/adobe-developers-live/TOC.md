@@ -3,10 +3,10 @@ user-guide-title: Eventos de Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Colección de grabaciones del evento de contenido de Adobe Developer Live
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 6%
+source-wordcount: '700'
+ht-degree: 8%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 6%
 
 + [Información general](overview.md)
 + 2023 {#2023}
+   + Noviembre de {#nov2023}
+      + [Presentación de apertura](2023/november/keynote.md)
+      + Edge Delivery Services
+         + [Creación de un sitio web](2023/november/edge-breakout-1.md)
+         + [Rendimiento del sitio web](2023/november/edge-breakout-2.md)
+         + [Una implementación de cliente](2023/november/edge-breakout-3.md)
+         + [Creación basada en documentos](2023/november/deep-dive.md)
+      + Headless
+         + [API sin encabezado](2023/november/headless-breakout-1.md)
+         + [Editor universal](2023/november/headless-breakout-2.md)
+         + [Fuentes de datos externas](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Servicios de catálogo](2023/novemnber/commerce-breakout-1.md)
+         + [Integración con la Sales Channel de Amazon](2023/novemnber/commerce-breakout-2.md)
+         + [Extensibilidad impulsada por eventos](2023/novemnber/commerce-breakout-3.md)
+         + [API Mesh](2023/novemnber/commerce-breakout-4.md)
    + Mayo de {#may2023}
       + [Presentación de apertura](2023/may/keynote.md)
       + [Visita a API](2023/may/new-apis.md)
@@ -59,7 +75,7 @@ ht-degree: 6%
       + [Autenticación de API con Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Ingesta masiva de recursos](2021/february/asset-bulk-ingestion.md)
       + [Extensibilidad del servicio de asset compute](2021/february/asset-compute-service-extensibility.md)
-      + [Extensibilidad del CIF mediante GraphQL](2021/february/cif-extensibility-graphql.md)
+      + [CIF Extensibilidad mediante GraphQL](2021/february/cif-extensibility-graphql.md)
       + [Content and Commerce con Experience Manager](2021/february/content-commerce.md)
       + [Entrega de contenido con Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Pruebas funcionales personalizadas](2021/february/custom-functional-tests-cicd.md)
