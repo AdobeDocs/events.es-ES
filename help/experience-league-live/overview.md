@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '169'
 ht-degree: 47%
 
 ---
@@ -24,15 +24,15 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
-      <img alt="Experience League LIVE 21 de abril" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-11-14-23.md">
-        <strong>Aproveche al máximo los datos de eventos de comportamiento en Real-Time CDP y Journey Optimizer</strong>
+      <a href="episodes/exl-live-episode-12-14-23.md">
+        <strong>Cuenta atrás para 2024 con las 5 nuevas funciones principales de Adobe Real-Time CDP</strong>
       </a>
-      <br/><em>con Daniel Wright, Lory Mishra y Rachit Gupta</em>
-      <br/><em>14 de noviembre de 2023</em>
+      <br/><em>con Doug Moore, Nina Caruso y Rudi Shumpert</em>
+      <br/><em>14 de diciembre de 2023</em>
     </div>
   </td>
 </tr>
