@@ -5,9 +5,8 @@ user-guide-description: Las últimas innovaciones de producto en Adobe Commerce,
 breadcrumb-title: Actualizaciones de versión de Adobe Commerce
 type: Event
 mini-toc-levels: 2
-feature-set: Commerce
 event-series: Adobe Commerce Product Updates
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 13%
