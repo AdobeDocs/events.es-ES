@@ -2,7 +2,7 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Colección de grabaciones de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
+source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 19%
@@ -32,7 +32,7 @@ ht-degree: 19%
          + [Contar historias impactantes con datos](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
    + Noviembre de {#nov2023}
-      + [AEM Excelencia de desarrollador con componentes principales de](experience-manager/sept2023/core-components.md)
+      + [AEM Excelencia de desarrollador con componentes principales de](experience-manager/nov2023/core-components.md)
    + Septiembre de {#sept2023}
       + [Una profundización en Herramientas para AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Julio de {#july2023}
