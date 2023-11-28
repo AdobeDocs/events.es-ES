@@ -3,7 +3,7 @@ title: Abordar canales y datos en silo con Marketo Engage y Dynamic Chat
 description: Valor de añadir conversaciones a la estrategia de automatización de marketing para ofrecer experiencias de clientes de varios canales.  Cómo implementar casos de uso principales, como reserva de reuniones de ventas, participación en contenido de sitios web y promoción de eventos/seminarios web.  Fórmulas y consejos útiles para empezar rápidamente a integrar Dynamic Chat en sus programas de Marketo Engage.
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Dynamic Chat, Event, Programs
+feature: Dynamic Chat, Events, Programs
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ last-substantial-update: 2023-11-03T00:00:00Z
 jira: KT-14289
 thumbnail: 3425471.jpeg
 exl-id: b0496f78-40a4-4607-8c1c-5199e43fdb43
-source-git-commit: 5c3f13536900d137374b9edb79ec1e837d8057e5
+source-git-commit: 869bae8823c6e119cd4587735b1099d19dd26cf7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
