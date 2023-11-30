@@ -3,7 +3,7 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
+source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 10%
@@ -118,7 +118,7 @@ ht-degree: 10%
       + [Integraciones nativas con Creative Cloud](workfront/aug2023/native-integtrations.md)
       + [Automatizaciones dirigidas por un propósito](workfront/aug2023/automations.md)
       + [Desgaste de administración de recursos](workfront/aug2023/resource-management-burnout.md)
-         + [Starter Kit de administración de recursos](workfront/aug2023/resource-management-starter-kit.md)
+      + [Starter Kit de administración de recursos](workfront/aug2023/resource-management-starter-kit.md)
    + Abril de 2022 {#apr2022}
       + [10 consejos para sorprender a tu Workfront](workfront/apr2022/ten-tips.md)
       + [Campos calculados que todos deben conocer](workfront/apr2022/calculated-fields.md)
