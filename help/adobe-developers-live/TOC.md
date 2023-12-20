@@ -2,10 +2,10 @@
 user-guide-title: Eventos de Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Colección de grabaciones del evento de contenido de Adobe Developer Live
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 7%
+source-wordcount: '777'
+ht-degree: 6%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 7%
 
 + [Información general](overview.md)
 + 2023 {#2023}
-   + Noviembre de {#nov2023}
+   + noviembre {#nov2023}
       + [Presentación de apertura](2023/november/keynote.md)
+      + [Presentación de apertura (APAC)](2023/november/keynote-apac.md)
+      + [Automatización de flujos de trabajo de contenido con App Builder](2023/november/content-workflows.md)
+      + [Volver al desarrollo e implementación de componentes principales](2023/november/component-development.md)
+      + [Entrega de contenido omnicanal](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Creación de un sitio web](2023/november/edge-breakout-1.md)
          + [Rendimiento del sitio web](2023/november/edge-breakout-2.md)
          + [Una implementación de cliente](2023/november/edge-breakout-3.md)
          + [Creación basada en documentos](2023/november/deep-dive.md)
+         + [Información general técnica de Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
       + Headless {#nov-headless}
          + [API sin encabezado](2023/november/headless-breakout-1.md)
+         + [Introducción al editor universal](2023/november/intro-universal-editor.md)
+         + [Introducción a Forms sin encabezado](2023/november/headless-forms.md)
          + [Editor universal](2023/november/headless-breakout-2.md)
          + [Fuentes de datos externas](2023/november/headless-breakout-3.md)
-      + Commerce {#nov-commerce}
+      + Comercio {#nov-commerce}
          + [Generador de aplicaciones de Adobe, E/S de Adobe, Webhooks y SDK de IU de administración](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API Mesh](2023/november/commerce-breakout-4.md)
          + [Servicios de catálogo](2023/november/commerce-breakout-1.md)
+         + [Ofrecer rendimiento de Commerce a través de la plataforma](2023/november/commerce-performance.md)
          + [Extensibilidad impulsada por eventos](2023/november/commerce-breakout-3.md)
+         + [El futuro del comercio](2023/november/future-of-commerce.md)
          + [Integración con la Sales Channel de Amazon](2023/november/commerce-breakout-2.md)
          + [Introducción a Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
          + [Servicio de catálogo y búsqueda](2023/november/commerce-search-and-catalog-service.md)
-   + Mayo de {#may2023}
+         + [Estrategias para optimizar el rendimiento del sitio de Commerce](2023/november/commerce-site-performance.md)
+         + [Seguimiento de cambios en Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
+   + Mayo {#may2023}
       + [Presentación de apertura](2023/may/keynote.md)
       + [Visita a API](2023/may/new-apis.md)
       + [AEM Inmersión en los componentes principales de la para el correo electrónico y Forms](2023/may/core-components.md)
@@ -101,7 +112,7 @@ ht-degree: 7%
       + [Desarrollo rápido de front-end](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor de 2.0](2021/february/spa-editor-2-0.md)
       + [Convierta cualquier sitio en una aplicación web progresiva](2021/february/any-site-into-pwa.md)
-   + Octubre de {#oct2021}
+   + Octubre {#oct2021}
       + [Información general](2021/october/overview.md)
       + [Presentación de apertura](2021/october/keynote.md)
       + [Acelerando transición a Experience Manager CS](2021/october/accelerate-transistion.md)
