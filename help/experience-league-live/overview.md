@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 47%
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
@@ -24,15 +24,15 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>Cuenta atrás para 2024 con las 5 nuevas funciones principales de Adobe Real-Time CDP</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>Introducción de los datos y análisis de Adobe Analytics en Customer Journey Analytics</strong>
       </a>
-      <br/><em>con Doug Moore, Nina Caruso y Rudi Shumpert</em>
-      <br/><em>14 de diciembre de 2023</em>
+      <br/><em>con Doug Moore, Eric Matisoff y Bryan Skelton</em>
+      <br/><em>17 de enero de 2024 a las 10:00 h PST</em>
     </div>
   </td>
 </tr>
