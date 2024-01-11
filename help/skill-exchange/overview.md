@@ -2,16 +2,16 @@
 title: 'Creadores de experiencia: intercambio de habilidades'
 description: Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: ba3b7d08ae9e9b703bc48df1c5963b8576f51733
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Creadores de experiencia: intercambio de habilidades {#overview}
 
-<img alt="Creadores de experiencia: intercambio de habilidades" src="./assets/skill-exchange.png" />
+<img alt="Creadores de experiencia: intercambio de habilidades" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
 
