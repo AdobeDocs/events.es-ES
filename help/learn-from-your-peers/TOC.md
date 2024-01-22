@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Colección de grabaciones de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
+source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '135'
+ht-degree: 6%
 
 ---
 
@@ -42,6 +42,8 @@ ht-degree: 7%
    + Mayo {#may2023}
       + [Dominio de contenido y fragmentos de experiencias](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Enero {#jan2024}
+      + [Dominio de puntuación de persona con Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
    + noviembre {#nov2023}
       + [MARKETO ENGAGE y DYNAMIC CHAT](marketo/nov2023/dynamic-chat.md)
    + Septiembre {#sept2023}
