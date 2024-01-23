@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ En este seminario web, aprenderá lo siguiente:
 
 ## Recursos compartidos en el seminario web
 
-* Hilo del seminario web de la comunidad Marketing Nation - [Debate](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-&lt;— [Hoja] Puntuación de persona/posible cliente con ejercicios de influencia local: [VÍNCULO QUE AÑADIR] —>
-* La gran lista de reglas de puntuación de posibles clientes: [Hoja](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Biblioteca de importación de programas de Marketo Engage - [Documentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* Todo lo que hay que saber sobre el proceso antes, durante y después - [Seminario web bajo demanda](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* La toma del campeón en la puntuación de posibles clientes - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* Hilo del seminario web de la comunidad Marketing Nation - [Debate](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* Puntuación de persona/posible cliente con ejercicios de influencia local: [Hoja](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* La gran lista de reglas de puntuación de posibles clientes: [Hoja](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Biblioteca de importación de programas de Marketo Engage - [Documentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Todo lo que hay que saber sobre el proceso antes, durante y después - [Seminario web bajo demanda](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* La toma del campeón en la puntuación de posibles clientes - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
