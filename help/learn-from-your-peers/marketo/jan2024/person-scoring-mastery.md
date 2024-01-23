@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 76114d714811f932ee6a30a4f0da77fedc9e136c
+source-git-commit: c2801af2ad596fca76eb920a4fce06811124f359
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ En este seminario web, aprenderá lo siguiente:
 ## Recursos compartidos en el seminario web
 
 * Hilo del seminario web de la comunidad Marketing Nation - [Debate](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Puntuación de persona/posible cliente con ejercicios de influencia local: [Hoja](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* La gran lista de reglas de puntuación de posibles clientes: [Hoja](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Puntuación de persona/posible cliente con ejercicios de influencia local - [Descargar hoja de cálculo](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* La gran lista de reglas de puntuación de posibles clientes: [Ver hoja de cálculo](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Biblioteca de importación de programas de Marketo Engage - [Documentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
 * Todo lo que hay que saber sobre el proceso antes, durante y después - [Seminario web bajo demanda](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * La toma del campeón en la puntuación de posibles clientes - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
