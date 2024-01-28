@@ -1,13 +1,13 @@
 ---
 title: AEM Traducción automática en
 description: AEM Aprenda cómo los traductores de Microsoft y de la traducción automática le permiten ampliar el alcance de su contenido, aumentar el tiempo de salida al mercado del contenido, optimizar los costes y aumentar la capacidad de detección de los usuarios mediante la optimización de los motores de búsqueda, lo que resulta en un mejor uso de los recursos y un mayor ROI.
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---

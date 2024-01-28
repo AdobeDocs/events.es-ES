@@ -1,5 +1,5 @@
 ---
-title: Presentación de todas las nuevas demostraciones de referencia en AEM
+title: AEM Presentación de todas las nuevas demostraciones de referencia en la
 description: AEM Aprenda la forma más rápida de aprovisionar, mostrar y explorar las funciones de la as a Cloud Service con el complemento Demostraciones de referencia.
 solution: Experience Manager
 thumbnail: https://video.tv.adobe.com/v/340236?format=jpeg
@@ -7,16 +7,17 @@ event-cta-url: https://youtu.be/FEREXV826NQ
 event-start-time: 2022-02-03 09:00-8
 event-guests: Hyman Chung, Ruben Reusser
 exl-id: 434d0d98-83ab-4168-bebf-4ba2f2cb5efd
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3925
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 44%
+source-wordcount: '128'
+ht-degree: 20%
 
 ---
 
-# Presentación de todas las nuevas demostraciones de referencia en AEM
+# AEM Presentación de todas las nuevas demostraciones de referencia en la
 
-Aprenda la forma más rápida de aprovisionar, mostrar y explorar las características de AEM as a Cloud Service
+AEM Aprenda la forma más rápida de aprovisionar, mostrar y explorar las características de los recursos as a Cloud Service de la
 
 El complemento Demostraciones de referencia de AEM permite crear de forma sencilla entornos de zona protegida precargados con contenido de muestra y preconfigurados con las directrices de prácticas recomendadas más recientes de Adobe. AEM Con el complemento, puede evaluar fácilmente las características de la en contexto y con casi ninguna configuración. SPA Las demostraciones incluyen Sites, Editor de, Commerce y funciones avanzadas de Assets.
 

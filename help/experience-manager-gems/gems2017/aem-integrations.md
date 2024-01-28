@@ -1,13 +1,13 @@
 ---
 title: 'AEM Integraciones: una base sólida recorre un largo camino'
 description: AEM AAM AEM AEM Aunque el trabajo es bastante independiente, nosotros los consultores de AT//AA que trabajamos con los que tenemos que colaborar con nuestros homólogos de la red de trabajo de la comunidad de la que nos dedicamos a la. AAM En esta sesión se ofrece una breve descripción general de las integraciones de AT//AA que utilizan DTM, lo que buscamos y por qué importa.
-uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
 exl-id: 52581331-7021-4c1d-9340-161bd56cfad8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

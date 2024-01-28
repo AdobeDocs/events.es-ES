@@ -1,14 +1,14 @@
 ---
 title: AEM Formularios de búsqueda fáciles con el generador de consultas de
 description: En esta sesión se explican los principios subyacentes al generador de consultas en comparación con otros lenguajes de consulta de la pila JCR. Muestra cómo se puede utilizar para generar fácilmente formularios de búsqueda legibles, cómo generar búsquedas eficientes, cómo depurar consultas y cómo se puede ampliar.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 6%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ Demostración
 
 * [AEM Generador de consultas de](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregado por Alexander Klimetschek
 
-Documentación de AEM
+AEM Documentación de
 
 >[!WARNING]
 >

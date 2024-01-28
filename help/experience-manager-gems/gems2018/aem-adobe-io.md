@@ -1,11 +1,11 @@
 ---
 title: 'AEM Tiempo real y peso ligero: cree integraciones impulsadas por eventos con el uso de eventos de Adobe I/O de la forma más rápida y con el uso de la.'
 description: AEM ¿Cansado de construir conectores para la? AEM Venga y aprenda cómo puede exponer cualquier evento OSGi interno desde la creación de eventos de Adobe I/O a través de eventos de OSGi para crear flujos de trabajo impulsados por eventos en varios sistemas con facilidad. Eventos de E/S le permite responder a eventos administrativos y comportamientos de clientes en tiempo real.
-uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
 exl-id: 18613ec9-a2d9-4c9d-958d-a324d9e4a1a7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2315
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%

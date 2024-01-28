@@ -1,14 +1,14 @@
 ---
 title: 'Eventos de Adobe Developer (IO): Déclencheur de Analytics'
 description: Combine la potencia de la arquitectura impulsada por eventos y el reconocimiento de patrones de comportamiento de clientes en tiempo real . En esta sesión se analiza cómo puede aprovechar el poder de los Déclencheur de Analytics a través de los eventos de Adobe Developer (Adobe I/O) para reaccionar ante el comportamiento de los clientes y volver a direccionar los datos en tiempo casi real.
-uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
 exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2746
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---

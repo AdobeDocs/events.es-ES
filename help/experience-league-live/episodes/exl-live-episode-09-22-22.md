@@ -6,14 +6,14 @@ kt: 11028
 feature: Campaigns
 role: User
 thumbnail: https://video.tv.adobe.com/v/3409504?format=jpeg
-event-cta-url: null
 event-start-time: 2022-09-22 08:30-7
 event-guests: Sandra Hausmann,Frederic Mary,Bridgette Darling
 exl-id: fa2a7641-438c-4167-80ec-46761e0b91bb
-source-git-commit: 12744b6c125d03ee3193e78ae6b38692fb34b41a
+duration: 3030
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 27%
+source-wordcount: '215'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,6 @@ La nueva funcionalidad Campañas de Journey Optimizer le permite enviar mensajes
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409504/?quality=12&learn=on)
 
-En este episodio de Experience League en directo, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer. Obtenga información sobre cómo utilizará Campañas y Recorridos para ofrecer experiencias del cliente personalizadas y atractivas y cómo se aprovecha el nuevo flujo de trabajo de mensajería en línea en cada uno de estos dos lienzos.
+En este episodio de Experience League Live, celebrado originalmente el 22 de septiembre de 2022, la presentadora Sandra Hausmann y los expertos en productos Bridgette Darling y Frederic Mary analizan casos de uso que cubren esta nueva funcionalidad y muestran cómo configurar y ejecutar fácilmente una campaña en Journey Optimizer. Obtenga información sobre cómo utilizará Campañas y Recorridos para ofrecer experiencias del cliente personalizadas y atractivas y cómo se aprovecha el nuevo flujo de trabajo de mensajería en línea en cada uno de estos dos lienzos.
 
 Continúe la discusión sobre este tema en la [puesto de Experience League de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52). ¡Esperamos saber de ti!

@@ -1,14 +1,14 @@
 ---
 title: AEM Rendimiento web de
 description: El envío rápido de experiencias web complejas es todo un desafío. En esta charla, Joel esclarecerá algunos de los escollos más comunes. Incluirá teoría, ejemplos, prácticas recomendadas y demostración de las herramientas.
-uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3831
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 14%
+source-wordcount: '184'
+ht-degree: 10%
 
 ---
 
@@ -42,7 +42,7 @@ Estándares web:\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=es](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=es)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=es)
 
 AEM Componentes de la:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\

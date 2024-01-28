@@ -1,11 +1,11 @@
 ---
 title: AEM Inmersión en el proceso de actualización de la
 description: Obtenga información acerca del escenario de actualización general, los puntos de extensión de actualización y cómo probamos los mecanismos de actualización. Conozca algunos de los desafíos técnicos relacionados con la actualización. Obtenga información sobre posibles situaciones de actualización y de grados secundarios, sugerencias sobre cómo acelerar el proceso y vea las funciones avanzadas.
-uuid: 2468da9b-178a-4fff-bf8e-57a3b0548d5c
 discoiquuid: 86781dba-fe73-46f9-a5d0-a4f04c0c1fc5
 targetaudience: target-audience advanced
 exl-id: 691e1ac6-853a-4860-8258-a1c8fc46d32e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3383
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%

@@ -1,13 +1,13 @@
 ---
 title: AEM Marco del componente social en el 6
 description: AEM Aprenda a utilizar y ampliar el marco de trabajo de componentes sociales en la 6. Obtenga información sobre la documentación y los libros de cocina disponibles.
-uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 7a6da893-26da-4cb3-913e-1f07ce33c034
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---

@@ -2,14 +2,14 @@
 title: AEM Solución de problemas de consultas e índices
 description: AEM Esto es una continuación de la sesión del año pasado de Indexación de segmentos y Consulta JCR. Abarca los mismos temas, pero con contenido completamente nuevo y tiene poca superposición con la presentación anterior. AEM También se incluyen las nuevas funciones de la versión 6.4 de la versión de.
 page-status-flag: never-activated
-uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
 deletedby: gbrodnik
 discoiquuid: 0904a311-26a9-4748-ad45-aa53c2673c4c
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 2935
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '62'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: Cómo sacar el máximo partido a su paquete de funciones DAM
 description: AEM Obtenga información acerca del DAM FP2 para la versión 5.6.1 de la. Este paquete de funciones se centra en aprovechar la funcionalidad de Proyectos creativos para ofrecerle una forma única de administrar el abastecimiento de recursos. La sesión explica cómo trabajar paso a paso con un flujo de trabajo de proyecto creativo para crear, editar y cargar una lista de tomas, así como cargar recursos en dicha lista. También cubre la revisión y aprobación de los recursos cargados. También aprende la capacidad de la configuración de la superficie de tarea, las plantillas de flujo de trabajo de proyecto personalizado y la creación de jerarquías de productos.
-uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 13067227-3006-407d-9450-c976cd6c8805
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2919
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

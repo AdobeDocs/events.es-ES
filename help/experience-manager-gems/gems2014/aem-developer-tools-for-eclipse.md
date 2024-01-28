@@ -1,14 +1,14 @@
 ---
 title: Herramientas para desarrolladores de AEM para Eclipse
 description: AEM AEM Las herramientas para desarrolladores de Eclipse son un conjunto de complementos de Eclipse destinados a hacer que el desarrollo de aplicaciones sea más fácil, directo y alineado con las prácticas recomendadas. AEM Basado en dos nuevas fachadas de proyecto (una para paquetes OSGi y otra para contenido JCR), permite una sincronización perfecta e iterativa entre las instancias de Eclipse y de la. Incluye un navegador de contenido que permite mostrar y editar contenido con formato FileVault. Por último, pero no menos importante, contiene un proyecto de muestra, multimódulo y basado en Maven que puede utilizarse para arrancar una configuración de proyecto.
-uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3325
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 10%
+source-wordcount: '227'
+ht-degree: 6%
 
 ---
 

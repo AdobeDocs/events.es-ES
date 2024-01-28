@@ -4,14 +4,14 @@ description: Obtenga más información sobre el SDK web. Le mostraremos todos lo
 solution: Data Collection,Experience Platform
 kt: 10412
 thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
-event-cta-url: null
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3863
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
@@ -34,6 +34,6 @@ En esta primera sesión en directo de tres sobre la recopilación de datos para 
 * [Información recopilada automáticamente en el SDK web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Aprovisionamiento gratuito del SDK web](https://adobe.ly/websdkaccess){target="_blank"}
 * [Información sobre ID de dispositivos de origen en el SDK web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Información general y descarga de Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Información general y descarga del Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Documentos de SDK móviles](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Información de recopilación de aplicaciones híbridas](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}

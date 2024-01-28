@@ -1,14 +1,14 @@
 ---
 title: Administración del contenido con el editor de plantillas de Adobe Experience Manager
 description: Con Adobe Experience Manager 6.2 se ha introducido un nuevo editor de plantillas que proporciona nuevas y potentes formas de crear, estructurar y configurar propiedades digitales. Explore la función desde la perspectiva de un superautor para comprender cómo permite componer distintas plantillas de página y controlar exactamente qué pueden hacer los autores de contenido en las páginas correspondientes. Finalmente, sumergirse en la mecánica interna para comprender cómo funciona bajo el capó.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 

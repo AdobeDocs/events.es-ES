@@ -1,13 +1,13 @@
 ---
 title: AEM Desarrollo de paquetes y servicios de OSGi para la creación de informes de
 description: AEM Aprenda lo fácil que es desarrollar paquetes y servicios de OSGi para los clientes de la red de servicios de. Esta sesión comienza con una breve introducción a los conceptos básicos de OSGi.
-uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
 exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '146'
 ht-degree: 1%
 
 ---

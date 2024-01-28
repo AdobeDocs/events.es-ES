@@ -1,11 +1,11 @@
 ---
 title: Sneak Peek técnico
 description: Únase a Gabriel Walt y Justin Edelson para echar un vistazo a lo que hemos estado trabajando para la próxima generación de Adobe Experience Manager en una charla técnica.
-uuid: 4cb22075-1f96-45fb-b9c3-41d8516b4c87
 discoiquuid: 15ac160d-b272-4725-ba6f-217b1ee70d4d
 targetaudience: target-audience advanced
 exl-id: 295c3194-cb2c-422d-8559-f87b6ac98ce8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3305
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 2%

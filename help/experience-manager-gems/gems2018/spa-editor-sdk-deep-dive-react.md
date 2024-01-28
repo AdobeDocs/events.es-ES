@@ -1,14 +1,14 @@
 ---
 title: 'SPA SDK de Editor: Profundización, parte 1: React'
 description: AEM Profundice con nosotros en el desarrollo de aplicaciones de una sola página que se pueden crear con el Editor de páginas de la página de la página de la página de la.
-uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: cdb5b891-8501-464a-bdd7-1b89dd17944c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3218
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 13%
+source-wordcount: '140'
+ht-degree: 3%
 
 ---
 
@@ -38,7 +38,7 @@ Presentado por: Patrick Fauchere, Director de Ingeniería, Adobe
 
 [Tutorial de fin de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=es)
 
-[Documentación](https://helpx.adobe.com/es/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentación](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Muestra: We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 

@@ -1,14 +1,14 @@
 ---
 title: Introducción a AEM Screens
 description: AEM Screens es la nueva solución de señalización digital integrada en Adobe Experience Manager. AEM En esta sesión de Gems de la, presentaremos las principales funciones de AEM Screens y cómo configurar un proyecto simple con una presentación de diapositivas y una experiencia interactiva. A continuación, se ofrece una descripción general de cómo desarrollar componentes optimizados para AEM Screens y cómo configurar canales para su uso sin conexión. Por último, exploraremos la API de REST de AEM Screens y explicaremos cómo integrar complementos de Cordova personalizados.
-uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 8%
+source-wordcount: '256'
+ht-degree: 2%
 
 ---
 

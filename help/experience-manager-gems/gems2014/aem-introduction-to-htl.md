@@ -1,13 +1,13 @@
 ---
 title: Introducción a HTL
 description: Obtenga una introducción a HTL, un nuevo motor de creación de plantillas e implementación de idiomas. AEM HTL se esfuerza por reemplazar a JSP como lenguaje de script para los componentes Apache Sling y CQ/, y se esfuerza por separar claramente las preocupaciones de presentación y lógica.
-uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: 504fa5bb-43e7-4b8c-9291-928fb4f37d0f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4010
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---

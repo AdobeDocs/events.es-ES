@@ -2,10 +2,11 @@
 title: Información general de Skill Builder
 description: Serie de seminarios web grabados para generar su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
 exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 48
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +21,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
   <td>
     <img alt="Contenido y comercio" src="assets/commerce.png" />
     <div>
-      Contenido y comercio de <strong></strong>
+      <strong>Content and Commerce</strong>
     </div>
     <p>
     <em>Cree y administre una amplia gama de atractivos sitios web, aplicaciones móviles y formularios. Además, aprenda a crear experiencias de comercio multicanal en una sola plataforma con nuestra solución de comercio flexible y basada en IA.</em>

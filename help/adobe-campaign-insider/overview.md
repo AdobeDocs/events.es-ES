@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] Serie Insider
 description: Consejos y trucos e inspiración para el Adobe [!DNL Campaign] clientes de para ayudar a desarrollar estrategias de marketing entre canales, aumentar las habilidades de los profesionales de marketing de equipo y ayudar a las organizaciones a lanzar estrategias de marketing entre canales más avanzadas.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Consejos y trucos e inspiración para el Adobe [!DNL Campaign] clientes de para 
       <img alt="Adobe [!DNL Campaign] integraciones con un ecosistema de marketing" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]Integraciones de Adobe con un ecosistema de marketing</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] integraciones con un ecosistema de marketing</strong></a>
          <br/>
       </div>
    </td>

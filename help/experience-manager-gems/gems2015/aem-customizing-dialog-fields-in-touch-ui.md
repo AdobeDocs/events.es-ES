@@ -1,13 +1,13 @@
 ---
 title: Personalizar campos de diálogo en la IU táctil
 description: AEM Aprenda a implementar campos (o widgets) personalizados para los cuadros de diálogo de la IU táctil en la versión 6.1 de. Descubra cómo se pueden hacer ahora las cosas que se hacían anteriormente con ExtJS (IU clásica) mediante la interfaz de usuario de Granite y la interfaz de usuario de Coral.
-uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3267
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---

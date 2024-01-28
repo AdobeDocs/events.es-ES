@@ -5,12 +5,12 @@ solution: Data Collection,Experience Platform
 kt: 10528
 thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
-event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3833
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 **Respuesta:** El ECID de Adobe no se captura dentro de esa extensión. Esta extensión está diseñada para crear identificadores adicionales anónimos (entre otras cosas).
 
-**Respuesta:** Sin embargo, el ECID de Adobe se puede capturar de otras maneras. Compartiremos esto a través de las notas de ExL y Twitter, ya que no podemos compartir enlaces en el chat aquí.
+**Respuesta:** Sin embargo, el ECID de Adobe se puede capturar de otras maneras. Compartiremos esto a través de las notas y el Twitter de ExL, ya que no podemos compartir enlaces en el chat aquí.
 
 <br> 
 

@@ -2,10 +2,11 @@
 title: Voces de administración de datos del cliente
 description: Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes.  Esta página es su punto de encuentro para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 117
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 19%
+source-wordcount: '306'
+ht-degree: 4%
 
 ---
 

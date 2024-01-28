@@ -1,14 +1,14 @@
 ---
 title: AEM Mecanismos de actualización de 5.6 de
 description: AEM AEM Obtenga información acerca de los mecanismos de actualización en CQ/, que permiten actualizar el propio CQ, así como las aplicaciones y el contenido personalizados, simplemente reemplazando el archivo CQ/JAR por el nuevo. Revisaremos el escenario general de actualización, describiremos los puntos de extensión de actualización, explicaremos cómo probamos los mecanismos de actualización y comentaremos algunos de los desafíos técnicos relacionados con la actualización.
-uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: a440b824-bf46-4fb7-8683-1a38e4e32f14
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3272
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 

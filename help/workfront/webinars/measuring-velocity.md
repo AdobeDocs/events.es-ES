@@ -1,15 +1,15 @@
 ---
 title: Pregunte al experto - Medición de velocidad
 description: Aprenda a medir y rastrear la velocidad mediante [!DNL Workfront] informes. Este taller se grabó el 14 de agosto de 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4630
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '3958'
+source-wordcount: '3967'
 ht-degree: 1%
 
 ---
@@ -473,4 +473,4 @@ En la pestaña Filters, cree las siguientes reglas de filtro:
 
 **Respuesta**
 
-Un planificador puede crear informes y compartirlos con cualquier usuario, incluso con personas que no sean usuarios. Cuando visualice el informe, vaya a Acciones de informe>Compartir y, a continuación, haga clic en el icono de engranaje en la parte superior derecha del cuadro Acceso a informes. Elija la opción &quot;Convertir esto en público para los usuarios externos&quot;. JVM. Puede copiar el vínculo proporcionado y enviarlo a cualquier persona. Verán el informe en tiempo real en el explorador.
+Un planificador puede crear informes y compartirlos con cualquier usuario, incluso con personas que no sean usuarios. Cuando visualice el informe, vaya a Acciones de informe>Compartir y, a continuación, haga clic en el icono de engranaje en la parte superior derecha del cuadro Acceso a informes. Elija la opción &quot;Convertir esto en público para los usuarios externos&quot;. opción. Puede copiar el vínculo proporcionado y enviarlo a cualquier persona. Verán el informe en tiempo real en el explorador.

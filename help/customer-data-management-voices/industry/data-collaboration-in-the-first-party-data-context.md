@@ -9,10 +9,11 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 31%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
@@ -22,7 +23,7 @@ Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un a
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## Principales conclusiones:
+## Consideraciones clave:
 
 * Cómo incorporar modelos de colaboración de datos en el contexto de datos de origen, con el consentimiento del consumidor.
 * Creación de asociaciones de marca a marca y de editor directo que cumplan la promesa de la experiencia.

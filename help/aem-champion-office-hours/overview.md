@@ -2,9 +2,10 @@
 title: AEM Horario de oficina de Campeón de
 description: Este grupo de usuarios de Adobe Experience Manager AEM (AEMUG) se ve facilitado por la clase de campeones de la temporada 2022-2023 de la categoría de campeones de la categoría de. Los Campeones utilizarán esta AEMUG como plataforma para sus horarios de oficina mensuales
 exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 72
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

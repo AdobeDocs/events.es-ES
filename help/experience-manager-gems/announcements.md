@@ -7,7 +7,8 @@ topic: Administration
 role: User
 level: Intermediate
 hidefromtoc: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 11
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
@@ -22,4 +23,3 @@ ht-degree: 0%
 >
 >* La información sobre las próximas sesiones estará disponible a partir de noviembre de 2022.
 >* Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones automáticamente en futuros seminarios web.
-
