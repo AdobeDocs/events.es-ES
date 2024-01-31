@@ -12,14 +12,14 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
 exl-id: 38ddf2a1-3631-4844-a9a4-e2c8d1b57dd3
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: f23fdf7fc8b04af88ace43e56b7d6ff65cc02cf2
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# AEM Evento de intercambio de habilidades agosto de 2023 - Foco de Experience Maker - Creación de correos electrónicos de marketing altamente personalizados con el uso de la
+# AEM Evento de intercambio de habilidades agosto de 2023: Elementos destacados de Experience Maker: creación de correos electrónicos de marketing altamente personalizados con ayuda de un usuario de correo electrónico
 
 La comunicación por correo electrónico es una de las formas más importantes de llegar a sus clientes actuales y potenciales. Poder crear correos electrónicos altamente personalizados de forma eficaz puede aumentar en gran medida la participación del cliente. AEM Cuando alguien piensa en la (Adobe Experience Manager), a menudo piensa en sitios web y contenido web. AEM Pero, ¿sabía que también se puede usar la para crear correos electrónicos?
 
