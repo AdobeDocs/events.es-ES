@@ -4,10 +4,10 @@ description: Recopilación de grabaciones de eventos centrados en el uso de prod
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
 workflow-type: tm+mt
-source-wordcount: '912'
-ht-degree: 5%
+source-wordcount: '997'
+ht-degree: 10%
 
 ---
 
@@ -19,6 +19,449 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
 
 ## Serie de eventos
 
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider Series" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png" alt="Adobe Campaign Insider">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider Series">Adobe Campaign Insider Series</a>
+          </p>
+          <p class="is-size-6">
+         Sugerencias, trucos e inspiración para clientes de Adobe Campaign a fin de desarrollar estrategias de marketing entre canales, aumentar las habilidades de los profesionales de marketing en equipo y ayudar a las organizaciones a iniciar estrategias de marketing entre canales más avanzadas.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Foro de gestión de contenido de Adobe" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png" alt="Foro de gestión de contenido de Adobe">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Foro de gestión de contenido de Adobe">Foro de gestión de contenido de Adobe</a>
+          </p>
+          <p class="is-size-6">
+         Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro de la estrategia de administración de contenido, los entregables, los desafíos y los requisitos técnicos.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Product Updates" tabIndex="2">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Actualizaciones de productos de Adobe Commerce" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Actualizaciones de productos de Adobe Commerce">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Actualizaciones de productos de Adobe Commerce">Actualizaciones de productos de Adobe Commerce</a>
+          </p>
+          <p class="is-size-6">
+         Las últimas innovaciones de producto en Adobe Commerce, presentadas por el equipo de producto de Adobe Commerce.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Developers Live" tabIndex="3">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live">Adobe Developers Live</a>
+          </p>
+          <p class="is-size-6">
+         Adobe Developers Live reúne a desarrolladores de Adobes y creadores de experiencias con diversos antecedentes y un único propósito: crear experiencias integrales increíbles.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Champion Office Hours" tabIndex="4">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Horario de oficina de Campeón de" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEM Horario de oficina de Campeón de">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Horario de oficina de Campeón de">AEM Horario de oficina de Campeón de</a>
+          </p>
+          <p class="is-size-6">
+         Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="APAC Adobe Commerce Webinars" tabIndex="5">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Seminarios web de APAC Adobe Commerce" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="Seminarios web de APAC Adobe Commerce">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Seminarios web de APAC Adobe Commerce">Seminarios web de APAC Adobe Commerce</a>
+          </p>
+          <p class="is-size-6">
+         La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Customer Success Webinars" tabIndex="6">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe de seminarios web de éxito de clientes" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Adobe de seminarios web de éxito de clientes">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe de seminarios web de éxito de clientes">Adobe de seminarios web de éxito de clientes</a>
+          </p>
+          <p class="is-size-6">
+         Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce and Coffee" tabIndex="7">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Comercio y café" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Comercio y café">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Comercio y café">Comercio y café</a>
+          </p>
+          <p class="is-size-6">
+         La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia de Commerce de Sr., Corey Gelato. La serie se centra en estrategias y tácticas de comercio, apoyadas por estadísticas que reflejan el tema del evento.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Customer Data Management Voices" tabIndex="8">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=es" title="Voces de administración de datos del cliente" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Voces de administración de datos del cliente">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=es" title="Voces de administración de datos del cliente">Voces de administración de datos del cliente</a>
+          </p>
+          <p class="is-size-6">
+         Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Una tienda única para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Deep Dives" tabIndex="9">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Profundización" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Profundización">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="Profundización">Profundización</a>
+          </p>
+          <p class="is-size-6">
+         Las grabaciones de eventos bajo demanda de Deep Dive le ayudan a comprender mejor cómo usar Adobe Marketo para apoyar su negocio.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience League LIVE" tabIndex="10">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">Experience League LIVE</a>
+          </p>
+          <p class="is-size-6">
+         Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League. Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Manager GEMS" tabIndex="11">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMS de Experience Manager" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="GEMS de Experience Manager">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMS de Experience Manager">GEMS de Experience Manager</a>
+          </p>
+          <p class="is-size-6">
+         Inmersiones técnicas en profundidad de Adobe Experience Manager realizadas por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Manager Release Overview" tabIndex="12">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=es" title="Resumen de la versión de Experience Manager" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Resumen de la versión de Experience Manager">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=es" title="Resumen de la versión de Experience Manager">Resumen de la versión de Experience Manager</a>
+          </p>
+          <p class="is-size-6">
+         Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de AEM que comparten los aspectos más destacados de la última versión.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn from your Peers" tabIndex="13">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Aprenda de sus compañeros" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="Aprenda de sus compañeros">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="Aprenda de sus compañeros">Aprenda de sus compañeros</a>
+          </p>
+          <p class="is-size-6">
+         Aprenda, con expertos en Adobe y compañeros, a sacar el máximo partido a las soluciones de Adobe. Con los temas seleccionados para los profesionales, por los profesionales, estas sesiones interactivas comparten casos de uso, prácticas recomendadas y consejos y trucos "del arte de lo posible".</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo and Mochas" tabIndex="14">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo y Mochas" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketo y Mochas">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo y Mochas">Marketo y Mochas</a>
+          </p>
+          <p class="is-size-6">
+         Marketo y Mochas le ayudarán a comprender mejor cómo utilizar Adobe Marketo para dar soporte a su negocio.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Office Hours" tabIndex="15">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Horario de oficina" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png" alt="Horario de oficina">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Horario de oficina">Horario de oficina</a>
+          </p>
+          <p class="is-size-6">
+         Horario de oficina es un enfoque proactivo para la desviación de casos que ofrece a los clientes seminarios web específicos de la solución.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="MBI Webinars" tabIndex="16">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Seminarios web de MBI" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png" alt="Seminarios web de MBI">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Seminarios web de MBI">Seminarios web de MBI</a>
+          </p>
+          <p class="is-size-6">
+         La serie de seminarios web de MBI es un evento periódico para los clientes de MBI. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar MBI al máximo.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Skill Builders" tabIndex="17">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Generadores de habilidades" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="Generador de habilidades">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Generadores de habilidades">Generadores de habilidades</a>
+          </p>
+          <p class="is-size-6">
+         El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Skill Exchange" tabIndex="18">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Intercambio de habilidades" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Marketo y Mochas">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Intercambio de habilidades">Intercambio de habilidades</a>
+          </p>
+          <p class="is-size-6">
+         Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront" tabIndex="19">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Workfront">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront">Workfront</a>
+          </p>
+          <p class="is-size-6">
+         Biblioteca de eventos de Workfront grabados en la que expertos y compañeros comparten ideas sobre cómo utilizar Workfront.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div></div>
+
+<!--
 <table>
   <tr>
    <td>
@@ -31,33 +474,33 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       </div>
       <p>
         <br/>
-         Sugerencias, trucos e inspiración para clientes de Adobe Campaign a fin de desarrollar estrategias de marketing entre canales, aumentar las habilidades de los profesionales de marketing en equipo y ayudar a las organizaciones a iniciar estrategias de marketing entre canales más avanzadas.
+         Tips & tricks and inspiration for Adobe Campaign customers to help evolve cross-channel marketing strategies, elevate team marketing practitioner skills, and help organizations launch more advanced cross-channel marketing strategies.
       </p>
     </td>
    <td>
       <a href="/help/adobe-content-management-forum/overview.md">
-      <img style="width:100%" alt="Foro de gestión de contenido de Adobe" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
+      <img style="width:100%" alt="Adobe Content Management Forum" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-content-management-forum.png"/>
       </a>
       <div>
-         <a href="/help/adobe-content-management-forum/overview.md"><strong>Foro de gestión de contenido de Adobe</strong></a>
+         <a href="/help/adobe-content-management-forum/overview.md"><strong>Adobe Content Management Forum</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
         <br/>
-         Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro de la estrategia de administración de contenido, los entregables, los desafíos y los requisitos técnicos.
+         Learn from Adobe experts as they discuss the current and future state of content management strategy, deliverables, challenges, and technical requirements.
       </p>
     </td>
    <td>
       <a href="/help/adobe-commerce-product-updates/overview.md">
-      <img style="width:100%" alt="Actualizaciones de productos de Adobe Commerce" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png"/>
+      <img style="width:100%" alt="Adobe Commerce Product Updates" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png"/>
       </a>
       <div>
-         <a href="/help/adobe-commerce-product-updates/overview.md"><strong>Actualizaciones de productos de Adobe Commerce</strong></a>
+         <a href="/help/adobe-commerce-product-updates/overview.md"><strong>Adobe Commerce Product Updates</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         Las últimas innovaciones de producto en Adobe Commerce, presentadas por el equipo de producto de Adobe Commerce.
+         The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.
       </p>
     </td>
    <td>
@@ -66,93 +509,93 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Servicios de Acrobat, Workfront</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce, Adobe Experience Manager, Adobe Experience Platform, Acrobat Services, Workfront</em>
       </div>
       <p>
         <br/>
-         Adobe Developers Live reúne a desarrolladores de Adobes y creadores de experiencias con diversos antecedentes y un único propósito: crear experiencias integrales increíbles.
+         Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.
       </p>
     </td>
     </tr>
     <tr>    
     <td>
       <a href="/help/aem-champion-office-hours/overview.md">
-      <img style="width:100%" alt="AEM Horario de oficina de Campeón de" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
+      <img style="width:100%" alt="AEM Champion Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
       </a>
       <div>
-         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Horario de oficina de Campeón de</strong></a>
+         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Champion Office Hours</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.
+         If you are interested in advancing your knowledge and use of Adobe Experience Manager, interacting with Experience Manager thought leaders, and earning exclusive swag - then join the AEM Champion Office Hours User Group today!
       </p>
     </td> 
    <td>
       <a href="/help/apac-commerce/overview.md">
-      <img style="width:100%" alt="Seminarios web de APAC Adobe Commerce" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
+      <img style="width:100%" alt="APAC Adobe Commerce Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
       </a>
       <div>
-         <a href="/help/apac-commerce/overview.md"><strong>Seminarios web de APAC Adobe Commerce</strong></a>
+         <a href="/help/apac-commerce/overview.md"><strong>APAC Adobe Commerce Webinars</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
+         The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.
       </p>
     </td>
       <td>
       <a href="/help/adobe-customer-success-webinars/overview.md">
-      <img style="width:100%" alt="Adobe de seminarios web de éxito de clientes" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      <img style="width:100%" alt="Adobe Customer Success Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
       </a>
       <div>
-         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe de seminarios web de éxito de clientes</strong></a>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobe Customer Success Webinars</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Audience Manager, Customer Journey Analytics, Experience Cloud, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
+         Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.
       </p>
     </td>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
-      <img style="width:100%" alt="Comercio y café" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
+      <img style="width:100%" alt="Commerce and Coffee" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
       </a>
       <div>
-         <a href="/help/commerce-and-coffee/overview.md"><strong>Comercio y café</strong></a>
+         <a href="/help/commerce-and-coffee/overview.md"><strong>Commerce and Coffee</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia de Commerce de Sr., Corey Gelato. La serie se centra en estrategias y tácticas de comercio, apoyadas por estadísticas que reflejan el tema del evento.
+         The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.
       </p>
     </td>
     </tr>
     <tr> 
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
-      <img style="width:100%" alt="Voces de administración de datos del cliente" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
+      <img style="width:100%" alt="Customer Data Management Voices" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
       </a>
       <div>
-         <a href="/help/customer-data-management-voices/overview.md"><strong>Voces de administración de datos del cliente</strong></a>
+         <a href="/help/customer-data-management-voices/overview.md"><strong>Customer Data Management Voices</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Platform, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Una tienda única para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.
+         Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.
       </p>
     </td>
     <td>
       <a href="/help/deep-dives/overview.md">
-      <img style="width:100%" alt="Profundización" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
+      <img style="width:100%" alt="Deep Dives" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
       <div>
-         <a href="/help/deep-dives/overview.md"><strong>Profundización</strong></a>
+         <a href="/help/deep-dives/overview.md"><strong>Deep Dives</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Marketo</em>
       </div>
       <p>
         <br/>
-         Las grabaciones de eventos bajo demanda de Deep Dive le ayudan a comprender mejor cómo usar Adobe Marketo para apoyar su negocio.
+         Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.
       </p>
     </td>
    <td>
@@ -160,120 +603,120 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
       </a>
       <div>
-         <a href="/help/experience-league-live/overview.md"><strong>EXPERIENCE LEAGUE LIVE</strong></a>
+         <a href="/help/experience-league-live/overview.md"><strong>Experience League LIVE</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Audience Manager, Adobe Experience Manager, Adobe Experience Platform, Real-Time CDP, Adobe Journey Optimizer, Adobe Target </em>
       </div>
       <p>
         <br/>
-         Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League. Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
+         Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
       </p>
     </td>
    <td>
       <a href="/help/experience-manager-gems/overview.md">
-      <img style="width:100%" alt="GEMS de Experience Manager" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
+      <img style="width:100%" alt="Experience Manager GEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
       </a>
       <div>
-         <a href="/help/experience-manager-gems/overview.md"><strong>GEMS de Experience Manager</strong></a>
+         <a href="/help/experience-manager-gems/overview.md"><strong>Experience Manager GEMS</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
         <br/>
-         Inmersiones técnicas en profundidad de Adobe Experience Manager realizadas por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
+         Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.
       </p>
     </td>
     </tr>
     <tr> 
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
-      <img style="width:100%" alt="Resumen de la versión de Experience Manager" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
+      <img style="width:100%" alt="Experience Manager Release Overview" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
       </a>
       <div>
-         <a href="/help/experience-manager-release-overview/overview.md"><strong>Resumen de la versión de Experience Manager</strong></a>
+         <a href="/help/experience-manager-release-overview/overview.md"><strong>Experience Manager Release Overview</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
         <br/>
-         Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de AEM que comparten los aspectos más destacados de la última versión.
+         Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
       </p>
     </td>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
-      <img style="width:100%" alt="Aprenda de sus compañeros" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
+      <img style="width:100%" alt="Learn from your Peers" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
       </a>
       <div>
-         <a href="/help/learn-from-your-peers/overview.md"><strong>Aprenda de sus compañeros</strong></a>
+         <a href="/help/learn-from-your-peers/overview.md"><strong>Learn from your Peers</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo</em>
       </div>
       <p>
         <br/>
-         Aprenda, con expertos en Adobe y compañeros, a sacar el máximo partido a las soluciones de Adobe. Con los temas seleccionados para los profesionales, por los profesionales, estas sesiones interactivas comparten casos de uso, prácticas recomendadas y consejos y trucos "del arte de lo posible".
+         Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share "art of the possible" use cases, best practices, and tips & tricks.
       </p>
     </td>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
-      <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
+      <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
       </a>
       <div>
-         <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo y Mochas</strong></a>
+         <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo and Mochas</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Marketo</em>
       </div>
       <p>
         <br/>
-         Marketo y Mochas le ayudarán a comprender mejor cómo utilizar Adobe Marketo para dar soporte a su negocio.
+         Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.
       </p>
     </td>
     <td>
       <a href="/help/office-hours/overview.md">
-      <img style="width:100%" alt="Horario de oficina" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
       </a>
       <div>
-         <a href="/help/office-hours/overview.md"><strong>Horario de oficina</strong></a>
+         <a href="/help/office-hours/overview.md"><strong>Office Hours</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Platform, Adobe Experience Manager, Adobe Commerce, Adobe Marketo, Adobe Target, Workfront</em>
       </div>
       <p>
         <br/>
-         Horario de oficina es un enfoque proactivo para la desviación de casos que ofrece a los clientes seminarios web específicos de la solución. 
+         Office Hours is a proactive approach to case deflection by offering customers solution-specific webinars. 
       </p>
     </td>
     </tr>
     <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
-      <img style="width:100%" alt="Seminarios web de MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
+      <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
       </a>
       <div>
-         <a href="/help/mbi-webinars/overview.md"><strong>Seminarios web de MBI</strong></a>
+         <a href="/help/mbi-webinars/overview.md"><strong>MBI Webinars</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         La serie de seminarios web de MBI es un evento periódico para los clientes de MBI. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar MBI al máximo.
+         The MBI webinar series is a periodic event for MBI customers. The webinars cover a wide range of topics and best practices for using MBI to its fullest potential.
       </p>
     </td>
     <td>
       <a href="/help/skill-builder/overview.md">
-      <img style="width:100%" alt="Generador de habilidades" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
+      <img style="width:100%" alt="Skill Builder" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
       </a>
       <div>
-         <a href="/help/skill-builder/overview.md"><strong>Generadores de habilidades</strong></a>
+         <a href="/help/skill-builder/overview.md"><strong>Skill Builders</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.
+         Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.
       </p>
     </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
-      <img style="width:100%" alt="Marketo y Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
+      <img style="width:100%" alt="Marketo and Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
       </a>
       <div>
-         <a href="/help/skill-exchange/overview.md"><strong>Intercambio de habilidades</strong></a>
+         <a href="/help/skill-exchange/overview.md"><strong>Skill Exchange</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Experience Manager, Adobe Marketo, Adobe Workfront</em>
       </div>
       <p>
         <br/>
-         Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
+         Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips & tricks.
       </p>
     </td> 
     <td>
@@ -286,8 +729,9 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       </div>
       <p>
         <br/>
-         Biblioteca de eventos de Workfront grabados en la que expertos y compañeros comparten ideas sobre cómo utilizar Workfront.
+         A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.
       </p>
     </td>
   </tr>    
 </table>
+-->
