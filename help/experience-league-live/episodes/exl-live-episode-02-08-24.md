@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,6 @@ ht-degree: 0%
 
 Introducción a los libros de reproducción de casos de uso: un catálogo procesable de libros de reproducción de casos de uso específicos del sector en Real-Time CDP y Journey Optimizer. En este seminario web aprenderá sobre los manuales de casos de uso y cómo traducen sus objetivos de marketing en objetos de implementación. Le mostraremos cómo impulsar a su organización hacia la creación e implementación de casos de uso conocidos comúnmente para acelerar el impacto y la colaboración empresariales.
 
-[![ExL LIVE 08 de febrero de 2024](assets/WebBanner-Feb08-2024.jpg)](https://www.youtube.com/watch?v=EZGQ--J2M9I)
+>[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
-**Haga clic en la imagen anterior para establecer un recordatorio de YouTube Live**.
-
+**¿Tiene preguntas al respecto?** Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
