@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
+source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '168'
 ht-degree: 44%
 
 ---
@@ -30,7 +30,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>Avance con la nueva interfaz de usuario de Adobe Campaign v8</strong>
+        <strong>Avance con la nueva interfaz de usuario web de Adobe Campaign</strong>
       </a>
       <br/><em>con Sandra Hausmann, Eric Perrin, Gaël Mouëllo y Bruce Swann</em>
       <br/><em>29 de febrero de 2024</em>
