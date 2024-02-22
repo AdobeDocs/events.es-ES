@@ -2,10 +2,10 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Adobe de seminarios web de éxito de clientes {#adobe-customer-success-webinar-recordings}
 
 + [Adobe de seminarios web de éxito de clientes](overview.md)
++ 2024 {#2024}
+   + [Priorización del flujo de datos](2024/data-stream-prioritization.md)
+   + [Liderazgo estratégico](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Creación de la base para la personalización a escala](2023/personalization-at-scale.md)
    + [Administración de cambios](2023/change-management.md)
