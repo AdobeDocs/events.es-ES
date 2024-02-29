@@ -2,10 +2,10 @@
 user-guide-title: Eventos de Commerce Intelligence
 breadcrumb-title: Eventos de Commerce Intelligence
 user-guide-description: Commerce Intelligence Events es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre Adobe Commerce Intelligence.
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 4%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Eventos de Commerce Intelligence  {#commerce-intelligence-webinar-recordings}
 
 + [Información general](overview.md)
++ 2024 {#2024}
+   + [Administración de conjuntos de datos en Adobe Commerce Intelligence](2024/manage-data-sets-adobe-commerce.md)
 + 2023 {#2023}
    + [Introducción a Commerce Intelligence](2023/getting-started.md)
    + [Administración de conjuntos de datos en Commerce Intelligence](2023/manage-data-sets.md)
