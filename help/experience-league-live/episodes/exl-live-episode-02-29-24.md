@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
+source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 2%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -27,8 +27,8 @@ La versión 8 de Adobe Campaign tendrá un aspecto completamente nuevo. La exper
 ## Recursos adicionales
 
 * **[Interfaz de usuario web de Campaign: funciones clave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=es){target="_blank"}**
-*Para obtener documentación detallada sobre lo que está disponible actualmente en la interfaz de usuario web de Adobe Campaign, visite [Interfaz de usuario web de Campaign: funciones clave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=es){target="_blank"}.
+  *Documentación detallada sobre lo que está disponible actualmente en la interfaz de usuario web de Adobe Campaign.*
 
 * **[Interfaz de usuario web de Adobe Campaign: Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-*Cómo ver vídeos y tutoriales sobre las funciones y capacidades de la interfaz de usuario web de Adobe Campaign.
+  *Vídeos y tutoriales sobre las funciones y capacidades de la interfaz de usuario web de Adobe Campaign.*
 
