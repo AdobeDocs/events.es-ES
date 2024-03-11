@@ -1,7 +1,7 @@
 ---
 title: Introducción de los datos y análisis de Adobe Analytics en Customer Journey Analytics
-description: Descubra cómo las nuevas funciones pueden ayudarle a activar audiencias de forma más eficaz y eficiente para una personalización impactante.
-kt: KT-14746
+description: Descubra cómo los nuevos procesos automatizados pueden ayudarle a mover sus datos y análisis de Adobe Analytics a Adobe Customer Journey Analytics.
+jira: KT-14746
 thumbnail: https://video.tv.adobe.com/v/3426778?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
@@ -9,9 +9,9 @@ event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,23 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
+>[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
+
 **Continúe con la discusión sobre [Debate del Foro de la Comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
 
+>[!ENDSHADEBOX]
+
+## Puntos clave
+
+* Existen dos formas de obtener datos de Adobe Analytics en Customer Journey Analytics: el conector de datos de Analytics (ADC) y el SDK web.
+* El ADC permite copiar datos de un grupo de informes en Adobe Experience Platform para su análisis, mientras que el SDK web envía datos directamente a Adobe Experience Platform.
+* Las vistas de datos de Customer Journey Analytics proporcionan una forma de personalizar y analizar los datos que se introducen en la plataforma.
+* Las vistas de datos ofrecen potentes funciones, como cambios retroactivos, campos derivados para la personalización y la capacidad de filtrar y analizar datos a nivel granular.
+* Las conexiones en Customer Journey Analytics permiten la unión de diferentes conjuntos de datos, lo que permite el análisis de varias fuentes de datos en un solo lugar.
+* Las vistas de datos y las conexiones deben utilizarse estratégicamente y con precaución para garantizar una gobernanza y un control adecuados del acceso y el análisis de los datos.
+* Hay una nueva herramienta llamada &quot;migración de componentes&quot; que permite a los administradores de Adobe Analytics migrar proyectos a CGA.
+* Al migrar un proyecto, todos los componentes de las tablas, así como los segmentos o métricas calculadas aplicadas, se mueven a CGA.
+* Hay un proceso de asignación en el que los componentes que no existen en CGA se pueden asignar mediante campos captador global o derivados.
+* Se recomienda crear un captador global para los elementos que no existen en CGA y luego editarlos en el proyecto de destino.
+* Anteriormente, se creía que las métricas calculadas y los segmentos tenían que volver a crearse al migrar a CGA, pero ahora hay una opción para migrarlos.
+* Para garantizar que las métricas calculadas y los segmentos se incluyen en la migración, deben aplicarse a una tabla o visualización en Adobe Analytics.

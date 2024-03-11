@@ -1,15 +1,16 @@
 ---
-title: Avance con la nueva interfaz de usuario web de Adobe Campaign
-description: Únase a nosotros el 29 de febrero para aprender a planificar, iniciar y medir estrategias multicanal mediante la nueva interfaz de usuario web de Adobe Campaign.
-kt: KT-14433
+title: Mejore la eficacia del marketing en medios sociales con la nueva interfaz de usuario web de Adobe Campaign
+description: Aprenda a ser más eficiente en la planificación, el lanzamiento y la medición de estrategias de marketing entre canales, incluido el marketing por correo electrónico y el marketing en medios sociales mediante la nueva interfaz de usuario web de Adobe Campaign.
+jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e8ecba0a2c066e881e53be13f07352e636058de2
+exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '424'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,25 @@ La versión 8 de Adobe Campaign tendrá un aspecto completamente nuevo. La exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-**¿Tiene preguntas?** Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+>[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
+
+Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
+La nueva interfaz de usuario web de Campaign es importante porque ofrece una experiencia de usuario unificada y moderna para los usuarios de Adobe Campaign. Simplifica el proceso de creación de campañas, facilita la navegación y la configuración, y ofrece funciones como la creación de audiencias, el diseño de contenido y la administración de campañas. La nueva interfaz de usuario también se integra con otras soluciones de Adobe Experience Cloud, lo que facilita a los usuarios el acceso y el uso de diferentes herramientas dentro del ecosistema. Además, se puede acceder a la nueva interfaz de usuario desde los exploradores web, lo que elimina la necesidad de que los usuarios cambien entre distintas plataformas o aplicaciones. En general, la nueva IU web de Campaign mejora la eficacia, la experiencia del usuario y la colaboración para los especialistas en marketing y los administradores de campaña.
+
+## Puntos clave
+
+* Se ha lanzado la nueva interfaz de usuario web de campañas de Adobe, que está disponible para los clientes con la versión 8.6 de Adobe Campaign.
+* La interfaz de usuario web proporciona una experiencia de usuario unificada y coherente en todos los productos de Adobe Experience Cloud.
+* La página de inicio de la interfaz de usuario web permite un acceso rápido a todas las aplicaciones del Experience Cloud y proporciona notificaciones y opciones de asistencia.
+* La IU web simplifica el proceso de creación de audiencias, definición de campañas y diseño del contenido del correo electrónico.
+* La interfaz de usuario web permite la integración de bases de datos de terceros y proporciona acceso a Adobe Experience Platform y Adobe Analytics.
+* La actividad JavaScript aún no se puede editar en la interfaz de usuario web, pero se puede ejecutar y ver.
+* La interfaz de usuario web admite el uso de filtros predefinidos y permite personalizar la navegación del Explorador.
+* La interfaz de usuario web se actualiza continuamente con nuevas funciones y funcionalidades.
+
 
 ## Recursos adicionales
 
@@ -31,4 +50,3 @@ La versión 8 de Adobe Campaign tendrá un aspecto completamente nuevo. La exper
 
 * **[Interfaz de usuario web de Adobe Campaign: Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Vídeos y tutoriales sobre las funciones y capacidades de la interfaz de usuario web de Adobe Campaign.*
-

@@ -8,13 +8,13 @@ duration: 3778
 last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
-source-git-commit: 3871036fda1f4286b5aef937a41463ebac302141
+exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
+source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
-
 
 # Campañas ejecutables: Descubra cómo los ejecutables pueden impulsar la eficacia y el impacto
 
@@ -23,12 +23,18 @@ ht-degree: 0%
 **Moderado por** Chris Willis
 **Altavoces** Courtny Edwards-Jones y Jane Musatova
 
-Conozca cómo Marketo Champs ha utilizado campañas ejecutables para resolver una variedad de problemas, incluyendo la reintento automático de procesos fallidos.
+## Información general
 
-Esta sesión está diseñada para todos, desde administradores de Marketo hasta profesionales de operaciones de campañas estratégicas, y se centra en comprender e implementar campañas ejecutables para añadir valor inmediatamente a sus campañas y programas, crear eficiencia e impulsar el crecimiento.
+En esta edición del Adobe Champion Deep Dive, analizamos el uso de campañas ejecutables en Marketo y proporcionamos ejemplos de cómo se pueden utilizar para optimizar los procesos y garantizar la precisión de los datos. Las campañas ejecutables son un tipo de campaña inteligente que ejecuta flujos de forma sincrónica, lo que permite dependencias entre diferentes pasos. Se pueden utilizar para reintentar automáticamente los procesos fallidos, como la estandarización de datos o la calificación de posibles clientes, antes de pasar al siguiente paso. El documento también cubre el uso de campañas principales y ejecutables anidados, así como las limitaciones de las campañas ejecutables, como la incapacidad para utilizar webhooks o los pasos de espera.
 
-Perspectivas clave
+## ¿Cuál es el propósito de utilizar campañas ejecutables?
 
-* *Los 101 de las campañas ejecutables* : Conozca las diferencias entre las campañas ejecutables y otros flujos de trabajo automatizados y activados y, cuando sea mejor utilizar cualquiera de ellos, las ventajas clave de utilizar ejecutables, así como sugerencias y trucos que le ayudarán a generar de forma eficaz.
-* *Automatización de procesos fallidos* - Aprenda a utilizar campañas ejecutables para automatizar la gestión de procesos fallidos, garantizando operaciones sin problemas y minimizando la intervención manual. Descubra estrategias para identificar y corregir errores de forma eficaz, mejorando la fiabilidad general del flujo de trabajo.
-* *Creación de un Centro de Excelencia Operacional* - Explore cómo las campañas ejecutables pueden agilizar la identificación de las fuentes de contacto, la puntuación, la higiene de los datos y los procesos de enriquecimiento. Descubra técnicas para optimizar estos pasos críticos, reduciendo la redundancia y mejorando la precisión para crear un flujo de &quot;procesamiento original&quot; más robusto.
+El propósito de utilizar campañas ejecutables es optimizar y automatizar flujos de trabajo complejos en Marketo. Las campañas ejecutables permiten definir una secuencia de acciones que deben completarse antes de pasar al siguiente paso de una campaña. Esto garantiza que cada acción se ejecute completamente antes de continuar, lo que reduce el riesgo de errores o procesos incompletos. Las campañas ejecutables se pueden utilizar para reintentar procesos fallidos, estandarizar y enriquecer datos, calificar posibles clientes, capturar momentos interesantes y mucho más. Proporcionan una forma más eficaz y organizada de gestionar y automatizar sus operaciones de marketing.
+
+## ¿Qué es una campaña ejecutable y cómo funciona?
+
+Una campaña ejecutable es un tipo de campaña inteligente en Marketo que permite la ejecución secuencial de varios flujos dentro de una sola campaña. Está diseñado para garantizar que cada flujo se ejecute completamente antes de que comience el siguiente. Esto es diferente a una campaña de solicitud, que ejecuta flujos de forma asíncrona y puede tener varios flujos ejecutándose en paralelo.
+
+Para crear una campaña ejecutable, debe marcar la casilla &quot;Ejecutable&quot; al crear la campaña. Una vez creada, puede agregar pasos de flujo a la campaña, como cambiar los valores de los datos, enviar correos electrónicos o actualizar los estados del programa. Sin embargo, las campañas ejecutables tienen algunas limitaciones. No puede utilizar déclencheur, webhooks ni pasos de espera dentro de una campaña ejecutable.
+
+Las campañas ejecutables son útiles para procesos que dependen unos de otros, donde es necesario completar un flujo antes de que pueda comenzar el siguiente. Pueden ayudar a optimizar los procesos operativos, simplificar el procesamiento de datos y minimizar el riesgo de errores o retrasos. Con campañas ejecutables, puede asegurarse de que cada paso de un proceso se complete antes de pasar al siguiente, lo que mejora la eficacia y precisión de sus operaciones de marketing.
