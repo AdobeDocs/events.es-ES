@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -45,14 +45,15 @@ ht-degree: 0%
 </table>
 
 -->
-AEM Nuestro último seminario web de GEM de la sobre **Liberar el potencial de APM de New Relic AEM para el as a Cloud Service de la. Maximice el rendimiento y agilice la resolución de problemas** se ha realizado el *20 de septiembre de 2023*.
-El **grabación** se puede encontrar aquí: [APM de New Relic para Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+AEM Nuestro último seminario web de GEM de la sobre **Crear tiendas en Edge Delivery Services con Adobe Commerce** se ha realizado el *6 de marzo de 2024*.
+El **grabación** se puede encontrar aquí:
+[Crear tiendas en Edge Delivery Services con Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > AEM Regístrese para recibir notificaciones sobre futuros seminarios web de GEM en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
 
-## AEM Reinicio en 2022 de los GEM de la
+## AEM AEM GEMs - seminarios web técnicos en torno a la - para desarrolladores impartidos por desarrolladores
 
 Bienvenido a **AEM GEMs de** - nuestra serie de seminarios web sobre conocimientos técnicos en Adobe Experience Manager, impartidos por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
 
@@ -61,9 +62,7 @@ Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes
 * Una duración máxima de 60 minutos
 * Preguntas y respuestas al final y chat con expertos disponibles durante todo el seminario web
 * Grabación disponible después de cada seminario web
-* El seminario web es gratuito
-
-AEM Todos nuestros seminarios web de GEMs en la red son gratuitos y se llevan a cabo virtualmente.
+* AEM Todos los seminarios web de GEMs son gratuitos y se llevan a cabo de manera virtual, solo se requiere el registro.
 
 Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones sobre nuestros próximos seminarios web.
 

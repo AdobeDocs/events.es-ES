@@ -2,10 +2,10 @@
 user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 5%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 5%
 # Eventos de GEMS de Experience Manager {#experience-manager-gems-recordings}
 
 + [Información general](overview.md)
++ 2024 {#gems2024}
+   + [AEM Introducción a la creación de y Edge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Crear tiendas en Edge Delivery Services en Adobe Commerce](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [APM de New Relic AEM para el uso en as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM Certificación de: técnica](gems2023/aem-certification-technical.md)
@@ -21,7 +24,7 @@ ht-degree: 5%
 + 2022 {#gems2022}
    + [AEM Caso práctico de cliente e implementación de la aplicación sin encabezado en uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Mirando bajo el capó - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [Integrar el marco de AEM y CIF para crear una experiencia de comercio electrónico enriquecida e inmersiva](gems2022/aem-and-cif-framework-integration.md)
+   + [AEM CIF Integrar el marco de trabajo de la y el cliente para crear una experiencia de comercio electrónico enriquecida e inmersiva](gems2022/aem-and-cif-framework-integration.md)
    + [AEM Creación de sitios web más rápida con el Generador de aplicaciones y sin encabezado](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service: revisión de 2021 y perspectivas para 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
