@@ -1,6 +1,7 @@
 ---
 title: AEM Introducción a la creación de y Edge Delivery Services
 description: AEM AEM Este seminario web de GEMs incluye una presentación y una demostración para mostrarle cómo funciona la creación de contenido junto con los Edge Delivery Services de la aplicación. Le guiaremos por el proceso de creación de un nuevo proyecto de Edge Delivery Services AEM que esté habilitado para la creación de contenido con AEM Cloud Service, y le mostraremos cómo puede beneficiarse de la experiencia de desarrollo ágil y ligera que viene con los Edge Delivery Services, pero que conserva una experiencia de creación WYSIWYG para el profesional.
+solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
 topic: Development
@@ -11,7 +12,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 32ae273fcd9f4271e1a61684d925a8fcb74252b8
+source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
