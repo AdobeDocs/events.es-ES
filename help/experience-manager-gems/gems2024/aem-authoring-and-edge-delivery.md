@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Fecha del seminario web: 13 de marzo de 2024
 
-Hora: 17:00 CET / 8:00 PST / 21:30 IST Regístrese en el siguiente enlace de la página del evento.
+Este seminario web se ha completado. Vea la grabación siguiente.
 
 ## AEM Introducción a la creación de y Edge Delivery Services
 
@@ -31,11 +31,11 @@ AEM AEM Este seminario web de GEMs incluye una presentación y una demostración
 
 * Dirk Rudolph, Gerente, Desarrollo de software, Adobe
 
-## Registro de seminario web
+## Grabación de seminario web
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* Regístrese/Confirme su asistencia a este seminario web mediante [Página de evento](https://adobe.ly/4bz9T0H).
 > 
 >* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite nuestra [hilo contextual](https://adobe.ly/3uIj6D7).
 >
