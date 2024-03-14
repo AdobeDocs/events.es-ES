@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ ht-degree: 0%
 </table>
 
 -->
-AEM Nuestro último seminario web de GEM de la sobre **Crear tiendas en Edge Delivery Services con Adobe Commerce** se ha realizado el *6 de marzo de 2024*.
+AEM Nuestro último seminario web de GEM de la sobre **AEM Introducción a la creación de y Edge Delivery Services** se ha realizado el *13 de marzo de 2024*.
 El **grabación** se puede encontrar aquí:
-[Crear tiendas en Edge Delivery Services con Adobe Commerce](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[AEM Introducción a la creación de y Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> AEM Regístrese para recibir notificaciones sobre futuros seminarios web de GEM en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+> AEM Regístrese para recibir notificaciones sobre próximos seminarios web de GEM de la - [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
 
 ## AEM AEM GEMs - seminarios web técnicos en torno a la - para desarrolladores impartidos por desarrolladores
 
