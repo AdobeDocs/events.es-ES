@@ -2,7 +2,7 @@
 title: Un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC
 description: Sumérjase en la racionalización del comercio electrónico mediante las prácticas del Ciclo de vida del desarrollo de software ágil (SDLC).  Conozca el análisis y la planificación de requisitos, las estrategias para gestionar los registros de errores y funciones, la planificación de proyectos para iniciativas a gran escala, los consejos para probar procedimientos aplicables en varias fases, garantizar el desarrollo de sitios web de comercio electrónico sólidos y fiables, y los consejos para fomentar una comunicación eficaz. Haciendo hincapié en la transparencia y la responsabilidad como motores clave para una ejecución correcta del proyecto. Puede acceder a las diapositivas aquí.
 solution: Commerce
-feature-set: "Commerce"
+feature-set: Commerce
 feature: Best Practices
 topic: Performance
 role: Admin, Developer, Leader
@@ -12,13 +12,13 @@ duration: 3491
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
+source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Optimización del comercio electrónico: un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC
 
