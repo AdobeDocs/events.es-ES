@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 44%
+source-wordcount: '181'
+ht-degree: 41%
 
 ---
 
@@ -25,11 +25,28 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
 <tr>
-  <td>
-    Vuelva pronto para conocer nuestro próximo espectáculo de abril de 2024.<br/>
-    Mientras tanto, nos vemos en el... <a href="https://summit.adobe.com/na/">Adobe Summit</a> del 25 al 28 de marzo de 2024.
-
-</td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/WebBanner-April18-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Nuevos paneles de detección de Marketo Measure</strong>
+      </a>
+      <br/><em>con Ian Michels, Kate Colbert y James Leedom</em>
+      <br/><em>18 de abril de 2024</em>
+    </div>
+  </td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Nuevo canal de experiencia basado en código en Journey Optimizer</strong>
+      </a>
+      <br/><em>con Sandra Hausmann, Robert Calangiu y Brent Kostak</em>
+      <br/><em>24 de abril de 2024</em>
+    </div>
+  </td>
 </tr>
 </table>
 
