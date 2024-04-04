@@ -2,9 +2,9 @@
 user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
-source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '705'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,7 @@ ht-degree: 2%
 
 + [Información general](overview.md)
 + 2024 {#gems2024}
+   + [Introducción a Edge Delivery Services para AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
    + [AEM Introducción a la creación de y Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Crear tiendas en Edge Delivery Services en Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
