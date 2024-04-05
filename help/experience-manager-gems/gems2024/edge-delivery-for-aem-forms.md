@@ -1,6 +1,6 @@
 ---
 title: Introducción a Edge Delivery Services para AEM Forms
-description: 'Aprenda a crear y publicar AEM Forms con Edge Delivery Services y a ofrecerlos como experiencias excepcionales a través de Edge. AEM Explicaremos dos formas de crear estos formularios: mediante la creación basada en documentos y la creación basada en documentos, así como la creación basada en la. Aprenderá a configurar un proyecto de Edge Delivery Services de AEM Forms para personalizar bloques y componentes de Forms y para utilizar extensiones del lado del servidor. También aprenderá a aprovechar AEM Forms as a Cloud Service para el procesamiento back-end de Forms después del envío. '
+description: 'Aprenda a crear y publicar AEM Forms con Edge Delivery Services y a ofrecerlos como experiencias excepcionales a través de Edge. AEM Explicaremos dos formas de crear estos formularios: mediante la creación basada en documentos y la creación basada en documentos, así como la creación basada en la. Aprenderá a configurar un proyecto de Edge Delivery Services de AEM Forms para personalizar bloques y componentes de Forms y para utilizar extensiones del lado del servidor. También aprenderá a aprovechar AEM Forms as a Cloud Service para el procesamiento back-end de Forms después del envío.'
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Aprenda a crear y publicar AEM Forms con Edge Delivery Services y a ofrecerlos c
 * Arun Taneja, Director de gestión de productos, Adobe
 * Vijay Kumar Jalagari, Sr. Gerente de Ingeniería, Adobe
 
-## Grabación de seminario web
+## Interacción de comunidad de seminario web
 
 >[!NOTE]
 > 
->* Para las interacciones de comunidad específicas de la sesión en el Experience League, un hilo contextual estará disponible en breve.
+>* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite los respectivos [Hilo contextual](https://adobe.ly/4aCz0OE).
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
