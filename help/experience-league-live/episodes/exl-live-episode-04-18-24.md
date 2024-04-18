@@ -8,7 +8,7 @@ event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
 exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
-source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
+source-git-commit: 05a172345f394d3eacff2548d4e71547bbf000f3
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -30,3 +30,4 @@ Temas analizados:
 * Qué nuevos paneles pregenerados están disponibles y cómo sacar el máximo partido a ellos
 * Métricas recién disponibles y cómo utilizarlas para aumentar las perspectivas comerciales
 * Creación y guardado de informes personalizados
+
