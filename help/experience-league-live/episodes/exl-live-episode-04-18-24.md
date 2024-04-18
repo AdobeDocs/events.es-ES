@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure ha rediseñado por completo los paneles de Discover. No se trata solo de pequeñas mejoras y adiciones; se trata de un cambio de imagen completo. Las tablas han sido reinventadas y, lo más importante, simplificadas. Estos nuevos tableros son mucho más intuitivos y fáciles de usar para proporcionarle los datos que necesita, de forma rápida y sencilla.
 
-[![ExL LIVE 17 de enero de 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Regístrese ahora](https://engage.adobe.com/ExpLeagueLive-240418.html) para el evento.**
+Temas analizados:
 
+* Filosofía de la atribución en un mundo de marketing B2B
+* Cambio de la mentalidad de creación de informes a ingresos
+* Descubra consejos profesionales para segmentar y mejorar estratégicamente los datos
+* Aprenda a resolver los errores más comunes
+* Qué nuevos paneles pregenerados están disponibles y cómo sacar el máximo partido a ellos
+* Métricas recién disponibles y cómo utilizarlas para aumentar las perspectivas comerciales
+* Creación y guardado de informes personalizados
