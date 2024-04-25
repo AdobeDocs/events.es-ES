@@ -8,9 +8,9 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Active el control de superficies entrantes y de personalización granular con acciones centradas en el desarrollador.
 
-[![ExL LIVE 17 de enero de 2024](assets/WebBanner-Apr24-2024.jpg)](https://www.youtube.com/watch?v=ZKa4OatgQjk)
-
-**Haga clic en la imagen anterior para configurar un recordatorio de YouTube para el evento.**
+>[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
 **Detalles**: Canal de experiencia basado en código en Adobe Journey Optimizer desbloquea enormes oportunidades y nuevos casos de uso para las marcas que amplían sus programas de personalización y experimentación. Este nuevo canal permite a los equipos aumentar el control de la personalización mediante acciones basadas en código JSON o de HTML con la capacidad de cambiar aspectos granulares de las aplicaciones nativas. El canal de experiencia basado en código amplía la flexibilidad y el rendimiento de las implementaciones del lado del cliente, del lado del servidor, híbridas y basadas en API.
 
@@ -29,7 +27,7 @@ En este episodio en directo para Experience League, únase a los expertos en pro
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+**Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
 
