@@ -4,10 +4,10 @@ description: Recopilación de grabaciones de eventos centrados en el uso de prod
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
-ht-degree: 10%
+source-wordcount: '1028'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,30 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
 
 ## Serie de eventos
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Adobe Campaign Insider Series" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Seminarios web de Acrobat Sign">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Seminarios web de Acrobat Sign">Seminarios web de Acrobat Sign</a>
+          </p>
+          <p class="is-size-6">
+         Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -41,7 +64,8 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -144,7 +168,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
               <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Seminarios web de APAC Adobe Commerce">Seminarios web de APAC Adobe Commerce</a>
           </p>
           <p class="is-size-6">
-         La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.</p>
+         La serie de seminarios web de APAC Commerce es una cadencia mensual de seminarios para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
@@ -177,18 +201,18 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Comercio y café" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Comercio y café">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce and Coffee" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce and Coffee">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Comercio y café">Comercio y café</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce and Coffee">Commerce and Coffee</a>
           </p>
           <p class="is-size-6">
-         La serie Commerce &amp; Coffee está destinada a clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia de Commerce de Sr., Corey Gelato. La serie se centra en estrategias y tácticas de comercio, apoyadas por estadísticas que reflejan el tema del evento.</p>
+         La serie Commerce &amp; Coffee está dirigida a los clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia Sr. Commerce, Corey Gelato. La serie se centra en las estrategias y tácticas de Commerce, apoyadas en estadísticas que reflejan el tema del evento.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>

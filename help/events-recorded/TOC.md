@@ -2,10 +2,10 @@
 user-guide-title: Grabaciones de eventos de Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Recopilación de grabaciones de eventos centrados en el uso de productos de Adobe Enterprise
-source-git-commit: 2f61c1360c57a6c93a36cfb944351c67b98a54ed
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 14%
+source-wordcount: '347'
+ht-degree: 12%
 
 ---
 
@@ -14,14 +14,15 @@ ht-degree: 14%
 
 + [Información general](overview.md)
 + Por serie {#series}
+   + [Seminarios web de Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Foro de gestión de contenido de Adobe](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Actualizaciones de productos de Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Horario de oficina de Campeón de](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
-   + [Eventos de comercio de APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [Eventos de Commerce de APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [Adobe de seminarios web de éxito de clientes](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
-   + [Comercio y café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+   + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Voces de administración de datos del cliente](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=es)
    + [Profundización](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -35,6 +36,8 @@ ht-degree: 14%
    + [Intercambio de habilidades](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Por solución {#solution}
+   + Acrobat Sign {#as}
+      + [Seminarios web de Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + Servicios de Adobe Acrobat {#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + Adobe Audience Manager {#aam}
@@ -54,8 +57,8 @@ ht-degree: 14%
    + Adobe Commerce {#acommerce}
       + [Actualizaciones de productos de Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [Eventos de comercio de APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-      + [Comercio y café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
+      + [Eventos de Commerce de APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+      + [Commerce and Coffee](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Seminarios web de MBI](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [Horario de oficina](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [Generador de habilidades](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
