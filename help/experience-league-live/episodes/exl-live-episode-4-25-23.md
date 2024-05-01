@@ -2,15 +2,15 @@
 title: Comience la recopilación de datos y el reenvío de eventos con solo unos clics.
 description: Con unos pocos clics, los flujos de trabajo de inicio rápido de la recopilación de datos de Adobe configurarán varios elementos en el backend para ahorrarle tiempo y asegurarse de que la configuración sea correcta.
 solution: Data Collection,Experience Platform,Analytics,Real-Time Customer Data Platform,Customer Journey Analytics
+feature: Data Collection
 kt: 13041
-thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-04-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
 duration: 3694
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 24%
@@ -28,3 +28,4 @@ Si no tiene experiencia con las modernas herramientas de recopilación de datos 
 Inicie el vídeo anterior para ver una reproducción de este evento de flujo en directo.
 
 ¿Tiene preguntas al respecto? Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+

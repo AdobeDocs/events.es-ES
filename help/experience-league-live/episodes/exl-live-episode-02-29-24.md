@@ -2,13 +2,14 @@
 title: Avance con la nueva interfaz de usuario web de Adobe Campaign
 description: Aprenda a ser más eficiente en la planificación, el lanzamiento y la medición de estrategias de marketing entre canales, incluido el marketing por correo electrónico y el marketing en medios sociales mediante la nueva interfaz de usuario web de Adobe Campaign.
 jira: KT-14433
-thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
+solution: Campaign v8 Web User Interface
+feature: Configuration
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
 ht-degree: 1%
@@ -50,3 +51,4 @@ La nueva interfaz de usuario web de Campaign es importante porque ofrece una exp
 
 * **[Interfaz de usuario web de Adobe Campaign: Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Vídeos y tutoriales sobre las funciones y capacidades de la interfaz de usuario web de Adobe Campaign.*
+

@@ -2,13 +2,14 @@
 title: Nuevo canal de experiencia basado en código en Journey Optimizer
 description: Active el control de superficies entrantes y de personalización granular con acciones centradas en el desarrollador.
 kt: KT-14776
-thumbnail: https://video.tv.adobe.com/v/3428095?format=jpeg
+solution: Journey Optimizer
+feature: Code-based Experiences
 event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
-event-start-time: 2024-04-18 08:30-7
+event-start-time: 2024-04-24 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -30,4 +31,3 @@ En este episodio en directo para Experience League, únase a los expertos en pro
 **Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
-

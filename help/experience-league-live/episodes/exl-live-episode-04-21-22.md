@@ -2,13 +2,13 @@
 title: AEM de con encabezado a sin encabezado (y todo lo que hay entre medias)
 description: Un desglose detallado de las implementaciones de Adobe Experience Manager Sites más comunes.
 solution: Experience Manager
-thumbnail: https://video.tv.adobe.com/v/342475?format=jpeg
+feature: Headless
 event-cta-url: https://youtu.be/idByz7WrhbQ
 event-start-time: 2022-04-21 09:00-7
 event-guests: Amol Anand, Sachin Mali, Sean Steimer
 exl-id: 9d5203ce-fb0d-4b0e-9508-29aeae467149
 duration: 5193
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -30,3 +30,4 @@ Un desglose detallado de las implementaciones de Adobe Experience Manager Sites 
 Descargue las diapositivas presentadas durante la grabación:
 
 **[AEMHeadfulHeadless.pdf](../assets/documents/AEMHeadfulHeadless.pdf)**
+
