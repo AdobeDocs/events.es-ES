@@ -1,18 +1,18 @@
 ---
-title: Serie de seminarios web sobre comercio APAC
-description: La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
+title: Serie de seminarios web de Commerce APAC
+description: La serie de seminarios web de APAC Commerce es una cadencia mensual de seminarios para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Serie de seminarios web sobre comercio APAC
+# Serie de seminarios web de Commerce APAC
 
-La serie de seminarios web sobre comercio de APAC es una cadencia mensual de talleres para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector. Escuche a varios expertos en productos de toda la empresa y únase a en directo para tener la oportunidad de hacer preguntas y hablar con el equipo directamente. Esta serie le ayudará a tener éxito y a maximizar su inversión en la plataforma de Adobe Commerce.
+La serie de seminarios web de APAC Commerce es una cadencia mensual de seminarios para clientes de Adobe Commerce que abarca una amplia gama de temas, desde prácticas recomendadas hasta hoja de ruta de productos y tendencias del sector. Escuche a varios expertos en productos de toda la empresa y únase a en directo para tener la oportunidad de hacer preguntas y hablar con el equipo directamente. Esta serie le ayudará a tener éxito y a maximizar su inversión en la plataforma de Adobe Commerce.
 
 ## Novedades
 
@@ -32,29 +32,29 @@ La serie de seminarios web sobre comercio de APAC es una cadencia mensual de tal
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Herramienta Adobe Commerce Site Wide Analysis" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Herramienta Adobe Commerce Site Wide Analysis" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>Optimice su negocio con PaaS Cloud Commerce de Adobe</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>La ventaja creativa: cómo el pensamiento visionario está transformando Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Únase a nuestro seminario web para descubrir las ventajas de la solución Commerce Cloud PaaS de Adobe, tanto si es un alojamiento propio como si siente curiosidad por PaaS o por un cliente existente que busca optimizar su configuración.</em>
+    <em>Explore la integración de creatividad y comercio.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="Ventajas de actualizar a Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+      <img alt="Ventajas de actualizar a Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>Personalización con tecnología IA</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+        <strong>7 formas de hacer crecer un negocio de comercio electrónico de forma orgánica</strong>
       </a>
     </div>
     <p>
-    <em>Aproveche el poder de la IA para obtener una experiencia de cliente excepcional con la inversión de Adobe en IA y su integración en Commerce.</em>
+    <em>Obtenga información valiosa y consejos prácticos para hacer crecer un negocio de comercio electrónico de forma orgánica a través de estrategias de SEO</em>
     <p>
   </td>
 </tr>
