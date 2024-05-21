@@ -2,10 +2,10 @@
 user-guide-title: Eventos de Commerce de APAC
 breadcrumb-title: Eventos de Commerce de APAC
 user-guide-description: Eventos de Adobe Commerce es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Adobe Commerce.
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [Información general](overview.md)
 + 2024 {#2024}
+   + [Día del acelerador](2024/accelerator-day/overview.md)
+   + Día del acelerador{#accelerator-day}
+      + [Oculto: navegación para mañana](./2024/accelerator-day/navigating-tomorrow.md)
+      + [Oculto: panel más allá de los bordes](./2024/accelerator-day/panel-beyond-borders.md)
+      + [Oculto: evolución de la experiencia](./2024/accelerator-day/experience-evolution.md)
+      + [Oculto: panel que toca el mañana](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [Oculto: Commerce de próxima generación](./2024/accelerator-day/next-gen-commerce.md)
+      + [Oculto: debajo de la superficie](./2024/accelerator-day/beneath-the-surface.md)
+      + [Oculto: velocidad del rayo](./2024/accelerator-day/lightning-speed.md)
+      + [Oculto: Composición](./2024/accelerator-day/composability.md)
+      + [Oculto: Sinfonía en canales múltiples](./2024/accelerator-day/cross-channel-symphony.md)
+      + [Oculto: El arte de Commerce](./2024/accelerator-day/the-art-of-commerce.md)
    + [Seminario web sobre innovación](2024/innovation-spotlight.md)
    + [Cómo el pensamiento visionario está transformando Commerce](2024/visionary-thinking.md)
    + [7 formas de hacer crecer un negocio de comercio electrónico de forma orgánica](2024/grow-ecommerce-business.md)
