@@ -2,10 +2,10 @@
 user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
-source-git-commit: cc1d6b52a335ca76968eb78e89efdf060dfd064d
+source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
 workflow-type: tm+mt
-source-wordcount: '705'
-ht-degree: 2%
+source-wordcount: '718'
+ht-degree: 1%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 2%
 
 + [Información general](overview.md)
 + 2024 {#gems2024}
+   + [Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Introducción a Edge Delivery Services para AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
    + [AEM Introducción a la creación de y Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Crear tiendas en Edge Delivery Services en Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
@@ -88,7 +89,7 @@ ht-degree: 2%
    + [AEM Inmersión en el proceso de actualización de la](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Almacenamiento en caché de Dispatcher: nuevas funciones y optimizaciones](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
    + [AEM [!DNL Forms] introducción al paquete de funciones 1 y ejemplos técnicos](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
-   + [Integración de IBM AEM WebSphere Commerce para el usuario de](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
+   + [Integración de IBM WebSphere Commerce AEM para el usuario de](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
    + [AEM Dentro de ACS Commons y herramientas](gems2015/aem-inside-acs-aem-commons-and-tools.md)
    + [Módulo de inicio de sesión externo de Oak](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar: un elemento clave para mejorar la calidad del producto](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
@@ -100,7 +101,7 @@ ht-degree: 2%
    + [Cómo sacar el máximo partido a su paquete de funciones DAM](gems2014/aem-dam-feature-pack.md)
    + [Entrega de contenido administrado a sus aplicaciones nativas](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM Modo de desarrollador de.0](gems2014/aem-developer-mode.md)
-   + [Herramientas para desarrolladores de AEM para Eclipse](gems2014/aem-developer-tools-for-eclipse.md)
+   + [AEM Herramientas para desarrolladores para Eclipse](gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher: nuevas funciones y prácticas recomendadas](gems2014/aem-dispatcher.md)
    + [Creación eficiente de componentes reutilizables](gems2014/aem-efficiently-build-reusable-components.md)
    + [Introducción a HTL](gems2014/aem-introduction-to-htl.md)
