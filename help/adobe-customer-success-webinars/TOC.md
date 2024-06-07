@@ -2,9 +2,9 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '142'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,15 @@ ht-degree: 1%
 
 + [Adobe de seminarios web de éxito de clientes](overview.md)
 + 2024 {#2024}
+   + [Adobe Workfront - Equipos lean](2024/workfront-lean-teams.md)
    + [Priorización del flujo de datos](2024/data-stream-prioritization.md)
+   + [Gestión eficaz de cambios](2024/effective-change-management.md)
    + [Fortalecer los equipos lean](2024/empowering-lean-teams.md)
    + [Expedia pasa de Adobe Analytics a Customer Journey Analytics](2024/expedia-aa-to-cja.md)
+   + [Hiperpersonalización](2024/hyperpersonalization.md)
    + [Liderazgo estratégico](2024/strategic-leadership.md)
+   + [Asignación de casos de uso a funcionalidades de la solución](2024/use-case-mapping.md)
+   + [Aspectos básicos de migración del SDK web](2024/web-sdk-migration.md)
 + 2023 {#2023}
    + [Creación de la base para la personalización a escala](2023/personalization-at-scale.md)
    + [Administración de cambios](2023/change-management.md)

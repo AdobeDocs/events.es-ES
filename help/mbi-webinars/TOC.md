@@ -1,19 +1,20 @@
 ---
-user-guide-title: Eventos de Commerce Intelligence
-breadcrumb-title: Eventos de Commerce Intelligence
+user-guide-title: Eventos de inteligencia de Commerce
+breadcrumb-title: Eventos de inteligencia de Commerce
 user-guide-description: Commerce Intelligence Events es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre Adobe Commerce Intelligence.
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '77'
 ht-degree: 5%
 
 ---
 
 
-# Eventos de Commerce Intelligence  {#commerce-intelligence-webinar-recordings}
+# Eventos de inteligencia de Commerce  {#commerce-intelligence-webinar-recordings}
 
 + [Información general](overview.md)
 + 2024 {#2024}
+   + [Preguntas frecuentes en Commerce Intelligence](2024/faq-in-commerce-intelligence.md)
    + [Administración de conjuntos de datos en Adobe Commerce Intelligence](2024/manage-data-sets-adobe-commerce.md)
 + 2023 {#2023}
    + [Introducción a Commerce Intelligence](2023/getting-started.md)
@@ -22,7 +23,7 @@ ht-degree: 5%
    + [Optimización de la Data Warehouse de Commerce Intelligence](2021-22/optimize-data-warehouse.md)
    + [Análisis profundo de los paneles de Commerce Intelligence](2021-22/dashboards-deep-dive.md)
    + [Preparación para las vacaciones con Commerce Intelligence](2021-22/holiday-readiness.md)
-   + [Inteligencia comercial: pregunte a un experto](2021-22/ask-expert.md)
+   + [Commerce Intelligence: pregunte a un experto](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)

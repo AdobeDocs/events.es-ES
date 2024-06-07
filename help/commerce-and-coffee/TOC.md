@@ -1,19 +1,20 @@
 ---
-user-guide-title: Eventos de comercio y café
-breadcrumb-title: Eventos de comercio y café
+user-guide-title: Eventos de Commerce y Coffee
+breadcrumb-title: Eventos de Commerce y Coffee
 user-guide-description: Adobe Commerce and Coffee es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Adobe Commerce.
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 6%
 
 ---
 
 
-# Comercio y café {#commerce-and-coffee-recordings}
+# Commerce and Coffee {#commerce-and-coffee-recordings}
 
 + [Información general](overview.md)
 + 2024 {#2024}
+   + [Ecommerce Essentials](2024/ecommerce-essentials.md)
    + [Personalización de las experiencias de comercio electrónico con IA](2024/personalize-ecommerce.md)
 + 2023 {#2023}
    + [Preguntarme Cualquier Cosa](2023/ask-me-anything.md)
@@ -23,7 +24,7 @@ ht-degree: 6%
    + [Fortalecer el éxito B2B](2023/b2b.md)
 + 2022 {#2022}
    + [IA y automatización](2022/ai-and-automation.md)
-   + [Tendencias del comercio electrónico](2022/ecommerce-trends.md)
+   + [Tendencias de E-Commerce](2022/ecommerce-trends.md)
    + [Retrospectiva de vacaciones](2022/holiday.md)
    + [Preparación de temporada alta](2022/peak-season-prep.md)
    + [Temporada Alta Pregúntame Cualquier Cosa](2022/peak-season-ask-anything.md)
