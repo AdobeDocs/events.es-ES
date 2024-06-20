@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # Fecha del seminario web: 19 de junio de 2024
 
-Este seminario web se transmitirá el miércoles 19 de junio a las 17:00 CEST / 8:00 PDT / 20:30 IST.
-Regístrese a través de nuestro [página de evento](https://adobe.ly/3wLRpdI).
+Este seminario web se ha llevado a cabo el miércoles, 19 de junio - 17:00 CEST / 8:00 PDT / 20:30 IST. Vea la grabación a continuación.
 
 ## Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos
 
@@ -34,10 +34,12 @@ AEM Los desarrolladores de tendrán la oportunidad de explorar las recién intro
 * Ian Reasor, Científico Informático Senior, Adobe
 * Ievgen Nedoviesov, Director, Ingeniería de software, Adobe
 
-## Interacción de comunidad de seminario web
+## Grabación de seminario web
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite los respectivos [Hilo contextual](https://adobe.ly/3UQXwFO).
+>* Para obtener interacciones de la comunidad específicas de la sesión en este seminario web sobre Experience League, visite el correspondiente [Hilo contextual](https://adobe.ly/3UQXwFO).
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
