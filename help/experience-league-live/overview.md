@@ -1,6 +1,6 @@
 ---
-title: Eventos de Experience League LIVE
-description: Una colección de vínculos a eventos pasados de Experience League LIVE
+title: Experience League de eventos en directo
+description: Una colección de vínculos a eventos anteriores de Experience League LIVE
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 4%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE es un programa de streaming en vivo producido por el equipo Experience League.  Es una oportunidad para conectarse con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
+Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League.  Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede aplicar con las aplicaciones de Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>Vuelva a esta página pronto para obtener más información sobre nuestros programas de junio de 2024:</b><br/>
-    * Versiones de H1 2024 para Adobe Real-time Customer Data Platform<br/>
-    * Adobe Workfront Unified Review &amp; Approvals
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League LIVE 26 de junio" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>Cómo las últimas versiones de Adobe Real-Time CDP pueden mover la aguja para su empresa</strong>
+      </a>
+      <br/><em>con Nina Caruso, Rudi Shumpert y Doug Moore</em>
+      <br/><em>26 de junio de 2024</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para descubrir métodos adicionales de aprendizaje, consulte nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como los [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Si desea conocer otros métodos de aprendizaje, consulte nuestra [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) así como individual [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es).
