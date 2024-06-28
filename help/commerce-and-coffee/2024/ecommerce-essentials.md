@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: Dominio de Ecommerce Essentials
 
@@ -22,3 +22,25 @@ En esta sesión, el consultor de estrategia sénior de Commerce, Corey Gelato, e
 Corey también compartirá una demostración en directo de las técnicas de comercialización de categorías, que van desde la organización manual hasta las asignaciones más automatizadas de productos inteligentes, así como las prácticas recomendadas de gestión de contenido y clientes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429437/?learn=on)
+
+## Puntos clave
+
+Las 3 principales conclusiones del seminario web &quot;Dominio de eCommerce Essentials&quot; con Cory Gelato:
+
+**Comercialización y Personalization**
+
+* El uso de algoritmos de aprendizaje automático para la comercialización puede afectar significativamente a las ventas y a la satisfacción del cliente.
+* Las recomendaciones de productos personalizadas basadas en experiencias de clientes individuales mejoran las tasas de participación y conversión.
+* Unas reglas de comercialización eficaces combinadas con el aprendizaje automático conducen a recomendaciones adaptadas que mejoran la experiencia general de compra.
+
+**Estrategia de marketing y promociones**
+
+* El marketing y las promociones son esenciales para estrategias de comercio electrónico exitosas dirigidas tanto a consumidores como a empresas.
+* Las estrategias como los descuentos, las ofertas especiales y los programas de fidelidad incentivan las compras, impulsan las conversiones y fomentan la lealtad de los clientes.
+* El uso de varios canales, como las redes sociales, el marketing por correo electrónico y la SEO, mejora la participación y retención de los clientes.
+
+**Segmentación de clientes para experiencias personalizadas**
+
+* El uso de atributos y segmentación de clientes permite crear experiencias personalizadas basadas en intereses de los clientes, como preferencias de fitness, lo que conduce a una mayor participación y satisfacción de los clientes.
+* La implementación de programas de fidelidad con puntos de recompensa por diversas acciones, como el registro, los registros a boletines informativos y las recomendaciones, puede aumentar la retención de clientes e incentivar los comportamientos deseados, lo que a la larga fomenta la lealtad de los clientes.
+* La personalización de promociones basadas en puntos de datos específicos y la creación de catálogos especiales para grupos de clientes distintos mediante permisos de categoría y catálogos compartidos pueden mejorar significativamente la experiencia de compra, aumentando la participación de los clientes y las tasas de conversión.
