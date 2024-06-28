@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
 event-start-time: 2024-06-26 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 duration: 25
-source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
+source-git-commit: 56ccf95c77ba8efebf8d8ed112d2e8e1d7c0418a
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 1%
@@ -19,9 +19,9 @@ ht-degree: 1%
 
 Conozca las últimas funciones de Adobe Real-Time CDP que se han lanzado en los últimos meses y vea cómo pueden marcar la diferencia en su negocio.
 
->[!VIDEO](https://video.tv.adobe.com/v/331788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Para continuar con la conversación, visite nuestro [debate sobre la Comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}**
+**Para continuar con la conversación, visite nuestro [debate sobre la Comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
 
 **Mostrar detalles**: ¿Es usted un profesional actual de Real-Time CDP y busca información sobre las novedades del producto, por qué importa y cómo el Adobe puede ayudarle a mejorar sus estrategias de administración de datos de clientes? No busques más, ¡has llegado al lugar correcto! En esta serie, profundizaremos en lo que se ha lanzado recientemente en Real-Time CDP para que pueda aprovechar las novedades de inmediato y crear un impacto para su organización.\
 En esta sesión, analizaremos y mostraremos cinco nuevas funciones que se han lanzado en los últimos meses:
@@ -37,4 +37,3 @@ Al salir de esta sesión, debería esperar lo siguiente:
 * Descubra cómo funcionan estas funciones en la práctica mediante una demostración en directo
 * Descubra por qué estas capacidades son impactantes y le proporcionan eficiencia y valor como profesional
 * Empiece a aprovechar estas nuevas funciones hoy mismo
-
