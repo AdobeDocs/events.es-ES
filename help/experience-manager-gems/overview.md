@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Próximos eventos de GEM de
+## AEM Próximo seminario web de GitHub de: integración de repositorios privados de GitHub en AEM Cloud Manager
 
-Los próximos seminarios web se anunciarán en julio de 2024.
+Este seminario web se llevará a cabo el miércoles, 31 de julio - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web; registre [aquí](https://adobe.ly/3LmXfGk).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ Los próximos seminarios web se anunciarán en julio de 2024.
 
 ## AEM Evento de GEM anterior de
 
-AEM Nuestro último seminario web de GEM de la sobre **Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos** se ha realizado el *19 de junio de 2024*.
-El **grabación** se puede encontrar aquí:
+AEM Nuestro último seminario web sobre la mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos **de GEMs en la fecha de *19 de junio de 2024*.**
+La **grabación** se encuentra aquí:
 [Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> AEM AEM Regístrese para recibir notificaciones sobre próximos seminarios web de GEMs y otros eventos relacionados con la - [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+> AEM AEM Regístrese para recibir notificaciones acerca de los seminarios web de GEMs y otros eventos relacionados con el GEMs de la próxima semana: [Grupo de usuarios de la red de Adobe AEM ](https://aem-augs.adobe.com/).
 
 ## AEM AEM GEMs - seminarios web técnicos en torno a la - para desarrolladores impartidos por desarrolladores
 
-Bienvenido a **AEM GEMs de** - nuestra serie de seminarios web sobre conocimientos técnicos en Adobe Experience Manager, impartidos por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
+AEM Bienvenidos a **GEMs**, nuestra serie de seminarios web sobre conocimientos técnicos en Adobe Experience Manager, impartidos por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.
 
 Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes:
 
@@ -71,7 +71,7 @@ Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes
 
 ## Comunidad de Experience League
 
-Nuestro [Comunidad de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es) desempeñar un papel fundamental en la adopción de productos y en el éxito de los clientes.
+Nuestra [comunidad de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es) desempeña un papel fundamental en la adopción de productos y en el éxito de los clientes.
 
 * Conexión: Póngase en contacto con compañeros y con el personal de Adobe para obtener orientación y prácticas recomendadas, desde la implementación hasta la expansión del uso del producto
 * Respuestas rápidas: amplio conjunto de respuestas de casos de uso reales para admitir el uso activo y exitoso de las soluciones de Adobe
