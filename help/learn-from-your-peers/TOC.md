@@ -1,11 +1,11 @@
 ---
-user-guide-title: "[!DNL Experience Makers Learn from your peers]"
+user-guide-title: “[!DNL Experience Makers Learn from your peers]”
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: "Colección de grabaciones de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa7d6f3d8f132e14c318f7df9bec97aa3805a57d
+user-guide-description: "Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]"
+source-git-commit: 8e156c10666116c4f761cc8ddc9dca3249b4e889
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 9%
+source-wordcount: '281'
+ht-degree: 4%
 
 ---
 
@@ -15,34 +15,34 @@ ht-degree: 9%
 + [Creadores de experiencia](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
-      + noviembre {#nov2023}
+      + Noviembre de {#nov2023}
          + [Visualizaciones de datos impactantes](analytics/nov2023/impactful-data-visualizations.md)
-      + agosto {#aug2023}
+      + Agosto de {#aug2023}
          + [Desbloquear la potencia de las reglas de procesamiento en Adobe Analytics](analytics/aug2023/processing-rules.md)
-      + Febrero {#feb2023}
+      + Febrero de {#feb2023}
          + [Creación de una cultura basada en datos](analytics/feb2023/data-driven-culture.md)
          + [Creación de una consulta de seguimiento de cultura basada en datos](analytics/feb2023/data-driven-culture-q-and-a.md)
    + 2022 {#2022}
-      + noviembre {#nov2022}
-         + [Pestaña Sugerencias y trucos](analytics/nov2022/tips-and-tricks.md)
+      + Noviembre de {#nov2022}
+         + [Sugerencias y trucos](analytics/nov2022/tips-and-tricks.md)
          + [Preguntas y respuestas sobre sugerencias y trucos para el campeón](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + agosto {#aug2022}
+      + Agosto de {#aug2022}
          + [Calidad de los datos y adopción](analytics/aug2022/data-quality.md)
-      + Junio {#jun2022}
+      + Junio de {#jun2022}
          + [Misión de documentación posible](analytics/june2022/mission-possible.md)
-      + marzo {#mar2022}
+      + Marzo de {#mar2022}
          + [Contar historias impactantes con datos](analytics/mar2022/stories-with-data.md)
-+ Comercio {#commerce}
-   + Febrero {#feb2024}
++ Commerce {#commerce}
+   + Febrero de {#feb2024}
       + [Comunicación, requisitos y pruebas en Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
-   + noviembre {#nov2023}
+   + Noviembre de {#nov2023}
       + [AEM Excelencia de desarrollador con componentes principales de](experience-manager/nov2023/core-components.md)
-   + Septiembre {#sept2023}
+   + Septiembre de {#sept2023}
       + [Una profundización en Herramientas para AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
-   + Julio {#july2023}
-      + [Estrategias de seguridad eficaces en Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
-   + Mayo {#may2023}
+   + Julio de {#july2023}
+      + [Estrategias de seguridad efectivas en el Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + Mayo de {#may2023}
       + [Dominio de contenido y fragmentos de experiencias](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + Abril de 2024 {#april2024}
@@ -51,12 +51,54 @@ ht-degree: 9%
       + [Dominio de puntuación de persona con Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
    + Noviembre de 2023 {#nov2023}
       + [MARKETO ENGAGE y DYNAMIC CHAT](marketo/nov2023/dynamic-chat.md)
-   + Septiembre de 2023 {#sept2023}
+   + {#sept2023} de septiembre de 2023
       + [Aumento de la capacidad de entrega de correo electrónico con Marketo Engage](marketo/sept2023/email-deliverability.md)
    + Junio de 2023 {#june2023}
       + [Seguimiento, análisis y optimización de campañas de marketing](marketo/june2023/marketing-campaigns.md)
    + Mayo de 2023 {#may2023}
-      + [Descifrar la personalización a escala de código mediante [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
+      + [Descifrando Personalization a escala de código usando  [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Marzo de 2023 {#mar2023}
-      + [Cómo hacer su [!DNL Adobe Marketo Engage] Contenido escalable](marketo/mar2023/templates-tokens-teamwork.md)
+      + [Cómo hacer que su contenido  [!DNL Adobe Marketo Engage] se pueda escalar](marketo/mar2023/templates-tokens-teamwork.md)
++ Workfront {#workfront}
+   + 2024 {#2024}
+      + Abril de {#april2024}
+         + [Asignación de personal a las prácticas administrativas del sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
+   + 2023 {#2023}
+      + Noviembre de {#november}
+         + [Uso de Workfront para la formación y la habilitación](workfront/2023/11/using-workfront-for-training-and-enablement.md)
+      + Julio de {#july}
+         + [Comunicación con los usuarios finales](workfront/2023/07/communicating-with-end-users.md)
+      + Junio de {#june}
+         + [Establecimiento de un centro de excelencia de Workfront](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
+      + Mayo de {#may}
+         + [Fundamentos de las plantillas de proyecto](workfront/2023/05/foundations-of-project-templates.md)
+      + Abril de {#april}
+         + [Búsqueda de eficiencia en la automatización de Workfront](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
+      + Marzo de {#march}
+         + [Mejora de la experiencia del usuario con el diseño de interfaces](workfront/2023/03/improving-user-experience-with-interface-design.md)
+      + Febrero de {#february}
+         + [Sugerencias para hacerse cargo de una instancia de Workfront existente](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
+   + 2022 {#2022}
+      + Diciembre de {#december}
+         + [Navegación por la administración de cambios en Workfront](workfront/2022/12/navigating-change-management.md)
+      + Noviembre de {#november}
+         + [La adopción del usuario final se realizó correctamente](workfront/2022/11/successful-end-user-adoption.md)
+      + Octubre de {#october}
+         + [Diseño de procesos y flujos de trabajo](workfront/2022/10/workflow-and-process-design.md)
+      + Septiembre de {#september}
+         + [Introducción a la administración de recursos](workfront/2022/09/getting-started-with-resource-management.md)
+      + Agosto de {#august}
+         + [Mantenimiento y limpieza del sistema](workfront/2022/08/system-maintenance-and-cleanup.md)
+      + Julio de {#july}
+         + [Todo acerca de las colas de solicitudes](workfront/2022/07/all-about-request-queues.md)
+      + Junio de {#june}
+         + [Fundamentos de la creación de informes operativos](workfront/2022/06/foundations-of-operational-reporting.md)
+      + Mayo de {#may}
+         + [Aprovechamiento del administrador del grupo](workfront/2022/05/leveraging-the-group-admin.md)
+      + Abril de {#april}
+         + [Diseño de una experiencia de usuario ideal](workfront/2022/04/designing-an-ideal-user-experience.md)
+      + Marzo de {#march}
+         + [¿Qué ES la gobernanza de Workfront?](workfront/2022/03/what-is-workfront-governance.md)
+      + Febrero de {#february}
+         + [Explicación de la administración de usuarios](workfront/2022/02/understanding-user-management.md)
 + [Aprenda a enviar una solicitud de campeón de Adobe destacado](./adobe-champion-application.md)
