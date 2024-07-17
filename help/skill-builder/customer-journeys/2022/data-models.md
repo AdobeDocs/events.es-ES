@@ -1,6 +1,6 @@
 ---
-title: Desarrollar y personalizar modelos de datos en Adobe [!DNL Campaign Classic]
-description: Aprenda a desarrollar un esquema de datos dentro de un modelo de datos en [!DNL Campaign Classic]
+title: Desarrollar y personalizar modelos de datos en el Adobe  [!DNL Campaign Classic]
+description: Aprenda a desarrollar un esquema de datos dentro de un modelo de datos en  [!DNL Campaign Classic]
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Desarrollar y personalizar modelos de datos en Adobe [!DNL Campaign Classic]
+# Desarrollar y personalizar modelos de datos en el Adobe [!DNL Campaign Classic]
 
-Únase a esta sesión con nuestro [!DNL Campaign] Instructor para aprender a desarrollar un esquema de datos dentro de un modelo de datos en [!DNL Campaign Classic].
+Únase a esta sesión con nuestro instructor de [!DNL Campaign] para aprender a desarrollar un esquema de datos dentro de un modelo de datos de [!DNL Campaign Classic].
 
-*Kamilia Tazi* Consultor de formación / Adobe
+*Kamilia Tazi* Consultora/Adobe de capacitación
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

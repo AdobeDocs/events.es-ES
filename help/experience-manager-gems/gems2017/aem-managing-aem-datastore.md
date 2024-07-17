@@ -8,7 +8,7 @@ duration: 2780
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM La sesión proporcionará información general sobre el DataStore (DS) y det
 
 >[!VIDEO](https://video.tv.adobe.com/v/20422/?quality=9)
 
-*Publicado el 11 de octubre de 2017*
+*Entregado el 11 de octubre de 2017*
 
 **Presentado por:**
 
 Amit Jain, Científico Informático, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/managing-aem-datastoreoct17.pdf)
 <!--

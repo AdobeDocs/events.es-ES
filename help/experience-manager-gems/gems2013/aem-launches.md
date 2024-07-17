@@ -8,7 +8,7 @@ duration: 2897
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ Adobe Experience Manager proporciona funciones para crear y publicar fácilmente
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*Publicado el 12 de junio de 2013*
+*Entregado el 12 de junio de 2013*
 
 **Presentado por:**
 
 Gilles Knobloch, Desarrollador principal, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/2013-06-12-launches-cqgems.pdf)
 

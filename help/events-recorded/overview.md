@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Con Experience League, el aprendizaje es un evento.
 
-Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su aprendizaje. Visite este espacio con frecuencia para ver grabaciones de eventos anteriores como Experience League LIVE, Generadores de habilidades de, Developers Live y más. Si desea registrarse en un evento próximo, consulte la [próximos eventos](https://%65xperienceleague.adobe.com/events/?lang=en) en el Experience League.
+Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su aprendizaje. Visite este espacio con frecuencia para ver grabaciones de eventos anteriores como Experience League LIVE, Generadores de habilidades de, Developers Live y más. Si deseas registrarte para un evento próximo, echa un vistazo a los [próximos eventos](https://%65xperienceleague.adobe.com/events/?lang=en) del Experience League.
 
 ## Serie de eventos
 
@@ -77,7 +77,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Foro de gestión de contenido de Adobe">Foro de gestión de contenido de Adobe</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Foro de gestión de contenido de Adobe">Foro de administración de contenido de Adobe</a>
           </p>
           <p class="is-size-6">
          Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro de la estrategia de administración de contenido, los entregables, los desafíos y los requisitos técnicos.</p>
@@ -99,7 +99,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Actualizaciones de productos de Adobe Commerce">Actualizaciones de productos de Adobe Commerce</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Actualizaciones de productos de Adobe Commerce">Actualizaciones de productos Adobe Commerce</a>
           </p>
           <p class="is-size-6">
          Las últimas innovaciones de producto en Adobe Commerce, presentadas por el equipo de producto de Adobe Commerce.</p>
@@ -143,7 +143,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Horario de oficina de Campeón de">AEM Horario de oficina de Campeón de</a>
+              AEM <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM Horario de oficina de Campeón de">Horario de oficina del campeón de la</a>
           </p>
           <p class="is-size-6">
          Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Manager, interactuar con líderes de pensamiento Experience Manager AEM y obtener muestras exclusivas, únase hoy al grupo de usuarios del horario de oficina del campeón de la.</p>
@@ -187,7 +187,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe de seminarios web de éxito de clientes">Adobe de seminarios web de éxito de clientes</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe de seminarios web de éxito de clientes">Seminarios web de éxito de clientes de Adobe</a>
           </p>
           <p class="is-size-6">
          Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.</p>
@@ -209,7 +209,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce and Coffee">Commerce and Coffee</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce and Coffee">Commerce y café</a>
           </p>
           <p class="is-size-6">
          La serie Commerce &amp; Coffee está dirigida a los clientes existentes de Adobe Commerce de todos los niveles de aptitud y cuenta con el consultor de estrategia Sr. Commerce, Corey Gelato. La serie se centra en las estrategias y tácticas de Commerce, apoyadas en estadísticas que reflejan el tema del evento.</p>
@@ -297,7 +297,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMS de Experience Manager">GEMS de Experience Manager</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="GEMS de Experience Manager">GEMS DE Experience Manager</a>
           </p>
           <p class="is-size-6">
          Inmersiones técnicas en profundidad de Adobe Experience Manager realizadas por expertos en Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en un tema específico.</p>
@@ -319,7 +319,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=es" title="Resumen de la versión de Experience Manager">Resumen de la versión de Experience Manager</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=es" title="Resumen de la versión de Experience Manager">Información general sobre la versión del Experience Manager</a>
           </p>
           <p class="is-size-6">
          Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service. AEM Estos son vídeos cortos, de unos 10 minutos, de parte del equipo de productos de la que comparten los aspectos más destacados de la última versión.</p>
@@ -410,7 +410,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         La serie de seminarios web de Adobe Commerce Intelligence (también conocido como MBI) es un evento periódico para los clientes de Adobe Commerce Intelligence. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar Adobe Commerce Intelligence al máximo de su potencial.</p>
+         La serie de seminarios web de Adobe Commerce Intelligence (también conocidos como MBI) es un evento periódico para los clientes de Adobe Commerce Intelligence. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar Adobe Commerce Intelligence en todo su potencial.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>

@@ -26,6 +26,6 @@ Descubra cómo el servicio de extracción de PDF de la API de servicios de Adobe
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # Aspectos destacados de la recopilación de datos y hoja de ruta
 
-**Lo que hemos publicado y lo que viene con la recopilación de datos de Adobe**
+**Lo que hemos publicado y lo que se incluye con la recopilación de datos de Adobe**
 
 La recopilación de datos es muy importante durante el Adobe. Debe poder confiar en los datos con los que trabaja. Hemos tenido un evento el año pasado con versiones y hay cosas interesantes que están surgiendo.
 
@@ -27,5 +27,5 @@ La recopilación de datos es muy importante durante el Adobe. Debe poder confiar
 
 Vea el vídeo anterior para ver este evento de flujo en directo, en el que los expertos en recopilación de datos de Adobe ofrecieron un resumen de las actualizaciones recientes importantes, así como un vistazo a los próximos elementos de la hoja de ruta.
 
-¿Tiene preguntas al respecto? Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
 

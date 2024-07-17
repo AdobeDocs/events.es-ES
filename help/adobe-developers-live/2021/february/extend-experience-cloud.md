@@ -1,6 +1,6 @@
 ---
 title: Por lo tanto, desea ampliar Adobe Experience Cloud
-description: ¿Desea ampliar las soluciones de Adobe utilizando una arquitectura moderna que funcione para varias soluciones? Bueno, creemos que debería probar con el Generador de aplicaciones de Adobe Developer. Esta sesión se entregó como parte del evento de contenido de Adobe Developers Live.
+description: ¿Desea ampliar las soluciones de Adobe utilizando una arquitectura moderna que funcione para varias soluciones? Bueno, creemos que deberías darle una oportunidad a Adobe Developer App Builder. Esta sesión se entregó como parte del evento de contenido de Adobe Developers Live.
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # ¿Desea ampliar Adobe Experience Cloud?
 
-¿Desea ampliar las soluciones de Adobe utilizando una arquitectura moderna que funcione para varias soluciones? Bueno, creemos que debería probar con el Generador de aplicaciones de Adobe Developer.
+¿Desea ampliar las soluciones de Adobe utilizando una arquitectura moderna que funcione para varias soluciones? Bueno, creemos que deberías darle una oportunidad a Adobe Developer App Builder.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** para las diapositivas de la sesión.

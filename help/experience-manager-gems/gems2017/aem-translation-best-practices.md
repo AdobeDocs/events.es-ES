@@ -8,7 +8,7 @@ duration: 3560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM En esta sesión, presentaremos las funciones y prácticas recomendadas de la
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*Publicado el 25 de octubre de 2017*
+*Entregado el 25 de octubre de 2017*
 
 **Presentado por:**
 
 Leandro Reis, Arquitecto de Globalización, Servicios Principales de Adobe\
-Mathias Siegel, Director de producto de Sr, [!DNL AEM Sites], ADOBE
+Mathias Siegel, Director de producto Sr, [!DNL AEM Sites], Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/immerse-2017-translationpresentation-rev1.pdf)
 
@@ -33,6 +33,6 @@ Mathias Siegel, Director de producto de Sr, [!DNL AEM Sites], ADOBE
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 >
->En relación con esta sesión, consulte *Documentos de traducción de AEM Sites*, *Documentación de prácticas recomendadas de traducción* y *Administración de recursos multilingües* AEM en la documentación de 6.3.
+>En relación con esta sesión, consulte *Documentos de traducción de AEM Sites*, *Documentación sobre prácticas recomendadas de traducción* y *Administración de Assets AEM multilingüe* en la documentación de 6.3.

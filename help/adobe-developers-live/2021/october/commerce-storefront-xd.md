@@ -12,7 +12,7 @@ duration: 1802
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 15%
+ht-degree: 14%
 
 ---
 
@@ -24,6 +24,6 @@ Aprenda cómo el kit de PWA Studio XD de la tienda puede ayudar a facilitar una 
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

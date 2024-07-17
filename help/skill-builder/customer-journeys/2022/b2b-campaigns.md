@@ -1,6 +1,6 @@
 ---
-title: Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP
-description: aprenda a organizar campañas B2B con [!DNL Marketo Engage] y RT-CDP (edición B2B)
+title: 'Mejor juntos: Adobe [!DNL Marketo Engage] y Real-Time CDP'
+description: aprenda a organizar campañas B2B con  [!DNL Marketo Engage] y RT-CDP (edición B2B)
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP
+# Mejor juntos: Adobe [!DNL Marketo Engage] y Real-Time CDP
 
-En esta sesión, aprenderá a organizar campañas B2B con [!DNL Marketo Engage] y RT-CDP (edición B2B), y cuáles son los principales casos prácticos y ventajas desbloqueadas.
+En esta sesión, aprenderá a orquestar campañas B2B con [!DNL Marketo Engage] y RT-CDP (edición B2B), y cuáles son los principales casos prácticos y ventajas desbloqueados.
 
-*Mihai Prisacariu* Consultor de soluciones, CJM / Adobe
+*Mihai Prisacariu* Asesor de soluciones, CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343824/?quality=12&learn=on)

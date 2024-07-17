@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Aprenda a implementar el código en producción con confianza gracias a las pruebas funcionales personalizadas. La calidad no debería ser difícil, incluso los viernes por la tarde.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** para las diapositivas de la sesión.

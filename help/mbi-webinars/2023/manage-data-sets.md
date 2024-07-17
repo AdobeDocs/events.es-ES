@@ -1,8 +1,8 @@
 ---
 title: Administración de conjuntos de datos en Commerce Intelligence
-description: Vea este seminario web para obtener más información sobre algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
-landing-page-description: Vea este seminario web para obtener más información sobre algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
-short-description: Vea este seminario web para obtener más información sobre algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
+description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
+landing-page-description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
+short-description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,7 +13,7 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -27,11 +27,11 @@ Obtenga información sobre algunas de las potentes funciones del administrador d
 
 Durante este seminario web grabado, aprenderá a calcular el retorno de la inversión de sus campañas de publicidad combinando datos de Adobe Commerce, Google Ecommerce y Google AdWords.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344680?quality=12&learn=on)
 
 ## Recursos útiles
 
 [Un recorrido por el Administrador de Datas Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Conectar los datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Conecte Sus Datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

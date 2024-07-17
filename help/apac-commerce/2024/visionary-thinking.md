@@ -1,5 +1,5 @@
 ---
-title: 'La ventaja creativa: cómo el pensamiento visionario está transformando Commerce'
+title: 'Edge creativo: cómo el pensamiento visionario está transformando Commerce'
 description: Este seminario web explora la integración de la creatividad y el comercio, mostrando cómo las herramientas y tecnologías de Adobe pueden ayudar a administrar los activos, escalar la creación de contenido y optimizar la cadena de suministro de contenido. Explica la importancia de unir creatividad y comercio, y cubre temas como experiencias personalizadas, administración de recursos y uso de herramientas como Adobe Workfront, Adobe Experience Manager y Adobe Stock para optimizar el proceso de creación de contenido.
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# Creative Edge: Cómo el pensamiento visionario está transformando Commerce
 
-# La arista creativa: cómo el pensamiento visionario está transformando Commerce
-
-La ventaja creativa: cómo el pensamiento visionario está transformando el comercio electrónico se adentra en la vanguardia de la innovación, donde la generación de IA está revolucionando el panorama creativo, ofreciendo perspectivas y posibilidades sin precedentes. Los asistentes aprenderán cómo la IA está optimizando la administración de las directrices de marca y estilo, lo que garantiza la coherencia en varias plataformas y canales.
+Creative Edge: Cómo el pensamiento visionario está transformando el comercio electrónico se adentra en la vanguardia de la innovación, donde la generación de IA está revolucionando el panorama creativo, ofreciendo perspectivas y posibilidades sin precedentes. Los asistentes aprenderán cómo la IA está optimizando la administración de las directrices de marca y estilo, lo que garantiza la coherencia en varias plataformas y canales.
 
 A través de una integración perfecta, descubra cómo incorporar sin esfuerzo sus activos creativos en la ejecución de marketing y el comercio, mejorando la participación de los clientes y las tasas de conversión.
 

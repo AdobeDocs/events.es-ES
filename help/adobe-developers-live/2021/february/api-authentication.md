@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Cómo los nuevos mecanismos de la consola de desarrollo de Adobe Experience Manager permiten la autenticación de instancias de Adobe Experience Manager en la nube, tanto como desarrollador como desde aplicaciones de terceros.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/api-authentication.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/api-authentication.pdf)** para las diapositivas de la sesión.

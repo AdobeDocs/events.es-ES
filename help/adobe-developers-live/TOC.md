@@ -5,7 +5,7 @@ user-guide-description: Colección de grabaciones del evento de contenido de Ado
 source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
 source-wordcount: '777'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 + [Información general](overview.md)
 + 2023 {#2023}
-   + noviembre {#nov2023}
+   + Noviembre de {#nov2023}
       + [Presentación de apertura](2023/november/keynote.md)
       + [Presentación de apertura (APAC)](2023/november/keynote-apac.md)
       + [Automatización de flujos de trabajo de contenido con App Builder](2023/november/content-workflows.md)
@@ -26,17 +26,17 @@ ht-degree: 6%
          + [Una implementación de cliente](2023/november/edge-breakout-3.md)
          + [Creación basada en documentos](2023/november/deep-dive.md)
          + [Información general técnica de Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
-      + Headless {#nov-headless}
+      + Sin encabezado {#nov-headless}
          + [API sin encabezado](2023/november/headless-breakout-1.md)
          + [Introducción al editor universal](2023/november/intro-universal-editor.md)
          + [Introducción a Forms sin encabezado](2023/november/headless-forms.md)
          + [Editor universal](2023/november/headless-breakout-2.md)
          + [Fuentes de datos externas](2023/november/headless-breakout-3.md)
-      + Comercio {#nov-commerce}
-         + [Generador de aplicaciones de Adobe, E/S de Adobe, Webhooks y SDK de IU de administración](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
+      + Commerce {#nov-commerce}
+         + [App Builder de Adobe, E/S de Adobe, Webhooks y SDK de IU de administración](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API Mesh](2023/november/commerce-breakout-4.md)
          + [Servicios de catálogo](2023/november/commerce-breakout-1.md)
-         + [Ofrecer rendimiento de Commerce a través de la plataforma](2023/november/commerce-performance.md)
+         + [Ofrezca rendimiento de Commerce a través de la plataforma](2023/november/commerce-performance.md)
          + [Extensibilidad impulsada por eventos](2023/november/commerce-breakout-3.md)
          + [El futuro del comercio](2023/november/future-of-commerce.md)
          + [Integración con la Sales Channel de Amazon](2023/november/commerce-breakout-2.md)
@@ -44,11 +44,11 @@ ht-degree: 6%
          + [Servicio de catálogo y búsqueda](2023/november/commerce-search-and-catalog-service.md)
          + [Estrategias para optimizar el rendimiento del sitio de Commerce](2023/november/commerce-site-performance.md)
          + [Seguimiento de cambios en Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
-   + Mayo {#may2023}
+   + Mayo de {#may2023}
       + [Presentación de apertura](2023/may/keynote.md)
       + [Visita a API](2023/may/new-apis.md)
       + [AEM Inmersión en los componentes principales de la para el correo electrónico y Forms](2023/may/core-components.md)
-      + [Incrustar selector de recursos](2023/may/asset-picker.md)
+      + [Incrustar selector de Assets](2023/may/asset-picker.md)
       + [Edición con Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
       + [Implementaciones más rápidas](2023/may/workflows.md)
       + [AEM Chat de Fireside con líderes de productos de la](2023/may/fireside.md)
@@ -57,14 +57,14 @@ ht-degree: 6%
       + [Comprender la API de GraphQL](2023/may/graphql.md)
       + [Editor universal](2023/may/universal-editor.md)
 + 2022 {#2022}
-   + Febrero - Comercio {#feb2022}
+   + Febrero - Commerce {#feb2022}
       + [Información general](2022/february/overview.md)
       + [Presentación de apertura](2022/february/opening-keynote.md)
       + [Estado y rendimiento de su plataforma de Adobe Commerce](2022/february/visibility-health-performance.md)
       + [Simplificación de las actualizaciones y la herramienta de compatibilidad de actualización](2022/february/upgrades.md)
       + [Soluciones basadas en el consumo en el Magento Marketplace](2022/february/magento-marketplace.md)
       + [Innovación con integraciones sin encabezado](2022/february/headless-integrations.md)
-      + [Un vistazo a un kit de herramientas para desarrolladores de Commerce](2022/february/developers-toolkit.md)
+      + [Un vistazo a Commerce Developer&#39;s Toolkit](2022/february/developers-toolkit.md)
       + [Observaciones finales](2022/february/closing-remarks.md)
    + Noviembre - Sin encabezado {#nov2022}
       + [Información general](2022/november/overview.md)
@@ -79,9 +79,9 @@ ht-degree: 6%
       + [Resultados de Rock Star y lo siguiente para desarrolladores](2022/november/closing.md)
       + [Los 10 mejores consejos para acelerar el sitio de Adobe Experience Manager](2022/november/top-ten-tips.md)
       + [Extensibilidad de la IU y la nueva IU de fragmentos de contenido](2022/november/extensibility.md)
-      + [Uso del Generador de aplicaciones y la API Mesh](2022/november/api-mesh.md)
+      + [Uso de App Builder y API Mesh](2022/november/api-mesh.md)
 + 2021 {#2021}
-   + Febrero: contenido {#feb2021}
+   + Febrero - Contenido {#feb2021}
       + [Información general](2021/february/overview.md)
       + [Capa de datos del cliente de Adobe](2021/february/adobe-client-data-layer.md)
       + [SDK para Adobe Experience Platform](2021/february/experience-platform-sdk-launch.md)
@@ -89,7 +89,7 @@ ht-degree: 6%
       + [Ingesta masiva de recursos](2021/february/asset-bulk-ingestion.md)
       + [Extensibilidad del servicio de asset compute](2021/february/asset-compute-service-extensibility.md)
       + [CIF Extensibilidad mediante GraphQL](2021/february/cif-extensibility-graphql.md)
-      + [Content and Commerce con Experience Manager](2021/february/content-commerce.md)
+      + [Contenido y Commerce con Experience Manager](2021/february/content-commerce.md)
       + [Entrega de contenido con Experience Manager Cloud Service](2021/february/content-delivery.md)
       + [Pruebas funcionales personalizadas](2021/february/custom-functional-tests-cicd.md)
       + [Experiencia del desarrollador](2021/february/developer-experience.md)
@@ -112,7 +112,7 @@ ht-degree: 6%
       + [Desarrollo rápido de front-end](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor de 2.0](2021/february/spa-editor-2-0.md)
       + [Convierta cualquier sitio en una aplicación web progresiva](2021/february/any-site-into-pwa.md)
-   + Octubre {#oct2021}
+   + Octubre de {#oct2021}
       + [Información general](2021/october/overview.md)
       + [Presentación de apertura](2021/october/keynote.md)
       + [Acelerando transición a Experience Manager CS](2021/october/accelerate-transistion.md)
@@ -121,11 +121,11 @@ ht-degree: 6%
       + [Adobe Commerce y el modelo de contribución de la comunidad](2021/october/community-contribution-model.md)
       + [Resultados de Adobe Commerce Live Search](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange: mercado de desarrolladores de terceros](2021/october/app-builder-exchange.md)
-      + [Adobe I/O Proyectos y aportaciones de código abierto](2021/october/app-builder-adobeio.md)
+      + [Adobe I/O Abrir proyectos y aportaciones de Source](2021/october/app-builder-adobeio.md)
       + [Exportación de Experience Manager Assets con tecnología de Adobe I/O](2021/october/app-builder-asset-export.md)
       + [Redes avanzadas con Experience Manager CS](2021/october/advanced-networking.md)
       + [Herramienta de detección de anomalías creada en App Builder](2021/october/data-anomaly-detection.md)
-      + [Arquitectura del App Builder y aspectos técnicos profundos](2021/october/app-builder-architecture.md)
+      + [Arquitectura de App Builder y análisis técnico profundo](2021/october/app-builder-architecture.md)
       + [Automatice la creación y manipulación de PDF mediante la API de servicios de PDF](2021/october/automate-pdf-services-api.md)
       + [Prácticas recomendadas para el desarrollo de scripts de componentes](2021/october/component-script-development.md)
       + [Complementos de Creative Cloud de compilación](2021/october/cc-extensibility.md)
@@ -135,13 +135,13 @@ ht-degree: 6%
       + [Diseño colaborativo de tienda para PWA XD con la ayuda de un](2021/october/commerce-storefront-xd.md)
       + [API del motor de aplicaciones de Creative Cloud](2021/october/cc-app-api.md)
       + [Recopilación de datos](2021/october/data-collection.md)
-      + [Ofrecer experiencias de comercio](2021/october/delivering-commerce-experiences.md)
+      + [Ofrecer experiencias de Commerce](2021/october/delivering-commerce-experiences.md)
       + [Ofrezca experiencias rápidas con Experience Manager](2021/october/fast-experiences.md)
       + [Estructura de sitios eficiente: rendimiento mejorado](2021/october/efficient-site-structure.md)
-      + [Enriquecimiento de las experiencias comerciales con contenido asociado](2021/october/associated-content.md)
+      + [Enriquecimiento de las experiencias de Commerce con contenido asociado](2021/october/associated-content.md)
       + [Evolución de Adobe Commerce para reducir el coste total de propiedad](2021/october/reduce-tco.md)
       + [Novedades de Experience Manager Assets](2021/october/aem-assets-whats-new.md)
-      + [Experience Manager Assets Compute Worker con el Generador de aplicaciones y las API de Photoshop](2021/october/app-builder-asset-compute.md)
+      + [Experience Manager Assets Compute Worker con las API de App Builder y Photoshop](2021/october/app-builder-asset-compute.md)
       + [Experience Manager entre bastidores](2021/october/aem-behind-scenes.md)
       + [Modelo de envío continuo de Experience Manager](2021/october/continuous-delivery.md)
       + [Extensión de Experience Manager para PWA Studio](2021/october/aem-pwa-studio.md)
@@ -159,9 +159,9 @@ ht-degree: 6%
       + [Cómo evitar escollos comunes en Experience Manager](2021/october/common-pitfalls-aem.md)
       + [Ingesta y procesamiento de recursos en Experience Manager Assets](2021/october/ingest-process-assets.md)
       + [Integración de Experience Manager CS con eventos de E/S de Adobe](2021/october/integrate-aem-io-events.md)
-      + [Presentación del Generador de aplicaciones](2021/october/introduction-app-builder.md)
-      + [Introducción a la consola de Adobe Developer](2021/october/app-builder-adc.md)
-      + [Introducción a las bibliotecas de Creative Cloud](2021/october/cc-libraries.md)
+      + [Presentación de App Builder](2021/october/introduction-app-builder.md)
+      + [Introducción a Adobe Developer Console](2021/october/app-builder-adc.md)
+      + [Introducción a Creative Cloud Libraries](2021/october/cc-libraries.md)
       + [JSON y la API de extracción de PDF](2021/october/parsing-pdf.md)
       + [Iniciar del lado del servidor](2021/october/launch-server-side.md)
       + [Monitorización de aplicaciones de App Builder con reenvío de registro](2021/october/log-forwarding.md)

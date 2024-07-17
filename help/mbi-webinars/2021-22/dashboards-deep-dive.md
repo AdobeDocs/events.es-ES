@@ -1,6 +1,6 @@
 ---
 title: Análisis profundo de los paneles de Commerce Intelligence
-description: Vea este seminario web para obtener una visita guiada por los cuatro paneles incluidos en la configuración con cada cuenta de Commerce Intelligence.
+description: Vea este seminario web para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de Commerce Intelligence.
 landing-page-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de Commerce Intelligence.
 short-description: Vea este seminario web grabado para obtener una visita guiada por los cuatro paneles incluidos durante la configuración con cada cuenta de Commerce Intelligence.
 kt: 10496
@@ -29,11 +29,11 @@ Realice una visita guiada por los cuatro paneles incluidos en la configuración 
 - Tendencias puntuales en la colocación de pedidos por hora que indican las necesidades de asignación de inventario o personal.
 - Determine sus productos más exitosos por volumen de ventas y por GMV, y qué productos representan la mayor cantidad de reembolsos.
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343498?quality=12&learn=on)
 
 ## Recursos útiles
 
 [Paneles](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Exportación de datos de gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Exportando datos de gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

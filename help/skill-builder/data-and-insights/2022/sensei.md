@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Aprenda a aprovechar Sensei, la plataforma de inteligencia artificial proporcionada por Adobe, para analizar de forma inteligente los clientes y los segmentos de audiencia con el fin de encontrar diferencias significativas, atribuir factores de conversión y predecir comportamientos futuros.
 
-*Matthias Kolitsch* Formador sénior de soluciones múltiples EMEA/Adobe
+*Matthias Kolitsch* Entrenador sénior de soluciones múltiples EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

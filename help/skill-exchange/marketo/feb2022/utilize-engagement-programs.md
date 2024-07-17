@@ -1,6 +1,6 @@
 ---
 title: 'Nutrir 101: Uso De Programas De Participación Para Captar A Sus Clientes'
-description: Conozca los conceptos básicos de los programas de participación dentro de [!DNL Marketo Engage] incluidos ejemplos de casos de uso, sugerencias y trucos.
+description: Conozca los conceptos básicos de los programas de participación dentro de  [!DNL Marketo Engage] , incluidos ejemplos de casos de uso, sugerencias y trucos.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Nutrir 101: Uso De Programas De Participación Para Captar A Sus Clientes
 
-Conozca los conceptos básicos de los programas de participación dentro de [!DNL Marketo Engage] incluidos ejemplos de casos de uso, sugerencias y trucos.
+Conozca los conceptos básicos de los programas de participación dentro de [!DNL Marketo Engage], incluidos ejemplos de casos de uso, sugerencias y trucos.
 
 **Consideraciones clave**
 

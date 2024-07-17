@@ -26,4 +26,4 @@ Hoy, los especialistas en marketing están enterrados en el desorden de informac
 
 Para complementar este vídeo, también puede [descargar un documento técnico](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
-*Un año después: Se han actualizado las perspectivas sobre*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*
+*Un año después: Se actualizaron las perspectivas en*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

@@ -8,7 +8,7 @@ duration: 3580
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -18,13 +18,13 @@ AEM En esta sesión proporcionaremos directrices sobre cómo solucionar problema
 
 >[!VIDEO](https://video.tv.adobe.com/v/19571/?quality=9)
 
-*Publicado el 2 de octubre de 2013*
+*Entregado el 2 de octubre de 2013*
 
 **Presentado por:**
 
 Thierry Yge, ingeniero de soporte sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gems-cq-troubleshoot-ppt-2.pdf)
 

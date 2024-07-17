@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Adaptar el código base para que sea compatible con la nube y resistente a balas contra futuras actualizaciones gestionadas bajo el capó es clave para maximizar las ventajas de los Cloud Service de Adobe Experience Manager.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** para las diapositivas de la sesión.

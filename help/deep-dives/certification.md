@@ -1,6 +1,6 @@
 ---
-title: 'Invertir en usted mismo: Adobe [!DNL Marketo Engage] Certificación'
-description: ¿Ha estado interesado en el proceso de certificación y cómo puede ayudar a su carrera de marketing? ¿O tal vez estás interesado en el proceso para estudiar, preparar y tomar el examen? Unirse al Adobe [!DNL Marketo Engage] Los campeones hablan sobre su recorrido de convertirse en un experto o arquitecto certificado por Marketo.
+title: Invirtiendo en usted mismo - Adobe [!DNL Marketo Engage] Certificación
+description: ¿Ha estado interesado en el proceso de certificación y cómo puede ayudar a su carrera de marketing? ¿O tal vez estás interesado en el proceso para estudiar, preparar y tomar el examen? Únete a los campeones del Adobe  [!DNL Marketo Engage]  mientras discuten su recorrido de convertirte en un experto o arquitecto certificado por Marketo.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Invertir en usted mismo: Adobe [!DNL Marketo Engage] Certificación
+# Invirtiendo en usted mismo - Certificación de Adobe [!DNL Marketo Engage]
 
-¿Ha estado interesado en el proceso de certificación y cómo puede ayudar a su carrera de marketing? ¿O tal vez estás interesado en el proceso para estudiar, preparar y tomar el examen? Unirse al Adobe [!DNL Marketo Engage] Los campeones hablan sobre su recorrido de convertirse en un experto o arquitecto certificado por Marketo.
+¿Ha estado interesado en el proceso de certificación y cómo puede ayudar a su carrera de marketing? ¿O tal vez estás interesado en el proceso para estudiar, preparar y tomar el examen? Únase a los Campeones del Adobe [!DNL Marketo Engage] mientras analizan su recorrido para convertirse en un experto o arquitecto certificado por Marketo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Clic **[aquí](assets/certification.pdf){target="_blank"}** para las diapositivas de la sesión.
+Haga clic **[aquí](assets/certification.pdf){target="_blank"}** para las diapositivas de la sesión.

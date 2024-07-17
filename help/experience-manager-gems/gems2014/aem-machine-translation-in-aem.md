@@ -8,7 +8,7 @@ duration: 3062
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager le permite localizar contenido generado por el usuario 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*Publicado el 3 de diciembre de 2014*
+*Entregado el 3 de diciembre de 2014*
 
 **Presentado por:**
 

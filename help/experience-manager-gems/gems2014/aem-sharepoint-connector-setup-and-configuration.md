@@ -8,7 +8,7 @@ duration: 3478
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,13 +23,13 @@ SharePoint Connector de Adobe expone el contenido a través de la interfaz JCR e
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*Publicado el 29 de enero de 2014*
+*Entregado el 29 de enero de 2014*
 
 **Presentado por:**
 
 Tarun Aggarwal, ingeniero de software líder, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/cq-gems-sharepoint-connector.pdf)
 <!--

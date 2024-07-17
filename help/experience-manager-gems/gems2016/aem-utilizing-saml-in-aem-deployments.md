@@ -18,21 +18,21 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19299/?quality=9)
 
-*Publicado el 20 de julio de 2016*
+*Entregado el 20 de julio de 2016*
 
 **Presentado por:**
 
 * Sham Hassan Chikkegowda, ingeniero de CS, Adobe
 * Timothee Maret, Desarrollador sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-072016-saml.pdf)
 
 ## Vínculos relacionados {#related-links}
 
 * [Controlador de autenticación SAML 2.0](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] Perfiles para el lenguaje de marcado de aserción de seguridad (SAML) de OASIS V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] Enlaces para el lenguaje de marcado de aserción de seguridad de OASIS (SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] Información técnica sobre el lenguaje de marcado de aserción de seguridad (SAML) V2.0](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [[SAMLProf] Perfiles para el Lenguaje de marcado de aserciones de seguridad (SAML) de OASIS V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* [[SAMLBind] enlaces para el lenguaje de marcado de aserción de seguridad (SAML) de OASIS V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* Información general técnica sobre el lenguaje de marcado de aserción de seguridad (SAML) V2.0 de [[SAMLTech]](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [Información general ejecutiva de SAML V2.0](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

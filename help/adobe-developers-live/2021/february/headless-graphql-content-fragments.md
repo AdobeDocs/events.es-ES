@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Obtenga información acerca de las nuevas funciones sin encabezado con las mejoras más recientes de Fragmento de contenido. Esta sesión se centrará en la API de GraphQL para el Cloud Service de Adobe Experience Manager.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** para las diapositivas de la sesión.

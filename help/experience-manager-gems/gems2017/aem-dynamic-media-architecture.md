@@ -8,7 +8,7 @@ duration: 4076
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19570/?quality=9)
 
-*Fecha de entrega: 30 de agosto de 2017*
+*Entregado el 30 de agosto de 2017*
 
 **Presentado por:**
 
@@ -32,7 +32,7 @@ ht-degree: 2%
 * Peter Ciszak, informático, Adobe
 * Kirk Jones, informático, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/dynamicmedia83017.pdf)
 <!--

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 En esta sesión principal, aprenderá sobre las últimas tendencias en la administración de Recorridos del cliente en B2B y B2C. También compartiremos con usted las innovaciones más recientes en aplicaciones de recorrido clave y en Adobe Experience Cloud y Platform en general. ¡Uno que no se pierda!
 
-*Timo Kohlberg* Responsable sénior y responsable de EMEA de marketing/Adobe de productos
+*Timo Kohlberg* Director Senior y Líder de EMEA en Marketing y Adobe de Productos
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

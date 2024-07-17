@@ -12,7 +12,7 @@ exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ La versión 8 de Adobe Campaign tendrá un aspecto completamente nuevo. La exper
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+Continúe la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} de Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -39,7 +39,7 @@ La nueva interfaz de usuario web de Campaign es importante porque ofrece una exp
 * La página de inicio de la interfaz de usuario web permite un acceso rápido a todas las aplicaciones del Experience Cloud y proporciona notificaciones y opciones de asistencia.
 * La IU web simplifica el proceso de creación de audiencias, definición de campañas y diseño del contenido del correo electrónico.
 * La interfaz de usuario web permite la integración de bases de datos de terceros y proporciona acceso a Adobe Experience Platform y Adobe Analytics.
-* La actividad JavaScript aún no se puede editar en la interfaz de usuario web, pero se puede ejecutar y ver.
+* La actividad de JavaScript aún no se puede editar en la interfaz de usuario web, pero se puede ejecutar y ver.
 * La interfaz de usuario web admite el uso de filtros predefinidos y permite personalizar la navegación del Explorador.
 * La interfaz de usuario web se actualiza continuamente con nuevas funciones y funcionalidades.
 
@@ -49,6 +49,6 @@ La nueva interfaz de usuario web de Campaign es importante porque ofrece una exp
 * **[Interfaz de usuario web de Campaign: funciones clave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=es){target="_blank"}**
   *Documentación detallada sobre lo que está disponible actualmente en la interfaz de usuario web de Adobe Campaign.*
 
-* **[Interfaz de usuario web de Adobe Campaign: Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-  *Vídeos y tutoriales sobre las funciones y capacidades de la interfaz de usuario web de Adobe Campaign.*
+* **[Interfaz de usuario web de Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *Cómo crear vídeos y tutoriales sobre las características y capacidades de la interfaz de usuario web de Adobe Campaign.*
 

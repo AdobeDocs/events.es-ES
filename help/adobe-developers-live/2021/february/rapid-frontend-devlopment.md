@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Utilice las plantillas de sitio para crear nuevos sitios en pocos clics y disfrutar del desarrollo de front-end con la rápida implementación de recursos de front-end como CSS y JS.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** para las diapositivas de la sesión.

@@ -19,6 +19,6 @@ ht-degree: 66%
 
 Aprenda a sacar el máximo partido a los metadatos en AEM Assets reduciendo la carga de trabajo de etiquetas de recursos y haciendo que sea más sencillo buscar en sus activos.
 
-*Robin Bussell* Formador sénior/Adobe
+*Robin Bussell* Entrenador Senior/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

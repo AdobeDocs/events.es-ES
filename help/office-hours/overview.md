@@ -16,7 +16,7 @@ El programa Horario de oficina del cliente es un enfoque proactivo de la desviac
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.
 
 <!--
 

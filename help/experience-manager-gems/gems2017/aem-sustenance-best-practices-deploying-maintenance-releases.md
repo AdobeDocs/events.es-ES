@@ -8,7 +8,7 @@ duration: 2534
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ AEM Únase a nosotros para conocer las prácticas recomendadas para implementar 
 * AEM Gurpreet Singh Bhatia, Ingeniero de Software Líder, Ingeniería de Mantenimiento de la, Adobe
 * AEM Karanjeet Singh, ingeniero de software sénior, Ingeniería de mantenimiento, Adobe de
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-sustenance-best-practices-gems.pdf)
 <!--

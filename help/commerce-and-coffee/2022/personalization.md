@@ -1,6 +1,6 @@
 ---
-title: 'Comercio y café: personalización'
-description: Esta sesión se adentra en estrategias y tácticas para personalizar su sitio de comercio y seguir siendo competitivo todo el año. Revisamos el por qué, qué y cómo personalizar y analizamos el impacto en la conversión directamente correlacionado con la personalización. A continuación, Corey realiza una demostración de los permisos de categorías, segmentos de clientes, bloques dinámicos/widgets, Recommendations de productos y mucho más. La presentación y la demostración van acompañadas de un cuestionario en directo con Corey.
+title: Commerce and Coffee - Personalization
+description: Esta sesión se adentra en estrategias y tácticas para personalizar su sitio de Commerce y seguir siendo competitivo todo el año. Revisamos el por qué, qué y cómo personalizar y analizamos el impacto en la conversión directamente correlacionado con la personalización. A continuación, Corey realiza una demostración de los permisos de categorías, segmentos de clientes, bloques dinámicos/widgets, Recommendations de productos y mucho más. La presentación y la demostración van acompañadas de un cuestionario en directo con Corey.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comercio y café: personalización
+# Commerce and Coffee - Personalization
 
-Esta sesión se adentra en estrategias y tácticas para personalizar su sitio de comercio y seguir siendo competitivo todo el año. Revisamos el por qué, qué y cómo personalizar y analizamos el impacto en la conversión directamente correlacionado con la personalización. A continuación, Corey realiza una demostración de los permisos de categorías, segmentos de clientes, bloques dinámicos/widgets, Recommendations de productos y mucho más. La presentación y la demostración van acompañadas de un cuestionario en directo con Corey.
+Esta sesión se adentra en estrategias y tácticas para personalizar su sitio de Commerce y seguir siendo competitivo todo el año. Revisamos el por qué, qué y cómo personalizar y analizamos el impacto en la conversión directamente correlacionado con la personalización. A continuación, Corey realiza una demostración de los permisos de categorías, segmentos de clientes, bloques dinámicos/widgets, Recommendations de productos y mucho más. La presentación y la demostración van acompañadas de un cuestionario en directo con Corey.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

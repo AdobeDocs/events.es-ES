@@ -20,8 +20,8 @@ ht-degree: 0%
 
 Únase a esta sesión para obtener información sobre las últimas actualizaciones de productos, así como para comprender las diferencias entre las versiones 7 y 8 de nuestros responsables de producto.
 
-*Christophe Protat* Gerente de producto / Adobe
+*Christophe Protat* Product Manager/Adobe
 
-*Gael Mouello* Responsable de producto sénior/Adobe
+*Gael Mouello* gerente de producto sénior/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

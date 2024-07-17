@@ -9,7 +9,7 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,13 +19,13 @@ AEM Sling Content Distribution (SCD) se puede utilizar en la distribución de co
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Fecha de entrega: 23 de agosto de 2017*
+*Entregado el 23 de agosto de 2017*
 
 **Presentado por:**
 
 Timothee Maret, Desarrollador sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-scd.pdf)
 
@@ -33,14 +33,14 @@ Timothee Maret, Desarrollador sénior, Adobe
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 >
->En relación con esta sesión, consulte *Sincronización de usuarios* AEM en la documentación de la.
+>AEM En relación con esta sesión, consulte *Sincronización de usuarios* en la documentación de la.
 
 * [Distribución de contenido de Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Volver a la descripción general](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Volver al resumen](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indexación de y consulta JCR](aem-indexing-jcr-query.md)
->* [Solución de problemas de Sling Content Distribution](aem-troubleshooting-sling.md)
+>* AEM [Indexación de y consulta JCR](aem-indexing-jcr-query.md)
+>* [Solución de problemas de distribución de contenido de Sling](aem-troubleshooting-sling.md)

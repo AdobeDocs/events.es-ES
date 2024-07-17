@@ -28,4 +28,4 @@ Dado que la mayoría de los recorridos de los clientes hoy en día son de varias
 
 En este evento de flujo en directo, los expertos en productos de Adobe presentaron las últimas funciones inteligentes de clasificación de ofertas y mostraron cómo añadir ofertas a recorridos y campañas en Adobe Journey Optimizer.  También mostraron cómo se pueden colocar las ofertas en canales nativos de Journey Optimizer como correo electrónico, SMS y aplicaciones móviles, así como sistemas externos y aplicaciones integradas como Adobe Target.
 
-Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).

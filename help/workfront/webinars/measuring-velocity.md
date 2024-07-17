@@ -1,6 +1,6 @@
 ---
 title: Pregunte al experto - Medición de velocidad
-description: Aprenda a medir y rastrear la velocidad mediante [!DNL Workfront] informes. Este taller se grabó el 14 de agosto de 2019.
+description: Aprenda a medir y rastrear la velocidad mediante  [!DNL Workfront] informes. Este taller se grabó el 14 de agosto de 2019.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Pregunte al experto - Medición de velocidad
 
-Aprenda a medir y rastrear la velocidad mediante [!DNL Workfront] informes. Este taller se grabó el 14 de agosto de 2019.
+Aprenda a medir y rastrear la velocidad mediante los informes de [!DNL Workfront]. Este taller se grabó el 14 de agosto de 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -27,7 +27,7 @@ Ahorre tiempo copiando y pegando los cálculos siguientes.
 >[!NOTE]
 >
 >La sintaxis para los cálculos de campos personalizados ha cambiado desde que se realizó la presentación en 2019, aunque los conceptos y otras instrucciones que se proporcionan en la presentación siguen siendo precisos.
->**Los cálculos que se incluyen a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
+>**Los cálculos incluidos a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
 
 **Fecha de primera confirmación**
 
@@ -49,7 +49,7 @@ Cálculo:
 IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
-**Proporción de trabajo a compromiso**
+**Proporción de trabajo por confirmación**
 
 Formato:Número
 
@@ -59,7 +59,7 @@ Cálculo:
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**Estado de relación trabajo-compromiso**
+**Estado de relación de trabajo a compromiso**
 
 Formato:Texto
 
@@ -99,7 +99,7 @@ Hola, gracias por organizar este seminario web. Tengo una pregunta sobre Field e
 
 En una situación como esta, puede utilizar el filtrado y la edición masiva para semiautomatizar la tarea de rellenar el campo Condición en función del campo personalizado de Estado.
 
-A continuación se describen los pasos que debe seguir:
+Estos son los pasos:
 
 1. Determine qué valores de estado desea asignar a los valores de condición. Por ejemplo, supongamos que tiene un valor de estado de &quot;Late&quot; y &quot;Very Late&quot; que ambos asignan a un valor de condición de &quot;In Trouble&quot;
 1. Cree un informe de proyecto que muestre todos los proyectos con un valor de estado de &quot;Retrasado&quot; y &quot;Muy atrasado&quot;.
@@ -413,7 +413,7 @@ Sí. Debe crear un informe de documento. Parece que desea proporcionar un nombre
 
 **Pregunta**
 
-En los informes, ¿por qué los valores están disponibles como columnas pero no como selecciones o grupos? Por ejemplo: Origen del problema.
+En los informes, ¿por qué los valores están disponibles como columnas pero no como selecciones o grupos? Por ejemplo: Problema Source.
 
 **Respuesta**
 

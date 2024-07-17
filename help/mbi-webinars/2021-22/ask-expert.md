@@ -1,5 +1,5 @@
 ---
-title: 'Inteligencia comercial: pregunte a un experto'
+title: 'Commerce Intelligence: pregunte a un experto'
 description: Vea estos seminarios web grabados para profundizar en el equipo de productos de Commerce Intelligence, incluida la transformación empresarial a través de datos inteligentes.
 landing-page-description: Vea estos seminarios web grabados para profundizar en el equipo de productos de Commerce Intelligence, incluida la transformación empresarial a través de datos inteligentes.
 short-description: Vea estos seminarios web grabados para profundizar en el equipo de productos de Commerce Intelligence, incluida la transformación empresarial a través de datos inteligentes.
@@ -51,7 +51,7 @@ _Preguntar a un experto_ consta de dos sesiones:
 
 >[!TIP]
 >
->Si es su primera vez en Commerce Intelligence, la variable [Serie de vídeos de introducción](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) proporciona información general completa para mejorar las perspectivas y los resultados empresariales mediante la agregación, el análisis y la visualización de datos.
+>Si es nuevo en Commerce Intelligence, la serie de vídeos de [Introducción](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) le ofrece información general completa para obtener mejores resultados y perspectivas empresariales mediante la agregación, el análisis y la visualización de datos.
 
 - [Introducción a Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Asistencia de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Soporte de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -8,7 +8,7 @@ duration: 3218
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -30,17 +30,17 @@ AEM Profundice con nosotros en el desarrollo de aplicaciones de una sola página
 
 Presentado por: Patrick Fauchere, Director de Ingeniería, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
 ## Vínculos relacionados {#related-links}
 
-[Tutorial de fin de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=es)
+[Tutorial de fin de semana](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 [Documentación](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[Muestra: We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
+[Ejemplo: We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

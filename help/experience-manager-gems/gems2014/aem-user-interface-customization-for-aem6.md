@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM La sesión le explica cómo ampliar la interfaz de usuario de la versión 6.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*Publicado el 7 de mayo de 2014*
+*Entregado el 7 de mayo de 2014*
 
 **Presentado por:**
 
 * Gilles Knobloch, director de ingeniería, Adobe
 * Damien Antipa, ingeniero de experiencia de usuario sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/user-interface-customization-for-aem6.pdf)
 

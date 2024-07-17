@@ -1,6 +1,6 @@
 ---
-title: Cómo incrustar el último selector de recursos en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
-description: Cómo incrustar el selector de recursos más reciente en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API Obtenga información sobre cómo beneficiarse de todas las opciones que tiene a la hora de integrar recursos en otras aplicaciones. ¿Le resulta muy difícil integrar Cloud Service de AEM Assets con estos CMS? ¿Desea saber cómo escribir integraciones de AEM Assets estables, comprobables y mantenibles en minutos en lugar de horas o días? Demostraremos la potencia y versatilidad de los micro-frontend a través de nuestras experiencias convirtiendo dos proyectos de React - Selector de destino y Selector de recursos - en componentes de front-end modulares, independientes y fácilmente implementables.
+title: Cómo incrustar el último selector de Assets en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
+description: Cómo incrustar el último selector de Assets en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante APIL Obtenga información sobre cómo beneficiarse de todas las opciones que tiene a la hora de integrar recursos en otras aplicaciones. ¿Le resulta muy difícil integrar Cloud Service de AEM Assets con estos CMS? ¿Desea saber cómo escribir integraciones de AEM Assets estables, comprobables y mantenibles en minutos en lugar de horas o días? Demostraremos la potencia y versatilidad de los micro-frontend a través de nuestras experiencias convirtiendo dos proyectos de React - Selector de destino y Selector de recursos - en componentes de front-end modulares, independientes y fácilmente implementables.
 product: experience manager
 sub-product: assets
 topic: Development
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 ---
 
-# Cómo incrustar el último selector de recursos en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
+# Cómo incrustar el último selector de Assets en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
 
-Cómo incrustar el último selector de recursos en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
+Cómo incrustar el último selector de Assets en otras interfaces de usuario o productos e integrarlo con aplicaciones de terceros mediante API
 
 Aprenda a beneficiarse de todas las opciones que tiene a la hora de integrar recursos en otras aplicaciones. ¿Le resulta muy difícil integrar Cloud Service de AEM Assets con estos CMS? ¿Desea saber cómo escribir integraciones de AEM Assets estables, comprobables y mantenibles en minutos en lugar de horas o días? Demostraremos la potencia y versatilidad de los micro-frontend a través de nuestras experiencias convirtiendo dos proyectos de React - Selector de destino y Selector de recursos - en componentes de front-end modulares, independientes y fácilmente implementables. → Continúa la conversación en: https://adobe.ly/3LqELUM
 

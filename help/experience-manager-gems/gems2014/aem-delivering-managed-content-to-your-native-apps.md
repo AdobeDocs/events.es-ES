@@ -18,13 +18,13 @@ AEM Aunque es posible que no esté en posición de pasar completamente al uso de
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*Publicado el 10 de septiembre de 2014*
+*Entregado el 10 de septiembre de 2014*
 
 **Presentado por:**
 
 Anthony Rumsey, informático, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--

@@ -1,6 +1,6 @@
 ---
 title: apm de newrelic para aem cloud service
-description: AEM Únase a nosotros y participe en nuestra sesión, donde le guiaremos en el reconocimiento y la solución de los desafíos que afectan a sus clientes finales, garantizando una experiencia sobresaliente a través de la mejora de la eficacia de su proyecto as a Cloud Service AEM, la medición de la influencia de los servicios externos para su sistema as a Cloud Service y el aprovechamiento al máximo de las vistas personalizadas y adaptadas. Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con el formato as a Cloud Service de la. No dude en participar con sus preguntas y preguntas.
+description: Únase a nosotros y participe en nuestra sesión, donde le guiaremos en el reconocimiento y la solución de los desafíos que afectan a sus clientes finales, lo que garantiza una experiencia excepcional al mejorar la eficacia de su proyecto de AEM as a Cloud Service, medir la influencia de los servicios externos para su sistema de AEM as a Cloud Service y sacar el máximo partido de las vistas personalizadas. Descubra el proceso para acceder a New Relic, una función incluida de forma predeterminada en AEM as a Cloud Service. No dude en participar con sus preguntas y preguntas.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 ---
 
-# Liberar el potencial de APM de New Relic AEM para la creación de aplicaciones as a Cloud Service para la
+# Liberar el potencial de APM de New Relic para AEM as a Cloud Service
 
 Maximice el rendimiento y agilice la resolución de problemas.
 
-Este seminario web se ha llevado a cabo el **20 de septiembre**, 2023. Vea la grabación a continuación.
+Este seminario web se realizó el **20 de septiembre** de 2023. Vea la grabación a continuación.
 
 ## Descripción de sesión
 
 Únase a nosotros en nuestra sesión, donde le guiaremos en el reconocimiento y la resolución de desafíos que afectan a sus clientes finales, lo que garantiza una experiencia excepcional a través de:
 
-* AEM Mejora de la eficacia de su proyecto as a Cloud Service de
-* AEM Medición de la influencia de los servicios externos para su sistema as a Cloud Service de la
+* Mejora de la eficacia del proyecto de AEM as a Cloud Service
+* Medición de la influencia de los servicios externos en el sistema AEM as a Cloud Service
 * Aprovechamiento al máximo de vistas personalizadas y adaptadas
 
-Descubra el proceso para acceder a New Relic AEM, una función incluida de forma predeterminada con el formato as a Cloud Service de la. No dude en participar con sus preguntas y preguntas.
+Descubra el proceso para acceder a New Relic, una función incluida de forma predeterminada en AEM as a Cloud Service. No dude en participar con sus preguntas y preguntas.
 
 ## Presentadores
 
@@ -50,6 +50,6 @@ Descubra el proceso para acceder a New Relic AEM, una función incluida de forma
 
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite nuestra [hilo contextual](https://adobe.ly/3sV67N5).
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite nuestro [hilo contextual](https://adobe.ly/3sV67N5).
 >
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para recibir notificaciones acerca de nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s Grupo de usuarios de la red social ](https://aem-augs.adobe.com/).

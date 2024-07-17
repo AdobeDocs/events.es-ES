@@ -1,6 +1,6 @@
 ---
-title: Análisis profundo del creador de aplicaciones Adobe Developer
-description: 'Vale, ¿quieres oír más cosas sobre desarrolladores de App Builder de Adobe Developer? Únase a nosotros y vea el Generador de aplicaciones de Adobe Developer en acción: código, seguridad, aplicaciones sin encabezado y sin encabezado, CI/CD y más. Esta sesión se entregó como parte del evento de contenido de Adobe Developers Live.'
+title: Adobe Developer App Builder Deep Dive
+description: 'Vale, ¿quieres oír más cosas sobre desarrolladores de Adobe Developer App Builder? Únase a nosotros y vea Adobe Developer App Builder en acción: código, seguridad, aplicaciones sin encabezado y sin encabezado, CI/CD y más. Esta sesión se entregó como parte del evento de contenido de Adobe Developers Live.'
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Análisis profundo del creador de aplicaciones Adobe Developer
+# Adobe Developer App Builder Deep Dive
 
-Vale, ¿quieres oír más cosas sobre desarrolladores de App Builder de Adobe Developer? Únase a nosotros y vea el Generador de aplicaciones en acción: código, seguridad, aplicaciones sin encabezado y sin encabezado, CI/CD y más.
+Vale, ¿quieres oír más cosas sobre desarrolladores de Adobe Developer App Builder? Únase a nosotros y vea App Builder en acción: código, seguridad, aplicaciones sin encabezado y sin encabezado, CI/CD y más.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/app-builder.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/app-builder.pdf)** para las diapositivas de la sesión.

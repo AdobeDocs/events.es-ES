@@ -1,5 +1,5 @@
 ---
-title: Mantener el código abierto sin perder la cordura
+title: Mantener Open Source y mantener la cordura
 description: Mantener proyectos de código abierto puede ser difícil. Los proyectos de código abierto exitosos pueden ocupar mucho tiempo y a menudo terminas sintiéndote culpable porque sientes que no estás dedicando suficiente tiempo a trabajar en ellos. Aprenda una serie de cosas que pueden ayudarle a mantenerse al día con su proyecto sin los sentimientos de culpa.
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 2085
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Mantener El Código Abierto Mientras Mantiene Su Cordura{#maintaining-open-source-while-maintaining-your-sanity}
+# Mantener Open Source Y Mantener La Cordura{#maintaining-open-source-while-maintaining-your-sanity}
 
 Mantener proyectos de código abierto puede ser difícil. Los proyectos de código abierto exitosos pueden ocupar mucho tiempo y a menudo terminas sintiéndote culpable porque sientes que no estás dedicando suficiente tiempo a trabajar en ellos. ¡No estás solo! He sido colaborador de código abierto durante mucho tiempo y mantenedor principal de Apache Cordova durante más de 8 años. He aprendido una serie de cosas que pueden ayudarle a mantenerse al día con su proyecto sin los sentimientos de culpa.
 

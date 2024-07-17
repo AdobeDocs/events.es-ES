@@ -23,7 +23,7 @@ Un desglose detallado de las implementaciones de Adobe Experience Manager Sites 
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**Grabado el 21 de abril, 9 a. m PST**
+**Grabado el 21 de abril a las 9am PST**
 
 ## Diapositivas de presentación
 

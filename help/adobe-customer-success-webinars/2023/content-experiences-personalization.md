@@ -1,5 +1,5 @@
 ---
-title: 'Contenido y experiencias: el corazón latiente de la personalización'
+title: 'Contenido y experiencias: el corazón latiente de Personalization'
 description: Identificación y superación de desafíos comunes para la creación de una capacidad de contenido y experiencias Creación de casos de uso para dirigir el contenido a través del recorrido del cliente
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Contenido y experiencias: el corazón latiente de la personalización
+# Contenido y experiencias: The Beating Heart of Personalization
 
-*Contenido y experiencias: el corazón latiente de la personalización*
+*Contenido y experiencias: The Beating Heart of Personalization*
 
 * Identificación y superación de desafíos comunes para crear una capacidad de contenido y experiencias
 * Creación de casos de uso para dirigir el contenido a través del recorrido del cliente

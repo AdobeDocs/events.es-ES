@@ -8,7 +8,7 @@ duration: 4071
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 2%
 
 *Presentado el 15 de febrero de 2017*
 
-**Michael Duerig, Desarrollador sénior, Adobe**
+**Michael Duerig, desarrollador sénior, Adobe**
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-tarmk-deep-dive.pptx)
 

@@ -8,7 +8,7 @@ duration: 3893
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM Obtenga información general sobre los cambios principales en la plataforma,
 
 >[!VIDEO](https://video.tv.adobe.com/v/26368/?quality=9)
 
-*Entregado el 06/03/19*
+*Entregado el 19/06/03*
 
 **Presentado por:**
 
 * Cedric Huesler, Director Product Management, Adobe
 * Gabriel Walt, Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem65-whatsnewgem-march6.pdf)

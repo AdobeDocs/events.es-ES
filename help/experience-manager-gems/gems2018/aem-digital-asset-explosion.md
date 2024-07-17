@@ -8,30 +8,30 @@ duration: 3276
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# La explosión de recursos digitales y [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+# Explosión de recursos digitales y [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
 En el Adobe, hemos observado una explosión de activos digitales en 4 áreas clave:
 
 * El tamaño de archivo de los recursos digitales que se están produciendo
 * El número de recursos digitales que se producen
 * Las expectativas de nuestros usuarios y clientes respecto a los recursos digitales
-* Las solicitudes de más y más grande [!DNL AEM Assets] implementaciones
+* Las solicitudes para implementaciones de [!DNL AEM Assets] cada vez más grandes
 
-AEM En esta sesión, aprenderemos acerca de la explosión de recursos digitales, comprenderemos la escala de la explosión de recursos a medida que los recursos explotan y seguiremos el ejemplo de un cliente a lo largo del ciclo de vida de su [!DNL AEM Assets] proyecto.
+AEM En esta sesión, aprenderemos acerca de la explosión de recursos digitales, comprenderemos la escala de la explosión de recursos a medida que se produce la explosión y seguiremos el ejemplo de un cliente a lo largo del ciclo de vida de su proyecto [!DNL AEM Assets].
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Publicado el 31 de enero de 2018*
+*Entregado el 31 de enero de 2018*
 
 **Presentado por:**
 
 Clint Goudie-Nice, ingeniero de software senior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--

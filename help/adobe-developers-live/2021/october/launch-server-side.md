@@ -13,7 +13,7 @@ duration: 1532
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 7%
+ht-degree: 6%
 
 ---
 
@@ -25,6 +25,6 @@ En abril de 2021, Evolytics lanzó la primera extensión creada por terceros par
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

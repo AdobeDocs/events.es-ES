@@ -10,7 +10,7 @@ duration: 3644
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,23 +20,23 @@ AEM La replicación es una función central en las instancias de publicación, y
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*Publicado el 26 de julio de 2017*
+*Entregado el 26 de julio de 2017*
 
-**Tommaso Teotelephone, Desarrollador, Adobe**
+**Tommaso Teorepair, Desarrollador, Adobe**
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-troubleshooting-aem-replication.pdf)
 
 ## Vínculos relacionados {#related-links}
 
-* [AEM Replicación de.3](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
-* [AEM Replicación de.2](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
-* [AEM Replicación de.1](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
-* [AEM Replicación de.0](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
+* AEM [Replicación de.3](https://docs.adobe.com/docs/en/aem/6-3/deploy/configuring/replication.html)
+* AEM [Replicación de.2](https://docs.adobe.com/docs/en/aem/6-2/deploy/configuring/replication.html)
+* AEM [Replicación de.1](https://docs.adobe.com/docs/en/aem/6-1/deploy/configuring/replication.html)
+* AEM [Replicación de.0](https://docs.adobe.com/docs/en/aem/6-0/deploy/configuring/replication.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM Indexación de y consulta JCR](aem-indexing-jcr-query.md)
->* [AEM Resolución de problemas de replicación](aem-troubleshooting-aem-replication.md)
+>* AEM [Indexación de y consulta JCR](aem-indexing-jcr-query.md)
+>* AEM [Resolución de problemas de replicación de la](aem-troubleshooting-aem-replication.md)
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

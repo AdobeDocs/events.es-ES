@@ -8,7 +8,7 @@ duration: 3141
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*Publicado el 21 de junio de 2017*
+*Entregado el 21 de junio de 2017*
 
 **Presentado por:**
 
 * Catalin Luta, QE Desarrollador, Adobe
 * Andrei Stefan Tuicu, QE Desarrollador, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-toughday2.pdf)
 <!--

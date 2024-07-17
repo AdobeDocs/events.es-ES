@@ -1,19 +1,19 @@
 ---
 title: Habilitación de diversos modelos de negocio con Commerce y Composability
-description: La reunión se centró principalmente en la habilitación de diversos modelos de negocio en Adobe Commerce, Destacando las tendencias de crecimiento del comercio B2B, Destacando la importancia de simplificar las integraciones para actualizaciones sin problemas, Mostrando interacciones personalizadas B2B a B2C a través de una demostración, discutiendo las capacidades de Adobe Commerce como soporte omnicanal e integración de malla de API, destacando las ventajas de los servicios de comercio componibles, presentando el App Builder para personalizaciones escalables y administración de suscripciones dentro de la plataforma.
+description: La reunión se centró principalmente en la habilitación de diversos modelos de negocio en Adobe Commerce, Destacando las tendencias de crecimiento del comercio B2B, Destacando la importancia de simplificar las integraciones para actualizaciones sin problemas, Mostrando interacciones personalizadas B2B a B2C a través de una demostración, discutiendo las capacidades de Adobe Commerce como soporte omnicanal e integración de malla de API, destacando las ventajas de los servicios de comercio componibles, presentando App Builder para personalizaciones escalables y administración de suscripciones dentro de la plataforma.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Habilitación de diversos modelos de negocio con Commerce y Composability
 
@@ -46,7 +46,7 @@ Las empresas aprovechan el comercio de Adobe para implementar varios modelos de 
 
 * Compatibilidad omnicanal
 * Experiencias personalizadas
-* Integración con sistemas de terceros a través de la malla de API y App Builder
+* Integración con sistemas de terceros a través de API mesh y App Builder
 
 ### Aspectos Tecnológicos Discutidos
 
@@ -54,7 +54,7 @@ Las empresas aprovechan el comercio de Adobe para implementar varios modelos de 
 * Utilización de la malla de API para la orquestación
 * Uso de eventos de Adobe para la personalización y la extensión de la plataforma
 
-### Ventajas del Generador de aplicaciones
+### Ventajas de App Builder
 
 * Personalizaciones escalables
 * Integraciones

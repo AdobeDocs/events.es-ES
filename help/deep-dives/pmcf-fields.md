@@ -36,7 +36,7 @@ En el vídeo &quot;Adobe Marketo Engage Champion Deep Dive&quot;, los ponentes a
 * Se utiliza en correos electrónicos, páginas de aterrizaje y alertas para una comunicación personalizada.
 * Mejore el seguimiento, el análisis y la creación de informes de datos específicos del programa.
 
-**Utilización de los PMC en Marketo**
+**Utilización de PMC en Marketo**
 
 * Crucial para capturar y compartir información dentro de los programas.
 * Descripciones de programas ideales para enumerar campos e información recopilada.

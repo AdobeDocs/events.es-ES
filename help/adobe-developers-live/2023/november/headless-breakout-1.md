@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Descubra el potencial de las API sin encabezado de Adobe Experience Manager en esta sesión de Catalina Dumitru, grabada en directo en Adobe Developers Live. Obtenga información acerca de las capacidades ampliadas de estas API, incluido el etiquetado, el control de versiones y la búsqueda de puntos de conexión. Comprenda cómo facilitan la recuperación eficiente de contenido para experiencias similares a aplicaciones en varios canales digitales y vea las aplicaciones reales de estas API en acción. Esta sesión es un recurso inestimable para los desarrolladores que buscan aprovechar la tecnología sin encabezado para soluciones innovadoras.
 
-Continúe la conversación en [Comunidades Experience League](https://adobe.ly/3rJfZcN).
+Continuar la conversación en [Comunidades de Experience League](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

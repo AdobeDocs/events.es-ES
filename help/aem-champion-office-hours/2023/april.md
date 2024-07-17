@@ -1,6 +1,6 @@
 ---
 title: AEM Horario de oficina de Campeón de la - Edición de Abril
-description: Únase a nosotros en la edición de abril del Horario de oficina del campeón de Adobe AEM de, como panel de Campeones de Adobe Experience Manager AEM, para analizar las prácticas recomendadas, compartir consejos y participar en preguntas y respuestas en directo en torno a las preguntas y respuestas as a Cloud Service de los. AEM Tanto si es su primera vez en el mundo de la informática como si tiene alguna duda acerca de su transición a Cloud Service AEM o simplemente desea saber cómo la transición a la tecnología as a Cloud Service puede satisfacer las necesidades de su organización, puede obtener información valiosa de nuestros Adobe Experience Manager Champions.
+description: Únase a nosotros en el horario de oficina de la edición de abril del Campeón de Adobe AEM de la campaña, ya que un panel de Campeones de Adobe Experience Manager analizará las prácticas recomendadas, compartirá sugerencias y realizará preguntas y respuestas en directo en torno a AEM as a Cloud Service. AEM Tanto si es su primera vez en el mundo de la informática como si tiene alguna duda acerca de su transición a Cloud Service o si simplemente desea saber cómo la transición a AEM as a Cloud Service puede servir a las necesidades de su organización, puede obtener información valiosa de nuestros Campeones de Adobe Experience Manager.
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM Horario de oficina de Campeón de la - Edición de Abril
 
-Únase a nosotros en la edición de abril del Horario de oficina del Campeón de la de Adobe AEM, como panel de [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]AEM Analice las prácticas recomendadas, comparta sugerencias y participe en una sesión de preguntas y respuestas en directo en torno a las preguntas y respuestas as a Cloud Service de los usuarios.
+Únase a nosotros en la edición de abril del Horario de oficina del Campeón de Adobe AEM, como panel de [Campeones de Adobe Experience Manager |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]discuta las prácticas recomendadas, comparta consejos y participe en preguntas y respuestas en directo sobre AEM as a Cloud Service.
 
-AEM Tanto si es su primera vez en el mundo de la informática como si tiene alguna duda acerca de su transición a Cloud Service AEM o simplemente desea saber cómo la transición a la tecnología as a Cloud Service puede satisfacer las necesidades de su organización, puede obtener información valiosa de nuestros Adobe Experience Manager Champions.
+AEM Tanto si es su primera vez en el mundo de la informática como si tiene alguna duda acerca de su transición a Cloud Service o si simplemente desea saber cómo la transición a AEM as a Cloud Service puede servir a las necesidades de su organización, puede obtener información valiosa de nuestros Campeones de Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

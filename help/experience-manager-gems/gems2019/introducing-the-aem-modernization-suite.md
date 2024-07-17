@@ -8,7 +8,7 @@ duration: 3324
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,13 +23,13 @@ Algunos clientes siguen dependiendo de la IU clásica para su experiencia de cre
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Entregado el 05/08/19*
+*Entregado el 19/08/05*
 
 **Presentado por:**
 
 * AEM Bryan Stopp, Arquitecto Técnico De La Universidad De, Adobe
 * Gilles Knobloch, Director de ingeniería, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/modernization-toolsaemgems.pdf)

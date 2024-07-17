@@ -12,8 +12,8 @@ ht-degree: 0%
 
 # Marketo y Mochas
 
-Bienvenido a las grabaciones de Marketo y Mochas. Uso de estos recursos en combinación con el Adobe Marketo [documentación](https://experienceleague.adobe.com/docs/marketo-engage.html) y [tutoriales](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)Sin embargo, obtendrá una mejor comprensión de cómo utilizar Adobe Marketo para apoyar a su empresa.
+Bienvenido a las grabaciones de Marketo y Mochas. Con estos recursos, combinados con la [documentación](https://experienceleague.adobe.com/docs/marketo-engage.html) y los [tutoriales](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) de Marketo de Adobe, obtendrá una mejor comprensión de cómo usar Adobe Marketo para apoyar su negocio.
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.

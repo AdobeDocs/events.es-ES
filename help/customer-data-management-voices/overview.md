@@ -18,7 +18,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.
 
 ## Bloques de creación de administración de datos del cliente
 
@@ -29,7 +29,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Optimización de su primera milla de administración de datos" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Optimización de su primera milla de administración de datos</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Optimizando su primera milla de administración de datos</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Selección de una plataforma de datos de cliente para realizar correctamente" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Selección de una plataforma de datos de cliente para realizar correctamente</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Selección de una plataforma de datos de cliente para realizar una prueba con éxito</strong></a>
          <br/>
       </div>
     </td>
@@ -58,7 +58,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="La evolución de su centro de excelencia de audiencia" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>La evolución de su centro de excelencia de audiencia</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>Desarrollo del centro de excelencia de su audiencia</strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Creación de mejores experiencias con perfiles de clientes" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Creación de mejores experiencias con perfiles de clientes</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Crear mejores experiencias con perfiles de clientes</strong></a>
       </div>
       <p>
         <br/>
@@ -77,7 +77,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Cómo los equipos de marketing mejoran las estrategias de administración de datos" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Cómo los equipos de marketing mejoran las estrategias de administración de datos</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>Cómo mejoran los equipos de marketing las estrategias de administración de datos</strong></a>
       </div>
       <p>
       </p>
@@ -105,7 +105,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="10 consideraciones para la administración de datos del cliente responsable" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 consideraciones para la administración de datos del cliente responsable</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 consideraciones para la administración responsable de datos del cliente</strong></a>
          <br/>
       </div>
       <p>
@@ -116,7 +116,7 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Elevación de la función del experto en marketing como administrador de datos" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Elevación de la función del experto en marketing como administrador de datos</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>Elevación del rol del experto en marketing como administrador de datos</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ Bienvenido a la administración de datos del cliente. Expresa tu destino como en
       <img alt="Cree experiencias magníficas con los datos de origen" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Cree experiencias magníficas con los datos de origen</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Cree experiencias fabulosas con sus datos de origen</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Colaboración de datos en el contexto de datos de origen" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Data Collaboration en el contexto de datos de origen" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Colaboración de datos en el contexto de datos de origen</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaboration de datos en el contexto de datos de origen</strong></a>
       </div>
       <p>
       </p>

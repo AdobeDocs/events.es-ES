@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ La administración de trabajos es la infraestructura subyacente para funciones c
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*Publicado el 24 de julio de 2013*
+*Entregado el 24 de julio de 2013*
 
 **Presentado por:**
 
@@ -36,6 +36,6 @@ Diapositivas del presentador - Parte 2
 
 ## Vínculos relacionados {#related-links}
 
-* [Eventos de Apache Sling y gestión de trabajos](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Eventos de Apache Sling y administración de trabajos](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
 * [API de detección y sus implementaciones](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Descargando trabajos](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Trabajos de descarga](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

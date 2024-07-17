@@ -24,9 +24,9 @@ ht-degree: 1%
    + [Asignación de casos de uso a funcionalidades de la solución](2024/use-case-mapping.md)
    + [Aspectos básicos de migración del SDK web](2024/web-sdk-migration.md)
 + 2023 {#2023}
-   + [Creación de la base para la personalización a escala](2023/personalization-at-scale.md)
+   + [Creación de las bases de Personalization a escala](2023/personalization-at-scale.md)
    + [Administración de cambios](2023/change-management.md)
-   + [Contenido y experiencias: personalización](2023/content-experiences-personalization.md)
+   + [Contenido y experiencias: Personalization](2023/content-experiences-personalization.md)
    + [Preparación para la migración de Customer Journey Analytics](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [Desarrollo de una estrategia de recopilación y activación de datos en tiempo real](2023/data-collection-activation-strategy.md)

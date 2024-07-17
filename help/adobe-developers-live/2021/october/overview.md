@@ -20,8 +20,8 @@ Del 4 al 5 de octubre de 2021, Adobe Developers Live reunió a desarrolladores d
 Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Creative Cloud muestran los últimos avances tecnológicos y las herramientas para desarrolladores que impulsan el diseño, los flujos de trabajo de creación de contenido, los servicios de documentos y la administración de experiencias del cliente en todos los sectores.
 
 Conéctese con otros desarrolladores y únase a las conversaciones de la sesión en las comunidades de Experience League.
-* [Lista de sesiones completas de Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM Lista de sesiones completa](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=es#M120517)
+* [Lista de sesiones completadas de Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* AEM [Lista de sesiones completadas](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=es#M120517)
 
 ## Características destacadas
 
@@ -33,7 +33,7 @@ Conéctese con otros desarrolladores y únase a las conversaciones de la sesión
       </a>
       <div>
          <a href="headless.md"><strong>Sitios sin encabezado</strong></a>         
-         <br/><em>con Mathias Siegel, director de producto principal de AEM Sites</em>
+         <br/><em>con Mathias Siegel, director de producto, AEM Sites</em>
       </div>
       <p>
         <br/>
@@ -59,8 +59,8 @@ Conéctese con otros desarrolladores y únase a las conversaciones de la sesión
       <img alt="Generación de documentos y captura de firmas electrónicas en las aplicaciones mediante la API de Adobe Sign" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>Generación de documentos y captura de firmas electrónicas en las aplicaciones mediante la API de Adobe Sign</strong></a>
-         <br/><em>con Ben Vanderberg, principal evangelista de desarrolladores</em>
+         <a href="pdf-services-api.md"><strong>Generación de documentos y captura de firmas electrónicas en sus aplicaciones mediante la API de Adobe Sign</strong></a>
+         <br/><em>con Ben Vanderberg, desarrollador principal y evangelista</em>
       </div>
       <p>
         <br/>
@@ -72,30 +72,30 @@ Conéctese con otros desarrolladores y únase a las conversaciones de la sesión
 
 >[!TIP]
 >
->**Todas las sesiones se muestran en la sección de navegación de la izquierda**.
+>**Todas las sesiones aparecen en la lista de navegación de la izquierda**.
 
 ## Recursos adicionales
 
 ### AEM
 
-* [Experience League AEM - Explorar la](https://experienceleague.adobe.com/?lang=es#recommended/solutions/experience-manager)
+* [Experience League AEM - Explorar el](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
 * [Documentación de creación de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
 * [Documentación de desarrollo de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [Documentación de administración de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [Documentación de implementación de AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=es)
-* [AEM Tutorials as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=es)
+* [Tutorials de AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=es)
 * [Tutoriales de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=es)
 * [Tutoriales de AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [Tutoriales de AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
-* [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+* [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 * [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 * [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)
 
-### Generador de aplicaciones
+### App Builder
 
-* [Información general sobre App Builder](https://adobe.ly/aem-appbuilder)
+* [Información general de App Builder](https://adobe.ly/aem-appbuilder)
 * [Guía para desarrolladores de App Builder](https://adobe.ly/appbuilder)
-* [Registro en el programa de prueba del App Builder](https://adobe.ly/appbuilder-trial)
+* [Registro en el programa de evaluación de App Builder](https://adobe.ly/appbuilder-trial)

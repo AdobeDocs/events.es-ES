@@ -8,7 +8,7 @@ duration: 3149
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,14 +24,14 @@ Consideraciones clave:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20495/?quality=9)
 
-*Publicado el 18 de octubre de 2017*
+*Entregado el 18 de octubre de 2017*
 
 **Presentado por:**
 
 * Haresh Kumar, Director AEM de Estrategia y Marketing de Productos,, Adobe
 * Gilles Knobloch, Director de ingeniería, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gems-fluid-experiencesoct1617.pdf)
 <!--

@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,17 +18,17 @@ AEM El Marco de componente social (SCF) está disponible como paquete de funcion
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*Fecha de entrega: 13 de agosto de 2014*
+*Entregado el 13 de agosto de 2014*
 
 **Presentado por:**
 
 Siddharth Palaniswami, Sr. Ingeniero de Software, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/scf-gems.pdf)
 
 ## Vínculos relacionados {#related-links}
 
 * [Vínculo de GitHub para ejemplo de código](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Marco del componente social](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Marco de componente social](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

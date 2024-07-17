@@ -25,5 +25,5 @@ Aprenda a sacar el máximo partido a su CDP invirtiendo en las personas y los pr
 ## Información adicional
 
 * [Optimización de su primera milla de administración de datos](first-mile.md)
-* [Elevación de la función del experto en marketing como administrador de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [Elevación del rol del experto en marketing como administrador de datos](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [10 consideraciones para la administración de datos del cliente responsable](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

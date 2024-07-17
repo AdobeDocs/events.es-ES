@@ -9,7 +9,7 @@ duration: 5182
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '5572'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -83,7 +83,7 @@ Al enviar una prueba, en Organización, ¿hay algún modo de limpiar las carpeta
 
 **Respuesta**
 
-Esta pregunta está relacionada con Workfront Proof Standalone. Dentro de Workfront Proof independiente puede utilizar carpetas privadas para ocultarlas a usuarios específicos. Esto permite obtener una lista de carpetas más ágil entre las que elegir. Tenga en cuenta que también puede utilizar la lógica de escritura anticipada para localizar la carpeta a la que desea agregar una prueba.
+Esta pregunta está relacionada con Workfront Proof Standalone. En Workfront Proof independiente, puede utilizar carpetas privadas para ocultarlas a usuarios específicos. Esto permite obtener una lista de carpetas más ágil entre las que elegir. Tenga en cuenta que también puede utilizar la lógica de escritura anticipada para localizar la carpeta a la que desea agregar una prueba.
 
 **Pregunta**
 
@@ -465,11 +465,11 @@ Recomendaría utilizar plantillas de flujo de trabajo automatizadas que le permi
 
 **Pregunta**
 
-¿La fase Workfront Proof solo se añade cuando se utilizan flujos de trabajo automatizados y alguien que no se ha agregado al flujo de trabajo abre la prueba?
+¿La fase de Workfront Proof solo se añade cuando se utilizan flujos de trabajo automatizados y alguien que no se ha agregado al flujo de trabajo abre la prueba?
 
 **Respuesta**
 
-La fase &quot;Workfront Proof&quot; se añade a las pruebas si un usuario que no es destinatario hace clic en ellas. También se aplicará si alguien convierte una Prueba de flujo de trabajo básico en una Prueba de Workfront automatizada.
+La fase &quot;Workfront Proof&quot; se añade a las pruebas si un usuario que no es destinatario hace clic en ellas. También se aplicará si alguien convierte una Prueba de flujo de trabajo básico en una Workfront Proof automatizada.
 
 **Pregunta**
 

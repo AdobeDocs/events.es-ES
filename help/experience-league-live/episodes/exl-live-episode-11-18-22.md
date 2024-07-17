@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analytics en la oficina o fuera de ella
 
-**Perspectivas sin fricciones en cualquier momento y lugar con Adobe[!DNL Analytics]**
+**Perspectivas sin fricción en cualquier momento y lugar con el Adobe[!DNL Analytics]**
 
 Con tantas demandas en su tiempo y atención, necesita poder crear y acceder a perspectivas de negocio en cualquier entorno, ya sea que esté detrás de un escritorio o fuera y alrededor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Vea el vídeo anterior para ver este evento de flujo en directo, donde se Adobe [!DNL Analytics] Los expertos de dieron algunos buenos consejos para personalizar y acceder a las perspectivas en Analysis Workspace y el [!DNL Analytics] Aplicación de paneles.
+Vea el vídeo anterior para ver este evento de flujo en directo, en el que los expertos de Adobe [!DNL Analytics] dieron buenos consejos para personalizar y acceder a las perspectivas en Analysis Workspace y en la aplicación de paneles de [!DNL Analytics].
 
-¿Tiene preguntas al respecto? Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
 

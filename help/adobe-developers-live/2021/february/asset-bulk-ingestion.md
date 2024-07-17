@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Esta sesión introducirá la nueva función de la ingesta masiva de recursos en Cloud Service, así como su escalabilidad y rendimiento.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** para las diapositivas de la sesión.

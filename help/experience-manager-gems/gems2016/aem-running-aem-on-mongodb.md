@@ -8,7 +8,7 @@ duration: 3024
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM AEM Esta Gem de la detallará cómo ejecutar la configuración de la producc
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*Publicado el 23 de marzo de 2016*
+*Entregado el 23 de marzo de 2016*
 
 **Presentado por:**
 
 * Ian Boston, ingeniero de software sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-032316-onmongodb.pdf)
 
@@ -32,9 +32,9 @@ AEM AEM Esta Gem de la detallará cómo ejecutar la configuración de la producc
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 >
->En relación con esta sesión, consulte *AEM Consultas e indexación de Oak : con MongoDB* AEM en la documentación de 6.1.
+>En relación con esta sesión, consulte *Consultas e indexación de Oak AEM AEM : con MongoDB* en la documentación de 6.1.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

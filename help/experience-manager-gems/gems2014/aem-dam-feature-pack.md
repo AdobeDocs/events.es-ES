@@ -24,7 +24,7 @@ La sesión también mostrará la capacidad de configuración de la superficie de
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*Publicado el 5 de marzo de 2014*
+*Entregado el 5 de marzo de 2014*
 
 **Presentado por:**
 

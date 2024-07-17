@@ -18,7 +18,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

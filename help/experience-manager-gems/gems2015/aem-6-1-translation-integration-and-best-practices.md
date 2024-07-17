@@ -8,7 +8,7 @@ duration: 3807
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM Cristine y Mathias presentarán funciones mejoradas de integración de tradu
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*Publicado el 30 de septiembre de 2015*
+*Entregado el 30 de septiembre de 2015*
 
 **Presentado por:**
 
 * Christine Duran, directora senior de tecnologías de traducción, Adobe
 * Mathias Siegel, director de producto senior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 

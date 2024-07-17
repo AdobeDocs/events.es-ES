@@ -1,6 +1,6 @@
 ---
 title: AEM Campeón de la sesión de múltiples inquilinos
-description: AEM La sesión se centrará en cómo pueden existir varios inquilinos en la misma instancia as a Cloud Service de la. El enfoque está en el uso de Adobe AEM Cloud Manager para implementar varios repositorios de código en la misma instancia de. Esto incluye la configuración de diferentes repositorios de Git, así como el uso de submódulos de Git.
+description: La sesión se centrará en cómo pueden existir varios inquilinos en la misma instancia de AEM as a Cloud Service. El enfoque está en el uso de Adobe Cloud Manager AEM para implementar varios repositorios de código en la misma instancia de. Esto incluye la configuración de diferentes repositorios de Git, así como el uso de submódulos de Git.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # AEM Campeón de la sesión de múltiples inquilinos
 
-AEM La sesión se centrará en cómo pueden existir varios inquilinos en la misma instancia as a Cloud Service de la. El enfoque está en el uso de Adobe AEM Cloud Manager para implementar varios repositorios de código en la misma instancia de. Esto incluye la configuración de diferentes repositorios de Git, así como el uso de submódulos de Git.
+La sesión se centrará en cómo pueden existir varios inquilinos en la misma instancia de AEM as a Cloud Service. El enfoque está en el uso de Adobe Cloud Manager AEM para implementar varios repositorios de código en la misma instancia de. Esto incluye la configuración de diferentes repositorios de Git, así como el uso de submódulos de Git.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346388/?quality=12&learn=on)

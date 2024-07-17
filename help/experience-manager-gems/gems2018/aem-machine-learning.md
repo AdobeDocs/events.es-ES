@@ -9,7 +9,7 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*Publicado el 18 de abril de 2018*
+*Entregado el 18 de abril de 2018*
 
 **Presentado por:**
 
 Jonas Dahl, Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem+gems+ml+and+ai+in+aem+4+17+18.pdf)
 
 ## Recursos {#resources}
 
-[Etiquetas inteligentes mejoradas: AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Etiquetas inteligentes mejoradas - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ Jonas Dahl, Product Manager, Adobe
 
 >[!MORELIKETHIS]
 >
->* [AEM Aprendizaje automático en el ámbito de la: Etiquetas inteligentes mejoradas, Diseño inteligente y mucho más](aem-machine-learning.md)
+>* AEM [Aprendizaje automático en el área de las etiquetas inteligentes: Etiquetas inteligentes mejoradas, Diseño inteligente y mucho más](aem-machine-learning.md)

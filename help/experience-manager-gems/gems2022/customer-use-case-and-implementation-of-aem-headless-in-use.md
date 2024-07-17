@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # AEM AEM Funcionalidad de GEMs: Caso práctico de cliente e implementación de la tecnología sin encabezado en uso de la
 
-*Este seminario web se ha llevado a cabo el **Miércoles, 12 de octubre - 3 pm UTC**. La grabación está disponible a continuación.*
+*Este seminario web se llevó a cabo del **Miércoles 12 de octubre a las 3 pm UTC**. La grabación está disponible a continuación.*
 
 AEM AEM Esta excepcional sesión de GEMs cuenta con dos ponentes que operan como clientes de la red de la red de la red de la. La sesión se dividirá en dos mitades de la siguiente manera:
 
@@ -54,5 +54,5 @@ Esto elimina el requisito de que la API proporcione muchos extremos que proporci
 
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://adobe.ly/3r6P4nr)
->* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite este [hilo contextual](https://adobe.ly/3r6P4nr)
+>* Para recibir notificaciones automáticas sobre seminarios web, regístrese en el [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).

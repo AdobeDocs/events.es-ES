@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Naomi Robichaud ofrece un análisis detallado de la integración de Adobe Commerce con la Sales Channel de Amazon en esta sesión de Adobe Developers Live, grabada el 6 de noviembre de 2023. Descubra la flexibilidad de la interfaz de usuario de Adobe Commerce y las herramientas de extensibilidad impulsadas por eventos, y cómo se pueden utilizar para crear aplicaciones de comercio digital adaptables y sólidas en un entorno nativo de la nube. Es una visita obligada para los desarrolladores que buscan perspectivas prácticas sobre las integraciones de comercio digital.
 
-Continúe la conversación en [Comunidades Experience League](https://adobe.ly/46M7lZK).
+Continuar la conversación en [Comunidades de Experience League](https://adobe.ly/46M7lZK).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425636/?learn=on)

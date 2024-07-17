@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19569/?quality=9)
 
-*Publicado el 30 de octubre de 2013*
+*Entregado el 30 de octubre de 2013*
 
 **Presentado por:**
 

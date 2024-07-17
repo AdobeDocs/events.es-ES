@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Rockstars
-description: Tres clientes de "Rockstar" presentarán sus mejores productos cada uno [!DNL Marketo Engage] consejo o truco. ¿Quién te deslumbrará más allá de la creencia? Mira y vota en tiempo real.
+description: Tres clientes de "Rockstar" ofrecerán cada uno su mejor [!DNL Marketo Engage] consejo o truco. ¿Quién te deslumbrará más allá de la creencia? Mira y vota en tiempo real.
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Rockstars
+# [!DNL Marketo Engage] estrellas de rock
 
-Tres clientes de &quot;Rockstar&quot; presentarán sus mejores productos cada uno [!DNL Marketo Engage] consejo o truco. ¿Quién te deslumbrará más allá de la creencia? Mira y vota en tiempo real.
+Tres clientes de &quot;Rockstar&quot; ofrecerán cada uno su mejor consejo o truco de [!DNL Marketo Engage]. ¿Quién te deslumbrará más allá de la creencia? Mira y vota en tiempo real.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

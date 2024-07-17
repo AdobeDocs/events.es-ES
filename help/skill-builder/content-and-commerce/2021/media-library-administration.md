@@ -1,6 +1,6 @@
 ---
 title: No vuelva a perder tiempo buscando contenido
-description: AEM Conviértase en un autor experto con una profundización en la interfaz de usuario de administración de Media Library y Sitios web de con consejos y trucos para aumentar su eficacia diaria
+description: AEM Conviértase en un autor experto con una profunda inmersión en la interfaz de usuario de administración de Media Library y Sites de con consejos y trucos para aumentar su eficacia diaria
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Exper
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-AEM Conviértase en un autor experto con una profundización en la interfaz de usuario de administración de Media Library y Sitios web de con consejos y trucos para aumentar su eficacia diaria.
+AEM Conviértase en un autor experto con una profunda inmersión en la interfaz de usuario de administración de Media Library y Sites de con consejos y trucos para aumentar su eficacia diaria.
 
 ## Grabaciones de series
 

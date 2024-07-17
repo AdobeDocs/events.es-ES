@@ -22,13 +22,13 @@ Durante esta sesión, David hablará sobre:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Publicado el 11 de febrero de 2015*
+*Entregado el 11 de febrero de 2015*
 
 **Presentado por:**
 
 * David Catalan, desarrollador principal de QE, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Volver a la descripción general](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Volver al resumen](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

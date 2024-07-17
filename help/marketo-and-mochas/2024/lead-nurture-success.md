@@ -34,13 +34,13 @@ Carly también dirigirá una demostración en directo, que le guiará a través 
 * Implica compartir recursos, proporcionar información útil, educar sobre productos y servicios y personalizar interacciones.
 * Ayuda a aumentar la propensión de un cliente potencial a comprar, genera confianza, mejora el liderazgo de la marca y del pensamiento y acorta el ciclo de ventas.
 
-**Estrategias para la nutrición eficaz del plomo**
+**Estrategias para la nutrición eficaz del posible cliente**
 
 * Defina objetivos claros, alinee los esfuerzos de marketing y ventas, identifique audiencias objetivo y segmente los datos de forma eficaz.
 * Seleccione los tipos adecuados de campañas de nutrición, reutilice el contenido existente, cree contenido nuevo y utilice herramientas como Marketo.
 * Utilice el contenido existente, segmente las audiencias, personalice el contenido, optimice en función de las métricas de rendimiento y mida el éxito.
 
-*Optimización de las campañas de correo electrónico y la toma de decisiones*
+*Optimización de campañas de correo electrónico y toma de decisiones*
 
 * Considere la posibilidad de utilizar programas o eventos anidados para alimentar las plantillas de programas en campañas de correo electrónico complejas.
 * Alinee la decisión de dejar de alimentar a los posibles clientes con el objetivo de la campaña de nutrición.

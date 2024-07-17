@@ -27,7 +27,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 <tr>
 
 <td style="vertical-align: top;">
-      <b>¡Vuelve pronto para enterarte de nuevos shows! Mientras tanto, vea nuestros episodios anteriores haciendo clic en los vínculos a continuación o en la navegación izquierda.</b>
+      <b>Vuelva pronto para recibir información sobre nuevos programas. Mientras tanto, vea nuestros episodios anteriores haciendo clic en los vínculos siguientes o en la navegación izquierda.</b>
   </td>
 </tr>
 </table>
@@ -56,7 +56,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM De con encabezado a sin encabezado</strong>
+        AEM <strong>de con encabezado a sin encabezado</strong>
       </a>
       <br/><em>con Danny Gordon, Amol Anand, Sachin Mali y Sean Steimer</em>
       <br/><em>21 de abril de 2022</em>
@@ -68,7 +68,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - La primicia interior</strong></a>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - The Inside Scoop</strong></a>
       <br/><em>con Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25 de enero de 2021</em>
     </div>
@@ -93,4 +93,4 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Si desea conocer otros métodos de aprendizaje, consulte nuestra [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) así como individual [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es).
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.

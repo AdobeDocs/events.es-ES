@@ -27,7 +27,7 @@ Escucharás a Daniel Rios (Senior Manager, Product Management) que cubrirá los 
 
 * Transformación de datos en valor
 * Creación de una base de datos sólida
-* Combinación de MBI y [!DNL Analytics] datos
+* Combinando datos de MBI y [!DNL Analytics]
 
 También verá una demostración en directo de la plataforma para dar vida a estos conceptos.
 

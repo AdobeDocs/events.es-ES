@@ -37,7 +37,7 @@ ht-degree: 0%
 + Revisar y aprobar el trabajo {#review-and-approve-work}
    + [Flujos de trabajo y aprobaciones de marketing](user-groups/marketing-workflows-and-approvals.md)
    + [Flujos de trabajo y aprobaciones de TI](user-groups/it-workflows-and-approvals.md)
-+ Plantillas de horas {#timesheets}
++ Hojas de horas {#timesheets}
    + [Uso de plantillas de horas en Workfront](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront Proof {#workfront-proof}
    + [Prácticas recomendadas para maximizar Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)

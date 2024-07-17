@@ -20,9 +20,10 @@ ht-degree: 0%
 
 # Mirando bajo el capó - Cloud Manager 2022
 
-*Este seminario web se ha llevado a cabo del 15 de junio a las 3 p. m. UTC. Vea la grabación a continuación.*
+*Este seminario web se llevó a cabo del 15 de junio a las 3 p. m. UTC. Vea la grabación siguiente.*
 
-Descripción de la sesión: explore las nuevas funciones presentadas el año pasado, una actualización de los desarrollos entre bastidores y eche un vistazo al resto de 2022. Detalles sobre cómo Cloud Manager funciona bajo el capó y cómo un cliente puede aprovecharlo al máximo.
+Descripción de la sesión:
+Explore las nuevas funciones presentadas el año pasado, una actualización de los desarrollos entre bastidores y eche un vistazo al resto de 2022. Detalles sobre cómo funciona Cloud Manager y cómo un cliente puede sacar el máximo partido a él.
 
 El contenido se aplica tanto a Adobe Experience Manager as a Cloud Service como a Experience Manager Managed Services, con un enfoque en Cloud Service. Es adecuado tanto para asistentes técnicos como no técnicos. La exposición previa a Cloud Manager puede ser útil para el contexto, pero no es necesaria.
 
@@ -32,5 +33,5 @@ El contenido se aplica tanto a Adobe Experience Manager as a Cloud Service como 
 
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://adobe.ly/3O0rdzd)
->* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite este [hilo contextual](https://adobe.ly/3O0rdzd)
+>* Para recibir notificaciones automáticas sobre seminarios web, regístrese en el [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).

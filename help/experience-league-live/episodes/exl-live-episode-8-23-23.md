@@ -28,7 +28,7 @@ Con las campañas activadas por API, las empresas pueden establecer una campaña
 
 En esta sesión en directo de Experience League, los expertos en productos de Adobe explicarán cómo puede ejecutar casos de uso transaccionales y de marketing con las funciones de mensajería activada por API en AJO.
 
-**Haga clic en la imagen de arriba para ver el programa!**
+**¡Haz clic en la imagen para ver el programa!**
 
-Continúe con la discusión sobre [puesto de Experience League de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Continuar la discusión sobre [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

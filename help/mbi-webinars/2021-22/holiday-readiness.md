@@ -13,7 +13,7 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -34,11 +34,11 @@ Utilice sus datos de comercio electrónico para tener éxito durante la temporad
 - Usuarios empresariales
 - Analistas de datos
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342496?quality=12&learn=on)
 
 ## Recursos útiles
 
 [Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es)
-[Asistencia de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Soporte de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -1,5 +1,5 @@
 ---
-title: Creación de la base para la personalización a escala
+title: Creación de las bases de Personalization a escala
 description: Este seminario web se centra en comprender las bases necesarias para organizar la personalización a escala
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Creación de la base para la personalización a escala
+# Creación de las bases de Personalization a escala
 
 Este seminario web se centra en comprender las bases necesarias para organizar la personalización a escala
 

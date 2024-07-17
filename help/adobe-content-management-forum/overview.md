@@ -19,13 +19,13 @@ Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro
 * Modernice la administración de experiencias que democratiza la creación de contenido, haciendo que la entrega omnicanal sea muy sencilla y escalando la personalización para que cada experiencia cuente.
 * Cómo crear una cadena de suministro de contenido que escale para la personalización
 * Cómo acelerar el tiempo de comercialización de la creación de nuevos sitios y reducir la dependencia en los recursos técnicos
-* Las innovaciones más recientes para [!DNL Experience Manager] se ofrece como un servicio nativo de la nube y cómo se adapta a las expectativas de mercado en constante cambio mientras se mantiene a la cabeza
-* Cómo crear sitios más rápido con el Adobe [!DNL Experience Manager] como CMS sin encabezado, con GraphQL y fragmentos de contenido
+* Las innovaciones más recientes para [!DNL Experience Manager] se ofrecen como un servicio nativo de la nube y cómo se adapta a las expectativas de mercado en constante cambio sin perder el liderazgo
+* Cómo generar sitios más rápido con el Adobe [!DNL Experience Manager] como CMS sin encabezado, usando GraphQL y fragmentos de contenido
 * Prácticas recomendadas para desarrolladores que aceleran el tiempo de salida al mercado de Adobe Experience Manager Sites
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.
 
 <table>
   <tr>
@@ -34,7 +34,7 @@ Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro
       <img alt="AEM Dirección de bienvenida y descripción general de la" src="assets/welcome.png" >
       </a>
       <div>
-         <a href="2022/welcome.md"><strong>AEM Dirección de bienvenida y descripción general de la</strong></a>         
+         AEM <a href="2022/welcome.md"><strong>Descripción general de la dirección de bienvenida y la</strong></a>         
          <br/><em>con Elliot Sedegah, Haresh Kumar y Kurt Benkert</em>
       </div>
       <p>
@@ -44,15 +44,15 @@ Aprenda de los expertos en Adobe a medida que analizan el estado actual y futuro
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="Recursos para todos" src="assets/assets-for-all.png" >
+      <img alt="Assets para todos" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>Ampliación del Adobe [!DNL Experience Manager] Sin encabezado con Adobe [!DNL App Builder]</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>Ampliando Adobe [!DNL Experience Manager] sin encabezado con Adobe [!DNL App Builder]</strong></a>         
          <br/><em>con Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          Obtenga información acerca de cómo [!DNL Assets Essentials] es el nuevo [!DNL Digital Asset Management] sistema para departamentos y medianas empresas.
+          Obtenga información sobre cómo [!DNL Assets Essentials] es el nuevo sistema [!DNL Digital Asset Management] para departamentos y empresas medianas.
       </p>
    </td>
    <td>

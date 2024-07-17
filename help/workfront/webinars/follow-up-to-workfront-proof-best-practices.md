@@ -9,7 +9,7 @@ duration: 4083
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1649'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -83,7 +83,7 @@ Aunque no puede agregar un destinatario de prueba a más de una fase de revisió
 
 **Respuesta**
 
-Sí, le interesa ir a Workfront Proof y luego seleccionar Flujos de trabajo en el menú de la izquierda. Aquí puede editar etapas, agregar usuarios, eliminar usuarios, agregar etapas, etc.
+Sí, le interesa navegar hasta Workfront Proof y, a continuación, seleccionar Flujos de trabajo en el menú de la izquierda. Aquí puede editar etapas, agregar usuarios, eliminar usuarios, agregar etapas, etc.
 
 **Pregunta**
 

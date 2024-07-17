@@ -8,7 +8,7 @@ duration: 3652
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ AEM La mayoría de los desarrolladores se han encontrado con el generador de con
 
 *Presentado el 22 de febrero de 2017*
 
-**Alexander Klimetschek, Desarrollador sénior, Adobe**
+**Alexander Klimetschek, desarrollador sénior, Adobe**
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-querybuilder-2017.pdf)
 
@@ -30,15 +30,15 @@ AEM La mayoría de los desarrolladores se han encontrado con el generador de con
 
 Demostración
 
-* [AEM Generador de consultas de](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregado por Alexander Klimetschek
+* AEM [Constructor de consultas de la lista de distribución](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregado por Alexander Klimetschek
 
 AEM Documentación de
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 >
->En relación con esta sesión, consulte *API de Querybuilder* AEM en la documentación de la.
+>AEM En relación con esta sesión, consulte la *API de Querybuilder* en la documentación de la.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

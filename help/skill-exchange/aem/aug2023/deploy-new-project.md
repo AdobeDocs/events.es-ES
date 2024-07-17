@@ -1,6 +1,6 @@
 ---
 title: AEM Kit de inicio para desarrolladores de
-description: AEM Este intercambio de habilidades se centra en cómo un nuevo desarrollador de puede iniciar e implementar un nuevo proyecto. AEM Se centrará en temas como el arquetipo del proyecto de la, la configuración de Cloud Manager y las herramientas de desarrollo.
+description: AEM Este intercambio de habilidades se centra en cómo un nuevo desarrollador de puede iniciar e implementar un nuevo proyecto. AEM Se centrará en temas como el tipo de archivo del proyecto, la configuración de Cloud Manager y las herramientas de desarrollo, entre otros.
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # AEM AEM Evento de intercambio de habilidades agosto de 2023 - Seguimiento para desarrolladores de - Kit de inicio para desarrolladores de
 
-AEM Este intercambio de habilidades se centra en cómo un nuevo desarrollador de puede iniciar e implementar un nuevo proyecto. AEM Se centrará en temas como el arquetipo del proyecto de la, la configuración de Cloud Manager y las herramientas de desarrollo.
+AEM Este intercambio de habilidades se centra en cómo un nuevo desarrollador de puede iniciar e implementar un nuevo proyecto. AEM Se centrará en temas como el tipo de archivo del proyecto, la configuración de Cloud Manager y las herramientas de desarrollo, entre otros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)

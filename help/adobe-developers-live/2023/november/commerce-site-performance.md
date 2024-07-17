@@ -1,6 +1,6 @@
 ---
 title: Estrategias para optimizar el rendimiento del sitio de Commerce
-description: 'Mejore su experiencia comercial: explore nuestra presentación sobre estrategias para optimizar el rendimiento del sitio. Descubra técnicas y prácticas recomendadas para mejorar la velocidad, la capacidad de respuesta y la satisfacción del cliente, lo que impulsará su negocio en línea.'
+description: 'Mejore su experiencia con Commerce: explore nuestra presentación sobre estrategias para optimizar el rendimiento del sitio. Descubra técnicas y prácticas recomendadas para mejorar la velocidad, la capacidad de respuesta y la satisfacción del cliente, lo que impulsará su negocio en línea.'
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Estrategias para optimizar el rendimiento del sitio de Commerce
 
-Mejore su experiencia comercial: explore nuestra presentación sobre estrategias para optimizar el rendimiento del sitio. Descubra técnicas y prácticas recomendadas para mejorar la velocidad, la capacidad de respuesta y la satisfacción del cliente, lo que impulsará su negocio en línea.
+Mejore su experiencia con Commerce: explore nuestra presentación sobre estrategias para optimizar el rendimiento del sitio. Descubra técnicas y prácticas recomendadas para mejorar la velocidad, la capacidad de respuesta y la satisfacción del cliente, lo que impulsará su negocio en línea.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

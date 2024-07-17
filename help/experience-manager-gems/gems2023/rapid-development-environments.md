@@ -1,5 +1,5 @@
 ---
-title: AEM Acelerar el desarrollo as a Cloud Service de los recursos con entornos de desarrollo rápido
+title: Acelerar el desarrollo de AEM as a Cloud Service con entornos de desarrollo rápido
 description: Para implementar cambios, los entornos de desarrollo de nube actuales requieren el uso de un proceso que emplee amplias reglas de calidad y seguridad de código denominadas canalización CI/CD. Para situaciones en las que se necesitan cambios rápidos e iterativos, Adobe ha introducido Entornos de desarrollo rápido (RDE, por sus siglas en inglés). Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, minimizando la cantidad de tiempo necesario para probar características que han demostrado funcionar en un entorno de desarrollo local.
 feature-set: Experience Manager
 solution: Experience Manager
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ---
 
-# AEM Acelerar el desarrollo as a Cloud Service de los recursos con entornos de desarrollo rápido
+# Acelerar el desarrollo de AEM as a Cloud Service con entornos de desarrollo rápido
 
 Este seminario web se realizó el 22 de febrero de 2023. Vea la grabación a continuación.
 
@@ -44,6 +44,6 @@ Los RDE permiten a los desarrolladores implementar y revisar cambios rápidament
 
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](http://bit.ly/3x1Cl8x)
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite este [hilo contextual](http://bit.ly/3x1Cl8x)
 >
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para recibir notificaciones acerca de nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s Grupo de usuarios de la red social ](https://aem-augs.adobe.com/).

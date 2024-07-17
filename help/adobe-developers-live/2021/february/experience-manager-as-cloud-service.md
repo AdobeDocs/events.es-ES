@@ -16,7 +16,7 @@ duration: 875
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 14%
 
 Eche un vistazo entre bastidores para compartir perspectivas sobre estrategia e innovación en torno a Adobe Experience Manager en la nube, al tiempo que describe los principales cambios que conducen a la situación actual.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/experience-manager-as-cloud-service.pdf)** para las diapositivas de la sesión.

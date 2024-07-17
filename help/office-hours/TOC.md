@@ -33,6 +33,6 @@ ht-degree: 14%
    + Adobe Marketo {#adobe-marketo-office-hours}
       + [Lógica avanzada de listas inteligentes y problemas comunes](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
-      + [Información general, consejos y trucos sobre depuración de la biblioteca JavaScript](2023/target-debugging-tips-and-tricks.md)
+      + [Información general, trucos y sugerencias de depuración de la biblioteca JavaScript](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Corregir contactos duplicados](2023/workfront-fix-duplicate-contacts.md)

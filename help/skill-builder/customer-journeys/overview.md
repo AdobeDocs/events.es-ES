@@ -20,15 +20,15 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP" src="assets/343824.jpeg" />
+      <img alt="Mejor juntos: Adobe [!DNL Marketo Engage] y Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>Mejor juntos - Adobe [!DNL Marketo Engage] y REAL-TIME CDP</strong>
+        <strong>Mejor juntos: Adobe [!DNL Marketo Engage] y Real-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>Aprenda a organizar campañas B2B con [!DNL Marketo Engage] y RT-CDP (edición B2B), y cuáles son los principales casos prácticos y ventajas desbloqueadas.</em>
+    <em>Aprenda a organizar campañas B2B con [!DNL Marketo Engage] y RT-CDP (edición B2B), y cuáles son los principales casos prácticos y ventajas desbloqueados.</em>
     <p>
   </td>
   <td>
@@ -37,7 +37,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Desarrollar y personalizar modelos de datos en Adobe [!DNL Campaign Classic]</strong>
+        <strong>Desarrollar y personalizar modelos de datos en el Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
@@ -54,7 +54,7 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
       </a>
     </div>
     <p>
-    <em>Conecte la instancia de Adobe Campaign Standard y aprenda prácticas recomendadas sobre segmentación, personalización y fatiga de marketing para aprovechar mejor ACS.</em>
+    <em>Conéctese a su instancia de Adobe Campaign Standard y aprenda prácticas recomendadas sobre segmentación, personalización y fatiga de marketing para aprovechar mejor ACS.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fue
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.

@@ -1,6 +1,6 @@
 ---
 title: 'DataFacts: La primera herramienta de detección de anomalías de datos de AEP creada en App Builder'
-description: Softcrilic utiliza el App Builder de Adobe para desarrollar una aplicación que ayuda a identificar incoherencias en los datos dentro de Adobe Experience Platform (AEP)
+description: Softcrilic utiliza App Builder de Adobe para desarrollar una aplicación que ayuda a identificar incoherencias en los datos dentro de Adobe Experience Platform (AEP)
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -12,18 +12,18 @@ duration: 1885
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 16%
+ht-degree: 15%
 
 ---
 
 # DataFacts: La primera herramienta de detección de anomalías de datos de AEP creada en App Builder
 
-Softcrilic utiliza el App Builder de Adobe para desarrollar una aplicación que ayuda a identificar incoherencias en los datos dentro de Adobe Experience Platform (AEP)
+Softcrilic utiliza App Builder de Adobe para desarrollar una aplicación que ayuda a identificar incoherencias en los datos dentro de Adobe Experience Platform (AEP)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

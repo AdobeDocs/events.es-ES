@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Optimización del comercio electrónico: un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC
+# Optimización de E-Commerce: un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC
 
 Únase al experto y defensor de Adobe Commerce, Tyler Granlund, mientras se sumerge en la racionalización del comercio electrónico a través de las prácticas del Ciclo de vida de desarrollo de software ágil (SDLC).
 

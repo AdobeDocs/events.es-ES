@@ -8,7 +8,7 @@ duration: 4010
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ HTL es un nuevo motor de creación de plantillas e implementación de idioma. AE
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*Publicado el 25 de junio de 2014*
+*Entregado el 25 de junio de 2014*
 
 **Presentado por:**
 
 Gabriel Walt, Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/sightly-component-development.pdf)
 
@@ -34,7 +34,7 @@ Gabriel Walt, Product Manager, Adobe
 
 ## Vínculos relacionados {#related-links}
 
-[Desarrollo con HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
+[Desarrollando con HTL](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

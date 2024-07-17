@@ -9,26 +9,26 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
-
 # Seminario web sobre innovación de Adobe Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427965/?learn=on)
 
-Al dar comienzo a la serie de seminarios web sobre comercio de 2024, daremos la bienvenida a varios socios de la región APAC para compartir algunos aspectos destacados de la innovación procedentes de implementaciones recientes. Únase a nosotros para inspirarse en cómo adoptar las últimas funciones y arquitectura para ofrecer la mejor experiencia a sus clientes y hacer crecer su negocio.
+Al dar comienzo a la serie de seminarios web de Commerce para 2024, daremos la bienvenida a una serie de socios de la región APAC para compartir algunos aspectos destacados de la innovación procedentes de implementaciones recientes. Únase a nosotros para inspirarse en cómo adoptar las últimas funciones y arquitectura para ofrecer la mejor experiencia a sus clientes y hacer crecer su negocio.
 En este seminario web, escuchará sobre lo siguiente:
 
 * Entrega rápida de las mejores experiencias de su clase con PWA Studio
-* Aprovechamiento del Generador de aplicaciones para la extensibilidad fuera de proceso
-* Características comerciales innovadoras empleadas por Miter10, Mitsubishi Motors y otros minoristas clave en APAC
+* Aprovechamiento de App Builder para la extensibilidad fuera de proceso
+* Funciones innovadoras de Commerce empleadas por Miter10, Mitsubishi Motors y otros minoristas clave en APAC
 
-A medida que el panorama del comercio evoluciona y cambia, es vital asegurarse de que está maximizando el potencial de su plataforma de comercio para seguir siendo competitivo y proporcionar una experiencia sin igual a sus clientes. En esta sesión exploraremos cómo las empresas adoptan la arquitectura moderna y las últimas funciones de Adobe Commerce para mantenerse a la cabeza.
+A medida que el panorama de Commerce evoluciona y cambia, es vital asegurarse de que está maximizando el potencial de su plataforma Commerce para seguir siendo competitivo y proporcionar una experiencia sin igual a sus clientes. En esta sesión exploraremos cómo las empresas adoptan la arquitectura moderna y las últimas funciones de Adobe Commerce para mantenerse a la cabeza.
 
 ## Puntos clave
 

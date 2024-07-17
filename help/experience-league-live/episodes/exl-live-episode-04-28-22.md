@@ -21,5 +21,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Para continuar la conversación sobre esta sesión, visite el [puesto de Experience League de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), donde también responderemos preguntas que no tuvimos tiempo de responder en directo en la sesión.
+Para continuar con la conversación sobre esta sesión, visite la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), donde también responderemos preguntas que no tuvimos tiempo de responder en vivo durante la sesión.
 

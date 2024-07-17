@@ -1,6 +1,6 @@
 ---
-title: 'Generador de habilidades de: contenido y comercio'
-description: Serie de seminarios web grabados para crear su base de conocimientos y maximizar su inversión en contenido de Adobe y soluciones de comercio
+title: 'Generador de habilidades de: contenido y Commerce'
+description: Serie de seminarios web grabados para crear su base de conocimientos y maximizar su inversión en contenido de Adobe y soluciones de Commerce
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -28,7 +28,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
       </a>
     </div>
     <p>
-    <em>Obtenga información acerca la administración de experiencias sin encabezado mediante las mejoras más recientes de Fragmento de contenido en Experience Manager y la nueva API de GraphQL para la entrega de contenido sin encabezado.</em>
+    <em>Obtenga información acerca de la administración de experiencias sin encabezado mediante las mejoras más recientes de Fragmento de contenido de Experience Manager y la nueva API de GraphQL para la entrega de contenido sin encabezado.</em>
     <p>
   </td>
   <td>
@@ -41,7 +41,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
       </a>
     </div>
     <p>
-    <em>Aprenda a sacar el máximo partido a los metadatos en AEM Assets reduciendo la carga de trabajo de etiquetas de recursos y haciendo que sea más sencillo buscar en sus recursos.</em>
+    <em>Aprenda a sacar el máximo partido a los metadatos en AEM Assets reduciendo la carga de trabajo de etiquetado de recursos y haciendo que sea más sencillo buscar en sus recursos.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
       </a>
     </div>
     <p>
-    <em>En esta sesión, aprenderá las ventajas de utilizar flujos de trabajo para la administración de recursos y cómo crearlos rápidamente.</em>
+    <em>En esta sesión aprenderá las ventajas de utilizar flujos de trabajo para la administración de recursos y cómo crearlos rápidamente.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Cree y administre una amplia gama de atractivos sitios web, aplicaciones móvile
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.

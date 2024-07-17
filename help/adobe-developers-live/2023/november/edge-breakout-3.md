@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Josh Wadsworth comparte la historia de la experiencia transformadora de BambooHR con Edge Delivery Services en Adobe Experience Manager en esta esclarecedora sesión de Adobe Developers Live. Grabado el 6 de noviembre de 2023, descubra el proceso de toma de decisiones, el impacto en el rendimiento del sitio y la eficiencia obtenida para los desarrolladores. AEM Esta sesión es un ejemplo real de cómo las soluciones innovadoras en el mundo de la comunicación pueden revolucionar las prácticas empresariales en los mercados de trabajo de la UE.
 
-Continúe la conversación en [Comunidades Experience League](https://adobe.ly/3rD9rMV).
+Continuar la conversación en [Comunidades de Experience League](https://adobe.ly/3rD9rMV).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425634/?learn=on)

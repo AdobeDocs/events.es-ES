@@ -7,7 +7,7 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Únase al seminario web de actualización de productos de Adobe Commerce para conocer cómo estamos transformando la plataforma con muchas funciones nuevas y emocionantes. Mostraremos las últimas innovaciones de Commerce y cómo le ayudan a aumentar las ventas, optimizar el desarrollo y aumentar el rendimiento.
 
-## Última actualización del estado
+## Última actualización
 
 <table style="max-width: 50%;">
   <tr>
@@ -37,7 +37,7 @@ ht-degree: 12%
   </tr>  
 </table>
 
-## Actualizaciones del estado anteriores
+## Actualizaciones anteriores
 
 <table style="max-width: 50%;">
   <tr>

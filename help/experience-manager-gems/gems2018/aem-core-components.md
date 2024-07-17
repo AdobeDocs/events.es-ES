@@ -8,7 +8,7 @@ duration: 3592
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
@@ -24,7 +24,7 @@ Obtenga información acerca de los componentes principales y sus funciones relac
 
 Gabriel Walt, Product Manager, Adobe
 
-[AEM Documentación de componentes principales](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+AEM [Documentación de componentes principales de](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
 
 AEM AEM Gems - Componentes principales de la - Fecha: 05/12/2018
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # El poder de una campaña inteligente
 
-En esta sesión aprenderá todo acerca de *Campañas inteligentes* con: lista inteligente: Déclencheur y filtros, flujo, programación y resultados.
+En esta sesión aprenderá todo acerca de *Campañas inteligentes*, incluyendo: Lista inteligente - Déclencheur y filtros, Flujo, Horario y Resultados.
 
 Saldrá de esta sesión para comprender qué son las campañas inteligentes, cómo utilizarlas, y consejos y trucos para lograr el éxito.
 

@@ -8,7 +8,7 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ AEM Aprenda en esta sesión lo fácil que es desarrollar paquetes y servicios OS
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*Publicado el 6 de septiembre de 2017*
+*Entregado el 6 de septiembre de 2017*
 
 **Presentado por:**
 
@@ -29,7 +29,7 @@ Karl Pauls, informático, Adobe
 Experto en chat:\
 David Bosschaert, ingeniero de software sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-osgi-best-practices-090617.pdf)
 

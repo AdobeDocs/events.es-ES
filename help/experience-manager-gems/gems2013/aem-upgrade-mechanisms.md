@@ -8,7 +8,7 @@ duration: 3272
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM AEM En esta sesión se describen los mecanismos de actualización en CQ/, qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*Fecha de entrega: 22 de mayo de 2013*
+*Entregado el 22 de mayo de 2013*
 
 **Presentado por:**
 
 Bertrand Delacretaz, desarrollador sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/cqgems-bdelacretaz-cq-upgrades-2013-05-22.pdf)
 

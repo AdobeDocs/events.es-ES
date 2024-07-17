@@ -8,7 +8,7 @@ duration: 1878
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM En esta sesión, presentamos nuestra solución de integración para hybris e
 
 >[!VIDEO](https://video.tv.adobe.com/v/19578/?quality=9)
 
-*Fecha de entrega: 13 de mayo de 2013*
+*Entregado el 13 de mayo de 2013*
 
 **Presentado por:**
 
 Felix Oghina, desarrollador de productos de Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/hybris-aem-5-6-ecommerce-framework-integration.pdf)
 

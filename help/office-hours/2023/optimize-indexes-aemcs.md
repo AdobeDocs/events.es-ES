@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Fundamento para optimizar índices con AEM Cloud Service
 
-AEM Esta sesión en directo presenta la indexación con as a Cloud Service (AEMaaCS). Cubriremos: Cambios en la indexación y cómo afectarían a diferentes proyectos, desafíos a los que se enfrentan los clientes con índices en AEMaaCS y prácticas recomendadas para optimizar estos índices
+Esta sesión en directo presenta la indexación con AEM as a Cloud Service (AEMaaCS). Cubriremos: Cambios en la indexación y cómo afectarían a diferentes proyectos, desafíos a los que se enfrentan los clientes con índices en AEMaaCS y prácticas recomendadas para optimizar estos índices
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

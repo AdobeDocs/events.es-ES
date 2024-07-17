@@ -38,7 +38,7 @@ La reunión se centró en los equipos lean y en maximizar la eficacia con Adobe 
 * Objetivos y beneficios destacados de la administración Lean.
 * Se enfatizaron los principios asociados con la gestión Lean.
 
-**Estrategias para la eficiencia**
+**Estrategias de eficiencia**
 
 * Importancia de la mejora continua.
 * Simplificar la comunicación.

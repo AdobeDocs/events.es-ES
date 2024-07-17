@@ -7,7 +7,7 @@ duration: 29
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Este seminario web examina la intersección de MSM y la traducción para sitios 
 
 Christine Duran, Directora del Grupo de Tecnología de Traducción Sr, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/20130731-adobe-msm-and-translation-best-practices.pdf)
 
@@ -29,6 +29,6 @@ El contenido original de esta sesión de GEM de 2013 ha sido reemplazado. La inf
 
 En su lugar, obtenga más información sobre las Prácticas recomendadas en la documentación de Adobe Experience Manager:
 
-* [Prácticas recomendadas de administración de varios sitios](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [Prácticas recomendadas para la administración de varios sitios](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Prácticas recomendadas de traducción](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Volver a la descripción general](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Volver al resumen](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

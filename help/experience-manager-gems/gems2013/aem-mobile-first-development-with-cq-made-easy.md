@@ -18,7 +18,7 @@ Conozca los patrones para un diseño interactivo en CQ y cómo proporcionar una 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*Publicado el 18 de septiembre de 2013*
+*Entregado el 18 de septiembre de 2013*
 
 **Presentado por:**
 
@@ -26,4 +26,4 @@ Bruce Lefebvre, informático, Adobe
 
 ## Vínculos relacionados {#related-links}
 
-[Diapositivas del presentador y recursos](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[Diapositivas del moderador y recursos](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

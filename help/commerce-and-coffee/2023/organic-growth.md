@@ -1,5 +1,5 @@
 ---
-title: Comercio y café - Crecimiento orgánico
+title: Commerce & Coffee - Crecimiento orgánico
 description: En esta sesión analizamos algunas de las principales estrategias de Adobe para ayudar a desarrollar un sitio de comercio electrónico de forma orgánica. Al generar Crecimiento Orgánico, es imperativo mirar el ecosistema digital de su empresa en su conjunto. Analizamos siete formas de hacer crecer un negocio de comercio electrónico de forma orgánica desde SEO y medios sociales hasta la creación de vínculos y la optimización en el sitio. Corey ejecuta una demostración en directo de las funciones de Adobe Commerce, incluidas las reescrituras de URL, la generación de mapas del sitio, las metaetiquetas canónicas, los metadatos y mucho más. Como siempre, concluimos la sesión con una sesión de preguntas y respuestas en directo.
 solution: Commerce
 topic: Commerce
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Comercio y café: Crecimiento orgánico
+# Commerce &amp; Coffee: Crecimiento orgánico
 
 En esta sesión analizamos algunas de las principales estrategias de Adobe para ayudar a desarrollar un sitio de comercio electrónico de forma orgánica. Al generar Crecimiento Orgánico, es imperativo mirar el ecosistema digital de su empresa en su conjunto. Analizamos siete formas de hacer crecer un negocio de comercio electrónico de forma orgánica desde SEO y medios sociales hasta la creación de vínculos y la optimización en el sitio. Corey ejecuta una demostración en directo de las funciones de Adobe Commerce, incluidas las reescrituras de URL, la generación de mapas del sitio, las metaetiquetas canónicas, los metadatos y mucho más. Como siempre, concluimos la sesión con una sesión de preguntas y respuestas en directo.
 

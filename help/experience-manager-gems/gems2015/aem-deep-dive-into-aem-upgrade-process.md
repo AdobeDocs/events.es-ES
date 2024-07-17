@@ -8,7 +8,7 @@ duration: 3383
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Obtenga información acerca del escenario de actualización general, los puntos 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19376/?quality=9)
 
-*Publicado el 14 de octubre de 2015*
+*Entregado el 14 de octubre de 2015*
 
 **Presentado por:**
 

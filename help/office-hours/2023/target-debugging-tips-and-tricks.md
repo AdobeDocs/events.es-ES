@@ -1,5 +1,5 @@
 ---
-title: Información general, consejos y trucos sobre depuración de la biblioteca JavaScript
+title: Información general, trucos y sugerencias de depuración de la biblioteca JavaScript
 description: Últimas versiones y funciones, cómo depurar at.js, solucionar problemas de demostración en directo, recursos de autoasistencia y cómo interactuar con la asistencia.
 role: Admin, User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Información general, consejos y trucos sobre depuración de la biblioteca JavaScript
+# Información general, trucos y sugerencias de depuración de la biblioteca JavaScript
 
 Obtenga información sobre las últimas versiones y funciones, cómo depurar at.js, solucionar problemas de la demostración en directo, los recursos de autoasistencia y cómo interactuar con la asistencia.
 

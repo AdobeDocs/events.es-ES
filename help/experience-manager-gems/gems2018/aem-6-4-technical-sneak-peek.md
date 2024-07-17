@@ -8,7 +8,7 @@ duration: 3717
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Experience Manager ofrece una solución ágil para diseñar, anticipar y ofrecer
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*Publicado el 14 de marzo de 2018*
+*Entregado el 14 de marzo de 2018*
 
 **Presentado por:**
 
@@ -26,7 +26,7 @@ Gabriel Walt, Product Manager, Adobe
 
 Cedric Huesler, Director Product Management, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem64-developerupdate31418.pdf)
 

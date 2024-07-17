@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Un panel con Ian Boston, Tomek Rekawek y Carlos Sánchez sobre cómo trasladamos Adobe Experience Manager a la nube con éxito.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

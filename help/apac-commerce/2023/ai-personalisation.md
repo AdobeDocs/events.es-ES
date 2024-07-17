@@ -1,6 +1,6 @@
 ---
 title: Personalización con tecnología IA
-description: La inteligencia artificial nos rodea y está empezando a permear muchas de nuestras interacciones diarias. Cuando se utiliza de la manera correcta, la IA puede ayudarle a proporcionar una experiencia hiper relevante y memorable para sus clientes. Adobe ha invertido mucho en IA durante muchos años y, más recientemente, hemos visto las capacidades de IA en primer plano en Commerce. En este seminario web, nos acompañará Jason Ford, responsable de Commerce Solutions Consulting APAC, para obtener más información sobre cómo aprovechar el kit de herramientas de Adobe para impulsar su estrategia de personalización.
+description: La inteligencia artificial nos rodea y está empezando a permear muchas de nuestras interacciones diarias. Cuando se utiliza de la manera correcta, la IA puede ayudarle a proporcionar una experiencia hiper relevante y memorable para sus clientes. El Adobe ha invertido mucho en IA durante muchos años y, más recientemente, hemos visto las funcionalidades de IA en primer plano en Commerce. En este seminario web, nos acompañará Jason Ford, responsable de la asesoría de soluciones de Commerce en APAC, para obtener más información sobre cómo aprovechar el kit de herramientas de Adobe para impulsar su estrategia de personalización.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Personalización con tecnología IA
 
-La inteligencia artificial nos rodea y está empezando a permear muchas de nuestras interacciones diarias. Cuando se utiliza de la manera correcta, la IA puede ayudarle a proporcionar una experiencia hiper relevante y memorable para sus clientes. Adobe ha invertido mucho en IA durante muchos años y, más recientemente, hemos visto las capacidades de IA en primer plano en Commerce. En este seminario web, nos acompañará Jason Ford, responsable de Commerce Solutions Consulting APAC, para obtener más información sobre cómo aprovechar el kit de herramientas de Adobe para impulsar su estrategia de personalización.
+La inteligencia artificial nos rodea y está empezando a permear muchas de nuestras interacciones diarias. Cuando se utiliza de la manera correcta, la IA puede ayudarle a proporcionar una experiencia hiper relevante y memorable para sus clientes. El Adobe ha invertido mucho en IA durante muchos años y, más recientemente, hemos visto las funcionalidades de IA en primer plano en Commerce. En este seminario web, nos acompañará Jason Ford, responsable de la asesoría de soluciones de Commerce en APAC, para obtener más información sobre cómo aprovechar el kit de herramientas de Adobe para impulsar su estrategia de personalización.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

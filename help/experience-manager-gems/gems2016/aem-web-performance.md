@@ -8,7 +8,7 @@ duration: 3831
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 10%
+ht-degree: 8%
 
 ---
 
@@ -18,13 +18,13 @@ El envío rápido de experiencias web complejas es todo un desafío. En esta cha
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*Publicado el 1 de junio de 2016*
+*Entregado el 1 de junio de 2016*
 
 **Presentado por:**
 
 * Joel Richard, Desarrollador, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-060116-web-performance.pdf)
 
@@ -32,7 +32,7 @@ El envío rápido de experiencias web complejas es todo un desafío. En esta cha
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -42,7 +42,7 @@ Estándares web:\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=es)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 AEM Componentes de la:\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\

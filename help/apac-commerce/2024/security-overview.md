@@ -28,7 +28,7 @@ Aunque la seguridad está vinculada a numerosos factores técnicos y empresarial
 
 ## Puntos clave
 
-**Seguridad del sector del comercio electrónico**
+**Seguridad del sector de comercio electrónico**
 
 * Altamente atacado por ciberatacantes por robo de datos de tarjetas de crédito.
 
@@ -54,6 +54,6 @@ Aunque la seguridad está vinculada a numerosos factores técnicos y empresarial
 * Collaboration con profesionales de soporte para implementar reglas de Fastly para bloquear solicitudes maliciosas.
 * Se espera que la ETA para la inclusión de WAF de próxima generación en la licencia sea dentro del próximo trimestre.
 
-**Estrategias eficaces**
+**Estrategias efectivas**
 
 * Implementar reglas y estrategias para combatir eficazmente diversas formas de solicitudes maliciosas.

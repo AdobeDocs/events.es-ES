@@ -13,7 +13,7 @@ duration: 3154
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -37,11 +37,11 @@ En este seminario web:
 - vistas de Data Warehouse
 - Preguntas y respuestas
 
-## Contenido del vídeo
+## Contenido de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## Recursos útiles
 
-[Optimización de la base de datos para análisis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[Optimizando la base de datos para análisis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [Dimension de datos recomendados para la segmentación y el filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

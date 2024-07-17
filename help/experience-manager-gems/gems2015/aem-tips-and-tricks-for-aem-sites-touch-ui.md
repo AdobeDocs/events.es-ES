@@ -1,6 +1,6 @@
 ---
 title: Sugerencias y trucos para la IU táctil de AEM Sites
-description: Conozca los mejores consejos y trucos sobre [!DNL AEM Sites] IU táctil. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
+description: Conoce los mejores consejos y trucos sobre la interfaz de usuario táctil de  [!DNL AEM Sites] Touch. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 ---
 
-# Sugerencias y trucos para [!DNL AEM Sites] IU táctil{#tips-and-tricks-for-aem-sites-touch-ui}
+# Sugerencias y trucos para la interfaz de usuario táctil de [!DNL AEM Sites]{#tips-and-tricks-for-aem-sites-touch-ui}
 
-Conozca los mejores consejos y trucos sobre [!DNL AEM Sites] IU táctil. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
+Conozca los mejores consejos y trucos sobre la IU táctil de [!DNL AEM Sites]. Descubra las funciones de la interfaz de usuario táctil que puede conocer o no que le permiten lograr más y hacerlo más rápido. Tanto si es un estratega de contenido como si es un experto en marketing de contenido, descubrirá algunas de las joyas ocultas de la interfaz de usuario táctil que le harán más eficiente y productivo.
 
 En esta GEM, aprenda cómo:
 
@@ -25,7 +25,7 @@ En esta GEM, aprenda cómo:
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Publicado el 3 de junio de 2015*
+*Entregado el 3 de junio de 2015*
 
 **Presentado por:**
 

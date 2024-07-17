@@ -26,6 +26,8 @@ Durante esta sesión, Jennafer Higgs, Jonathan Cabre y Malcom Benites de Zimmerm
 
 Compartirán automatizaciones Fusion y no Fusion, incluyendo:
 
-· Cómo cerrar automáticamente los proyectos · Generación de subplantillas · Revisión de activos aprobados consolidados
+· Cómo cerrar automáticamente los proyectos
+· Generación de subplantillas
+· Revisión de activos aprobados consolidados
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

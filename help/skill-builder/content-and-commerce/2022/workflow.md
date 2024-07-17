@@ -18,6 +18,6 @@ ht-degree: 0%
 
 En esta sesión, aprenderá las ventajas de utilizar flujos de trabajo para la administración de recursos y cómo crearlos rápidamente.
 
-*Chris Sofokleous* AEM Consultor de soluciones, Adobe /
+AEM *Chris Sofokleous* Asesor de soluciones, Adobe/
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

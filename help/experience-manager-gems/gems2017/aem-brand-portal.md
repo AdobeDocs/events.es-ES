@@ -8,7 +8,7 @@ duration: 3408
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Los portales de medios son esenciales para que las organizaciones compartan recursos tanto internamente como, en muchos casos, externamente. En esta sesión, le presentaremos el nuevo Asset Share Commons de Adobe Assets.
 
-Aprenderá:
+Aprenderá lo siguiente:
 
 * Qué opciones de Media Portal están disponibles según los casos de uso
 * Cómo implementar estas opciones
@@ -24,17 +24,17 @@ Aprenderá:
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*Publicado el 8 de noviembre de 2017*
+*Entregado el 8 de noviembre de 2017*
 
 **Presentado por:**
 
-Mike Carley, responsable de marketing de producto, [!DNL AEM Assets], ADOBE
+Mike Carley, gerente de marketing de producto - [!DNL AEM Assets], Adobe
 
 AEM Krishna Selvaraj, Ingeniero Técnico de Marketing -, Adobe
 
 AEM Daniel Gordon, Ingeniero Técnico de Marketing -, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

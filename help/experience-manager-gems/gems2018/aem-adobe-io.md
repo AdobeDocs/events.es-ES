@@ -8,7 +8,7 @@ duration: 2315
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM ¿Cansado de construir conectores para la? AEM Venga y aprenda cómo puede e
 
 >[!VIDEO](https://video.tv.adobe.com/v/22501/?quality=9)
 
-*Fecha de entrega: 16 de mayo de 2018*
+*Entregado el 16 de mayo de 2018*
 
 **Presentado por:**
 
 François Le Droff, Científico informático sénior, Integración en la nube, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gem-2018-05-aem-events.pdf)
 

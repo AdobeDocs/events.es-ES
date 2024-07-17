@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Esta sesión se centra en el recorrido de Forms desde las instalaciones locales hasta la nube. También cubrirá la habilitación de casos de uso de inscripción digital a través de demostraciones.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** para las diapositivas de la sesión.

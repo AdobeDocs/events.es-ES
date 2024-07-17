@@ -1,6 +1,6 @@
 ---
 title: 'Plantillas, tokens y trabajo en equipo: haga que su contenido sea escalable'
-description: Obtenga información acerca del uso de tokens y plantillas en [!DNL Marketo Engage]. Descubra sugerencias para sacar el máximo partido a su biblioteca de contenido.
+description: Obtenga información acerca del uso de tokens y plantillas en  [!DNL Marketo Engage]. Descubra sugerencias para sacar el máximo partido a su biblioteca de contenido.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Plantillas, tokens y trabajo en equipo: haga su Adobe [!DNL Marketo Engage] contenido escalable
+# Plantillas, tokens y trabajo en equipo: haga que el contenido de su Adobe [!DNL Marketo Engage] sea escalable
 
-La creación de contenido para sus programas de marketing es muy larga. La aplicación de plantillas y tokens le ayuda a crear procesos escalables en todos los equipos y a lograr más con menos en [!DNL Marketo Engage]. Escuche a Lauren McCormack, una galardonada líder de marketing, y 2x Adobe [!DNL Marketo Engage] Campeona, ya que comparte sus años de sabiduría para hacer de su [!DNL Marketo Engage] contenido escalable.
+La creación de contenido para sus programas de marketing es muy larga. La aplicación de plantillas y tokens le ayuda a generar procesos escalables entre equipos y a lograr más con menos en [!DNL Marketo Engage]. Escuche a Lauren McCormack, una galardonada líder de marketing (y campeona de 2x Adobe [!DNL Marketo Engage]), mientras comparte sus años de sabiduría para hacer que su contenido de [!DNL Marketo Engage] sea escalable.
 
 Más información sobre:
 

@@ -12,7 +12,8 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -37,6 +38,6 @@ AEM AEM Este seminario web de GEMs incluye una presentación y una demostración
 
 >[!NOTE]
 > 
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite nuestra [hilo contextual](https://adobe.ly/3uIj6D7).
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite nuestro [hilo contextual](https://adobe.ly/3uIj6D7).
 >
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).

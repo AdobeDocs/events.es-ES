@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Únase a Fahd Siddiqui en esta esclarecedora sesión de Adobe Developers Live, grabada el 6 de noviembre de 2023, mientras profundiza en cómo los innovadores servicios de catálogo e indexación de precios de Adobe Commerce están remodelando el comercio digital B2B. Conozca los desafíos de administrar la creciente variedad de productos y las soluciones que proporciona Adobe Commerce para ofrecer experiencias de compra rápidas y eficientes. Esta sesión es crucial para los desarrolladores que buscan mejorar su experiencia en el mundo dinámico de la tecnología de comercio B2B.
 
-Continúe la conversación en [Comunidades Experience League](https://adobe.ly/3rJfZcN).
+Continuar la conversación en [Comunidades de Experience League](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425623/?learn=on)

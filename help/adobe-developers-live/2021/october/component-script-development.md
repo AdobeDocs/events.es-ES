@@ -14,7 +14,7 @@ duration: 1899
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 4%
 
 En esta sesión se describen las prácticas recomendadas más recientes que los desarrolladores de Adobe Experience Manager pueden seguir para tener implementaciones de aplicaciones más predecibles. Presentada como una función de Apache Sling en 2019 y utilizada en AEMaaCS desde 2020, las secuencias de comandos agrupadas precompiladas proporcionan a los desarrolladores dos mejoras principales con respecto a la forma clásica de implementar componentes de Adobe Experience Manager: 1. los scripts pueden tener versiones y cadenas de dependencia explícitas, como cualquier API de Java 2. la compilación de scripts ahora se puede realizar durante el proceso de compilación de la aplicación, lo que permite detectar rápidamente posibles errores (por ejemplo, dependencias que faltan, usos de API incorrectos, etc.) Nos centraremos en cómo los desarrolladores pueden configurar sus proyectos para proporcionar sus scripts como paquetes precompilados y utilizar los analizadores locales de funciones de Sling de Adobe Experience Manager para verificar que se cumplan los requisitos de la API, lo que les ayudará a detectar cualquier error potencial de forma temprana.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/3zJrS0f)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/3zJrS0f)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337851/?quality=12&learn=on&hidetitle=true)
 
 ## Recursos adicionales
 
-- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=es)
+- [Documentación de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Descripción general de Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=es)
 - [Tutoriales de Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=es)

@@ -8,7 +8,7 @@ duration: 2883
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 4%
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ AEM Obtenga información sobre la evolución de la arquitectura de la plataforma
 
 Felix Meschberger, Científico Principal, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/20130508-aem56-architecture.pdf)
 

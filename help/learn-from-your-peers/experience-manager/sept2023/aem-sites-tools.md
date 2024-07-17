@@ -27,6 +27,6 @@ ht-degree: 0%
 * Esquemas de metadatos de carpeta: descubra el poder de la administración de contenido estructurado a través de esquemas de metadatos de carpeta.
 * Esquemas de metadatos: aumente la relevancia del contenido y la experiencia del usuario al dominar el diseño de esquemas de metadatos. Configuración de informes: aproveche las perspectivas basadas en datos para la toma de decisiones estratégicas mediante la configuración de informes completos.
 
-Puede acceder a las diapositivas de la presentación [aquí](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+Puede tener acceso a las diapositivas de la presentación [aquí](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Únase a Gabriel Walt, director de producto de Experience Manager, para obtener una descripción general de las grandes temáticas que impulsan la hoja de ruta de Adobe Experience Manager y cómo se relacionan las sesiones.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** para las diapositivas de la sesión.

@@ -24,11 +24,11 @@ La serie de seminarios web de APAC Commerce es una cadencia mensual de seminario
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
-        <strong>Adobe Commerce Accelerator Day</strong>
+        <strong>Día del acelerador Adobe Commerce</strong>
       </a>
     </div>
     <p>
-    <em>El Adobe y el Commonwealth Bank of Australia (CBA) muestran innovaciones en comercio, nube y soluciones de pago.</em>
+    <em>El Adobe y el Commonwealth Bank of Australia (CBA) exhiben innovaciones en comercio, nube y soluciones de pago.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ La serie de seminarios web de APAC Commerce es una cadencia mensual de seminario
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
-        <strong>Seminario web sobre innovación de Adobe Commerce</strong>
+        <strong>Seminario web Adobe Commerce Innovation Spotlight</strong>
       </a>
     </div>
     <p>
-    <em>Únase a nosotros para inspirarse en cómo adoptar las últimas funciones y arquitectura para ofrecer la mejor experiencia a sus clientes y hacer crecer su negocio.En este seminario web.</em>
+    <em>Únase a nosotros para inspirarse en cómo adoptar las últimas funciones y arquitectura para ofrecer la mejor experiencia a sus clientes y hacer crecer su negocio!En este seminario web.</em>
     <p>
   </td> 
   <td>
@@ -50,7 +50,7 @@ La serie de seminarios web de APAC Commerce es una cadencia mensual de seminario
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>La ventaja creativa: cómo el pensamiento visionario está transformando Commerce</strong>
+        <strong>El Edge Creativo - Cómo el pensamiento visionario está transformando Commerce</strong>
       </a>
     </div>
     <p>
@@ -62,4 +62,4 @@ La serie de seminarios web de APAC Commerce es una cadencia mensual de seminario
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.

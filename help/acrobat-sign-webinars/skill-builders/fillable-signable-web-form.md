@@ -1,5 +1,5 @@
 ---
-title: Publicar un formulario web que se puede rellenar y firmar
+title: Post es un formulario web que se puede rellenar y firmar
 description: Aprenda a crear un formulario web que permita a cualquier persona completar y firmar, sin necesidad de iniciar la transacción ni siquiera conocer la dirección de correo electrónico del firmante.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Publicar un formulario web que se puede rellenar y firmar
+# Post es un formulario web que se puede rellenar y firmar
 
 Aprenda a crear un formulario web que permita a cualquier persona completar y firmar, sin necesidad de iniciar la transacción ni siquiera conocer la dirección de correo electrónico del firmante. También verá cómo preparar una plantilla de documento que se pueda utilizar para transacciones de firma individuales, así como para publicar en una dirección URL única para un uso compartido amplio.
 

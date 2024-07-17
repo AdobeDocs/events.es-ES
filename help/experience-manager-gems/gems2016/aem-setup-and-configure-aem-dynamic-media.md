@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ AEM Dynamic Media permite a los clientes ofrecer de forma escalable y rentable e
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*Fecha de entrega: 17 de agosto de 2016*
+*Entregado el 17 de agosto de 2016*
 
 **Presentado por:**
 
 * Cynthia Tillo, directora de producto, Adobe
 * Bob van Manen, director de ingeniería, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aemgems-081716-dynamic-media-configuration.pdf)
 

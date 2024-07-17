@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Descubra cómo el marco de trabajo Modelo de base digital le permite implementar rápidamente un diseño con funcionalidad OOTB y una personalización mínima.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** para las diapositivas de la sesión.

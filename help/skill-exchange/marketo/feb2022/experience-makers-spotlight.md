@@ -1,6 +1,6 @@
 ---
 title: Historia de Marketo Engage Experience Makers
-description: Únase a nosotros conforme destacamos a dos clientes expertos y [!DNL Marketo Engage] usuarios. Cada uno compartirá su mejor [!DNL Marketo Engage] consejo o truco.
+description: Únase a nosotros conforme destacamos a dos clientes expertos y a  [!DNL Marketo Engage] usuarios. Cada uno compartirá su mejor [!DNL Marketo Engage] consejo o truco.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Elementos destacados de Experience Makers
+# [!DNL Marketo Engage] Creadores de experiencia destacados
 
-Únase a nosotros conforme destacamos a dos clientes expertos y [!DNL Marketo Engage] usuarios. Cada uno compartirá su mejor [!DNL Marketo Engage] consejo o truco.
+Únase a nosotros conforme destacamos a dos clientes expertos y a [!DNL Marketo Engage] usuarios. Cada uno compartirá su mejor sugerencia o truco de [!DNL Marketo Engage].
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

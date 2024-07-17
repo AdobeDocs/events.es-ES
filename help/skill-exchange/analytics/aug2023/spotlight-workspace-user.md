@@ -1,6 +1,6 @@
 ---
 title: Aug 2023 Grow Track - Elementos destacados de Experience Makers
-description: 'Nivelación ascendente: educación del usuario informal de Workspace'
+description: 'Nivelando hacia arriba: Educando al usuario casual de Workspace'
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Evento de intercambio de habilidades agosto de 2023: Desarrollo de la pista - Elementos destacados de Experience Makers
 
-Nivelación ascendente: educación del usuario informal de Workspace
+Nivelando hacia arriba: Educando al usuario casual de Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

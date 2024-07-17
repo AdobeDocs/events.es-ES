@@ -19,7 +19,7 @@ Todo comienza con Adobe Experience Platform. Descubra cómo la plataforma desemp
 En esta sesión, aprenderá lo siguiente:
 
 * Los componentes que componen Adobe Experience Platform: servicios de datos
-* Data Science Workspace mejora en gran medida el diseño y el envío de las experiencias de los clientes enriquecidas
+* Data Science Workspace mejora considerablemente el diseño y el envío de las experiencias de los clientes enriquecidas
 * Primeros pasos para la integración con Adobe Experience Platform y uso del modelo de datos de Experience
 * Opciones de integración actuales y futuras para desarrolladores terceros
 

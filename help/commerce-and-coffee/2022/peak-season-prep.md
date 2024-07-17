@@ -1,6 +1,6 @@
 ---
-title: Comercio y café - Preparación de la temporada alta
-description: Esta sesión explora las estrategias, consejos y prácticas recomendadas para su sitio de Commerce durante la temporada alta. Discutimos las expectativas de las vacaciones de 2022, el comercio móvil, las opciones de promoción y cierre de compra, así como la importancia del marketing para ayudar a impulsar una temporada alta exitosa. La presentación y la demostración se acompañan de un directo de preguntas y respuestas con Corey Gelato.
+title: Commerce and Coffee - Preparación de la temporada alta
+description: En esta sesión se analizan las estrategias, sugerencias y prácticas recomendadas de su sitio Commerce durante la temporada alta. Discutimos las expectativas de las vacaciones de 2022, el comercio móvil, las opciones de promoción y cierre de compra, así como la importancia del marketing para ayudar a impulsar una temporada alta exitosa. La presentación y la demostración se acompañan de un directo de preguntas y respuestas con Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comercio y café: preparación para la temporada alta
+# Commerce and Coffee: Preparación de la temporada alta
 
-Esta sesión explora las estrategias, consejos y prácticas recomendadas para su sitio de Commerce durante la temporada alta. Discutimos las expectativas de las vacaciones de 2022, el comercio móvil, las opciones de promoción y cierre de compra, así como la importancia del marketing para ayudar a impulsar una temporada alta exitosa. La presentación y la demostración se acompañan de un directo de preguntas y respuestas con Corey Gelato.
+En esta sesión se analizan las estrategias, sugerencias y prácticas recomendadas de su sitio Commerce durante la temporada alta. Discutimos las expectativas de las vacaciones de 2022, el comercio móvil, las opciones de promoción y cierre de compra, así como la importancia del marketing para ayudar a impulsar una temporada alta exitosa. La presentación y la demostración se acompañan de un directo de preguntas y respuestas con Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

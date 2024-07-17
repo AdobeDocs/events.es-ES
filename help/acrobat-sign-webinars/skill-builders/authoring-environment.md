@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Formación avanzada sobre el entorno de creación
 
@@ -28,4 +28,3 @@ Obtenga información más detallada sobre las opciones disponibles en el entorno
 * Se exploran opciones adicionales como campos de archivos adjuntos, campos de hipervínculos y campos de ID de transacción.
 * A los participantes se les pueden asignar campos de formulario y se pueden definir propiedades de plantilla para la personalización.
 * También cubre el proceso de creación de plantillas de documento reutilizables, administración de plantillas y exportación de acuerdos firmados.
-

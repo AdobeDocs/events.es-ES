@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Cargue el React o Angular SPA existente en el Editor de páginas y, con una intervención mínima, permita a los autores insertar contenido que editan en contexto.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** para las diapositivas de la sesión.

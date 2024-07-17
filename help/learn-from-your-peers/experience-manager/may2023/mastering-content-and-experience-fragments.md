@@ -34,6 +34,6 @@ En esta sesión, aprenderá lo siguiente:
 * Sugerencias y trucos sobre plantillas editables
 * Unirlos todos para crear bloques de creación de contenido potentes
 
-Puede acceder a las diapositivas de la presentación [aquí](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+Puede tener acceso a las diapositivas de la presentación [aquí](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

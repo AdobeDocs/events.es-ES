@@ -1,6 +1,6 @@
 ---
-title: AEM as a Cloud Service - Revisión de 2021 y perspectivas para 2022
-description: AEM AEM Vea un seminario web de GEMs en el que se describe a la as a Cloud Service en 2021. Además, obtenga información general sobre los productos disponibles para 2022.
+title: 'AEM as a Cloud Service: revisión de 2021 y perspectivas para 2022'
+description: AEM Vea un seminario web de GEM en el que se muestra un análisis de AEM as a Cloud Service en 2021. Además, obtenga información general sobre los productos disponibles para 2022.
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 AEM La grabación de este seminario web de GEMS de la GAMA incluye lo siguiente:
 
-En esta sesión, primero analizaremos los cambios principales de Adobe Experience Manager AEM () as a Cloud Service 2021 y algunas de las métricas clave. También hablaremos de los próximos cambios planificados para 2022.
+En esta sesión, primero revisaremos los cambios principales de Adobe Experience Manager AEM () as a Cloud Service 2021 y algunas de las métricas clave. También hablaremos de los próximos cambios planificados para 2022.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341444/?quality=12&learn=on)
 
@@ -31,6 +31,6 @@ Este seminario web se realizó el 25 de enero de 2022 y fue presentado por Bertr
 
 >[!MORELIKETHIS]
 >
->* [Página de evento del grupo de usuarios de Adobe Experience Manager correspondiente](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
->* [Hilo contextual correspondiente](https://adobe.ly/3rqbSOz)
+>* [Página de eventos del grupo de usuarios de Adobe Experience Manager correspondiente](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [Subproceso contextual correspondiente](https://adobe.ly/3rqbSOz)
 >* Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones sobre próximos seminarios web.

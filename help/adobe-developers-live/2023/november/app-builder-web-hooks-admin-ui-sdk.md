@@ -1,6 +1,6 @@
 ---
-title: Obtenga información sobre el Generador de aplicaciones de Adobe, Adobe IO, Webhooks y el SDK de IU de administración
-description: Obtenga información sobre el Generador de aplicaciones de Adobe, E/S de Adobe, webhooks, SDK de IU de administración.  Esta es una introducción a cada nueva función para ayudarle a comprender casos de uso comunes.
+title: Obtenga información sobre App Builder de Adobe, E/S de Adobe, Webhooks y el SDK de IU de administración
+description: Obtenga información sobre App Builder de Adobe, E/S de Adobe, webhooks, SDK de IU de administración.  Esta es una introducción a cada nueva función para ayudarle a comprender casos de uso comunes.
 solution: Commerce
 feature: App Builder
 topic: Development
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Obtenga información sobre el Generador de aplicaciones de Adobe, Adobe IO, Webhooks y el SDK de IU de administración
+# Obtenga información sobre App Builder de Adobe, E/S de Adobe, Webhooks y el SDK de IU de administración
 
-Obtenga información sobre el Generador de aplicaciones de Adobe, E/S de Adobe, webhooks, SDK de IU de administración.  Esta es una introducción a cada nueva función para ayudarle a comprender casos de uso comunes.
+Obtenga información sobre App Builder de Adobe, E/S de Adobe, webhooks, SDK de IU de administración.  Esta es una introducción a cada nueva función para ayudarle a comprender casos de uso comunes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)

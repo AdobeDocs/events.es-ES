@@ -8,7 +8,7 @@ duration: 3482
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ AEM Esta sesión presenta las funciones de traducción de la actuales y las prá
 
 *Entregado el 22/01/2020*
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gems-2020-translations.pdf)
 

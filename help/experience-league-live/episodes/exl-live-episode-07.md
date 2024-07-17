@@ -1,5 +1,5 @@
 ---
-title: AEM Ampliación de la con App Builder de Adobe
+title: AEM Ampliación de la con Adobe App Builder
 description: El desarrollo de microservicios, la integración de sistemas back-end y la automatización de flujos de trabajo nunca ha sido tan fácil.
 solution: Experience Manager
 feature: App Builder
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# AEM Ampliación de la con App Builder de Adobe
+# AEM Ampliación de la con Adobe App Builder
 
 El desarrollo de microservicios, la integración de sistemas back-end y la automatización de flujos de trabajo nunca ha sido tan fácil.
 
-Únase al presentador Mark Szulc y a los invitados Sarah Xu y Zoran Nikolovski para discutir ejemplos del mundo real sobre el uso del nuevo Generador de aplicaciones de Adobe (anteriormente Firefly del proyecto) para extender e integrar Adobe Experience Manager.  Desde ampliar las funciones existentes en cuestión de minutos hasta crear nuevas funciones, verá lo que se necesita inspirar y empezar a crear.
+Únase al presentador Mark Szulc y a los invitados Sarah Xu y Zoran Nikolovski para discutir ejemplos del mundo real sobre el uso del nuevo Adobe App Builder (anteriormente Firefly del proyecto) para extender e integrar Adobe Experience Manager.  Desde ampliar las funciones existentes en cuestión de minutos hasta crear nuevas funciones, verá lo que se necesita inspirar y empezar a crear.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339319/?quality=12&learn=on)
 

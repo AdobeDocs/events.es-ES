@@ -1,6 +1,6 @@
 ---
-title: AEM Análisis de errores de implementación as a Cloud Service
-description: AEM internos de implementación as a Cloud Service y solución de problemas.
+title: Análisis de errores de implementación de AEM as a Cloud Service
+description: componentes internos de implementación de AEM as a Cloud Service y solución de problemas.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM Análisis de errores de implementación as a Cloud Service
+# Análisis de errores de implementación de AEM as a Cloud Service
 
-AEM En esta sesión, aprenderá acerca de los aspectos internos de la implementación as a Cloud Service y la resolución de problemas.
+En esta sesión, aprenderá acerca de los aspectos internos de la implementación de AEM as a Cloud Service y la resolución de problemas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

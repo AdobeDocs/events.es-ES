@@ -1,6 +1,6 @@
 ---
-title: Reduzca el nivel de su marketing multicanal con Adobe [!DNL Campaign Classic]
-description: Seminario web en profundidad centrado en flujos de trabajo, automatización, personalización y medición para el Adobe [!DNL Campaign Classic] clientes.
+title: Reduzca el nivel de su mercadotecnia en canales múltiples con el Adobe  [!DNL Campaign Classic]
+description: Seminario web en profundidad centrado en los flujos de trabajo, la automatización, la personalización y la medición para los clientes de Adobe [!DNL Campaign Classic] s.
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Reduzca el nivel de su marketing multicanal con Adobe [!DNL Campaign Classic]
+# Reduzca el nivel de su marketing multicanal con el Adobe [!DNL Campaign Classic]
 
-Seminario web en profundidad centrado en flujos de trabajo, automatización, personalización y medición para el Adobe [!DNL Campaign Classic] clientes.
+Seminario web en profundidad centrado en los flujos de trabajo, la automatización, la personalización y la medición para los clientes de Adobe [!DNL Campaign Classic].
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

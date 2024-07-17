@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,19 +19,19 @@ AEM incluye un servicio en la nube para Dynamic Tag Management (DTM), la forma r
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*Publicado el 1 de octubre de 2014*
+*Entregado el 1 de octubre de 2014*
 
 **Presentado por:**
 
 Sandro Looser, arquitecto de soluciones, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/dtm-10-1-2014.pdf)
 
 ## Vínculos relacionados {#related-links}
 
-[Integración con Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Integración con Dynamic Tag Management de Adobe](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [Ayuda de DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 

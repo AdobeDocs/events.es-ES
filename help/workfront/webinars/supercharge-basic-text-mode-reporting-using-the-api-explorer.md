@@ -9,13 +9,13 @@ duration: 4068
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1658'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Consulte al experto - Informes de modo de texto básico de sobrecarga mediante el Explorador de API
 
-Obtenga información acerca de [[!UICONTROL Explorador de API]](https://developer.adobe.com/workfront/api-explorer/), cómo utilizarlo y cómo mejorar sus informes aprovechando el modo de texto básico. Este seminario web se grabó el 22 de enero de 2020.
+Obtenga información acerca del [[!UICONTROL Explorador de API]](https://developer.adobe.com/workfront/api-explorer/), cómo utilizarlo y cómo mejorar sus informes aprovechando el modo de texto básico. Este seminario web se grabó el 22 de enero de 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -101,11 +101,11 @@ Al crear un informe de problemas, puede ver la información de la tarea si el pr
 
 **Pregunta**
 
-¿Puede compartir el formato de texto ([!DNL CSS]) ejemplos?
+¿Puede compartir ejemplos de formato de texto ([!DNL CSS])?
 
 **Respuesta**
 
-Workfront no es compatible [!DNL CSS] en modo de texto.
+Workfront no admite [!DNL CSS] en el modo de texto.
 
 **Pregunta**
 
@@ -135,7 +135,8 @@ Cuando haga referencia a objetos en modo de texto, querrá escribirlos exactamen
 valuefield=project:name
 ```
 
-Sin embargo, en el caso de los problemas, se denominan &quot;opTasks&quot; en el Explorador de API. Por lo tanto, si ejecutara un informe de horas y deseara agregar una columna para el nombre del problema, el campo de valor tendría el siguiente aspecto:
+Sin embargo, en el caso de los problemas, se denominan &quot;opTasks&quot; en el Explorador de API. Por lo tanto, si tuviera que ejecutar un informe de horas y deseara agregar una columna para Nombre del problema, el campo de valor sería
+tiene el siguiente aspecto:
 
 ```
 valuefield=opTask:name

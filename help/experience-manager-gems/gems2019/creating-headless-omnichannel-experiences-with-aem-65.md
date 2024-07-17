@@ -28,6 +28,6 @@ Debe crear el siguiente nivel de experiencias fluidas para mantenerse al día co
 
 * Amol Anand, Consultor Principal, Arquitecto Técnico, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/headless-omnichannelwebinar04162019.pdf)

@@ -9,27 +9,27 @@ duration: 3576
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Configuración de DAM para empresas{#configuring-the-dam-for-enterprise}
 
-Esta sesión está diseñada para ayudar a los usuarios a mejorar el aprovechamiento del éxito [!DNL AEM Assets]. Arnold Espos se centrará en los casos de uso de los clientes reales de DAM Enterprise, sus desafíos y las soluciones que se han creado para apoyarlos y aumentar el éxito que ven con DAM.
+Esta sesión está diseñada para ayudar a los usuarios a mejorar el éxito al aprovechar [!DNL AEM Assets]. Arnold Espos se centrará en los casos de uso de los clientes reales de DAM Enterprise, sus desafíos y las soluciones que se han creado para apoyarlos y aumentar el éxito que ven con DAM.
 
 Los asistentes podrán comprender mejor cómo utilizar DAM en sus entornos. A través de la visualización de casos prácticos de clientes reales, los asistentes que trabajan con clientes existentes de DAM podrán comprender las nuevas soluciones que ofrece esta oferta, lo que puede ayudar a sus flujos de trabajo existentes y a comprender la tecnología.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Publicado el 5 de octubre de 2016*
+*Entregado el 5 de octubre de 2016*
 
 **Presentado por:**
 
 * Arnold Espos, director de producto senior, Adobe
-* Josh Ramírez, responsable de producto, [!DNL AEM Assets], ADOBE
+* Josh Ramírez, jefe de producto, [!DNL AEM Assets], Adobe
 * Greg Klebus, Director de producto del grupo, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/assets-webinar-oct5final.pdf)
 
@@ -37,8 +37,8 @@ Los asistentes podrán comprender mejor cómo utilizar DAM en sus entornos. A tr
 
 >[!WARNING]
 >
->AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=es).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
+>AEM Las versiones 6.4 y anteriores de la aplicación se han agotado y ya no se venden por Adobe.  El Adobe recomienda actualizar a la versión más reciente: [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Se puede acceder a las versiones archivadas de la documentación desde esta [página](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=es).
 >
->En relación con esta sesión, consulte *Notas de la versión de Desktop App* AEM en la documentación de 6.2.
+>AEM En relación con esta sesión, consulte las *Notas de la versión de la aplicación de escritorio* en la documentación de la versión 6.2 de la aplicación de escritorio de la versión 6.2 de la versión de la aplicación de escritorio de la aplicación de escritorio de la versión 6.2.
 
 * [Actualizaciones de documentación de AEM Assets](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)

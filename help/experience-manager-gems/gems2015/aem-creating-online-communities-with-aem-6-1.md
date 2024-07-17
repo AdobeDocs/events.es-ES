@@ -8,23 +8,23 @@ duration: 3473
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # AEM Creación de comunidades en línea con 6.1{#creating-online-communities-with-aem}
 
-Imagine poder montar un sitio de la comunidad en horas en lugar de semanas con poca o ninguna asistencia de sus ingenieros de CQ. AEM Communities 6.1 se centrará en proporcionar esta capacidad mediante un enfoque de plantilla impulsado por un asistente para cubrir una variedad de casos de uso iniciales. AEM Communities AEM 6.1 también permitirá personalizar aún más estos nuevos sitios de la comunidad a través de WCMs [!DNL Sites] capacidad. AEM Únase a nosotros para aprender a aprovechar la potente interfaz de creación de para crear una comunidad de clientes vibrante y conocer las herramientas para mantener a su base de seguidores ocupada mucho después del lanzamiento.
+Imagine poder montar un sitio de la comunidad en horas en lugar de semanas con poca o ninguna asistencia de sus ingenieros de CQ. AEM Communities 6.1 se centrará en proporcionar esta capacidad mediante un enfoque de plantilla impulsado por un asistente para cubrir una variedad de casos de uso iniciales. AEM Communities AEM 6.1 también permitirá personalizar aún más estos nuevos sitios de la comunidad mediante el uso de la capacidad de WCM [!DNL Sites], que se ha de utilizar para la personalización de los sitios de la comunidad de manera más. AEM Únase a nosotros para aprender a aprovechar la potente interfaz de creación de para crear una comunidad de clientes vibrante y conocer las herramientas para mantener a su base de seguidores ocupada mucho después del lanzamiento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*Publicado el 22 de julio de 2015*
+*Entregado el 22 de julio de 2015*
 
 **Presentado por:**
 
 * Bertrand de Coatpont, Group Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-6-1-communities-gems.pdf)
 <!--

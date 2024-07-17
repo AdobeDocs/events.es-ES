@@ -24,7 +24,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-        <strong>Personalización y automatización con Adobe Target</strong>
+        <strong>Personalizar y automatizar con Adobe Target</strong>
       </a>
     </div>
     <p>
@@ -37,11 +37,11 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022 Innovaciones y tendencias</strong>
+        <strong>Innovaciones y tendencias de 2022</strong>
       </a>
     </div>
     <p>
-    <em>En esta sesión principal, aprenderá sobre las principales tendencias en D&amp;I. Únase a nosotros para explorar cómo puede hacer un uso relevante de sus datos maximizando al máximo sus inversiones de Experience Cloud y echar un vistazo a las nuevas innovaciones.</em>
+    <em>En esta sesión de presentación, aprenderá sobre las principales tendencias en D&amp;I. Únase a nosotros para explorar cómo puede hacer un uso relevante de sus datos maximizando al máximo sus inversiones de Experience Cloud y echar un vistazo a las nuevas innovaciones.</em>
     <p>
   </td>  
   <td>
@@ -54,7 +54,7 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
       </a>
     </div>
     <p>
-    <em>En esta sesión, aprenderá las prácticas recomendadas sobre cómo utilizar paneles de Analytics en dispositivos móviles, así como sobre cómo personalizar aplicaciones a través de Target.</em>
+    <em>En esta sesión aprenderá prácticas recomendadas sobre cómo usar paneles de Analytics en dispositivos móviles, así como sobre cómo personalizar aplicaciones a través de Target.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Impulse la personalización en tiempo real en cualquier canal mediante perspecti
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.

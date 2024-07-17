@@ -19,6 +19,6 @@ ht-degree: 0%
 
 En esta sesión, aprenderá las prácticas recomendadas sobre cómo utilizar paneles de Analytics en dispositivos móviles, así como sobre cómo personalizar aplicaciones a través de Target.
 
-*Ashika Ramjee* Asesor de soluciones / Adobe
+*Ashika Ramjee* Asesor/Adobe de soluciones
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

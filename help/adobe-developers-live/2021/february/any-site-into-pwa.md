@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Haga que su sitio sea instalable en dispositivos móviles y esté disponible sin conexión con solo un clic, sin importar si es una aplicación web o un sitio tradicional.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

@@ -35,13 +35,13 @@ Explore los matices de la administración de cambios y proporcione perspectivas 
 * La administración de cambios alinea los objetivos organizativos con el rendimiento individual.
 * Mejora la agilidad y la eficacia dentro de la organización.
 
-**Competencias principales para una administración eficaz de los cambios**
+**Competencias principales para la administración eficaz de cambios**
 
 * La participación de las partes interesadas es crucial.
 * La comunicación efectiva es clave.
 * La formación y el apoyo son necesarios para una adopción exitosa del cambio.
 
-**Superar los desafíos en la administración de cambios**
+**Superando desafíos en la administración de cambios**
 
 * Abordar la fatiga de cambios y la gestión de la resistencia.
 * La definición de métricas de éxito es crucial.

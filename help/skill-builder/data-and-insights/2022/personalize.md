@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Únase a esta sesión para conocer los conceptos básicos de automatización y optimización de las capacidades de Adobe Target mediante la Segmentación automática y las Personalizaciones automáticas.
 
-*Matthias Kolitsch* Formador sénior de soluciones múltiples EMEA/Adobe
+*Matthias Kolitsch* Entrenador sénior de soluciones múltiples EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

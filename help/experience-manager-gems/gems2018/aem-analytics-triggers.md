@@ -9,7 +9,7 @@ duration: 2746
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,13 @@ Combine la potencia de la arquitectura impulsada por eventos y el reconocimiento
 
 >[!VIDEO](https://video.tv.adobe.com/v/22809/?quality=9)
 
-*Publicado el 27 de junio de 2018*
+*Entregado el 27 de junio de 2018*
 
 **Presentado por:**
 
 Sarah Xu, evangelista de desarrolladores, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
@@ -35,8 +35,8 @@ Sarah Xu, evangelista de desarrolladores, Adobe
 
 >[!MORELIKETHIS]
 >
->* [AEM Solr como un índice de Oak para la](solr-as-an-oak-index-for-aem.md)
->* [AEM Desbloqueo De Recursos De Análisis Más Potentes Con La Versión 6.4 De](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Solr como un índice de Oak AEM para el código de tiempo de trabajo {100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000](solr-as-an-oak-index-for-aem.md)
+>* AEM [Desbloqueando Recursos De Análisis Más Potentes Con La Versión 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html) De.
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

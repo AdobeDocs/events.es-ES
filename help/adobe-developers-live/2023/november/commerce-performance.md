@@ -1,5 +1,5 @@
 ---
-title: Ofrecer rendimiento de Commerce a través de la plataforma
+title: Ofrezca rendimiento de Commerce a través de la plataforma
 description: En esta inspiradora presentación nos adentramos en la historia de "Mejor juntos", en la que Adobe Commerce se integra a la perfección con nuestro completo paquete tecnológico. Descubra cómo esta sinergia fomenta la eficiencia, la innovación y las experiencias integrales de los clientes, elevando su negocio a nuevas alturas
 solution: Commerce
 feature-set: Commerce
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Ofrecer rendimiento de Commerce a través de la plataforma
+# Ofrezca rendimiento de Commerce a través de la plataforma
 
 En esta inspiradora presentación nos adentramos en la historia de &quot;Mejor juntos&quot;, en la que Adobe Commerce se integra a la perfección con nuestro completo paquete tecnológico. Descubra cómo esta sinergia fomenta la eficiencia, la innovación y las experiencias integrales de los clientes, elevando su negocio a nuevas alturas
 

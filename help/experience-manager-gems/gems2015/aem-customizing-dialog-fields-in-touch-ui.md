@@ -8,7 +8,7 @@ duration: 3267
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,14 +23,14 @@ AEM En esta sesión, explicaremos cómo implementar campos (o widgets) personali
 
 >[!VIDEO](https://video.tv.adobe.com/v/19373/?quality=9)
 
-*Publicado el 7 de octubre de 2015*
+*Entregado el 7 de octubre de 2015*
 
 **Presentado por:**
 
 * Christanto Leonardo, Desarrollador sénior, Adobe
 * Christian Meyer, Desarrollador, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--

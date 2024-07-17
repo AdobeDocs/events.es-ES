@@ -1,6 +1,6 @@
 ---
 title: 'Conectar los puntos: estrategia básica para la organización de campañas'
-description: Fundamentos de la orquestación de Campaign El papel de la orquestación de Campaign en la personalización a escala Pilares básicos y principios rectores Medición de la orquestación Prácticas recomendadas Retos y soluciones comunes
+description: Fundamentos de la orquestación de Campaign El papel de la orquestación de Campaign en Personalization a escala Pilares básicos y principios rectores Medición de orquestaciones Prácticas recomendadas Retos y soluciones comunes
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 *Fundamentos de la orquestación de Campaign*
 
-* La función de la orquestación de campañas en la personalización a escala
+* La función de la orquestación de campañas en Personalization a escala
 * Pilares básicos y principios rectores
 * Prácticas recomendadas de medición de orquestaciones
 * Desafíos y soluciones comunes

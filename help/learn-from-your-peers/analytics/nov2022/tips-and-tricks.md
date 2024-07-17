@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Consejos y trucos para los campeones'
-description: Unirse a cinco [!DNL Adobe Analytics] Campeones de todo el mundo comparten consejos y trucos que les ayudaron a dominar [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics] consejos y trucos para el campeón'
+description: Únase a cinco  [!DNL Adobe Analytics] Campeones de todo el mundo para compartir consejos y trucos que les ayudaron a dominar [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Consejos y trucos para los campeones
+# Consejos y trucos para el campeón [!DNL Adobe Analytics]
 
-Unirse a cinco [!DNL Adobe Analytics] Campeones de todo el mundo comparten consejos y trucos que les ayudaron a dominar [!DNL Adobe Analytics].
+Únase a cinco campeones de [!DNL Adobe Analytics] de todo el mundo para compartir consejos y trucos que les ayudaron a dominar [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

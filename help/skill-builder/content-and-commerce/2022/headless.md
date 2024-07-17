@@ -22,6 +22,6 @@ ht-degree: 69%
 
 Obtenga información sobre la administración de experiencias sin encabezado mediante las mejoras más recientes de Fragmento de contenido en Experience Manager y la nueva API de GraphQL para la entrega de contenido sin encabezado.
 
-*Thomas Morf* Consultor de formación / Adobe
+*Thomas Morf* asesor de formación/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

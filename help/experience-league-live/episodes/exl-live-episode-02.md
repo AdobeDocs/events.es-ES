@@ -23,5 +23,5 @@ El éxito de las buenas campañas de marketing depende de la segmentación preci
 
 >[!VIDEO](https://video.tv.adobe.com/v/336422/?quality=12&learn=on)
 
-Para debatir sobre esta sesión, visite el [debate en la Comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
+Para discutir esta sesión, visite la [discusión en la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/questions-and-discussion-for-experience-league-live-ep-2-make/m-p/420645#M68){target="_blank"}.
 

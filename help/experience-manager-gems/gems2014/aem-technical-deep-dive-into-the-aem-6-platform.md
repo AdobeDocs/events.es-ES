@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,17 @@ AEM 6 viene con un nuevo servidor de repositorio diseñado para mejorar el rendi
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*Publicado el 18 de junio de 2014*
+*Entregado el 18 de junio de 2014*
 
 **Presentado por:**
 
 Jukka Ziting, Desarrollador sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
 ## Vínculos relacionados {#related-links}
 
-* [AEM Documentación de actualización](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* AEM [Documentación de actualización de la](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
 * [Presentación de ApacheCon &quot;Oak, la arquitectura de Apache Jackrabbit 3&quot;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

@@ -8,7 +8,7 @@ duration: 3536
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ Eche un vistazo a lo que hemos estado trabajando para la próxima generación de
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*Publicado el 21 de enero de 2015*
+*Entregado el 21 de enero de 2015*
 
 **Presentado por:**
 
 * Gabriel Walt, Product Manager, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-technical-sneak-peek.pdf)
 <!--

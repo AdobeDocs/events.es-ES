@@ -8,7 +8,7 @@ duration: 2739
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -22,13 +22,13 @@ AEM David le presenta el modo de desarrollador en la versión 6.0 de la versión
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*Publicado el 16 de julio de 2014*
+*Entregado el 16 de julio de 2014*
 
 **Presentado por:**
 
 David Catalan, Desarrollador de QE, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-6-developer-mode-07-16-14.pdf)
 

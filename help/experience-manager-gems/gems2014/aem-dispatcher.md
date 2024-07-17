@@ -8,7 +8,7 @@ duration: 3623
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -18,19 +18,19 @@ Esta sesión explora las nuevas funciones de Dispatcher (desde la versión 4.1.9
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*Publicado el 22 de noviembre de 2017*
+*Entregado el 22 de noviembre de 2017*
 
 **Presentado por:**
 
 Dominique Pfister, experto informático sénior, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/dispatcher-aemgemsnov2017.pdf)
 
 ## Recursos {#resources}
 
-[Más información sobre la caché de Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
+[Más información en la caché de Dispatcher](https://github.com/cqsupport/webinar-dispatchercache)
 
 [Abusar de JSONP con el Flash Rosetta](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 

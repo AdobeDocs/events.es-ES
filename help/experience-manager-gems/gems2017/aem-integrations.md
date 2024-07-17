@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,19 +18,19 @@ AEM AAM AEM AEM Aunque el trabajo es bastante independiente, nosotros los consul
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*Publicado el 27 de septiembre de 2017*
+*Entregado el 27 de septiembre de 2017*
 
 **Presentado por:**
 
 Jan Exner, Mgr. Consultor de administración, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/170927-aem-gems-integrations.pdf)
 
 ## Vínculos relacionados {#related-links}
 
-[Web Analytics para desarrolladores](https://webanalyticsfordevelopers.com/)
+[Análisis web para desarrolladores](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

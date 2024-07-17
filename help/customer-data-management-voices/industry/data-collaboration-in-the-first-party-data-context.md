@@ -1,5 +1,5 @@
 ---
-title: Colaboración de datos en el contexto de datos de origen
+title: Data Collaboration en el contexto de datos de origen
 description: Este seminario web le ayudará a desbloquear las oportunidades de colaboración de datos en un futuro sin cookies de terceros.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# Colaboración de datos en el contexto de datos de origen
+# Data Collaboration en el contexto de datos de origen
 
 Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un anunciante, editor o agencia, este seminario web le ayudará a desbloquear las oportunidades de colaboración de datos en un futuro sin cookies de terceros.
 
@@ -35,4 +35,4 @@ Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un a
 
 [Audience Marketplace para compradores de datos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es)
+[Destinos basados en personas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es)

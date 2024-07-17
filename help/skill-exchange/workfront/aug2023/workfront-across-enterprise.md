@@ -27,6 +27,8 @@ Dale Whitchchurch, vicepresidente ejecutivo de inteligencia de producción de IP
 
 Se oye,
 
-Cómo han evolucionado tanto su proceso como su infraestructura a lo largo del tiempo Asesoramiento práctico para integrar Workfront en su pila tecnológica más amplia y en los flujos de trabajo clave de maduración Cómo IPG está sentando las bases para la cadena de suministro de contenido
+Cómo han evolucionado tanto su proceso como su infraestructura con el paso del tiempo
+Asesoramiento práctico para integrar Workfront en su pila tecnológica más amplia y madurar flujos de trabajo clave
+Cómo IPG está sentando las bases para la cadena de suministro de contenido
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

@@ -6,7 +6,7 @@ event-series: The Skill Exchange
 source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 11%
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 + [Información general](overview.md)
 + Analytics {#analytics}
-   + Ago de 2023 {#aug2023}
+   + Agosto de 2023 {#aug2023}
       + [Todo acerca de los segmentos](analytics/aug2023/spotlight-segments.md)
       + [Análisis de los datos](analytics/aug2023/analyze-the-data.md)
       + [Educar al usuario casual de Workspace](analytics/aug2023/spotlight-workspace-user.md)
@@ -24,7 +24,7 @@ ht-degree: 11%
       + [Primeros pasos](analytics/aug2023/getting-started.md)
       + [Mejore su experiencia con los clientes](analytics/aug2023/anti-conversion.md)
       + [Presentación](analytics/aug2023/keynote.md)
-      + [En resumen](analytics/aug2023/putting-together.md)
+      + [Poniéndolo todo junto](analytics/aug2023/putting-together.md)
    + Mayo de 2023 {#may2023}
       + [Sugerencias y trucos para Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migrar a EDDL/WebSDK](analytics/may2023/migrate.md)
@@ -35,14 +35,14 @@ ht-degree: 11%
    + Octubre de 2022 {#oct2022}
       + [Primeros pasos](analytics/oct2022/getting-started.md)
       + [Análisis de los datos](analytics/oct2022/analyzing-the-data.md)
-      + [En resumen](analytics/oct2022/putting-it-all-together.md)
+      + [Poniéndolo todo junto](analytics/oct2022/putting-it-all-together.md)
       + [ROI de Analytics](analytics/oct2022/analytics-roi.md)
       + [Analytics Conozca los aspectos destacados de Experience Makers](analytics/oct2022/spotlight.md)
       + [Dominio del cinturón de herramientas de Adobe Analytics](analytics/oct2022/toolbelt.md)
-   + Septiembre de 2022 {#sept2022}
+   + {#sept2022} de septiembre de 2022
       + [Primeros pasos](analytics/sept2022/getting-started.md)
       + [Análisis de los datos](analytics/sept2022/analyzing-the-data.md)
-      + [En resumen](analytics/sept2022/putting-it-all-together.md)
+      + [Poniéndolo todo junto](analytics/sept2022/putting-it-all-together.md)
       + [Personalización de Adobe Analytics](analytics/sept2022/making-analytics-your-own.md)
       + [Analytics Crece el protagonismo de Experience Makers](analytics/sept2022/grow-spotlight.md)
       + [Analytics Conozca los aspectos destacados de Experience Makers](analytics/sept2022/learn-spotlight.md)
@@ -62,7 +62,7 @@ ht-degree: 11%
       + [Análisis de los datos](analytics/oct2021/analyze-data.md)
       + [Primeros pasos](analytics/oct2021/getting-started.md)
       + [Poniéndolo todo junto](analytics/oct2021/putting-all-together.md)
-   + Septiembre de 2021 {#sept2021}
+   + {#sept2021} de septiembre de 2021
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Sugerencias y trucos para Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [Análisis de los datos](analytics/sept2021/analyze-data.md)
@@ -78,22 +78,22 @@ ht-degree: 11%
       + [Poniéndolo todo junto](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + Agosto de 2023 {#aug2023}
-      + Seguimiento del desarrollador {#developer-track}
+      + Seguimiento de desarrollador {#developer-track}
          + [AEM Kit de inicio para desarrolladores de](aem/aug2023/deploy-new-project.md)
          + [Creación de un sistema de estilos efectivo y escalable](aem/aug2023/scalable-style-system.md)
          + [Migrar a AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Correos electrónicos de marketing personalizados](aem/aug2023/personalized-marketing-emails.md)
-      + Pista web {#webtrack}
+      + Seguimiento web {#webtrack}
          + [Introducción a AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Aprovechamiento de un DAM colaborativo](aem/aug2023/collaborative-dam.md)
          + [Escala de preparación para IA](aem/aug2023/metadata.md)
          + [Destacar](aem/aug2023/spotlight.md)
    + Agosto de 2022 {#aug2022}
-      + Seguimiento del desarrollador {#developer-track}
+      + Seguimiento de desarrollador {#developer-track}
          + [Elementos destacados de Experience Makers](aem/aug2022/spotlight.md)
          + [AEM Campeón de la sesión de múltiples inquilinos](aem/aug2022/multi-tenancy.md)
          + [AEM Componentes principales y sistemas de estilo](aem/aug2022/core-components.md)
-         + [AEM Ampliación de la comunicación sin encabezado con App Builder](aem/aug2022/app-builder.md)
+         + [AEM Ampliación de la interfaz sin encabezado con App Builder](aem/aug2022/app-builder.md)
       + Especialista en marketing/productor web {#marketer}
          + [El poder de la reutilización](aem/aug2022/reusability.md)
          + [AEM Aumente el valor empresarial con la personalización de contenido en las](aem/aug2022/personalization.md)
@@ -101,25 +101,25 @@ ht-degree: 11%
 + Marketo {#marketo}
    + Febrero de 2022 {#feb2022}
       + [Mantenimiento de datos](marketo/feb2022/data-maintenance.md)
-      + [El contenido dinámico y el poder de la personalización](marketo/feb2022/dynamic-content.md)
+      + [El contenido dinámico y el poder de Personalization](marketo/feb2022/dynamic-content.md)
       + [Elementos destacados de Experience Makers](marketo/feb2022/experience-makers-spotlight.md)
       + [Gema Oculta En La Base De Datos: Registros Reactivados](marketo/feb2022/hidden-gems.md)
-      + [Personalización A Escala](marketo/feb2022/personalization-at-scale.md)
+      + [Personalization a escala](marketo/feb2022/personalization-at-scale.md)
       + [Escalabilidad y eficacia con tokens](marketo/feb2022/using-tokens.md)
       + [Uso De Programas De Participación Para Captar A Sus Clientes](marketo/feb2022/utilize-engagement-programs.md)
    + Agosto de 2021 {#aug2021}
-      + [Creación de programas dentro de [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
-      + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
+      + [Creando programas dentro de  [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] estrellas de rock](marketo/aug2021/engage-rockstars.md)
       + [El poder de una campaña inteligente](marketo/aug2021/smart-campaign.md)
       + [Campos personalizados de miembro de programa](marketo/aug2021/program-member-custom-fields.md)
-      + [Informes dentro de [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Informes dentro de  [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Su hoja de ruta de Marketo](marketo/aug2021/marketo-roadmap.md)
    + Febrero de 2021 {#feb2021}
       + [Un salto de cuerda superior en objetos personalizados y velocidad](marketo/feb2021/custom-objects.md)
-      + [Adobe [!DNL Marketo Engage] Segmento de Rockstar](marketo/feb2021/rockstar.md)
-      + [Creación de programas dentro del Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Segmento Rockstar](marketo/feb2021/rockstar.md)
+      + [Creando programas dentro del Adobe  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [El poder de una campaña inteligente](marketo/feb2021/power-of-smart-campaign.md)
-      + [Informes dentro de [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Informes dentro de  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Últimos Consejos Y Trucos Para Su Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto de 2023 {#aug2023}

@@ -8,7 +8,7 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -44,7 +44,7 @@ Fecha: 17/10/2018
 
 [Blog de la Alianza OSGi](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[Licencia de especificación de OSGi, versión 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[Licencia de especificación OSGi, versión 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
 [Versión 7 del compendio de OSGi](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Creación y uso de flujos de trabajo de principio a fin
 
@@ -40,4 +40,3 @@ Los temas tratados en la sesión son,
 * Interfaz de control de ámbito del flujo de trabajo: Se ha actualizado la interfaz para definir qué usuarios pueden acceder al flujo de trabajo, con intervalos en las etiquetas de texto y el uso de un solo menú desplegable de selección para seleccionar grupos individuales.
 * Etiquetas de texto actualizadas: Las etiquetas de texto de opciones como incluir a todos los usuarios del grupo en la cuenta se han cambiado para demostrar la claridad.
 * Colocación de firma definida por la plantilla: esta función permite construir un formulario completamente habilitado con todos los campos de destinatario posibles definidos, y el índice del firmante del destinatario definido en el diseñador de flujo de trabajo se aplica con firmeza, sin tener en cuenta los campos asignados a destinatarios opcionales omitidos cuando se envía el acuerdo.
-

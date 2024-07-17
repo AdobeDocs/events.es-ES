@@ -24,15 +24,15 @@ Introducción a los libros de reproducción de casos de uso: un catálogo proces
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continúe con la discusión de este tema en Adobe Experience League [puesto comunitario](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
 
 >[!ENDSHADEBOX]
 
 Los manuales de casos de uso se crearon para abordar dos desafíos principales,
 
-1. **Síndrome de página en blanco** : Muchos clientes, especialmente los nuevos, se sienten abrumados cuando acceden por primera vez a Adobe Experience Platform y no saben por dónde empezar o cómo aprovechar su potencia. Los libros de casos de uso ayudan a los clientes a superar este obstáculo inicial al proporcionar conjuntos depurados de plantillas de casos de uso que los guían a través del proceso de implementación de objetivos de marketing específicos.
+1. **Síndrome de la página en blanco**: Muchos clientes, especialmente los nuevos, se sienten abrumados cuando acceden por primera vez a Adobe Experience Platform y no saben por dónde empezar ni cómo aprovechar su potencia. Los libros de casos de uso ayudan a los clientes a superar este obstáculo inicial al proporcionar conjuntos depurados de plantillas de casos de uso que los guían a través del proceso de implementación de objetivos de marketing específicos.
 
-1. **Mayor adopción y participación** - Los libros de reproducción tienen como objetivo ayudar a los clientes a ponerse al día más rápido y aprovechar al máximo su inversión en productos de Adobe mediante plantillas creadas previamente y orientación técnica.  Esto ayuda a los clientes a implementar casos de uso más rápidamente, demostrar el valor a las partes interesadas y fomentar la colaboración entre los equipos de TI y marketing.  En última instancia, los libros de reproducción pretenden maximizar la adopción y el valor que los clientes obtienen de Adobe Experience Platform.
+1. **Mayor adopción y participación**: Los libros de reproducción tienen como objetivo ayudar a los clientes a ponerse al día más rápido y aprovechar al máximo su inversión en productos de Adobe mediante plantillas creadas previamente y orientación técnica.  Esto ayuda a los clientes a implementar casos de uso más rápidamente, demostrar el valor a las partes interesadas y fomentar la colaboración entre los equipos de TI y marketing.  En última instancia, los libros de reproducción pretenden maximizar la adopción y el valor que los clientes obtienen de Adobe Experience Platform.
 
 Un ejemplo de caso de uso que se analiza en esta sesión es un caso de uso de navegación y mercancía abandonado. Este caso de uso tiene como objetivo abordar el desafío de los clientes que abandonan su sesión de navegación antes de realizar una compra. El segmento de audiencia resultante para este caso de uso sería el de los clientes que han abandonado su sesión de navegación sin completar una compra. A continuación, este segmento se puede dirigir con mensajes u ofertas personalizados para animarles a regresar y completar su compra.
 
@@ -51,8 +51,8 @@ Un ejemplo de caso de uso que se analiza en esta sesión es un caso de uso de na
 
 ## Recursos adicionales
 
-* **[Resumen de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *Los libros de reproducción de casos de uso pueden ayudarle a superar el problema al empezar a usar Real-Time CDP o Adobe Journey Optimizer, cuando es posible que no sepa exactamente por qué empezar o cómo crear los recursos adecuados para lograr los casos de uso deseados.*
+* **[Resumen de manuales de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+  *Los libros de reproducción de casos de uso pueden ayudarle a superar el problema que se produce al empezar a usar Real-Time CDP o Adobe Journey Optimizer, cuando es posible que no sepa exactamente por qué empezar o cómo crear los recursos adecuados para lograr los casos de uso deseados.*
 
 * **[Introducción a los manuales de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=es){target="_blank"}**
   *Aprenda a configurar su cuenta para los libros de reproducción de casos de uso, diseñados para Real-time Customer Data Platform y Adobe Journey Optimizer.*

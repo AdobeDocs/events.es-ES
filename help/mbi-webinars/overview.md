@@ -1,6 +1,6 @@
 ---
 title: Seminarios web de Commerce Intelligence
-description: Explore los seminarios web grabados por Commerce Intelligence, que cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence al máximo de su potencial.
+description: Explore los seminarios web grabados por Commerce Intelligence, que cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence al máximo.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
 source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
@@ -16,7 +16,7 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence se conocía anteriormente como [!DNL Magento Business Intelligence (MBI)]. Las grabaciones de eventos anteriores reflejan el nombre anterior.
 
-La serie de seminarios web de Commerce Intelligence es un evento periódico para los clientes de Commerce Intelligence. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence al máximo de su potencial.
+La serie de seminarios web de Commerce Intelligence es un evento periódico para los clientes de Commerce Intelligence. Los seminarios web cubren una amplia gama de temas y prácticas recomendadas para utilizar Commerce Intelligence en todo su potencial.
 
 Los asistentes de todas las regiones geográficas pueden unirse a los eventos en directo para comprender mejor el producto y para obtener respuestas directas a sus preguntas sobre la funcionalidad de Commerce Intelligence.
 
@@ -36,7 +36,7 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
       </a>
     </div>
     <p>
-    <em>Obtenga información sobre las funciones principales de Commerce Intelligence directamente desde el equipo del producto, con una explicación exhaustiva de los paneles preconfigurados y las opciones de personalización disponibles.</em>
+    <em>Obtenga información acerca de las funciones principales de Commerce Intelligence directamente desde el equipo del producto, con una explicación exhaustiva de los paneles preconfigurados y las opciones de personalización disponibles.</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
       </a>
     </div>
     <p>
-    <em>Descubra las sólidas funcionalidades del administrador de Datas Warehouse de Commerce Intelligence directamente desde el equipo de productos.</em>
+    <em>Descubra las funcionalidades sólidas del Administrador de Datas Warehouse de Commerce Intelligence directamente desde el equipo de productos.</em>
     <p>
   </td>
    <td>
@@ -62,7 +62,7 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
       </a>
     </div>
     <p>
-    <em>Con el Administrador de Datas Warehouse, puede administrar la configuración de sincronización de columnas y tablas, explorar en profundidad el esquema de una tabla y crear columnas calculadas para utilizarlas en los informes.</em>
+    <em>Con el Administrador de Datas Warehouse, puede administrar la configuración de sincronización de columnas y tablas, explorar en profundidad el esquema de una tabla y crear columnas calculadas para usarlas en los informes.</em>
     <p>
   </td>
 </tr>
@@ -70,9 +70,9 @@ Los temas se repiten ocasionalmente para dar cabida a cualquier nueva pregunta q
 
 >[!TIP]
 >
->**Todos los seminarios web grabados se enumeran en la sección de navegación de la izquierda**.
+>**Todos los seminarios web grabados aparecen en la sección de navegación de la izquierda**.
 
 ## Recursos útiles
 
-- [Vídeos y tutoriales de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Tutoriales y vídeos de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
 - [Guía del usuario de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=es)

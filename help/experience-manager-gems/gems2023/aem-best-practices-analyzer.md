@@ -26,7 +26,7 @@ ht-degree: 0%
 ## Descripción
 
 AEM El Analizador de prácticas recomendadas es una herramienta que proporciona capacidades de análisis y creación de informes con respecto a las instancias locales y de AMS de la aplicación de forma local. AEM Genera una evaluación de la implementación actual de la indicando las áreas que no siguen las prácticas recomendadas, y al mismo tiempo proporciona orientación sobre cómo tomar medidas para solucionar posibles problemas. AEM La motivación es sencilla: identificar y abordar solo 1 uso indebido dentro de su entorno tiene el potencial de mejorar la experiencia del usuario, reducir la deuda técnica y, a su vez, reducir el coste total de propiedad (TCO). Entonces, ¿por qué no tomarse el tiempo para ver si hay oportunidades de mejora?
-AEM AEM Tenga en cuenta que el Analizador de prácticas recomendadas de la no es aplicable a entornos as a Cloud Service de la aplicación.
+AEM Tenga en cuenta que el Analizador de prácticas recomendadas de la no es aplicable a entornos de AEM as a Cloud Service.
 
 ### Presentadores
 
@@ -42,5 +42,5 @@ AEM AEM Tenga en cuenta que el Analizador de prácticas recomendadas de la no es
 
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en Experience League, visite [Hilo contextual](https://bit.ly/3Z6AyM1)
->* Para recibir notificaciones automáticas sobre seminarios web, regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).
+>* Para interacciones de comunidad específicas de sesión en el Experience League, visite este [hilo contextual](https://bit.ly/3Z6AyM1)
+>* Para recibir notificaciones automáticas sobre seminarios web, regístrese en el [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/).

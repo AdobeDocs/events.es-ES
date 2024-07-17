@@ -8,7 +8,7 @@ duration: 3305
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,14 +18,14 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19305/?quality=9)
 
-*Publicado el 13 de abril de 2016*
+*Entregado el 13 de abril de 2016*
 
 **Presentado por:**
 
 * Gabriel Walt, Product Manager, Adobe
 * Justin Edelson, arquitecto de experiencias y evangelista, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--

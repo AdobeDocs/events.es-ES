@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Obtenga información sobre cómo ampliar los componentes principales de Commerce mediante GraphQL.
 
-Continúe la conversación en **[Comunidades Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Clic **[aquí](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** para las diapositivas de la sesión.
+Haga clic **[aquí](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** para las diapositivas de la sesión.

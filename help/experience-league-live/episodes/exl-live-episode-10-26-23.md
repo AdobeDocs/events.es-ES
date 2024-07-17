@@ -27,5 +27,5 @@ La página de inicio de Workfront, completamente renovada, se ha convertido en u
 
 En esta sesión en directo para el Experience League, el experto en productos Ben Robbins le guiará por la nueva experiencia de Inicio, incluidos los nuevos controles de diseño de administración y las emocionantes mejoras que se lanzarán en 2024. Y el cliente de Workfront Jamie Smith compartirá ideas sobre cómo la nueva experiencia en el hogar está impulsando la productividad en AT&amp;T.
 
-**Para continuar con la conversación, visite el [Publicación de comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**Para continuar con la conversación, visite [Post de la comunidad de Experience League!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

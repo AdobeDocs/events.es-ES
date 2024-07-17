@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Conecte la instancia de Adobe Campaign Standard y aprenda prácticas recomendadas sobre segmentación, personalización y fatiga de marketing para aprovechar mejor ACS. Esta sesión será interactiva: cree esta sesión preguntando sobre las características o necesidades directamente a nuestro experto.
 
-*Laurent Valenza* Consultor principal de soluciones / Adobe
+*Laurent Valenza* asesor principal de soluciones / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

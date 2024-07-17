@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Las aplicaciones web (PWA) progresivas y sin encabezado están redefiniendo la forma en que los consumidores utilizan sus dispositivos móviles al ofrecer experiencias de navegación rápidas, atractivas y similares a las de las aplicaciones. Únase a esta sesión para obtener más información sobre la creación, implementación y optimización de PWA de forma rápida y rentable con PWA Studio en Adobe Commerce.
 
-*Bethan Williams-James* Consultor/Adobe de soluciones de Commerce
+*Bethan Williams-James* asesor/Adobe de soluciones de Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/343814/?quality=12&learn=on)

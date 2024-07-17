@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Aspectos destacados de Adobe Commerce Roadmap
 
-Únase a Ed Kennedy, director de marketing de producto sénior de Adobe Commerce, para conocer las últimas novedades sobre las principales inversiones en productos de Adobe Commerce, como el conector de Adobe Experience Platform para Adobe Commerce, las categorías inteligentes, la malla de API, el generador de aplicaciones, la implementación azul/verde y el escalado automático.
+Únase a Ed Kennedy, director de marketing de producto sénior de Adobe Commerce, para conocer las últimas novedades sobre las principales inversiones en productos de Adobe Commerce, como el conector de Adobe Experience Platform para Adobe Commerce, las categorías inteligentes, la malla de API, App Builder, la implementación azul/verde y el escalado automático.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

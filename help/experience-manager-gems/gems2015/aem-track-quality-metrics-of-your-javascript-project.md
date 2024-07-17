@@ -8,7 +8,7 @@ duration: 4834
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 7%
+ht-degree: 2%
 
 ---
 
@@ -28,7 +28,7 @@ Metodología para integrar el análisis de sonarqube en proyectos Javascript y a
 
 * David Catalan, desarrollador principal de QE, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/aem-gems-js-quality-metrics-12-9-15.pdf)
 

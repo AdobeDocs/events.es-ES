@@ -29,7 +29,7 @@ Este seminario web explora formas clave de explorar y priorizar casos de uso, as
 
 ## Resumen de la reunión
 
-**Retos a los que se enfrenta Real-Time CDP**
+**Desafíos abordados por Real-time CDP**
 
 * Herramientas de marketing segmentadas
 * Orígenes de datos dispersos
@@ -39,7 +39,7 @@ Este seminario web explora formas clave de explorar y priorizar casos de uso, as
 
 * Efectos en casos de uso como retargeting y personalización de medios pagados
 
-**Comparación de Real-time CDP con un Audience Manager DMP**
+**Comparación de CDP en tiempo real con el Audience Manager DMP**
 
 * Céntrese en la ingesta de datos, la administración de audiencias y las estructuras de salida de datos
 
@@ -49,7 +49,7 @@ Este seminario web explora formas clave de explorar y priorizar casos de uso, as
 * Priorización de casos de uso
 * Garantizar una ejecución eficaz
 
-**Estrategias analizadas**
+**Estrategias discutidas**
 
 * Aprovechamiento de las capacidades de segmentación avanzada
 * Uso compartido de datos

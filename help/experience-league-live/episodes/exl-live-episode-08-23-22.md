@@ -26,23 +26,23 @@ ht-degree: 0%
 ### Extensión del asistente de elementos de datos de Evolytics
 
 <br> 
-**Pregunta:** Desde el punto de vista de la seguridad de los datos, ¿es seguro utilizar Evolytics, ya que se trata de una extensión de terceros?
+**Pregunta:** Desde el punto de vista de la seguridad de los datos, ¿es seguro usar Evolytics, ya que se trata de una extensión de terceros?
 
 **Respuesta:** Sí. Puede revisar el código de extensión si lo desea, además de que no guarda ninguna de las fechas, simplemente realiza una transformación.
 
 <br> 
 
-**Pregunta:** ¿Esto también captura el Adobe de ECID?
+**Pregunta:** ¿Esto captura también el ECID en Adobe?
 
 **Respuesta:** El ECID de Adobe no se captura dentro de esa extensión. Esta extensión está diseñada para crear identificadores adicionales anónimos (entre otras cosas).
 
-**Respuesta:** Sin embargo, el ECID de Adobe se puede capturar de otras maneras. Compartiremos esto a través de las notas y el Twitter de ExL, ya que no podemos compartir enlaces en el chat aquí.
+**Respuesta:** El ECID de Adobe se puede capturar de otras maneras. Compartiremos esto a través de las notas y el Twitter de ExL, ya que no podemos compartir enlaces en el chat aquí.
 
 <br> 
 
-**Pregunta:** ¿La funcionalidad hash ofrece varias técnicas de hash como SHA-256 y proporciona claves públicas y privadas?
+**Pregunta:** ¿La funcionalidad de hash ofrece varias técnicas de hash como SHA-256 y proporciona claves públicas y privadas?
 
-**Respuesta:** ¡Sip! SHA-256 es la opción predeterminada
+**Respuesta:** ¡Sí! SHA-256 es la opción predeterminada
 
 <br> 
 
@@ -52,25 +52,25 @@ ht-degree: 0%
 
 **Pregunta:** ¿En qué hacemos clic para descargar los archivos de origen de las extensiones? ¿Está en el &quot;menú de 3 puntos&quot;?
 
-**Respuesta:** ¡Sí! Los 3 puntos y, a continuación, Descargar origen (desde la vista de catálogo)
+**Respuesta:** ¡Sí! Los 3 puntos y, a continuación, Descargar Source (desde la vista de catálogo)
 
 <br> 
 
-**Comentario:** Una de las cosas que realmente me gusta de las extensiones es el aspecto que ahorra tiempo de ellas. Muchos de ellos hacen cosas que usted *podría* haga con algún código personalizado, pero con una extensión no es necesario escribir ese código.
+**Comentario:** Una de las cosas que más me gustan de las extensiones es el ahorro de tiempo que suponen. Muchos de ellos hacen cosas que *podrías* hacer con algún código personalizado, pero con una extensión no necesitas escribir ese código.
 
-**Responder:** Muy bien. Y es repetible sin tener que recrear la rueda cada vez.
+**Respuesta:** Correcto. Y es repetible sin tener que recrear la rueda cada vez.
 
 <br> 
 
 **Pregunta:** ¿Cómo se admitirán o reemplazarán los complementos de Analytics con las implementaciones de SDK web?
 
-**Respuesta:** Muchos complementos de análisis son realmente innecesarios en estos días gracias a la flexibilidad añadida de las etiquetas de espacio de trabajo y Adobe. Sin embargo, los que no lo están, se están migrando activamente para que los utilice el SDK web.
+**Respuesta:** Muchos complementos de Analytics no son necesarios en estos días gracias a la flexibilidad agregada de las etiquetas de Adobe y Workspace. Sin embargo, los que no lo están, se están migrando activamente para que los utilice el SDK web.
 
 <br> 
 
-**Pregunta:** ¿Ha habido algún desarrollo en el seguimiento de Activity Map mediante SDK web?
+**Pregunta:** ¿Ha habido algún desarrollo en el seguimiento de Activity Map mediante el SDK web?
 
-**Respuesta:** Me complace informar de que Activity Map también está trabajando activamente para obtener soporte en el SDK web
+**Respuesta:** Me complace informar que el Activity Map también está trabajando activamente para obtener soporte en el SDK web
 
 <br> 
 
@@ -78,25 +78,25 @@ ht-degree: 0%
 
 **Respuesta:** ¡Sí! Esto es posible a través de nuestra función de reenvío de eventos, que los clientes pueden adquirir a través de cualquiera de nuestros productos de Real-Time CDP (Real-Time CDP Connections, Prime o Ultimate).
 
-**Respuesta:** Conexiones RTCDP (reenvío de eventos) proporciona la capacidad de tener más control antes de enviarlo a destinos que no sean de Adobe.
+**Respuesta:** Conexiones RTCDP (Reenvío de eventos) proporciona la capacidad de tener más control antes de enviarlo a destinos que no sean de Adobe.
 
-**Respuesta:** Eche un vistazo a algunos de nuestros otros vídeos en directo de ExL para obtener más información sobre esto (como [este](exl-live-episode-06-23-22.md)).
-
-<br> 
-
-**Comentario:** Llamada rápida para una de mis extensiones favoritas: existe una extensión de tabla de asignación en la que puede leer una tabla para un elemento de datos que &quot;si este valor es este, configúrelo como tal&quot;.
-
-**Responder:** La flexibilidad que ofrecen es bastante impresionante. Tenga en cuenta también que las empresas pueden crear sus propias extensiones privadas, así como si lo desean.
+**Respuesta:** Mira algunos de nuestros otros videos de ExL Live para obtener más información sobre esto (como [éste](exl-live-episode-06-23-22.md)).
 
 <br> 
 
-**Pregunta:** Mostró los datos individuales de CRM como ciudad y clima, así que ¿dónde almacenamos la respuesta individual?
+**Comentario:** Llamada rápida para una de mis extensiones favoritas: hay una extensión de tabla de asignación en la que puede leer una tabla para un elemento de datos que dice &quot;si este valor es este, configúrelo como tal&quot;.
 
-**Respuesta:** Las respuestas se almacenan en cada evento único que almacena en déclencheur una regla dentro de una propiedad de reenvío de eventos y se utiliza solo en ese evento específico.
+**Respuesta:** La flexibilidad que ofrecen es bastante impresionante. Tenga en cuenta también que las empresas pueden crear sus propias extensiones privadas, así como si lo desean.
 
 <br> 
 
-Continúe la discusión sobre este tema en la [Discusión de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+**Pregunta:** Ha mostrado los datos individuales de CRM, como la ciudad y el tiempo, así que ¿dónde almacenamos la respuesta individual?
+
+**Respuesta:** Las respuestas se almacenan en cada evento único que almacena en déclencheur una regla dentro de una propiedad de reenvío de eventos y se utiliza únicamente en ese evento específico.
+
+<br> 
+
+Continúe la discusión sobre este tema en [discusión de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
 <br> 
 
 ## Sesiones adicionales de Experience League en directo de esta serie de recopilación de datos

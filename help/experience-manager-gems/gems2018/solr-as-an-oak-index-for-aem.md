@@ -1,6 +1,6 @@
 ---
-title: AEM Solr como un índice de Oak para la
-description: AEM Las funcionalidades de búsqueda de texto completo de Oak Lucene las proporcionan los índices de Oak Lucene de forma predeterminada. AEM Sin embargo, también puede descargar la indexación y la búsqueda en clústeres o servidores Solr a través de índices de Oak Solr. AEM En esta Sesión de Gem nos sumergimos en algunos escenarios prácticos de la vida real en los que el uso de Solr como un índice de Oak para la búsqueda tiene sentido en términos de rendimiento y características de indexación / búsqueda.
+title: Índice de Solr as a Oak AEM para la creación de informes de
+description: AEM Los índices Lucene de Oak sirven de forma predeterminada a las funcionalidades de búsqueda de texto completo. AEM Sin embargo, también puede descargar la indexación y la búsqueda en clústeres o servidores Solr a través de índices de Oak Solr. En esta Sesión de Gem nos sumergimos en algunos escenarios prácticos de la vida real en los que el uso de Solr como un índice de Oak AEM para la tiene sentido en términos de rendimiento y funciones de indexación / búsqueda.
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
@@ -9,13 +9,13 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# AEM Solr como un índice de Oak para la{#solr-as-an-oak-index-for-aem}
+# Índice de Solr as a Oak AEM para la creación de informes de{#solr-as-an-oak-index-for-aem}
 
-AEM Las funcionalidades de búsqueda de texto completo de son proporcionadas por [!DNL Oak Lucene] índices de forma predeterminada. AEM Sin embargo, también puede descargar la indexación y la búsqueda en [!DNL Solr] servidores/clústeres mediante [!DNL Oak Solr] índices. En esta sesión de Gem nos sumergimos en algunos escenarios prácticos de la vida real donde el uso de [!DNL Solr] AEM como un índice de Oak para la tiene sentido en términos de rendimiento y funciones de indexación/búsqueda.
+AEM Las capacidades de búsqueda de texto completo son proporcionadas por [!DNL Oak Lucene] índices de forma predeterminada. AEM Sin embargo, también puede descargar la indexación y la búsqueda en [!DNL Solr] servidores/clústeres a través de [!DNL Oak Solr] índices. En esta sesión de Gem nos sumergimos en algunos escenarios prácticos de la vida real en los que el uso de [!DNL Solr] como un índice de Oak AEM para la búsqueda tiene sentido en términos de rendimiento y funciones de indexación/búsqueda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23023/?quality=9)
 
@@ -35,8 +35,8 @@ Fecha: 18/07/2018
 
 >[!MORELIKETHIS]
 >
->* [Eventos de Adobe I/O: Déclencheur de Analytics](aem-analytics-triggers.md)
->* [AEM Desbloqueo De Recursos De Análisis Más Potentes Con La Versión 6.4 De](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [Eventos de Adobe I/O - Déclencheur de Analytics](aem-analytics-triggers.md)
+>* AEM [Desbloqueando Recursos De Análisis Más Potentes Con La Versión 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html) De.
 
 <!-- wrong link, needs to be replaced. removed for now:
 >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

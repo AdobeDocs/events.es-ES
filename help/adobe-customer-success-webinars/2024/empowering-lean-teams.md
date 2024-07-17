@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Fortalecer los equipos lean
 
@@ -42,7 +42,7 @@ Este seminario web analiza los desafíos a los que se enfrentan los equipos lean
 
 * Proceso creativo optimizado: Las bibliotecas de Creative Cloud permiten a los usuarios arrastrar y soltar recursos directamente en sus proyectos. Esto optimiza el proceso creativo y reduce el tiempo necesario para completar tareas, como agregar imágenes o aplicar colores o estilos de texto específicos.
 
-* Colaboración y actualizaciones en tiempo real: las bibliotecas de Creative Cloud facilitan la colaboración entre los integrantes del equipo al permitir a los usuarios compartir bibliotecas o recursos con otros. Esto garantiza que todos trabajen con el mismo conjunto de materiales y permite realizar actualizaciones en tiempo real. Cuando un miembro del equipo actualiza un recurso en una biblioteca compartida, el cambio está disponible automáticamente para todos los que accedan a él.
+* Collaboration y actualizaciones en tiempo real: las bibliotecas de Creative Cloud facilitan la colaboración entre los integrantes del equipo, ya que permiten a los usuarios compartir bibliotecas o recursos con otros. Esto garantiza que todos trabajen con el mismo conjunto de materiales y permite realizar actualizaciones en tiempo real. Cuando un miembro del equipo actualiza un recurso en una biblioteca compartida, el cambio está disponible automáticamente para todos los que accedan a él.
 
 * Control de versiones: las bibliotecas de Creative Cloud facilitan la administración de distintas versiones de los recursos. Esto reduce el riesgo de incoherencias con los recursos y garantiza que los integrantes del equipo siempre utilicen la versión más reciente.
 
@@ -58,7 +58,7 @@ Los desafíos a los que se enfrenta cuando trabaja con un equipo ligero incluyen
 
 * Administración del agotamiento y la carga de trabajo: con un equipo delgado, cada miembro del equipo a menudo termina usando varios sombreros, lo que conduce a mayores cargas de trabajo, alta presión y un mayor riesgo de agotamiento. Equilibrar la calidad de la vida laboral y personal se convierte en un desafío y puede afectar la moral y la productividad con el tiempo.
 
-* Colaboración y comunicación: La colaboración y la comunicación eficaces son esenciales para que los equipos lean funcionen de forma eficiente. Sin embargo, coordinar entre diferentes proyectos y garantizar que todos los miembros del equipo estén alineados puede ser difícil sin personal suficiente para administrar diferentes flujos de trabajo. Este desafío se agrava si el equipo se distribuye o trabaja de forma remota.
+* Collaboration y comunicación: La colaboración y la comunicación eficaces son esenciales para que los equipos lean funcionen de forma eficaz. Sin embargo, coordinar entre diferentes proyectos y garantizar que todos los miembros del equipo estén alineados puede ser difícil sin personal suficiente para administrar diferentes flujos de trabajo. Este desafío se agrava si el equipo se distribuye o trabaja de forma remota.
 
 * Estos desafíos se pueden superar mediante la racionalización de las tareas, el aumento de la eficacia, la mejora de la calidad de vida, la reducción de las lagunas de aptitudes y el aprovechamiento de las características clave del producto y las integraciones que ofrecen las soluciones de Adobe.
 

@@ -27,8 +27,9 @@ Prepárese para sumergirse en,
 
 * Acelerar el desarrollo de sitios web y reducir los costes de mantenimiento con los componentes principales de la administración de contenido web (WCM).
 * Demostración en directo que muestra cómo transformar un componente teaser en un componente de estilo tarjeta con varias variaciones de diseño
-* Prácticas recomendadas para optimizar los sistemas de estilos *Una demostración paso a paso de la implementación de los cambios de la IU de forma eficaz mediante la canalización front-end
+* Prácticas recomendadas para optimizar los sistemas de estilos
+*Una demostración paso a paso de la implementación de cambios en la IU de forma eficaz mediante la canalización front-end
 
-Puede acceder a las diapositivas de la presentación [aquí](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
+Puede tener acceso a las diapositivas de la presentación [aquí](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

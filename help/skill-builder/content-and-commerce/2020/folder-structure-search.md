@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -32,11 +32,11 @@ Aspectos básicos de la configuración y el uso de DAM.
 ## Recursos
 
 * [Guía del usuario de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configuración de la estructura de carpetas de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [Configuración de permisos de carpeta de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=es)
-* [Uso de colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Búsqueda de recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Obtenga resultados de búsqueda precisos con facetas de búsqueda dinámica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Configurando la estructura de carpetas de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Configurar permisos para carpetas de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=es)
+* [Use colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
+* [Buscar recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [Obtenga resultados de búsqueda precisos con las facetas de búsqueda dinámica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Sintaxis avanzada de búsqueda de texto completo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Grabaciones de series

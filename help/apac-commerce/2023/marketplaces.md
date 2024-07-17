@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # ¿Atrévete a crecer? Mercados de Mirakl como fuerza de crecimiento
 
-En la serie de seminarios web sobre comercio de APAC de septiembre, nos complace dar la bienvenida a los ponentes invitados, Cheryl Jones y Joael Pereira, que se unen a nosotros desde Mirakl, uno de los socios tecnológicos más importantes de Adobe. En esta sesión aprenderá a aprovechar los mercados para obtener ingresos incrementales, a la vez que ofrece una experiencia de cliente excepcional y la importancia de adaptarse a un mercado de consumo cada vez más exigente. Obtendrá la facilidad y simplicidad de integrar marketplaces en su tienda de Adobe Commerce con una demostración, y tendrá la oportunidad de hacer preguntas a nuestros ponentes en directo.
+En la serie de seminarios web de Commerce de APAC de septiembre, nos complace dar la bienvenida a los ponentes invitados, Cheryl Jones y Joael Pereira, que se nos unirán desde Mirakl, uno de los principales socios tecnológicos de Adobe. En esta sesión aprenderá a aprovechar los mercados para obtener ingresos incrementales, a la vez que ofrece una experiencia de cliente excepcional y la importancia de adaptarse a un mercado de consumo cada vez más exigente. Obtendrá la facilidad y simplicidad de integrar marketplaces en su tienda de Adobe Commerce con una demostración, y tendrá la oportunidad de hacer preguntas a nuestros ponentes en directo.
 
 Únase a nosotros para descubrir:
 

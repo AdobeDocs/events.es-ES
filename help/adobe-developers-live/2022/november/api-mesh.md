@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live, 22 de noviembre. Cómo crear experiencias de contenido y comercio mediante App Builder y API Mesh
-description: En esta sesión, aprenderá el flujo de desarrollador de extremo a extremo para crear una tienda de comercio impulsada por experiencias sin encabezado. Comience con AppBuilder API Mesh para agregar diferentes fuentes de contenido de Adobe Experience Manager y Commerce Aprenda a crear experiencias sin encabezado para mostrar productos enriquecidos con fragmentos de contenido de Adobe Experience Manager Utilice Micro Frontends para integrar un carro de compras en su aplicación
+title: Adobe Developers Live, 22 de noviembre. Creación de contenido y experiencias de Commerce con App Builder y API Mesh
+description: En esta sesión, aprenderá el flujo de desarrollador de extremo a extremo para crear una tienda de comercio impulsada por experiencias sin encabezado, empezando por AppBuilder API Mesh para acumular diferentes fuentes de contenido de Adobe Experience Manager y Commerce Obtenga información sobre cómo crear experiencias sin encabezado para mostrar productos enriquecidos con fragmentos de contenido de Adobe Experience Manager Utilice Micro Frontends para integrar un carro de compras en su aplicación
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 ---
 
-# Cómo crear experiencias de contenido y comercio mediante el App Builder y la API Mesh
+# Cómo crear contenido y experiencias de Commerce mediante App Builder y API Mesh
 
 En esta sesión, aprenderá el flujo de desarrollador de extremo a extremo que crea una tienda de comercio impulsada por una experiencia sin encabezado,
 
-* Empezando por AppBuilder API Mesh para acumular diferentes fuentes de contenido de Adobe Experience Manager &amp; Commerce
+* Empezando por AppBuilder API Mesh para acumular diferentes fuentes de contenido de Adobe Experience Manager y Commerce
 * Aprenda a crear experiencias sin encabezado que muestren productos enriquecidos con fragmentos de contenido de Adobe Experience Manager
 * Utilice Micro Frontends para integrar un carro de compras en su aplicación
 

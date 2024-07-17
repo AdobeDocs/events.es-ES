@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics Integration Essentials
-description: Aprenda a optimizar CJA para que funcione con otras soluciones de Adobe y superponga la capacidad de su organización para ejecutar la personalización basada en datos.
+description: Aprenda a optimizar CJA para trabajar con otras soluciones de Adobe y aumentar la capacidad de su organización para ejecutar Personalization impulsado por datos.
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Customer Journey Analytics Integration Essentials
 
-Aprenda a optimizar CJA para que funcione con otras soluciones de Adobe y superponga la capacidad de su organización para ejecutar la personalización basada en datos.
+Aprenda a optimizar CJA para trabajar con otras soluciones de Adobe y aumentar la capacidad de su organización para ejecutar Personalization impulsado por datos.
 
 * Información general sobre la funcionalidad de integración de CJA
 * Casos de uso de integración de Customer Journey Analytics

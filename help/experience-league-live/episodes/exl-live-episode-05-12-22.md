@@ -22,9 +22,9 @@ Las notificaciones push le ayudan a llegar a sus usuarios de aplicaciones móvil
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
-[Descargue iOS AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-ios)
+[Descargar iOS AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[Descargue la aplicación de ejemplo de Android](https://github.com/adobe/aepsdk-sample-app-android)
+[Descargar Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Para continuar la conversación sobre esta sesión, visite el [puesto de Experience League de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Para continuar la conversación sobre esta sesión, visite [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
 

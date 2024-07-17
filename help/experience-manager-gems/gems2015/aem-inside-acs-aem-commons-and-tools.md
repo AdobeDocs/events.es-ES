@@ -8,7 +8,7 @@ duration: 3249
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,19 +18,19 @@ AEM AEM AEM AEM En esta sesión, Justin Edelson, Evangelista Global para la dire
 
 * [!UICONTROL Reglas de vaciado de Dispatcher]
 * [!UICONTROL Generador de mapas del sitio]
-* [!UICONTROL AEM]
+* AEM [!UICONTROL Inactividad de la Fórmula de]
 * [!UICONTROL Listas genéricas]
-* [!UICONTROL Cloud Service de Typekit]
+* [!UICONTROL Cloud Service Typekit]
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)
 
-*Fecha de entrega: 26 de agosto de 2015*
+*Entregado el 26 de agosto de 2015*
 
 **Presentado por:**
 
 * AEM Justin Edelson, Evangelista de la, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/08262015-commons-and-tools.pptx)
 <!--

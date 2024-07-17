@@ -8,7 +8,7 @@ duration: 2907
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,13 +18,13 @@ AEM Descubra cómo administra DAM los metadatos de los recursos de la manera má
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*Publicado el 20 de noviembre de 2013*
+*Entregado el 20 de noviembre de 2013*
 
 **Presentado por:**
 
 Ugo Cei, Desarrollador, Director Técnico De Marketing, Adobe
 
-**Diapositivas del presentador**
+**Diapositivas del moderador**
 
 [Obtener archivo](assets/metadata-management-in-aem-dam.pdf)
 

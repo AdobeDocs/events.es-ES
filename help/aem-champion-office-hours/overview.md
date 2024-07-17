@@ -66,4 +66,4 @@ Si está interesado en avanzar en su conocimiento y uso de Adobe Experience Mana
 
 >[!TIP]
 >
->**Todas las sesiones grabadas se muestran en el panel de navegación de la izquierda**.
+>**Todas las sesiones grabadas se muestran en la sección de navegación de la izquierda**.
