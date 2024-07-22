@@ -2,9 +2,9 @@
 user-guide-title: Adobe Horario de oficina
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Horario de oficina es un enfoque proactivo para la desviación de casos que ofrece a los clientes seminarios web específicos de la solución.
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [Información general, trucos y sugerencias de depuración de la biblioteca JavaScript](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [Corregir contactos duplicados](2023/workfront-fix-duplicate-contacts.md)
+      + [Informes de aprobación de revisión](2023/workfront-proof-approval-reports.md)
+
+
