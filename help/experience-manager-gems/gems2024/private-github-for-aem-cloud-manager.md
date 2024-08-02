@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,6 @@ AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo 
 
 >[!NOTE]
 >
->* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web sobre Experience League, visite el [hilo contextual](tbd) correspondiente.
+>* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web sobre Experience League, visite el [hilo contextual](https://adobe.ly/4f1jhMo) correspondiente.
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
