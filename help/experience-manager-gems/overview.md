@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Próximo seminario web de GitHub de: integración de repositorios privados de GitHub en AEM Cloud Manager
+## AEM Próximo seminario web de GEMS de la: Integración de AEM Assets con Edge Delivery Services
 
-Este seminario web se llevará a cabo el miércoles, 31 de julio - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web; registre [aquí](https://adobe.ly/3LmXfGk).
+Este seminario web se llevará a cabo el miércoles, 21 de agosto - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web; registre [aquí](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ Este seminario web se llevará a cabo el miércoles, 31 de julio - 5 p. m CEST /
 
 -->
 
-## AEM Evento de GEM anterior de
+## AEM Seminario web de GEMS de la versión anterior
 
-AEM Nuestro último seminario web sobre la mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos **de GEMs en la fecha de *19 de junio de 2024*.**
+AEM Nuestro último seminario web sobre la integración de repositorios privados de GitHub en AEM Cloud Manager **de GitHub, organizado por el grupo de expertos de GEMS de la red social, se realizó el *31 de julio de 2024*.**
 La **grabación** se encuentra aquí:
-[Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+AEM [Integración de repositorios privados de GitHub en los administradores de nube de la](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

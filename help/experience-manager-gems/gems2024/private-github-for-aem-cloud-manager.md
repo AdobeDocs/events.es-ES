@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # Fecha del seminario web: 31 de julio de 2024
 
-Este seminario web se llevará a cabo el miércoles, 31 de julio - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web; registre [aquí](https://adobe.ly/3LmXfGk).
+Se ha completado este seminario web; consulte la grabación a continuación.
 
 ## Integración de repositorios privados de GitHub en AEM Cloud Manager
 
@@ -34,12 +35,14 @@ AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo 
 * Shankari Panchapakesan, director de producto principal, Adobe
 * Florin Stancu, Ingeniero de Desarrollo de Software, Adobe
 
-## Registro de seminario web
+## Grabación de seminario web
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Interacción de comunidad de seminario web
 
 >[!NOTE]
-> 
->* Este seminario web es gratuito, solo se requiere registro. Registre [aquí](https://adobe.ly/3LmXfGk).
 >
->* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web sobre Experience League, visite el [hilo contextual](https://adobe.ly/4f1jhMo) correspondiente.
+>* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web sobre Experience League, visite el [hilo contextual](tbd) correspondiente.
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
