@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Este seminario web se llevará a cabo el 21 de agosto de 2024 a las 17:00 CEST / 8:00 PDT / 20:30 IST.
 El seminario web es gratuito, solo se requiere registro.
-Para unirte, registra [aquí](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/).
+Para unirte, registra [aquí](https://adobe.ly/3LTT3hg).
 
 ## Integración de AEM Assets con Edge Delivery Services
 
@@ -34,5 +34,7 @@ AEM Durante este seminario web de GEMS de la, le mostraremos cómo puede utiliza
 ## Interacción de comunidad de seminario web
 
 >[!NOTE]
+>
+>* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite el [hilo contextual](https://adobe.ly/4aCz0OE) correspondiente.
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
