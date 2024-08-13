@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ AEM Bienvenidos a **GEMs**, nuestra serie de seminarios web sobre conocimientos 
 
 Los seminarios web se llevarán a cabo periódicamente, incluidos los siguientes:
 
-* Una duración máxima de 60 minutos
-* Preguntas y respuestas al final y chat con expertos disponibles durante todo el seminario web
+* Una duración máxima de 60 minutos por seminario web
+* &lt; 15 minutos de preguntas y respuestas al final y expertos en chat disponibles durante todo el seminario web
 * Grabación disponible después de cada seminario web
 * AEM Todos los seminarios web de GEMs son gratuitos y se llevan a cabo de manera virtual, solo se requiere el registro.
 
