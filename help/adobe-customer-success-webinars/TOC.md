@@ -2,9 +2,9 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 1%
    + [Asignación de casos de uso a funcionalidades de la solución](2024/use-case-mapping.md)
    + [Aspectos básicos de migración del SDK web](2024/web-sdk-migration.md)
    + [Integraciones de servicios de aplicaciones de AEP para casos de uso de clientes](2024/aep-apps-services-integrations.md)
-   + [Commerce &amp; Coffee: Estrategias para el comercio electrónico B2B](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure y Mochas: actividades y modelos personalizados](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Creación de las bases de Personalization a escala](2023/personalization-at-scale.md)
