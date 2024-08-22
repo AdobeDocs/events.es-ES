@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Próximo seminario web de GEMS de la: Integración de AEM Assets con Edge Delivery Services
+## AEM AEM Próximo seminario web de GEM de: ¿Qué novedades hay en los entornos de desarrollo rápido para los usuarios de la plataforma de desarrollo de?
 
-Este seminario web se llevará a cabo el miércoles, 21 de agosto - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web; registre [aquí](https://adobe.ly/3LTT3hg).
+Este seminario web se llevará a cabo el miércoles, 4 de septiembre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
+Si está interesado en unirse, regístrese [aquí](https://adobe.ly/3LTT3hg).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,9 +51,9 @@ Este seminario web se llevará a cabo el miércoles, 21 de agosto - 5 p. m CEST 
 
 ## AEM Seminario web de GEMS de la versión anterior
 
-AEM Nuestro último seminario web sobre la integración de repositorios privados de GitHub en AEM Cloud Manager **de GitHub, organizado por el grupo de expertos de GEMS de la red social, se realizó el *31 de julio de 2024*.**
+AEM Nuestro último seminario web sobre integración de AEM Assets con Edge Delivery Services **en GEMs de la fecha *se realizó el 21 de agosto de 2024*.**
 La **grabación** se encuentra aquí:
-AEM [Integración de repositorios privados de GitHub en los administradores de nube de la](gems2024/private-github-for-aem-cloud-manager.md)
+[Integración de AEM Assets con Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >

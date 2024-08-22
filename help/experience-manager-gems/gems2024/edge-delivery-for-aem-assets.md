@@ -9,18 +9,16 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # Fecha del seminario web: 21 de agosto de 2024
 
-Este seminario web se llevará a cabo el 21 de agosto de 2024 a las 17:00 CEST / 8:00 PDT / 20:30 IST.
-El seminario web es gratuito, solo se requiere registro.
-Para unirte, registra [aquí](https://adobe.ly/3LTT3hg).
+Se ha completado este seminario web; consulte la grabación a continuación.
 
 ## Integración de AEM Assets con Edge Delivery Services
 
@@ -31,8 +29,10 @@ AEM Durante este seminario web de GEMS de la, le mostraremos cómo puede utiliza
 * Satya Deep Maheshwari, Científico Principal, Adobe
 * Ashutosh Shroti, Científico Informático, Adobe
 
-## Interacción de comunidad de seminario web
+## Grabación de seminario web
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite el [hilo contextual](https://adobe.ly/4aCz0OE) correspondiente.
