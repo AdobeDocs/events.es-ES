@@ -2,9 +2,9 @@
 user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
-source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
+source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 + Agile {#agile}
    + [Agile en Marketing](user-groups/agile-in-marketing.md)
 + Informes y paneles {#reporting-and-dashboards}
-   + [Informes avanzados](user-groups/advanced-reporting.md)
    + [Agencias creativas: informes y paneles](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Medición de calidad y participación](webinars/gauging-quality-and-engagement.md)
    + [Introducción a los informes de modo de texto](webinars/introduction-to-text-mode-reporting.md)
