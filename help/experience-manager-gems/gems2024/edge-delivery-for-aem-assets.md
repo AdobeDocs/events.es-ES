@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ AEM Durante este seminario web de GEMS de la, le mostraremos cómo puede utiliza
 >
 >[!NOTE]
 >
->* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite el [hilo contextual](https://adobe.ly/4aCz0OE) correspondiente.
+>* Para obtener interacciones de la comunidad específicas de la sesión en el Experience League, visite el [hilo contextual](https://adobe.ly/3LSCVfX) correspondiente.
 >
 >* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
