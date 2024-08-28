@@ -2,9 +2,9 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 1%
    + [Fortalecer los equipos lean](2024/empowering-lean-teams.md)
    + [Expedia pasa de Adobe Analytics a Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Aspectos básicos de la tutela de administración de grupos y sistemas de Workfront](2024/workfront-admin-guardianship.md)
+   + [Introducción a Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Equipos lean y Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [Dominio de las cookies y privacidad de datos](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [Hiperpersonalización](2024/hyperpersonalization.md)
    + [Capacidades de Journey Optimizer Mobile](2024/journey-optimizer-mobile-capabilities.md)
+   + [Preparación para la migración a Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Liderazgo estratégico](2024/strategic-leadership.md)
    + [Asignación de casos de uso a funcionalidades de la solución](2024/use-case-mapping.md)
    + [Aspectos básicos de migración del SDK web](2024/web-sdk-migration.md)
