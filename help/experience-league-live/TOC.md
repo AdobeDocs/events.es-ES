@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '461'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Ep. 40: AI Bash: desbloqueo del poder del asistente de IA en aplicaciones y campañas de Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39: ¿Está listo para subir de nivel su aplicación de análisis móvil?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38: El verano en primer plano: tres funciones que debe probar en Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37: Cómo las últimas versiones de Adobe Real-Time CDP pueden mover la aguja para su empresa](episodes/exl-live-episode-06-26-24.md)
