@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## AEM AEM Próximo seminario web de GEM de: ¿Qué novedades hay en los entornos de desarrollo rápido para los usuarios de la plataforma de desarrollo de?
 
 Este seminario web se llevará a cabo el miércoles, 4 de septiembre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
-Si está interesado en unirse, regístrese [aquí](https://adobe.ly/3LTT3hg).
+Si está interesado en unirse, regístrese [aquí](https://adobe.ly/3yWr9OY).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
