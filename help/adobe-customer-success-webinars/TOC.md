@@ -2,9 +2,9 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 0%
    + [Planificación de casos de uso de AEP](2024/aep-use-case-planning.md)
    + [Redacción con tecnología de IA](2024/ai-copywriting.md)
    + [Priorización del flujo de datos](2024/data-stream-prioritization.md)
+   + [Edge Network y Personalization móvil](2024/edge-network-mobile-personalization.md)
    + [Gestión eficaz de cambios](2024/effective-change-management.md)
    + [Fortalecer los equipos lean](2024/empowering-lean-teams.md)
    + [Expedia pasa de Adobe Analytics a Customer Journey Analytics](2024/expedia-aa-to-cja.md)
