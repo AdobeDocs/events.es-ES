@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Próximo seminario web de GEMS de la: Desbloquear el poder de AEM Sites: Dominar las API de administración de contenido
+## AEM Próximo seminario web de GEMS de la: AEM Sites: Dominar las API de administración de contenido
 
 Este seminario web se llevará a cabo el miércoles, 9 de octubre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
 Si está interesado en unirse, regístrese [**aquí**](https://adobe.ly/4g6TYck).
