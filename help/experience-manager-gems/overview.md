@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM AEM Próximo seminario web de GEM de: ¿Qué novedades hay en los entornos de desarrollo rápido para los usuarios de la plataforma de desarrollo de?
+## AEM Próximo seminario web de GEMS de la: Desbloquear el poder de AEM Sites: Dominar las API de administración de contenido
 
-Este seminario web se llevará a cabo el miércoles, 4 de septiembre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
-Si está interesado en unirse, regístrese [aquí](https://adobe.ly/3yWr9OY).
+Este seminario web se llevará a cabo el miércoles, 9 de octubre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
+Si está interesado en unirse, regístrese [**aquí**](https://adobe.ly/4g6TYck).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ Si está interesado en unirse, regístrese [aquí](https://adobe.ly/3yWr9OY).
 
 ## AEM Seminario web de GEMS de la versión anterior
 
-AEM Nuestro último seminario web sobre integración de AEM Assets con Edge Delivery Services **en GEMs de la fecha *se realizó el 21 de agosto de 2024*.**
-La **grabación** se encuentra aquí:
-[Integración de AEM Assets con Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
+AEM AEM Nuestro último seminario web de GEMs de la sobre **¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo rápido para la creación de entornos de desarrollo para la creación de entornos de desarrollo de?** se realizó el *4 de septiembre de 2024*.
+La **grabación** estará disponible pronto...
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
