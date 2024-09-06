@@ -9,18 +9,18 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
+exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Fecha del seminario web: 4 de septiembre de 2024
 
-Este seminario web se celebrará el 4 de septiembre de 2024 a las 17:00 (CEST), las 8:00 (PDT) y las 20:30 (IST).
-El seminario web es gratuito, solo se requiere registro.
-Para unirte, registra [aquí](https://adobe.ly/4cwc5W4).
+Este seminario web se completó el 4 de septiembre de 2024 a las 17:00 (CEST)/8:00 (PDT)/20:30 (IST).
+Vea la grabación a continuación.
 
 ## AEM ¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo para la?
 
@@ -32,6 +32,10 @@ Los RDE permiten a los desarrolladores implementar y revisar cambios rápidament
 * Karl Pauls, experto informático sénior, Adobe
 * Remo Liechtenstein, ingeniero de desarrollo de software, Adobe
 * Julian Sedding, ingeniero de desarrollo de software, Adobe
+
+## Grabación de seminario web
+
+>[!VIDEO](https://video.tv.adobe.com/v/3433337/)
 
 ## Interacción de comunidad de seminario web
 
