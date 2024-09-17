@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/u_UEsl2Nw3M
 event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix
 duration: 25
-source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
+exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
+source-git-commit: 75b66226013b6f0600126a17fc0c15cb14cecbed
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -21,10 +22,8 @@ Explore cómo el asistente de IA transforma las interacciones con los clientes y
 
 [![ExL ACTIVO el 26 de septiembre de 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
 
-**[Establecer un recordatorio para el programa en YouTube](https://www.youtube.com/watch?v=J48CNmcV7wc){target="_blank"}**
+**[Registrarse ahora](https://engage.adobe.com/ExpLeagueLive-240926.html){target="_blank"}**
 
 **Mostrar detalles**:
 
-Las herramientas impulsadas por IA están transformando la forma en que interactuamos con los clientes y optimizamos los flujos de trabajo. Únase a nuestro programa en directo para Experience League con temas de IA para seguir el ritmo de la innovación y conocer cómo las capacidades de Adobe acelerarán su productividad. 
-
-
+Las herramientas impulsadas por IA están transformando la forma en que interactuamos con los clientes y optimizamos los flujos de trabajo. Únase a nuestro programa en directo para Experience League con temas de IA para seguir el ritmo de la innovación y conocer cómo las capacidades de Adobe acelerarán su productividad.
