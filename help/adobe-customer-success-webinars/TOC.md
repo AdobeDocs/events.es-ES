@@ -2,9 +2,9 @@
 user-guide-title: Adobe de seminarios web de éxito de clientes
 breadcrumb-title: Adobe de seminarios web de éxito de clientes
 user-guide-description: Adobe Seminarios web dirigidos al éxito del cliente y diseñados para permitirle optimizar su inversión en el Experience Cloud de Adobe. Obtenga información valiosa para maximizar el valor y aumentar la adopción de soluciones de Adobe.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Aspectos básicos de la tutela de administración de grupos y sistemas de Workfront](2024/workfront-admin-guardianship.md)
    + [Introducción a Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Introducción a Real-time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Aprovechamiento de la IA para la experiencia del cliente](2024/ai-customer-experience.md)
    + [Equipos lean y Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Dominio de las cookies y privacidad de datos](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
