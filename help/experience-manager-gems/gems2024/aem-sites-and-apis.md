@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
+exl-id: 0ab0c446-ca60-434d-b4b1-bf31d49dbedb
+source-git-commit: 45924639f31734623b37ced70e1800d114e96c41
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -33,8 +34,8 @@ Espere un buen contenido, demostraciones prácticas y comida para llevar procesa
 ## Presentadores
 
 * Mathias Siegel, director de producto principal, Adobe
-* Gilles Knobloch, Director de Ingeniería, Adobe
-* Andrea Miruna Moise, directora de ingeniería, Adobe
+* Catalina Dumitru, ingeniera de desarrollo de software, Adobe
+* Lénárd Palkó, ingeniero sénior de desarrollo de software, Adobe
 * Prashant Kumar Singh, Informático, Adobe
 
 ## Interacción de comunidad de seminario web
