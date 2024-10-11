@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM Sesiones de GEM de
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-## AEM Próximo seminario web de GEMS de la: AEM Sites: Dominar las API de administración de contenido
+## AEM Próximamente se anunciarán los seminarios web de GEM de la
 
-Este seminario web se llevará a cabo el miércoles, 9 de octubre - 5 p. m CEST / 8 a. m PDT / 8.30 p. m IST. Tenga en cuenta que solo se requiere el registro para este seminario web.
-Si está interesado en unirse, regístrese [**aquí**](https://adobe.ly/4g6TYck).
+Regístrese en el [grupo de usuarios ](https://aem-augs.adobe.com/) de Adobe AEM para recibir notificaciones.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Si está interesado en unirse, regístrese [**aquí**](https://adobe.ly/4g6TYck)
 
 ## AEM Seminario web de GEMS de la versión anterior
 
-AEM AEM Nuestro último seminario web de GEMs de la sobre **¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo rápido para la creación de entornos de desarrollo para la creación de entornos de desarrollo de?** se realizó el *4 de septiembre de 2024*.
+AEM Nuestro último seminario web de GEMS de la sobre **Desbloquear el poder de AEM Sites: dominar las API de administración de contenido** se realizó el *9 de octubre de 2024*.
 La **grabación** se puede ver aquí:
-AEM [¿Qué novedades hay en los entornos de desarrollo rápido para los entornos de desarrollo rápido para los entornos de desarrollo de los entornos de desarrollo de los entornos de desarrollo de los recursos](gems2024/rapid-development-environment-news.md)
+[Desbloquear el poder de AEM Sites: Domine las API de administración de contenido](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
