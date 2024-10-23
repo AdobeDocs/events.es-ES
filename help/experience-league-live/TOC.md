@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
+source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '481'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Ep. 42: Presentación de las tarjetas de contenido para Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41: Armonizar audiencias mediante la composición de audiencias federadas en Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40: AI Bash: desbloqueo del poder del asistente de IA en aplicaciones y campañas de Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39: ¿Está listo para subir de nivel su aplicación de análisis móvil?](episodes/exl-live-episode-09-18-24.md)
