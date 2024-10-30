@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 6%
 + 2024 {#2024}
    + [Madurez Parte 1 - Establecimiento de las bases](2024/maturity-part1-foundation.md)
    + [Madurez, parte 2: Optimización del uso de Marketo](2024/optimize-marketo-usage.md)
+   + [Vencimiento Parte 3 - Impulsar el crecimiento con información](2024/drive-growth-with-reporting.md)
    + [Éxito de nutrición de clientes potenciales](2024/lead-nurture-success.md)
    + [Nuevos paneles de Discover](2024/new-discover-dashboard.md)
    + [Grabación de paneles de atribución](2024/attribution-dashboard-recording.md)

@@ -2,10 +2,10 @@
 user-guide-title: Sesiones técnicas de Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Las sesiones técnicas de Experience Cloud son un enfoque proactivo de la desviación de casos que ofrece a los clientes seminarios web específicos para cada solución.
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 14%
 + [Sesiones técnicas de Experience Cloud](overview.md)
 + 2024 {#2024}
    + Plataforma de datos de contenido en tiempo real {#rtcdp-office-hours-2024}
+      + [Asistente de IA](2024/ai-assistant.md)
       + [Horarios de la plataforma de datos de contenido en tiempo real](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [Seguimiento de visitantes](2024/tracking-visitors.md)
