@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Impulse su productividad con el asistente de IA en Adobe Experience Platform
 
@@ -28,10 +28,10 @@ Un seminario web profundo, donde aprenderá a configurar, comenzar y explorar ca
 
 ## Agenda del seminario web
 
-Información general sobre el asistente de IA y IA.
-Ejemplos de indicaciones y una demostración de Rachel.
-Debate sobre la confianza y el uso de datos.
-Acceso al asistente de IA.
+* Información general sobre el asistente de IA y IA.
+* Ejemplos de peticiones de datos y una demostración.
+* Debate sobre la confianza y el uso de datos.
+* Acceso al asistente de IA.
 
 ## Puntos clave
 
