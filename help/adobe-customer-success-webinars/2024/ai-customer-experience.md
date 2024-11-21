@@ -1,6 +1,6 @@
 ---
 title: 'Perspectivas de RTCDP: aprovechamiento de la IA para la experiencia del cliente'
-description: Explore cómo Adobe Real-time Customer Data Platform (RTCDP) aborda los desafíos aprovechando la inteligencia artificial (IA) para proporcionar a los analistas de mercado capacidades mejoradas, crear modelos de tendencia predictiva y optimizar las experiencias de los clientes mediante perspectivas aceleradas.Puntos de debate clave:- Desafío, solución y ventajas de la inteligencia artificial aplicada al cliente- Arquitectura de alto nivel- Modelos de inteligencia artificial aplicada al cliente
+description: Descubra cómo Adobe Real-time Customer Data Platform (RTCDP) aprovecha la IA para mejorar las capacidades de los analistas de mercado, crear modelos de tendencia predictivos y optimizar las experiencias de los clientes mediante perspectivas aceleradas, que cubren temas clave como desafíos, soluciones, beneficios, arquitectura de alto nivel y modelos de IA de la inteligencia artificial aplicada al cliente.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2453
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-16269
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+exl-id: fe4c4ebb-9f3c-4dc3-8bc7-529296346404
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # RTCDP Insights: Cómo aprovechar la IA para la experiencia del cliente
 

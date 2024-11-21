@@ -1,6 +1,6 @@
 ---
 title: 'Navegación por el cambio: Seminario web para altos directivos sobre gestión eficaz del cambio'
-description: 'Profundice en los matices de la administración del cambio y proporcione perspectivas estratégicas para permitirle dirigir su organización a través de recorridos de transformación.Puntos de debate clave: aprenda a alinear los esfuerzos de cambio con las metas y objetivos generales de la organización Domine el arte de comunicar el cambio a varias partes interesadas Implementar una estrategia de habilitación y planificación eficientes Conozca estrategias proactivas para mitigar los riesgos y garantizar transiciones sin problemas'
+description: Explore los matices de la administración de cambios y proporcione perspectivas estratégicas para permitirle dirigir su organización a través de recorridos de transformación.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

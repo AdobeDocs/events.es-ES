@@ -1,6 +1,6 @@
 ---
 title: 'De la visión al valor: planificación de casos de uso en AEP'
-description: Aprenda a ofrecer experiencias de cliente impactantes definiendo una estrategia con objetivos claros y factores de éxito que 1) se alineen con los resultados empresariales y los KPI, 2) informen una hoja de ruta para la realización de valor alcanzable y 3) aprovechen de forma eficaz las capacidades de la solución de Adobe.
+description: Aprenda a ofrecer experiencias de cliente impactantes definiendo una estrategia con objetivos claros y factores de éxito que se alineen con los resultados y los KPI del negocio, informe una hoja de ruta para la realización de valor alcanzable y aproveche de forma eficaz las capacidades de la solución de Adobe.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # De la visión al valor: planificación de casos de uso de AEP
 

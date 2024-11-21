@@ -1,6 +1,6 @@
 ---
 title: Expedia y las principales marcas hacen evolucionar su organización de Adobe Analytics a Customer Journey Analytics
-description: explore la próxima evolución de los análisis, con Jake Winter, principal responsable de Adswerve, Erika Ulmer, directora sénior de gestión de productos de datos en Expedia, Ben Gaines, Director de gestión de productos en Adobe y Trevor Paulsen, Director de gestión de productos en Adobe, que compartirán su experiencia de primera mano en la mejora de la nivelación de sus organizaciones con Adobe Customer Journey Analytics. Analizaremos las últimas tendencias y las prácticas recomendadas de Analytics, así como los desafíos y oportunidades que conlleva aprovechar Customer Journey Analytics. Tanto si es un profesional del análisis como si es un líder empresarial que busca mejorar las capacidades de análisis de su organización, no se puede perder este seminario web.
+description: Únase a los líderes del sector de Adswerve, Expedia y Adobe para compartir perspectivas, tendencias y prácticas recomendadas para aprovechar Adobe Customer Journey Analytics y transformar el análisis de la organización en este seminario web al que debe asistir.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Analizaremos las últimas tendencias y las prácticas recomendadas de Analytics,
 
 
 ## Principales conclusiones
-
 
 * Obtenga una comprensión profunda de los datos, incluido el modelado de datos con grupos de campos y la comprensión de la identidad y el ámbito de evento.
 * Comunicar en exceso el propósito y los beneficios de Customer Journey Analytics (CJA) a las partes interesadas y proporcionar formación para que las personas puedan tomar decisiones basadas en datos.

@@ -1,6 +1,6 @@
 ---
 title: 'Real-Time CDP: Asignación de casos de uso a las capacidades de la solución'
-description: 'Este seminario web explora formas clave de explorar y priorizar casos de uso, asignarlos a funciones específicas de RTCDP y garantizar la alineación con los resultados y el valor empresariales. Puntos de debate clave: casos de uso que RT-CDP resuelve para los casos de uso priorizados y priorizando los específicos de los resultados empresariales. Alineación de las capacidades de RT-CDP con los casos de uso priorizados'
+description: Este seminario web explora formas clave de explorar y priorizar casos de uso, asignarlos a funciones específicas de Real-time CDP y garantizar la alineación con los resultados y el valor empresariales.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Este seminario web explora formas clave de explorar y priorizar casos de uso, as
 
 * Efectos en casos de uso como retargeting y personalización de medios pagados
 
-**Comparación de CDP en tiempo real con el Audience Manager DMP**
+**Comparación de Real-Time CDP con el Audience Manager de DMP**
 
 * Céntrese en la ingesta de datos, la administración de audiencias y las estructuras de salida de datos
 
