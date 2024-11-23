@@ -1,6 +1,6 @@
 ---
 title: Canales en línea frente a canales sin conexión
-description: Eche un vistazo más de cerca a la configuración estratégica de los canales y subcanales, a la descripción general instructiva de la administración de canales en línea y sin conexión, a cómo funcionan , a la sesión se muestran demostraciones en el producto y se revisan las prácticas recomendadas utilizadas por los expertos en atribución
+description: Únase a los asesores comerciales de automatización de marketing de Adobe, Kate Colbert y Elizabeth Lundberg, para una sesión exhaustiva de 90 minutos sobre la optimización de canales en línea y sin conexión con Marketo Measure Attribution, que incluye configuraciones estratégicas, prácticas recomendadas y preguntas y respuestas en directo.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,19 @@
 ---
 title: Actividades de Marketo Measure y Mochas y modelos personalizados
-description: Conozca estrategias para maximizar Adobe Marketo Measure con modelos de atribución personalizados y atribución de actividades. Únase a los expertos en Adobe Kate Colbert y James Leedom para ver cómo ajustan la ponderación de atribución, crean puntos de contacto a partir de actividades CRM y alinean los datos de ventas y marketing. Descubra ejemplos de la vida real y obtenga respuestas a sus preguntas en una sesión de preguntas y respuestas en directo.
+description: Únase a la asesora de negocios de Adobe Kate Colbert y al asesor técnico de clientes James Leedom para explorar estrategias destinadas a aprovechar los modelos de atribución personalizados y la atribución de actividades en Adobe Marketo Measure, mostrando ejemplos en la vida real y concluyendo con una sesión de preguntas y respuestas en directo.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure y Mochas: actividades y modelos personalizados
 

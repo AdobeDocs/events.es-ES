@@ -1,8 +1,8 @@
 ---
 title: Aprovechamiento de los campos PMCF para la escalabilidad
-description: En esta sección se analiza el uso de los campos personalizados de los miembros del programa (PMCF) en Marketo para la escalabilidad. La sesión abarca definiciones, propósitos, reglas y casos de uso para PMCF. Prácticas recomendadas para usar PMCF para cambiar datos, hacer referencia a información y realizar un seguimiento de datos de evento únicos como parámetros de UTM para seminarios web. En general, los PMCF son una herramienta valiosa para los especialistas en marketing que buscan administrar y escalar programas de marketing complejos en Marketo.
+description: Aprenda a aprovechar los campos personalizados de los miembros del programa (PMCF) en Marketo para la escalabilidad, incluidas las prácticas recomendadas para la administración de datos, la comunicación personalizada y la creación de informes precisos, como se explica en el vídeo en profundidad del campeón de Adobe Marketo Engage.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Aprovechamiento de los campos PMCF para la escalabilidad
 

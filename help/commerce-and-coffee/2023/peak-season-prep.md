@@ -1,6 +1,6 @@
 ---
 title: Preparación de temporada alta
-description: Corey Gelato profundiza en las mejores prácticas y estrategias de temporada alta, aprende a promocionar con éxito y eficacia tus bienes y/o servicios en tu(s) sitio(s) y mantente competitivo durante una temporada alta en cualquier época del año. Después de una demostración de funciones, que incluye ensayo y vista previa de contenido, promociones, reglas de precios de catálogo y carro de compras y mucho más, Corey responde a preguntas durante una sesión de preguntas y respuestas en directo.
+description: Únase a Corey Gelato para explorar las estrategias de temporada alta, incluidas las promociones, la puesta en escena de contenido y las reglas de precios, con demostraciones en directo y consejos de los expertos para ayudar a su sitio de comercio electrónico a seguir siendo competitivo durante todo el año.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

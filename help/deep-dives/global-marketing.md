@@ -1,6 +1,6 @@
 ---
 title: 'Desbloquear el marketing global con Marketo Engage: Adobe Champion Deep Dive, agosto de 2024'
-description: Su organización está preparada para aprovechar Marketo Engage para admitir varios idiomas, países, unidades de negocio o productos y desea iniciar esta transformación por el camino correcto. Únase a nosotros en August Deep Dive para obtener una guía completa sobre las complejidades del lanzamiento, el mantenimiento y la creación de informes sobre las iniciativas de marketing globales. Explicaremos cómo estructurar sus datos e instancias mediante espacios de trabajo y particiones, cómo cumplir con diversos requisitos legales en todo el mundo y cómo admitir sus campañas con segmentaciones, fragmentos de código, contenido dinámico y mucho más.
+description: Únase a August Deep Dive para desbloquear el marketing global con Marketo Engage, lo que abarca la estructuración de datos, el cumplimiento legal, la compatibilidad de campañas con segmentaciones, fragmentos de código, contenido dinámico y mucho más, con perspectivas sobre la optimización de espacios de trabajo y particiones para varias marcas e instancias.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Desbloquear el marketing global con Marketo Engage: Adobe Champion Deep Dive, agosto de 2024
 

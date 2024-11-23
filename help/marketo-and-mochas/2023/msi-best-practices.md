@@ -1,6 +1,6 @@
 ---
 title: Optimización y prácticas recomendadas de MSI
-description: ¿Ha oído hablar de Marketo Sales Insights o MSI? Tal vez usted tiene una licencia, pero no sabe lo que es o cómo utilizarla. En este seminario web, la propia asesora empresarial de automatización de marketing de Adobe, Cynthia Chang, y el asesor técnico de clientes de Marketo, James Leedom, analizan cómo garantizar el uso completo de la herramienta y las prácticas recomendadas para la implementación, el lanzamiento y mucho más.Cynthia y James profundizan en las funciones de MSI, incluidos los momentos interesantes y las mejores apuestas. Explican cómo se integra con Salesforce, la administración de licencias y las estrategias para optimizar la eficiencia operativa en todos los equipos de ventas y marketing. Concluimos con una sesión de preguntas y respuestas en directo de los asistentes.
+description: Libere todo el potencial de las perspectivas de ventas (MSI) de Marketo con Cynthia Chang y James Leedom a medida que profundizan en funciones clave, integración de Salesforce, administración de licencias y estrategias para impulsar la eficacia de ventas y marketing.
 solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
@@ -12,9 +12,9 @@ jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
 duration: 3615
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 ¿Ha oído hablar de Marketo Sales Insights o MSI? Tal vez usted tiene una licencia, pero no sabe lo que es o cómo utilizarla. En este seminario web, la propia asesora empresarial de automatización de marketing de Adobe, Cynthia Chang, y el asesor técnico de cliente de Marketo, James Leedom, analizan cómo garantizar el uso completo de la herramienta y las prácticas recomendadas para la implementación, el lanzamiento y mucho más.
 
-Cynthia y James se sumergen en las características de MSI, incluidos los momentos interesantes y las mejores apuestas. Explican cómo se integra con Salesforce, la administración de licencias y las estrategias para optimizar la eficiencia operativa en todos los equipos de ventas y marketing. Concluimos con una sesión de preguntas y respuestas en directo de los asistentes.
+Cynthia y James se sumergen en las características de MSI, incluidos los momentos interesantes y las mejores apuestas. En él se explica cómo se integra con Salesforce, la gestión de licencias y las estrategias para optimizar la eficacia operativa en todos los equipos de ventas y marketing. Concluimos con una sesión de preguntas y respuestas en directo de los asistentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)

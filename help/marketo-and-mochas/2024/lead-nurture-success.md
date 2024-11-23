@@ -1,6 +1,6 @@
 ---
 title: 'Marketo y Mochas: sentando las bases para el éxito de la nutrición del plomo'
-description: Únase a los asesores comerciales Cynthia Chang y Carly Gaver, que comparten perspectivas sobre cómo maximizar la nutrición de clientes potenciales en Adobe Marketo Engage. Gracias a la formación del posible cliente, los especialistas en marketing pueden comunicarse de forma coherente entre los canales, lo que reduce la brecha entre la interacción inicial y la compra. También exploraremos el tipo de programa de participación, que permite la distribución de contenido a audiencias con nombre en una programación definida. Los programas para Marketo Engage permiten a los especialistas en marketing crear campañas siempre activas, atrayendo a posibles clientes y clientes a través de contenido y experiencias personalizados. Carly también dirigirá una demostración en directo, que le guiará a través de la configuración de un programa de participación utilizando la plantilla de prácticas recomendadas de la biblioteca de programas de Marketo. Como siempre, también responderemos a sus preguntas en directo durante las preguntas y respuestas.
+description: Únase a las asesoras empresariales Cynthia Chang y Carly Gaver para aprender a maximizar la formación de posibles clientes en Adobe Marketo Engage, explorar los programas de participación para la distribución de contenido y ver una demostración en directo sobre la configuración de un programa de participación mediante la plantilla de prácticas recomendadas, con preguntas y respuestas en directo.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

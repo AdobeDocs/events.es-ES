@@ -1,6 +1,6 @@
 ---
 title: Ciclos de vida del posible cliente
-description: Descubra cómo un modelo del ciclo vital de los posibles clientes permite a las organizaciones interactuar con los posibles clientes y nutrirlos en función de su preparación para la compra. Marketo proporciona herramientas potentes, pero surgen fácilmente desafíos al heredar, refinar o diseñar un nuevo modelo. Únase a esta profunda inmersión para obtener consejos sobre el desarrollo estratégico del ciclo de vida del posible cliente, destacando los escollos comunes que se deben evitar, ¡directamente desde un Campeón!
+description: Aprenda a atraer y nutrir a los posibles clientes de forma eficaz con un modelo estratégico del ciclo vital de los posibles clientes en esta sesión de buceo profundo, que incluye consejos de un campeón de Marketo para evitar escollos comunes al heredar, refinar o diseñar un nuevo modelo.
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +9,9 @@ jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
 duration: 2916
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

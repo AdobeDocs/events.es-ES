@@ -1,6 +1,6 @@
 ---
 title: API
-description: aprenda a aprovechar la API de Marketo de Adobe, a formar conexiones de línea de base, a utilizar extensiones móviles de montaña y a hacer sus primeras llamadas a la API. Obtenga información sobre los webhooks y la API para saber qué herramienta se aplica mejor en su solución. Conozca las prácticas recomendadas de seguridad, incluida la minificación de los conjuntos de permisos. Integre con la nube, aproveche el almacenamiento y aproveche la potencia de la API masiva para tareas de importación y exportación.
+description: Únase a nosotros para desbloquear todo el potencial de la API de Marketo de Adobe, desde realizar sus primeras llamadas a la API hasta aprovechar la API masiva para tareas de importación y exportación, explorar webhooks frente a API y conocer las prácticas recomendadas para la seguridad de los datos y la integración en la nube, con un sinfín de posibilidades para revolucionar sus estrategias de marketing.
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -10,9 +10,9 @@ jira: KT-13773
 thumbnail: 3422479.jpeg
 exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
 duration: 3550
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---

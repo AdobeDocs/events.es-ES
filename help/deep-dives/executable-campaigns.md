@@ -1,6 +1,6 @@
 ---
 title: 'Campañas ejecutables: Descubra cómo los ejecutables pueden impulsar la eficacia y el impacto'
-description: La sesión está diseñada para administradores de Marketo y profesionales de las operaciones de campaña y se centra en entender e implementar campañas ejecutables para añadir valor a las campañas y programas, crear eficiencia e impulsar el crecimiento.
+description: Únase a Chris Willis, Courtny Edwards-Jones y Jane Musatova en esta inmersión en la categoría de campeones de Adobe para conocer cómo las campañas ejecutables en Marketo pueden agilizar los procesos, garantizar la precisión de los datos y automatizar flujos de trabajo complejos, con ejemplos prácticos y un enfoque en la minimización de errores y registros pendientes.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 

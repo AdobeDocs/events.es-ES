@@ -1,6 +1,6 @@
 ---
 title: 'Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage'
-description: Descubra la potencia de la API de REST de Marketo Engage, que le permite optimizar los flujos de trabajo de operaciones de marketing, reducir el trabajo manual y liberar tiempo para las actividades que generan ingresos. El uso de la API de REST le permitirá aprovechar las herramientas de automatización como Zapier para almacenar en déclencheur flujos de trabajo automatizados y lenguajes de programación como Python para realizar acciones de forma masiva. En este seminario web, aprenderá qué es la API de REST de Marketo Engage, cómo crear su primer usuario de API y cómo monitorizar el uso de la API entre distintos usuarios.- Entender cómo se puede utilizar la API de REST desde herramientas como Zapier y lenguajes de programación como Python.- Inspirarse en casos de uso reales de cómo la API de REST se puede utilizar para optimizar los flujos de trabajo de operaciones de marketing típicos, como la combinación de posibles clientes, la creación de programas de seguimiento de UTM y la extracción de datos de actividad.
+description: Libere el potencial de la API de REST de Marketo Engage para automatizar los flujos de trabajo de marketing, integrar herramientas como Zapier, aprovechar Python para acciones masivas y optimizar tareas como la combinación de posibles clientes, el seguimiento de UTM y la extracción de datos de actividad.
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,9 +9,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

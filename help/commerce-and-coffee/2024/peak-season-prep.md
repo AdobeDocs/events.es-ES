@@ -1,6 +1,6 @@
 ---
 title: Commerce & Coffee - Preparación para la temporada alta
-description: todo lo que necesita saber para preparar adecuadamente su sitio para una temporada alta en cualquier época del año. estrategias eficaces no sólo para seguir siendo competitivos, sino también por delante de la competencia. Aprenda a optimizar el rendimiento del sitio web, administrar el inventario y aumentar de forma proactiva la asistencia al cliente. Corey también explicará las prácticas recomendadas para planificar campañas de marketing eficaces que promuevan las conversiones, cumplir pedidos y analizar las campañas con análisis e informes después de la temporada alta.
+description: La sesión de Corey Gelato ofrece estrategias para que las empresas de comercio electrónico sobresalgan durante las temporadas pico optimizando el rendimiento del sitio web, administrando el inventario, mejorando la participación de los clientes con las herramientas de IA y aprovechando los análisis de postemporada para mejorar la retención y la lealtad.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee: Preparación para la temporada alta
 

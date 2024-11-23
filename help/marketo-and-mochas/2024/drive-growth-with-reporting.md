@@ -1,6 +1,6 @@
 ---
 title: 'Marketo y Mochas: impulsar el crecimiento con informes (madurez Pt 3)'
-description: Únase a las asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, para la parte 3 de nuestra serie de seminarios web sobre madurez de Marketo sobre cómo impulsar el crecimiento empresarial con las herramientas de creación de informes de Marketo. En nuestro seminario web final de la serie, analizamos cómo utilizar las funcionalidades de creación de informes de Marketo para ayudarle a madurar en su uso de Marketo. Empezaremos con sugerencias sobre cómo puede aprovechar las funciones nativas de Marketo y los informes para monitorizar el rendimiento de su instancia. A continuación, explicamos cómo navegar por los informes básicos y avanzados de Marketo para ofrecer métricas precisas e impactantes que mejoren el proceso de toma de decisiones y ayuden a lograr sus objetivos comerciales. No pierda esta oportunidad de maximizar el potencial de sus informes y análisis de marketing. Como siempre, respondemos a sus preguntas en directo durante la sesión de preguntas y respuestas.
+description: Únase a las asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, en la parte 3 de la serie de seminarios web Marketo Madurez, para explorar cómo aprovechar las herramientas de creación de informes de Marketo para impulsar el crecimiento empresarial, supervisar el rendimiento y ofrecer métricas impactantes con preguntas y respuestas en directo.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Marketo y Mochas: Impulso del crecimiento con creación de informes (madurez Pt 3)
 
