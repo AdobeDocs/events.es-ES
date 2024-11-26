@@ -2,9 +2,9 @@
 user-guide-title: Eventos de Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Colección de grabaciones del evento de contenido de Adobe Developer Live
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 4%
 # Eventos de Adobe Developers Live {#adobe-developers-live-recordings}
 
 + [Información general](overview.md)
++ 2024 {#2024}
+   + Noviembre de {#nov2024}
+      + [Introducción de IA y Personalization AEM en el sistema de gestión de datos de](2024/nov/ai-and-personalization.md)
+      + [Extension Manager para AEM Sites](2024/nov/extension-manager.md)
+      + [HTML con componentes web](2024/nov/html-and-web-components.md)
+      + [Organización de API de Commerce para implementaciones sin encabezado](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + Noviembre de {#nov2023}
       + [Presentación de apertura](2023/november/keynote.md)
@@ -53,7 +59,7 @@ ht-degree: 4%
       + [Implementaciones más rápidas](2023/may/workflows.md)
       + [AEM Chat de Fireside con líderes de productos de la](2023/may/fireside.md)
       + [Bloques de JavaScript](2023/may/javascript-blocks.md)
-      + [Integración perfecta de AEM Assets con las aplicaciones](2023/may/seamless-intergration.md)
+      + [Integración perfecta de AEM Assets con aplicaciones](2023/may/seamless-intergration.md)
       + [Comprender la API de GraphQL](2023/may/graphql.md)
       + [Editor universal](2023/may/universal-editor.md)
 + 2022 {#2022}
@@ -68,7 +74,7 @@ ht-degree: 4%
       + [Observaciones finales](2022/february/closing-remarks.md)
    + Noviembre - Sin encabezado {#nov2022}
       + [Información general](2022/november/overview.md)
-      + [Adobe Experience Manager como CMS sin encabezado](2022/november/headless-cms.md)
+      + [Adobe Experience Manager as a Headless CMS](2022/november/headless-cms.md)
       + [AEM sin encabezado Rockstar](2022/november/rockstar.md)
       + [Lleve la creación en contexto y sin encabezado a su aplicación Next.JS](2022/november/next-js.md)
       + [Cree Su Primera Aplicación De React](2022/november/react-app.md)
