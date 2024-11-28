@@ -2,9 +2,9 @@
 user-guide-title: Eventos de Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Colección de grabaciones del evento de contenido de Adobe Developer Live
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '911'
 ht-degree: 4%
 
 ---
@@ -15,10 +15,34 @@ ht-degree: 4%
 + [Información general](overview.md)
 + 2024 {#2024}
    + Noviembre de {#nov2024}
-      + [Introducción de IA y Personalization AEM en el sistema de gestión de datos de](2024/nov/ai-and-personalization.md)
-      + [Extension Manager para AEM Sites](2024/nov/extension-manager.md)
-      + [HTML con componentes web](2024/nov/html-and-web-components.md)
-      + [Organización de API de Commerce para implementaciones sin encabezado](2024/nov/commerce-api-headless.md)
+      + [Presentación](2024/nov/keynote.md)
+      + [AEM Cloud Service] {#aem-cloud-service}
+         + [AEM API y eventos de](2024/nov/apis-eventing.md)
+         + [Introducción de IA y Personalization AEM en el sistema de gestión de datos de](2024/nov/ai-and-personalization.md)
+         + [Configuración de CDN y WAF AEM en CS](2024/nov/cdn-waf-aemcs.md)
+         + [Botones mágicos y cómo crearlos](2024/nov/magic-buttons.md)
+         + [Entornos de desarrollo rápido](2024/nov/rapid-development-environments.md)
+      + [AEM Sites] {#aem-sites}
+         + [Un Recorrido real para los Edge Delivery Services](2024/nov/journey-to-edge-delivery-services.md)
+         + [Edge Delivery Services: Un Año, Seis Veces Mejor](2024/nov/edge-delivery-services.md)
+         + [Extension Manager para AEM Sites](2024/nov/extension-manager.md)
+         + [Cómo utiliza Adobe Experience Manager Sites GenAI](2024/nov/aem-sites-gen-ai.md)
+         + [HTML con componentes web](2024/nov/html-and-web-components.md)
+         + [Cuentos de 200 trincheras](2024/nov/tales-200-trenches.md)
+         + [AEM Editor universal, creación de y Edge Delivery Services](2024/nov/universal-editor-eds.md)
+      + [AEM Assets] {#aem-assets}
+         + [Modelo de migración de Assets](2024/nov/asset-migration-blueprint.md)
+         + [Prácticas recomendadas para la entrega con rendimiento](2024/nov/performant-delivery.md)
+         + [Uso de Dynamic Media con la API abierta](2024/nov/dynamic-media-open-api.md)
+      + [AEM Forms] {#aem-forms}
+         + [Forms en Edge](2024/nov/forms-on-the-edge.md)
+      + [Cloud Manager] {#cloud-manager}
+         + [Optimización de las DevOps con Cloud Manager](2024/nov/dev-ops-cloud-manager.md)
+      + [Adobe Commerce] {#commerce}
+         + [Adobe Commerce con el Starter Kit de integración](2024/nov/back-office-integrations.md)
+         + [Commerce con AEM Assets y GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
+         + [EDGE DELIVERY SERVICES y ADOBE COMMERCE](2024/nov/commerce-storefront-eds.md)
+         + [Organización de API de Commerce para implementaciones sin encabezado](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + Noviembre de {#nov2023}
       + [Presentación de apertura](2023/november/keynote.md)

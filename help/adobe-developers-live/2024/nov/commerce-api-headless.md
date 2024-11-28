@@ -1,6 +1,7 @@
 ---
 title: Organización de API de Commerce para implementaciones sin encabezado
 description: Descubra cómo Revanth Kumar, ingeniero de software en Adobe, utiliza API Mesh para integrar y administrar varias fuentes de datos para experiencias de comercio sin encabezado de alto rendimiento, con beneficios como seguridad mejorada, rendimiento y desarrollo simplificado.
+solution: Commerce
 feature: APIs, Headless
 topic: Commerce, Development, Headless
 role: Developer
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3304
 last-substantial-update: 2024-11-26T00:00:00Z
 jira: KT-16575
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d12d16c9-3696-48ac-9768-e87aad5191be
+source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Organización de API de Commerce para implementaciones sin encabezado
 
