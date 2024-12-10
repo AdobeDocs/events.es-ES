@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # El poder estratégico de la medición: convertir datos en acción
 
@@ -29,7 +29,7 @@ Conozca los elementos esenciales para crear una estrategia de medición integral
 * La participación regular de las partes interesadas para proporcionar sus aportaciones garantiza la familiaridad con los datos que se capturan.
 * Permitir que las partes interesadas se sientan seguras al realizar informes y tomar decisiones por su cuenta reduce las dudas.
 
-**Confianza
+**Confianza**
 
 * La confianza se genera a través de la participación proactiva, la transparencia, la gobernanza de los datos y el control de calidad.
 * La alineación de las partes interesadas y la participación en la planificación estratégica son cruciales.
@@ -52,4 +52,3 @@ Conozca los elementos esenciales para crear una estrategia de medición integral
 * Depuración de recursos para usuarios nuevos y personalidades que no sean de analista.
 * Realización de sesiones regulares de consejos rápidos y sesiones de intercambio de conocimientos.
 * Uso de boletines informativos y comunicaciones internas para compartir perspectivas y actualizaciones.
-
