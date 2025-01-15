@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 0de0ff84e6e29b9460cb02f8890a5fbce7c432d3
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 4%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 4%
    + [Certificación](certification.md)
    + [Email Nutrir](email-nurture.md)
    + [Campañas ejecutables](executable-campaigns.md)
+   + [Migración de IMS desempaquetada](ims-migration.md)
    + [Herencia de una instancia](inheriting-an-instance.md)
    + [Ciclos de vida del posible cliente](lead-lifecycles.md)
    + [Aprovechamiento de los campos PMCF para la escalabilidad](pmcf-fields.md)
