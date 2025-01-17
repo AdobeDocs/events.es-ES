@@ -4,10 +4,10 @@ description: Recopilación de grabaciones de eventos centrados en el uso de prod
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
 workflow-type: tm+mt
-source-wordcount: '1090'
-ht-degree: 3%
+source-wordcount: '1286'
+ht-degree: 2%
 
 ---
 
@@ -61,21 +61,31 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
 {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html
+  {title = Behind the Brew}
+  {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
-{cta  = View recordings}Commerce and Coffee>
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
 {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html
+  {title = Data Drip}
+  {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html 
   {title = Deep Dives}
   {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
-{cta  = View recordings}Deep Dives>
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
@@ -106,6 +116,11 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
   {description = Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
 {cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html
+  {title = Espressos and Experience Manager}  
+  {description = The Espressos & Experience Manager series, featuring Adobe experts, offers AEM (Sites & Assets) customers of all skill levels insights into common use cases, best practices, live demonstrations, and concludes with a Q&A session.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
@@ -117,20 +132,25 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
 {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html
-  {title = Skill Builders}  
+  {title = Skill Builder}  
   {description = Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png}
-{cta  = View recordings}Skill Builder>
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html
   {title = Skill Exchange}  
   {description = Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips &amp; tricks.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png}
-{cta  = View recordings}Marketo and Mochas>
+{cta  = View recordings}
+* https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html
+  {title = Wake up with Workfront}  
+  {description = The Wake Up with Workfront series showcases project management and workflow best practices for all skill levels, featuring actionable strategies, live demonstrations of Workfront's key features, and a concluding Q&A session.}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png}
+{cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html
   {title = Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
-{cta  = View recordings}Workfront>
+{cta  = View recordings}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -319,6 +339,29 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Behind the Brew">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" title="Detrás de la cerveza" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="Detrás de la cerveza"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" target="_blank" rel="referrer" title="Detrás de la cerveza">Detrás de la preparación</a>
+                    </p>
+                    <p class="is-size-6">Behind the Brew, la serie complementaria de Commerce &amp; Coffee, está diseñada para clientes con inclinaciones técnicas que buscan dominar las prácticas recomendadas de back-end, integraciones y funcionalidades avanzadas para mejorar sus experiencias de comercio electrónico.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce and Coffee">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -360,6 +403,29 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
                     <p class="is-size-6">Su destino como encargado y especialista en prácticas de marketing y técnicas de gestión de datos de clientes. Una tienda única para escuchar a sus compañeros, inspirarse y aprender sobre los desarrollos en martech.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=es" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data Drip">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" title="Goteo de datos" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="Goteo de datos"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" target="_blank" rel="referrer" title="Goteo de datos">Goteo de datos</a>
+                    </p>
+                    <p class="is-size-6">Únase a los expertos en Adobe de la serie Data Drip para explorar las últimas funciones y prácticas recomendadas de Adobe Analytics y Target, con demostraciones en directo que garantizan que los clientes maximicen el potencial del producto y sigan siendo competitivos.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
                 </a>
             </div>
@@ -526,6 +592,29 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Espressos and Experience Manager">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" title="Espressos y Experience Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png" alt="Espressos y Experience Manager"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" target="_blank" rel="referrer" title="Espressos y Experience Manager">Espressos y Experience Manager</a>
+                    </p>
+                    <p class="is-size-6">La serie Espressos &amp; Experience Manager, que incluye expertos en Adobe AEM, ofrece a los clientes de los sitios web (Sites &amp; Assets) información de todos los niveles de habilidad sobre casos de uso comunes, prácticas recomendadas, demostraciones en directo y concluye con una sesión de preguntas y respuestas.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Experience Cloud Tech Sessions">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -572,12 +661,12 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Skill Builders">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Skill Builder">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Generadores de habilidades" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="Generadores de habilidades"
+                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Generador de habilidades" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="Generador de habilidades"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -585,7 +674,7 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" title="Generadores de habilidades">Generadores de habilidades</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" title="Generador de habilidades">Generador de habilidades</a>
                     </p>
                     <p class="is-size-6">El Generador de habilidades es una serie de seminarios web diseñados para crear su base de conocimientos y maximizar su inversión en Adobe Experience Cloud.</p>
                 </div>
@@ -613,6 +702,29 @@ Manténgase informado sobre eventos exclusivos y seminarios web para ampliar su 
                     <p class="is-size-6">Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Wake up with Workfront">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" title="Despertar con Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png" alt="Despertar con Workfront"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" target="_blank" rel="referrer" title="Despertar con Workfront">Activar con Workfront</a>
+                    </p>
+                    <p class="is-size-6">La serie Wake Up with Workfront muestra las prácticas recomendadas de flujo de trabajo y administración de proyectos para todos los niveles de aptitud, con estrategias procesables, demostraciones en directo de las funciones clave de Workfront y una sesión de preguntas y respuestas final.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver grabaciones</span>
                 </a>
             </div>
