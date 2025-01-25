@@ -9,10 +9,10 @@ event-background-image: exl-event-behind-the-brew.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 5%
+source-wordcount: '37'
+ht-degree: 13%
 
 ---
 
@@ -21,4 +21,9 @@ ht-degree: 5%
 
 + [Información general](overview.md)
 + Detrás de la preparación {#behind-the-brew}
++ {#2025} de 2025
+   + [App Builder de Adobe Developer](2025/app-builder.md)
+   + [Adobe Commerce Intelligence (fka MBI)](2025/commerce-intelligence.md)
+   + [Una profundización en la búsqueda en directo](2025/deep-dive-live-search.md)
+   + [Optimizar la tienda de Commerce](2025/commerce-storefront.md)
 
