@@ -1,23 +1,23 @@
 ---
-title: Dominio de la lógica secuencial en Adobe Analytics y Customer Journey Analytics
-description: Domine la lógica secuencial y el análisis en Customer Journey Analytics (CJA) con aspectos básicos, ejemplos prácticos y aplicaciones empresariales, como se explica en la sesión de Andy Powers.
+title: 'Dominio de la lógica secuencial en Adobe Analytics y Customer Journey Analytics: Fundamentos'
+description: Domine la segmentación secuencial y los filtros en AA y CJA con aspectos básicos, ejemplos prácticos y aplicaciones empresariales, como se explica en la sesión de Andy Powers.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Dominio de la lógica secuencial en AA y CJA: Fundamentos
 
-Obtenga información básica sobre THEN y los operadores de lógica secuencial relacionados en Adobe Analytics y Customer Journey Analytics. La lógica secuencial permite el análisis de alto valor en Adobe Analytics y Customer Journey Analytics, pero está infrautilizada y a menudo se malinterpreta. Este seminario web sentará las bases de cómo se evalúan estos operadores en Analysis Workspace.
+Obtenga información básica sobre THEN y los operadores de lógica secuencial relacionados en Adobe Analytics (segmentos secuenciales) y Customer Journey Analytics (filtros secuenciales). La lógica secuencial permite el análisis de alto valor en Adobe Analytics y Customer Journey Analytics, pero está infrautilizada y a menudo se malinterpreta. Este seminario web sentará las bases de cómo se evalúan estos operadores en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
