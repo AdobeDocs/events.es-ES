@@ -2,9 +2,9 @@
 user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: AEM Obtenga información acerca de Gems de, una serie de conocimientos técnicos que ofrecen los expertos de Adobe Experience Manager.
 breadcrumb-title: AEM Eventos de GEMs de
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Eventos de GEMS de Experience Manager {#experience-manager-gems-recordings}
 
 + [Información general](overview.md)
++ {#gems2025} de 2025
+   + [Introducción a CDN administrada por Adobe](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Desbloquear el poder de AEM Sites: Domine las API de administración de contenido](gems2024/content-management-apis.md)
    + [AEM ¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo para la?](gems2024/rapid-development-environment-news.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 {#gems2018}
    + [Inmersión en Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform: El corazón de Experience Cloud](gems2018/aem-acp.md)
-   + [AEM Tiempo real y peso ligero: cree integraciones impulsadas por eventos con el uso de eventos de Adobe I/O de la forma más sencilla y con el uso de la.](gems2018/aem-adobe-io.md)
+   + [AEM Tiempo real y peso ligero: cree integraciones impulsadas por eventos con el uso de la tecnología de la interfaz de usuario de Adobe I/O Events](gems2018/aem-adobe-io.md)
    + [Eventos de Adobe Developer (IO): Déclencheur de Analytics](gems2018/aem-analytics-triggers.md)
    + [AEM Experimentos en la escalabilidad de autor de](gems2018/aem-author-scalability1.md)
    + [AEM componentes principales](gems2018/aem-core-components.md)
@@ -56,8 +58,8 @@ ht-degree: 1%
    + [AEM solución de problemas de consultas e índices de la (continuación)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPA Editor de](gems2018/aem-spa-editor.md)
    + [Índice de Solr as a Oak AEM para la creación de informes de](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA SDK de editor de análisis profundo - parte 1 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA Análisis profundo del SDK del editor de - parte 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [SPA Editor SDK deep dive - parte 1 - react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA Editor SDK deep dive - parte 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [AEM Uso de OSGi R7 en el](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [Lanzamiento del portal de marca principal e implementación de una nueva referencia para el uso compartido de recursos](gems2017/aem-brand-portal.md)
