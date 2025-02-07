@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 3%
+source-wordcount: '175'
+ht-degree: 4%
 
 ---
 
@@ -25,11 +25,16 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    ¡Vuelva a esta página pronto para ver más episodios de Experience League LIVE!
-    </br>
-    Elija los episodios anteriores del índice en la parte izquierda de esta página.
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience League LIVE 27 de febrero" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>Desbloquear información operativa con el Asistente de IA en Adobe Experience Platform</strong>
+      </a>
+      <br/><em>con Rudi Shumpert, Namita Krishnan y Huong Vu</em>
+      <br/><em>27 de febrero de 2025</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -70,7 +75,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
       <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Este es el camino...para migrar Analytics al SDK web</strong></a>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong>Este es el camino...para migrar Analytics a Web SDK</strong></a>
       <br/><em>con Mitch Rice, Joe Khoury y Doug Moore</em>
       <br/><em>16 de mayo de 2024</em>
     </div>
