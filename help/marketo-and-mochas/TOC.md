@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 72c55a817d1783da88dbb56027fde44debc1429f
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 5%
 # Marketo y Mochas {#marketo-and-mochas-recordings}
 
 + [Información general](overview.md)
++ {#2025} de 2025
+   + [5 funciones de Marketo que debe conocer](2025/5-features-to-know.md)
 + 2024 {#2024}
    + [Preguntarme Cualquier Cosa](2024/ask-me-anything.md)
    + [Madurez Parte 1 - Establecimiento de las bases](2024/maturity-part1-foundation.md)
