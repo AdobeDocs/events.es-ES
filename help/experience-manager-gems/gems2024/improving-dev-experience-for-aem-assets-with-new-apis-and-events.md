@@ -1,6 +1,6 @@
 ---
 title: Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos
-description: AEM Los desarrolladores de tendrán la oportunidad de explorar las recién introducidas API abiertas de Assets y los eventos de E/S nativos de la nube que ofrecemos. AEM Estos avances permiten la creación de extensiones de informes fuera de proceso de la aplicación de la aplicación de la. Durante esta sesión, demostraremos cómo implementar estas herramientas de manera efectiva. Esta demostración mostrará a los desarrolladores cómo pueden optimizar sus flujos de trabajo, mejorar su velocidad de desarrollo y reducir los esfuerzos de mantenimiento en curso. Además, profundizaremos en casos prácticos y prácticas recomendadas, proporcionando una comprensión completa de cómo se pueden aprovechar estas innovaciones para optimizar los procesos de desarrollo.
+description: Los desarrolladores de AEM pueden explorar nuevas API abiertas de Assets y eventos de E/S nativos de la nube para crear extensiones de AEM fuera de proceso, optimizar los flujos de trabajo, mejorar la velocidad de desarrollo y reducir el mantenimiento, con casos de uso prácticos y prácticas recomendadas demostradas.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
-source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Este seminario web se ha llevado a cabo el miércoles, 19 de junio - 17:00 CEST 
 
 ## Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos
 
-AEM Los desarrolladores de tendrán la oportunidad de explorar las recién introducidas API abiertas de Assets y los eventos de E/S nativos de la nube que ofrecemos. AEM Estos avances permiten la creación de extensiones de informes fuera de proceso de la aplicación de la aplicación de la. Durante esta sesión, demostraremos cómo implementar estas herramientas de manera efectiva. Esta demostración mostrará a los desarrolladores cómo pueden optimizar sus flujos de trabajo, mejorar su velocidad de desarrollo y reducir los esfuerzos de mantenimiento en curso. Además, profundizaremos en casos prácticos y prácticas recomendadas, proporcionando una comprensión completa de cómo se pueden aprovechar estas innovaciones para optimizar los procesos de desarrollo.
+Los desarrolladores de AEM tendrán la oportunidad de explorar las API abiertas de Assets y los eventos de E/S nativos de la nube que ofrecemos recientemente. Estos avances permiten crear extensiones de AEM fuera de proceso. Durante esta sesión, demostraremos cómo implementar estas herramientas de manera efectiva. Esta demostración mostrará a los desarrolladores cómo pueden optimizar sus flujos de trabajo, mejorar su velocidad de desarrollo y reducir los esfuerzos de mantenimiento en curso. Además, profundizaremos en casos prácticos y prácticas recomendadas, proporcionando una comprensión completa de cómo se pueden aprovechar estas innovaciones para optimizar los procesos de desarrollo.
 
 ## Presentadores
 
@@ -40,6 +40,6 @@ AEM Los desarrolladores de tendrán la oportunidad de explorar las recién intro
 
 >[!NOTE]
 > 
->* Para obtener interacciones de la comunidad específicas de la sesión en este seminario web sobre Experience League, visite el [hilo contextual](https://adobe.ly/3UQXwFO) correspondiente.
+>* Para obtener interacciones de la comunidad específicas de la sesión en este seminario web en Experience League, visite el [hilo contextual](https://adobe.ly/3UQXwFO) correspondiente.
 >
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
+>* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [el grupo de usuarios de AEM de Adobe](https://aem-augs.adobe.com/).

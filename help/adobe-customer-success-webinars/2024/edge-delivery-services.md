@@ -1,6 +1,6 @@
 ---
 title: 'Optimización de la entrega de contenido: desbloqueo de la potencia de los servicios de Edge'
-description: ATM Los Edge Delivery Services ATM de (EDS) mejoran las capacidades de los usuarios con servicios composibles, ciclos de desarrollo rápidos y puntuaciones altas en Lightthouse, compatibilidad con la creación basada en documentos y WYSIWYG, arquitectura sin servidor, creación rápida de sitios y amplias opciones de personalización.
+description: La sesión sobre Edge Delivery Services (EDS) abarcó su arquitectura, integración con la creación basada en documentos y en AEM, creación rápida de sitios, opciones de personalización y prácticas recomendadas para mantener un alto rendimiento.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # Optimización de la entrega de contenido: desbloqueo de la potencia de los servicios de Edge
 
-En esta sesión, ofreceremos una visión general de los Edge Delivery Services (EDS) y su arquitectura. AEM Profundizaremos en cómo EDS se integra con la creación basada en documentos y en la creación basada en la a través del editor universal. Una demostración en vivo mostrará EDS en acción, seguido de recursos para una exploración más profunda y una sesión de preguntas y respuestas.
+En esta sesión, proporcionaremos una descripción general de Edge Delivery Services (EDS) y su arquitectura. Profundizaremos en cómo EDS se integra con la creación basada en documentos y en AEM a través del editor universal. Una demostración en vivo mostrará EDS en acción, seguido de recursos para una exploración más profunda y una sesión de preguntas y respuestas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -27,13 +27,13 @@ En esta sesión, ofreceremos una visión general de los Edge Delivery Services (
 
 ### Introducción a EDS
 
-* ATM EDS es un conjunto de servicios componibles diseñados para mejorar las capacidades de los usuarios de la industria de la construcción de la industria de la construcción en el sector de la construcción de.
+* EDS es un conjunto de servicios componibles diseñados para mejorar las capacidades de ATM.
 * Su objetivo es ofrecer experiencias excepcionales que impulsen la participación y las conversiones con ciclos de desarrollo rápidos y una puntuación de faro del 100 %. palo de golf
 
 ### Opciones de creación
 
-* **Creación basada en documentos** Utiliza herramientas conocidas como Microsoft Word o Google Docs para la creación de contenido, lo que permite la creación rápida de contenido sin necesidad de mucha formación. palo de golf
-* **Editor universal** Proporciona una interfaz de WYSIWYG ATM similar a los sitios tradicionales de la web, lo que permite crear contenido visual y más detallado. palo de golf
+* **Creación basada en documentos** Utiliza herramientas conocidas como Microsoft Word o Google Docs para la creación de contenido, lo que permite crear contenido rápidamente sin necesidad de mucha formación. palo de golf
+* **Editor universal** Proporciona una interfaz de WYSIWYG similar a los sitios tradicionales de ATM, lo que permite crear contenido visual y más detallado. palo de golf
 
 ### Arquitectura
 
@@ -65,4 +65,4 @@ En esta sesión, ofreceremos una visión general de los Edge Delivery Services (
 ### Soporte y documentación
 
 * Hay disponible documentación completa para guiar a los usuarios a través del proceso de configuración y personalización. palo de golf
-* Se recomienda a los usuarios que se pongan en contacto con el servicio de asistencia en Adobe si hay problemas sin resolver. palo de golf
+* Se recomienda a los usuarios que se pongan en contacto con el servicio de asistencia de Adobe en caso de problemas sin resolver. palo de golf

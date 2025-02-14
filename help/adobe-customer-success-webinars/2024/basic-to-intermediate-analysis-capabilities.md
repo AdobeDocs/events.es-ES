@@ -1,6 +1,6 @@
 ---
 title: Inicio rápido de Adobe Analytics y CJA para las funciones de análisis básico a intermedio
-description: La sesión "Inicio rápido para las capacidades básicas de análisis intermedio", dirigida por la Dra. Kirsten Schaffer, abarcó la configuración de capacidades analíticas sólidas, la gobernanza y las rutas de análisis, la comparación de Adobe Analytics y Customer Journey Analytics, el análisis de tipos y el énfasis en la importancia de una única fuente fiable para la creación de informes de datos.
+description: En la sesión se trató la configuración de funcionalidades analíticas, comparación de Adobe Analytics y Customer Journey Analytics, y funciones clave para los informes de marketing.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics y CJA: Inicio rápido para las funciones de análisis básico a intermedio
 
@@ -29,18 +29,18 @@ Obtenga información sobre cómo empezar rápidamente con Adobe Analytics y Cust
    * La sesión se está grabando y el vínculo a la grabación se enviará a todos los asistentes registrados.
 
 * **Introducción a los oradores**
-   * Frederick, director de éxito de clientes sénior de Adobe, presentó la sesión.
-   * La Dra. Kirsten Schaffer, directora de éxito de clientes en Adobe, es la presentadora.
+   * Frederick, director de éxito del cliente sénior de Adobe, presentó la sesión.
+   * La Dra. Kirsten Schaffer, directora de Éxito del Cliente en Adobe, es la presentadora.
 
 * **Contenido de la sesión**
    * La sesión cubre la configuración de una organización para funcionalidades analíticas sólidas, aspectos de gobernanza y rutas de ejecución para análisis y Customer recorrido Analytics.
-   * Debate sobre cuándo utilizar diferentes soluciones de Adobe y recomendaciones de Adobe para obtener perspectivas digitales.
+   * Debate sobre cuándo utilizar diferentes soluciones de Adobe y las recomendaciones de Adobe para obtener perspectivas digitales.
 
 * **Temas clave tratados**
    * **Fuerzas externas e internas** que afectan el análisis digital, incluidos los cambios de mercado, la privacidad y la gobernanza, la democracia de datos y la complejidad de los datos.
    * **Creación de una base analítica sólida** Estrategia de medición, recopilación de datos, perspectiva y análisis, aprendizaje y administración de datos.
    * **Configuración de un equipo de análisis digital** Funciones y responsabilidades, creación de un equipo híbrido y administración eficaz de las solicitudes de análisis.
-   * **Opciones de habilitación de Adobes** Experience League, cursos a solicitud, clases basadas en instructores, soporte comunitario.
+   * **Opciones de habilitación de Adobe** Experience League, cursos a petición, clases basadas en instructores, soporte de la comunidad.
 
 * **Comparación entre Adobe Analytics y Customer Journey Analytics (CGA)**
    * Adobe Analytics es fundamental para el análisis digital.
@@ -61,5 +61,5 @@ Obtenga información sobre cómo empezar rápidamente con Adobe Analytics y Cust
 * **Aspectos destacados de preguntas y respuestas**
    * Explicación de componentes y esquemas de datos estáticos.
    * Descripción de los datos sin conexión.
-   * Recommendations para migrar de Adobe Analytics a CGA.
+   * Recomendaciones para migrar de Adobe Analytics a CGA.
    * Importancia de definir una única fuente fiable para los informes de datos.

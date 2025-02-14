@@ -1,6 +1,6 @@
 ---
 title: Integración de repositorios privados de GitHub en AEM Cloud Manager
-description: AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo partido a la adición de su propio repositorio privado de GitHub en Cloud Manager. Empezaremos con la incorporación del repositorio, que ahora le permitirá vincular directamente el repositorio de GitHub a sus canalizaciones de Cloud Manager, lo que elimina la necesidad de sincronizar de forma coherente su código con el repositorio de Adobe. A continuación, queremos mostrar cómo esta función le permite desplazarse a la izquierda en el proceso de prueba, lo que permite comprobar la calidad del código de Cloud Manager en el nivel de solicitud de extracción antes de combinar el código. AEM De este modo, como desarrollador de la, podría identificar los problemas que habrían fallado en la compilación de Cloud Manager antes en el ciclo de desarrollo.
+description: El seminario web de AEM GEM mostrará cómo añadir un repositorio de GitHub privado en Cloud Manager, vincularlo directamente a las canalizaciones y realizar pruebas de desplazamiento a la izquierda para identificar problemas en el nivel de solicitud de extracción antes de combinar código.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ Se ha completado este seminario web; consulte la grabación a continuación.
 
 ## Integración de repositorios privados de GitHub en AEM Cloud Manager
 
-AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo partido a la adición de su propio repositorio privado de GitHub en Cloud Manager. Empezaremos con la incorporación del repositorio, que ahora le permitirá vincular directamente el repositorio de GitHub a sus canalizaciones de Cloud Manager, lo que elimina la necesidad de sincronizar de forma coherente su código con el repositorio de Adobe. A continuación, queremos mostrar cómo esta función le permite desplazarse a la izquierda en el proceso de prueba, lo que permite comprobar la calidad del código de Cloud Manager en el nivel de solicitud de extracción antes de combinar el código. AEM De este modo, como desarrollador de la, podría identificar los problemas que habrían fallado en la compilación de Cloud Manager antes en el ciclo de desarrollo.
+Durante este seminario web de GEMS de AEM, le mostraremos cómo puede sacar el máximo partido a la adición de su propio repositorio privado de GitHub en Cloud Manager. Empezaremos con la incorporación del repositorio, que ahora le permitirá vincular directamente el repositorio de GitHub a sus canalizaciones de Cloud Manager, lo que elimina la necesidad de sincronizar de forma coherente su código con el repositorio de Adobe. A continuación, queremos mostrar cómo esta función le permite desplazarse a la izquierda en el proceso de prueba, lo que permite comprobar la calidad del código de Cloud Manager en el nivel de solicitud de extracción antes de combinar el código. De este modo, como desarrollador de AEM, podría identificar los problemas que habrían fallado en la compilación de Cloud Manager antes en el ciclo de desarrollo.
 
 ## Presentadores
 
-* Dragos Calin, Ingeniero de Desarrollo de Software, Adobe
+* Dragos Calin, ingeniero de desarrollo de software, Adobe
 
 ## Expertos de chat
 
 * Dan Balescu, Director Sénior De Ingeniería, Adobe
-* Shankari Panchapakesan, director de producto principal, Adobe
-* Florin Stancu, Ingeniero de Desarrollo de Software, Adobe
+* Shankari Panchapakesan, Director de producto principal, Adobe
+* Florin Stancu, ingeniero de desarrollo de software, Adobe
 
 ## Grabación de seminario web
 
@@ -43,6 +43,6 @@ AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo 
 
 >[!NOTE]
 >
->* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web sobre Experience League, visite el [hilo contextual](https://adobe.ly/4f1jhMo) correspondiente.
+>* Para interacciones de comunidades específicas de temas o seminarios web sobre este seminario web en Experience League, visite el [hilo contextual](https://adobe.ly/4f1jhMo) correspondiente.
 >
->* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [Adobe AEM&#39;s User Group](https://aem-augs.adobe.com/).
+>* Para recibir notificaciones sobre nuestros próximos seminarios web, regístrese en [el grupo de usuarios de AEM de Adobe](https://aem-augs.adobe.com/).

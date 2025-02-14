@@ -1,6 +1,6 @@
 ---
-title: AEM AEM Introducción a la creación de conceptos y capacidades clave para la creación de
-description: AEM Descubra cómo ofrece un entorno de creación sólido y flexible que admite varias metodologías de creación de contenido, desde páginas web tradicionales hasta configuraciones de CMS sin encabezado.Puntos de debate clave:Creación, incluido el editor universalFragmentos de contenidoFunciones de colaboración
+title: Conceptos básicos de AEM Introducción a la creación de AEM Conceptos y funciones clave
+description: La sesión de Conceptos básicos de creación de AEM abarcó conceptos clave, el modelo de entorno dual, los desafíos de creación de contenido, las herramientas de creación, las funciones de colaboración y traducción, y los servicios de entrega de Edge.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '315'
 ht-degree: 1%
 
 ---
 
+# Conceptos básicos de AEM Introducción a la creación de AEM Conceptos y funciones clave
 
-# AEM AEM Introducción a la creación de conceptos y capacidades clave para la creación de
-
-AEM Descubra cómo ofrece un entorno de creación sólido y flexible que admite diversas metodologías de creación de contenido, desde páginas web tradicionales hasta configuraciones de CMS sin encabezado.
+Descubra cómo AEM ofrece un entorno de creación sólido y flexible que admite varias metodologías de creación de contenido, desde páginas web tradicionales hasta configuraciones de CMS sin encabezado.
 
 ## Puntos clave de debate
 
@@ -31,13 +31,13 @@ AEM Descubra cómo ofrece un entorno de creación sólido y flexible que admite 
 
 ## Puntos clave
 
-### AEM Conceptos básicos de creación de
+### Conceptos básicos de creación de AEM
 
-En la sesión se ofreció una introducción a los conceptos básicos de la creación de Adobe Experience Manager AEM (), incluidos los conceptos y las capacidades clave.
+En la sesión se ofreció una introducción a los conceptos básicos de la creación de Adobe Experience Manager (AEM), incluidos los conceptos y las capacidades clave.
 
-### AEM Modelo de creación de
+### Modelo de creación de AEM
 
-AEM Comprender el modelo de entorno dual de la, que incluye el entorno de creación (para crear, editar y revisar contenido) y el entorno de publicación (donde el contenido se publica y se hace accesible para los usuarios finales).
+Comprender el modelo de entorno dual de AEM, que incluye el entorno de creación (para crear, editar y revisar contenido) y el entorno de publicación (donde el contenido se publica y se hace accesible para los usuarios finales).
 
 ### Retos de creación de contenido
 
@@ -45,21 +45,21 @@ Reconocimiento de los desafíos para escalar la generación de contenido, como l
 
 ### Funciones de creación
 
-AEM Información general sobre las distintas herramientas de creación dentro de la,
+Información general sobre las distintas herramientas de creación de AEM,
 
 * **Editor de páginas**: editor tradicional de WYSIWYG para crear y editar páginas web. palo de golf
 * **Editor de fragmentos de contenido** para crear contenido sin encabezado que se pueda reutilizar en diferentes canales. palo de golf
-* AEM **Editor universal**: Una interfaz de usuario moderna para la creación de contenido que admite contenido de la red y contenido externo instrumentado correctamente, tanto para contenido de la red como para contenido de la red. palo de golf
-* **Creación basada en documentos** Permite la creación de contenido mediante herramientas conocidas, como Microsoft Word o Google AEM Docs, integradas con flujos de trabajo de. palo de golf
+* **Editor universal**: Una interfaz de usuario moderna para la creación de contenido que admite contenido de AEM y contenido externo correctamente instrumentado. palo de golf
+* **Creación basada en documentos** Permite la creación de contenido mediante herramientas conocidas como Microsoft Word o Google Docs, integradas con flujos de trabajo de AEM. palo de golf
 
 ### Funciones de colaboración
 
-AEM Entre las capacidades de colaboración que se han puesto en marcha se incluyen las revisiones simultáneas, las revisiones en línea, la administración de proyectos y flujos de trabajo, y la delegación de tareas para racionalizar los procesos de creación y revisión de contenido.
+Las funciones de colaboración de AEM incluyen revisiones simultáneas, revisiones en línea, administración de proyectos y flujos de trabajo, y delegación de tareas para optimizar los procesos de creación y revisión de contenido.
 
 ### Capacidades de traducción
 
-AEM La administración de contenido multilingüe se admite a través de flujos de trabajo de traducción, copias de idioma, herramientas de localización y el administrador de varios sitios para administrar varios sitios e idiomas.
+AEM admite la administración de contenido multilingüe mediante flujos de trabajo de traducción, copias de idioma, herramientas de localización y el administrador de varios sitios para administrar varios sitios e idiomas.
 
 ### Edge Delivery Services
 
-AEM Mención de los servicios de envío de Edge como parte de Cloud de la, que mejora el proceso de creación y publicación de contenido.
+Mención de los servicios de envío de Edge como parte de AEM Cloud, que mejora el proceso de creación y publicación de contenido.

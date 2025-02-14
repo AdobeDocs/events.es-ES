@@ -1,6 +1,6 @@
 ---
 title: 'Eficiencias de AEM Sites: optimización del rendimiento, configuración y solución de problemas'
-description: Esta sesión cubre habilidades esenciales de solución de problemas para Adobe Experience Manager AEM () Sites, centrándose en soluciones prácticas y prácticas para problemas de rendimiento, configuraciones complejas y permisos de usuario.
+description: El seminario web sobre la eficiencia del sitio de AMP abarcó la optimización del rendimiento, la configuración de Dispatcher, las prácticas recomendadas de administración de derechos y las estrategias para abordar los problemas de rendimiento.
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Eficiencias de AEM Sites: optimización del rendimiento, configuración y solución de problemas
 
-En este seminario web, profundizaremos en los aspectos básicos de la solución de problemas de Adobe Experience Manager AEM () Sites. AEM Tanto si tiene problemas de rendimiento como si tiene que lidiar con configuraciones complejas, esta sesión le proporcionará habilidades prácticas para mantener y optimizar su entorno de. Priorizaremos las demostraciones en directo sobre las diapositivas, ofreciendo una experiencia práctica para abordar los desafíos del mundo real&#x200B;
+En este seminario web, profundizaremos en los aspectos básicos de la solución de problemas de sitios de Adobe Experience Manager (AEM). Tanto si tiene problemas de rendimiento como si tiene que lidiar con configuraciones complejas, esta sesión le proporcionará habilidades prácticas para mantener y optimizar su entorno AEM. Priorizaremos las demostraciones en directo sobre las diapositivas, ofreciendo una experiencia práctica para abordar los desafíos del mundo real&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 

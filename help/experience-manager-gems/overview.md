@@ -1,6 +1,6 @@
 ---
-title: AEM Sesiones de GEM de
-description: AEM Esta es la página de aterrizaje para GEMs de la, que incluye información sobre la serie de seminarios web e información de registro, seminarios web anteriores y futuros
+title: Sesiones de GEM de AEM
+description: Esta es la página de aterrizaje de AEM GEM que incluye información sobre la serie de seminarios web e información de registro, seminarios web anteriores y futuros
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -9,12 +9,12 @@ feature-set: Experience Manager
 feature: Release Information
 level: Intermediate
 type: Event
-user-guide-description: AEM Sesiones de GEM de
+user-guide-description: Sesiones de GEM de AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -23,14 +23,14 @@ ht-degree: 0%
 
 <img alt="Experiencias digitales" src="./assets/ADX_Gems.png"/>
 
-AEM Bienvenido a **GEMs**, una serie de seminarios web de Adobe Experience Manager centrada en conocimientos técnicos de productos impartidos por expertos en Adobe AEM de la comunidad de la que se ha encargado el. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager AEM, lo que permite a los desarrolladores ponerse en contacto y profundizar en varios temas relacionados con la creación de informes de productos de Adobe.
+Bienvenido a **GEM de AEM**: una serie de seminarios web de Adobe Experience Manager centrada en conocimientos técnicos de productos ofrecidos por expertos en AEM de Adobe. Esta serie es un complemento de la documentación del producto y de todos los demás canales técnicos relacionados con Adobe Experience Manager, lo que permite a los desarrolladores ponerse en contacto y profundizar en varios temas relacionados con AEM.
 
 Los seminarios web se celebran periódicamente.  Sugerencias importantes,
 
-* AEM Todos los GEMs de Git son GRATIS
+* Todas las GEMS de AEM son GRATIS
 * Se requiere registro
 * Si se pierde una sesión, vuelva aquí para ver la grabación
-* AEM Los GEM suelen durar una hora y tienen 15 minutos de preguntas y respuestas
+* Las GEM de AEM suelen durar una hora y tienen 15 minutos de preguntas y respuestas
 
 ## 2025
 
@@ -45,8 +45,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEMs: Introducción a CDN administrado por Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1738357042293" alt="AEM GEMs: Introducción a CDN administrado por Adobe"
+                    <a href="gems2025/getting-started-adobe-managed-cdn.md" title="GEM de AEM: Introducción a CDN administrada por Adobe" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="GEM de AEM: Introducción a CDN administrada por Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,9 +54,9 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        AEM <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" title="AEM GEMs: Introducción a CDN administrado por Adobe">GEMs de: introducción a CDN administrada por Adobe</a>
+                        <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" title="GEM de AEM: Introducción a CDN administrada por Adobe">GEM de AEM: Introducción a CDN administrada por Adobe</a>
                     </p>
-                    <p class="is-size-6">Aprenda a configurar la CDN administrada por Adobe en AEM Cloud Service para mejorar el rendimiento y la seguridad con las nuevas funciones de configuración de CDN.</p>
+                    <p class="is-size-6">Obtenga información sobre cómo configurar la CDN administrada por Adobe en AEM Cloud Service para mejorar el rendimiento y la seguridad con las nuevas funciones de configuración de CDN.</p>
                 </div>
                 <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
@@ -70,14 +70,14 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
 ## 2024
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news
-* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce
+* gems2024/aem-authoring-and-edge-delivery.md
+* gems2024/content-management-apis.md
+* gems2024/edge-delivery-for-aem-assets.md
+* gems2024/edge-delivery-for-aem-forms.md
+* gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md
+* gems2024/private-github-for-aem-cloud-manager.md
+* gems2024/rapid-development-environment-news.md
+* gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -85,8 +85,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM Introducción a la creación de y Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1738357043803" alt="AEM Introducción a la creación de y Edge Delivery Services"
+                    <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Introducción a AEM Authoring y Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Introducción a AEM Authoring y Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,12 +94,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        AEM <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" title="AEM Introducción a la creación de y Edge Delivery Services">Introducción a la creación y los Edge Delivery Services de la</a>
+                        <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" title="Introducción a AEM Authoring y Edge Delivery Services">Introducción a AEM Authoring y Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">AEM AEM Este seminario web de GEMs incluye una presentación y una demostración para mostrarle cómo funciona la creación de contenido junto con los Edge Delivery Services de la aplicación. Le guiaremos por el proceso de creación de un nuevo proyecto de Edge Delivery Services AEM que esté habilitado para la creación de contenido con AEM Cloud Service, y le mostraremos cómo puede beneficiarse de la experiencia de desarrollo ágil y ligera que viene con los Edge Delivery Services, pero preservando una experiencia de creación de WYSIWYG para el profesional.</p>
+                    <p class="is-size-6">El seminario web de AEM GEM muestra cómo la creación de AEM se integra con Edge Delivery Services, la creación de un proyecto con AEM Cloud Service y el mantenimiento de una interfaz de creación de WYSIWYG.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -108,8 +108,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEMs: Desbloquear el poder de AEM Sites: dominar las API de administración de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1738357043849" alt="AEM GEMs: Desbloquear el poder de AEM Sites: dominar las API de administración de contenido"
+                    <a href="gems2024/content-management-apis.md" title="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,12 +117,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        AEM <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" title="AEM GEMs: Desbloquear el poder de AEM Sites: dominar las API de administración de contenido">GEMs de: desbloqueando el poder de AEM Sites: domine las API de administración de contenido</a>
+                        <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" title="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido">GEM de AEM: desbloqueando el poder de AEM Sites: domine las API de administración de contenido</a>
                     </p>
-                    <p class="is-size-6">El seminario web sobre las API de contenido de Adobe Experience Manager AEM () introdujo API nuevas y modernizadas para mejorar la administración y el envío de contenido. palo de golfLos ponentes clave, incluidos Matthias, Catalina, Leonard y Prashant, mostraron las capacidades de estas API, como la administración de contenido estructurado, la entrega de contenido optimizado y los procesos de traducción automática. palo de golfEntre las características más destacadas se incluyen la nueva función de esquema de IU, la administración de referencias mejorada, las capacidades de solicitud por lotes y una API de entrega de contenido más rápida.Se animó a los asistentes a explorar estas API a través de la documentación para desarrolladores de Adobe y a unirse al programa de los primeros en adoptarlas para obtener acceso anticipado y soporte de ingeniería directo.</p>
+                    <p class="is-size-6">La sesión de GEM de AEM explora los patrones de API primero en AEM Sites, abarcando los estándares avanzados de OpenAPI, los eventos y los webhooks, y las nuevas API de REST para la automatización de la traducción, con perspectivas de los expertos de Adobe.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -131,8 +131,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="Integración de AEM Assets con Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1738357043796" alt="Integración de AEM Assets con Edge Delivery Services"
+                    <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integración de AEM Assets con Edge Delivery Services" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integración de AEM Assets con Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,12 +140,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" title="Integración de AEM Assets con Edge Delivery Services">Integración de AEM Assets con Edge Delivery Services</a>
+                        <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" title="Integración de AEM Assets con Edge Delivery Services">Integración de AEM Assets con Edge Delivery Services</a>
                     </p>
-                    <p class="is-size-6">AEM Durante este seminario web de GEMs de, le mostraremos cómo puede utilizar los AEM Assets AEM en su sitio web creados en Edge Delivery Services de.  Empezaremos con los pasos de integración, que permitirán a los desarrolladores integrar el repositorio de AEM Assets en el flujo de creación del sitio. A continuación, demostraremos cómo los desarrolladores pueden personalizar la integración en función de los requisitos de creación específicos del sitio. AEM También mostraremos cómo se pueden entregar los recursos mediante Dynamic Media con la API abierta, lo que le permite aprovechar las funciones de la API abierta de Dynamic Media. Además, profundizaremos en casos de uso prácticos y prácticas recomendadas, proporcionando una comprensión completa de cómo esta integración ayuda a aprovechar su solución de administración de recursos en los flujos de creación de sitios.</p>
+                    <p class="is-size-6">El seminario web de AEM GEM mostrará la integración de AEM Assets en sitios creados en AEM Edge Delivery Services, la personalización de la integración, el envío de recursos mediante AEM Dynamic Media con API abierta y la exploración de casos prácticos y prácticas recomendadas.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -154,8 +154,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="Introducción a Edge Delivery Services para AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1738357043810" alt="Introducción a Edge Delivery Services para AEM Forms"
+                    <a href="gems2024/edge-delivery-for-aem-forms.md" title="Introducción a Edge Delivery Services para AEM Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Introducción a Edge Delivery Services para AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,12 +163,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" title="Introducción a Edge Delivery Services para AEM Forms">Introducción a Edge Delivery Services para AEM Forms</a>
+                        <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" title="Introducción a Edge Delivery Services para AEM Forms">Introducción a Edge Delivery Services para AEM Forms</a>
                     </p>
-                    <p class="is-size-6">Aprenda a crear y publicar AEM Forms con Edge Delivery Services y a ofrecerlos como experiencias excepcionales a través de Edge. AEM Explicaremos dos formas de crear estos formularios: mediante la creación basada en documentos y la creación basada en documentos, así como la creación basada en la. Aprenderá a configurar un proyecto de Edge Delivery Services de AEM Forms para personalizar bloques y componentes de Forms y para utilizar extensiones del lado del servidor. También aprenderá a aprovechar el as a Cloud Service de AEM Forms para el procesamiento back-end de Forms después del envío.</p>
+                    <p class="is-size-6">Aprenda a crear y publicar AEM Forms con Edge Delivery Services, abarcando la creación basada en documentos y en AEM, la configuración de proyectos para la personalización y el uso de AEM Forms as a Cloud Service para el procesamiento back-end.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -177,8 +177,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1738357043829" alt="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos"
+                    <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,12 +186,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" title="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos">Mejorando la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos</a>
+                        <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" title="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos">Mejorando la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos</a>
                     </p>
-                    <p class="is-size-6">AEM Los desarrolladores de tendrán la oportunidad de explorar las recién introducidas API abiertas de Assets y los eventos de E/S nativos de la nube que ofrecemos. AEM Estos avances permiten la creación de extensiones de informes fuera de proceso de la aplicación de la aplicación de la. Durante esta sesión, demostraremos cómo implementar estas herramientas de manera efectiva. Esta demostración mostrará a los desarrolladores cómo pueden optimizar sus flujos de trabajo, mejorar su velocidad de desarrollo y reducir los esfuerzos de mantenimiento en curso. Además, profundizaremos en casos prácticos y prácticas recomendadas, proporcionando una comprensión completa de cómo se pueden aprovechar estas innovaciones para optimizar los procesos de desarrollo.</p>
+                    <p class="is-size-6">Los desarrolladores de AEM pueden explorar nuevas API abiertas de Assets y eventos de E/S nativos de la nube para crear extensiones de AEM fuera de proceso, optimizar los flujos de trabajo, mejorar la velocidad de desarrollo y reducir el mantenimiento, con casos de uso prácticos y prácticas recomendadas demostradas.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -200,8 +200,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="Integración de repositorios privados de GitHub en AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1738357043823" alt="Integración de repositorios privados de GitHub en AEM Cloud Manager"
+                    <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integración de repositorios privados de GitHub en AEM Cloud Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integración de repositorios privados de GitHub en AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,12 +209,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" title="Integración de repositorios privados de GitHub en AEM Cloud Manager">Integración de repositorios privados de GitHub en AEM Cloud Manager</a>
+                        <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" title="Integración de repositorios privados de GitHub en AEM Cloud Manager">Integración de repositorios privados de GitHub en AEM Cloud Manager</a>
                     </p>
-                    <p class="is-size-6">AEM Durante este seminario web de GitHub, le mostraremos cómo sacar el máximo partido a la adición de su propio repositorio privado de GitHub en Cloud Manager. Empezaremos con la incorporación del repositorio, que ahora le permitirá vincular directamente el repositorio de GitHub a sus canalizaciones de Cloud Manager, lo que elimina la necesidad de sincronizar de forma coherente su código con el repositorio de Adobe. A continuación, queremos mostrar cómo esta función le permite desplazarse a la izquierda en el proceso de prueba, lo que permite comprobar la calidad del código de Cloud Manager en el nivel de solicitud de extracción antes de combinar el código. AEM De este modo, como desarrollador de la, podría identificar los problemas que habrían fallado en la compilación de Cloud Manager antes en el ciclo de desarrollo.</p>
+                    <p class="is-size-6">El seminario web de AEM GEM mostrará cómo añadir un repositorio de GitHub privado en Cloud Manager, vincularlo directamente a las canalizaciones y realizar pruebas de desplazamiento a la izquierda para identificar problemas en el nivel de solicitud de extracción antes de combinar código.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -223,8 +223,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEM ¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo para la?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1738357043868" alt="AEM ¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo para la?"
+                    <a href="gems2024/rapid-development-environment-news.md" title="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,12 +232,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        AEM <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" title="AEM ¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo para la?">¿Qué novedades hay en los entornos de desarrollo rápido para la creación de entornos de desarrollo rápido para la creación de entornos de desarrollo de datos?</a>
+                        <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" title="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?">¿Qué novedades hay en los entornos de desarrollo rápido para AEM?</a>
                     </p>
-                    <p class="is-size-6">Los RDE permiten a los desarrolladores implementar y revisar cambios rápidamente, minimizando la cantidad de tiempo necesario para probar características que han demostrado funcionar en un entorno de desarrollo local. En esta sesión le mostraremos cómo puede utilizar RDE para reducir los tiempos de respuesta durante el desarrollo y obtener comentarios casi instantáneos sobre los cambios de código. Además, le presentaremos las últimas funciones, como el registro mejorado y la compatibilidad con front-end. Únase a nosotros para obtener más información sobre lo que puede hacer con RDE y háganos saber lo que le gustaría ver añadido a continuación.</p>
+                    <p class="is-size-6">La sesión demostrará cómo los RDE permiten una rápida implementación y revisión de los cambios, reduciendo los tiempos de respuesta de desarrollo y proporcionando comentarios casi instantáneos. También introducirá nuevas funciones como un registro mejorado y compatibilidad con front-end.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -246,8 +246,8 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Crear tiendas en Edge Delivery Services con Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1738357043816" alt="Crear tiendas en Edge Delivery Services con Adobe Commerce"
+                    <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Crear tiendas en Edge Delivery Services con Adobe Commerce" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Crear tiendas en Edge Delivery Services con Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,12 +255,12 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" title="Crear tiendas en Edge Delivery Services con Adobe Commerce">Crear tiendas en Edge Delivery Services con Adobe Commerce</a>
+                        <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" title="Crear tiendas en Edge Delivery Services con Adobe Commerce">Crear tiendas en Edge Delivery Services con Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">AEM Este seminario web de GEM le enseñará a crear una tienda de alto rendimiento en Edge Delivery Services para Adobe Commerce. Le guiaremos a través del proceso de configuración de su proyecto con la plantilla de Commerce y cómo conectarlo con los nuevos servicios SaaS de Commerce para una integración rápida y mejorada con la interfaz de usuario de Sensei. Presentamos componentes integrados, un conjunto de componentes front-end personalizables que aceleran el desarrollo de tiendas. Aprenderá las prácticas recomendadas sobre cómo ampliarlas y aplicarles estilo. Por último, destacaremos las nuevas funciones de creación de Edge Delivery para enriquecer las experiencias de Commerce con contenido creado.</p>
+                    <p class="is-size-6">El seminario web de AEM GEM le enseñará a crear una tienda de alto rendimiento en Edge Delivery Services para Adobe Commerce, que abarque la configuración del proyecto, la integración de Commerce SaaS, los componentes front-end personalizables y las nuevas funciones de creación para mejorar las experiencias de Commerce.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
+                <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
                 </a>
             </div>
         </div>
@@ -271,11 +271,11 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
 
 ## Manténgase al tanto
 
-AEM ¿Quiere saber cuándo serán los próximos GEMs de la?  Regístrese con el grupo de usuarios [Adobe AEM&#39;s ](https://aem-augs.adobe.com/) para recibir notificaciones.
+¿Quiere saber cuándo serán las próximas GEM de AEM?  Regístrese en [el grupo de usuarios de AEM de Adobe](https://aem-augs.adobe.com/) para recibir notificaciones.
 
 ## Continúe con la conversación
 
-Nuestra [Comunidad de Experience Manager AEM](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es) es donde puedes conectarte con otros desarrolladores y mantener las discusiones de la.  Puede establecer redes con compañeros y empleados de Adobe para obtener orientación y prácticas recomendadas, desde la implementación hasta la ampliación del uso del producto.  Obtenga respuestas rápidas a sus preguntas y proporcione Adobe con sus ideas de productos y comentarios valiosos.
+Nuestra [Comunidad de Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es) es donde puedes conectarte con otros desarrolladores y mantener las discusiones de AEM.  Puede establecer contactos con compañeros y empleados de Adobe para obtener orientación y prácticas recomendadas, desde la implementación hasta la ampliación del uso del producto.  Obtenga respuestas rápidas a sus preguntas y proporcione a Adobe sus ideas de productos y sus valiosos comentarios.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
