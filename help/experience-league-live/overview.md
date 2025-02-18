@@ -1,5 +1,5 @@
 ---
-title: Experience League de eventos en directo
+title: Eventos de Experience League LIVE
 description: Una colección de vínculos a eventos anteriores de Experience League LIVE
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 # Experience League LIVE
 
-Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League.  Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede aplicar con las aplicaciones de Adobe Experience Cloud.
+Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League.  Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
@@ -26,13 +26,13 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE 27 de febrero" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 27 de febrero" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Desbloquear información operativa con el Asistente de IA en Adobe Experience Platform</strong>
       </a>
-      <br/><em>con Rudi Shumpert, Namita Krishnan y Huong Vu</em>
+      <br/><em>con Daniel Wright, Namita Krishnan y Huong Vu</em>
       <br/><em>27 de febrero de 2025</em>
     </div>
   </td>
