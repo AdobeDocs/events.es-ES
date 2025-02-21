@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,14 @@ ht-degree: 0%
 
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
 + {#2025} de 2025
+   + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [Crear páginas Web Efectivas](2025/build-effective-web-pages.md)
    + [Conceptos básicos de cadena de suministro de contenido](2025/content-supply-chain-basics.md)
    + [Estrategias de elaboración para una medición eficaz](2025/impactful-insights.md)
    + [Impulso de la participación del cliente](2025/driving-customer-engagement.md)
    + [Mejora de programas de fidelización mediante Personalization y datos](2025/enhance-loyalty-programs.md)
+   + [Mejora de Personalization](2025/enhancing-personalization.md)
+   + [Modelo operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Dominio de la lógica secuencial](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
@@ -26,7 +30,7 @@ ht-degree: 0%
    + [Adobe Workfront Mastery](2024/workfront-mastery.md)
    + [Conceptos clave de la creación en AEM](2024/aem-authoring-concepts.md)
    + [Eficiencias de AEM Sites](2024/aem-sites-efficiencies.md)
-   + [Integraciones de servicios de aplicaciones de AEP para casos de uso de clientes](2024/aep-apps-services-integrations.md)
+   + [Integraciones de servicios de aplicaciones de AEP para casos prácticos de clientes](2024/aep-apps-services-integrations.md)
    + [Planificación de casos de uso de AEP](2024/aep-use-case-planning.md)
    + [Redacción con tecnología de IA](2024/ai-copywriting.md)
    + [Funciones de análisis básicas a intermedias](2024/basic-to-intermediate-analysis-capabilities.md)
