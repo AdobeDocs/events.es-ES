@@ -1,10 +1,10 @@
 ---
-user-guide-title: “[!DNL Experience Makers Learn from your peers]”
+user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: "Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+user-guide-description: Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 4%
 
 ---
@@ -37,11 +37,11 @@ ht-degree: 4%
       + [Comunicación, requisitos y pruebas en Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + Noviembre de {#nov2023}
-      + [AEM Excelencia de desarrollador con componentes principales de](experience-manager/nov2023/core-components.md)
+      + [Excelencia de desarrollador con componentes principales de AEM](experience-manager/nov2023/core-components.md)
    + Septiembre de {#sept2023}
       + [Una profundización en Herramientas para AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Julio de {#july2023}
-      + [Estrategias de seguridad efectivas en el Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [Estrategias de seguridad efectivas en Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mayo de {#may2023}
       + [Dominio de contenido y fragmentos de experiencias](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -66,6 +66,9 @@ ht-degree: 4%
    + Marzo de 2023 {#mar2023}
       + [Cómo hacer que su contenido  [!DNL Adobe Marketo Engage] se pueda escalar](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025 {#2025}
+      + Febrero de {#february2025}
+         + [Articulación del impacto: medición y uso compartido del valor de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 {#2024}
       + Abril de {#april2024}
          + [Asignación de personal a las prácticas administrativas del sistema Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -107,4 +110,4 @@ ht-degree: 4%
          + [¿Qué ES la gobernanza de Workfront?](workfront/2022/03/what-is-workfront-governance.md)
       + Febrero de {#february}
          + [Explicación de la administración de usuarios](workfront/2022/02/understanding-user-management.md)
-+ [Aprenda a enviar una solicitud de campeón de Adobe destacado](./adobe-champion-application.md)
++ [Aprenda a enviar una solicitud de campeón de Adobe destacada](./adobe-champion-application.md)
