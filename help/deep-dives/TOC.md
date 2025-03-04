@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 4%
    + [Herencia de una instancia](inheriting-an-instance.md)
    + [Ciclos de vida del posible cliente](lead-lifecycles.md)
    + [Aprovechamiento de los campos PMCF para la escalabilidad](pmcf-fields.md)
+   + [Marketo Forms y AEM Forms](marketo-forms-aem-forms.md)
    + [Maximizar la entrega de correo electrónico](maximize-email-deliverability.md)
    + [Maximice su instancia con un equipo pequeño](small-team-instance.md)
    + [Anotación de procesos complejos en el registro de actividades](activity-log.md)
