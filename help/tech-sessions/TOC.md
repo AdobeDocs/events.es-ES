@@ -2,10 +2,10 @@
 user-guide-title: Sesiones técnicas de Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Las sesiones técnicas de Experience Cloud son un enfoque proactivo de la desviación de casos que ofrece a los clientes seminarios web específicos para cada solución.
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 15%
+source-wordcount: '140'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,11 @@ ht-degree: 15%
 # Sesiones técnicas de Experience Cloud {#tech-sessions}
 
 + [Sesiones técnicas de Experience Cloud](overview.md)
++ 2025 {#2025}
+   + [Aprovechamiento al máximo de Marketo Measure](2025/getting-most-marketo-measure.md)
+   + Migración de Marketo a Adobe Admin Console {#marketo-admin-console}
+      + [Premigración](2025/marketo-pre-migration.md)
+      + [Posterior a la migración](2025/marketo-post-migration.md)
 + 2024 {#2024}
    + Plataforma de datos de contenido en tiempo real {#rtcdp-office-hours-2024}
       + [Solución de problemas de AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
@@ -32,7 +37,7 @@ ht-degree: 15%
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Permisos de Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
-      + [AEM Análisis de errores de implementación de CS](2023/aem-deployment-failures-analysis.md)
+      + [Análisis de errores de implementación de AEM CS](2023/aem-deployment-failures-analysis.md)
       + [Arquitectura sin encabezado de AEM Forms](2023/aem-forms-headless-architecture.md)
       + [Migración a AEM Cloud Service](2023/migration-aemcs.md)
       + [Fundamento para optimizar índices](2023/optimize-indexes-aemcs.md)
