@@ -1,6 +1,6 @@
 ---
 title: 'Migración de Marketo a Adobe Admin Console: (posterior a la migración)'
-description: Únase a nuestro seminario web de sesiones técnicas para dominar su nueva configuración de Marketo en Adobe Admin Console. Conozca las funcionalidades clave, las prácticas recomendadas y las sugerencias de solución de problemas del equipo de identidad y experiencia del cliente de Adobe. Obtenga información sobre la administración de usuarios, permisos y configuración, y obtenga respuestas a preguntas comunes posteriores a la migración. No se pierda las preguntas y respuestas en directo sobre soluciones reales y perspectivas procesables para optimizar su flujo de trabajo.
+description: Centralice la administración de usuarios de Marketo con Adobe Admin Console. Administrar funciones (sistema, producto, perfil, administradores de asistencia) y tipos de identidad (Adobe, empresa, Federated ID). Configure SSL para el inicio de sesión único, administre los usuarios y renueve los certificados cada tres años. Aborde problemas comunes como problemas de inicio de sesión y utilice la confianza de directorios para una experiencia unificada. Divida las conversiones grandes de usuarios en lotes de 500. Acceda a la grabación de la sesión en la página de Experience League de Adobe.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
-source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
+exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
+source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
-
 
 # Migración de Marketo a Adobe Admin Console: después de la migración
 
@@ -34,3 +34,39 @@ Durante toda la sesión, nuestros expertos estarán disponibles para abordar sus
 No pierda esta oportunidad de mejorar su flujo de trabajo y aprovechar al máximo su migración a Marketo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451635/?learn=on&enablevpops)
+
+## Puntos clave
+
+* **Objetivo de Admin Console** Administración centralizada para usuarios, administradores e identidades de Marketo, alineada con otros productos de Adobe.
+
+* **Roles en Admin Console**
+
+   * **Administrador del sistema** Acceso completo
+   * **Administrador de productos** administra productos específicos
+   * **Administrador de perfiles** administra perfiles específicos
+   * **Administrador de soporte** envía tickets de asistencia
+
+* **Tipos de identidad**
+
+   * Cuenta personal de **Adobe ID**
+   * **Enterprise ID** administrado por la compañía sin SSL
+   * **Federated ID** inicio de sesión único (SSL)
+
+* **Inicio de sesión único (SSL)** requiere la configuración del directorio, la adición de dominios y la carga de archivos de metadatos.
+
+* **Administración de usuarios** Agregue o elimine usuarios y administradores a través de Admin Console; convierta Adobe ID a Federated ID a través de archivos CSV.
+
+* **Proceso de soporte** Enviar casos a través del directorio de Experience League; se requiere el rol de &quot;Administrador de soporte&quot;.
+
+* **Problemas comunes**
+
+   * Problemas de inicio de sesión debido a bloqueadores de anuncios, tipos de identidad no coincidentes o errores de SSL.
+   * Contraseñas olvidadas o problemas de contraseña de red.
+
+* **Renovaciones de certificados** Los certificados SSL deben renovarse cada tres años a través de Admin Console.
+
+* **Grupos de usuarios** Organizan usuarios para herramientas específicas; se pueden administrar localmente o sincronizar con Active Directory.
+
+* **Consideraciones posteriores a la migración** Garantice tipos de identidad coherentes en todos los productos; use la confianza de directorios para lograr una experiencia de usuario unificada.
+
+* **Administración de bases de usuarios de gran tamaño** divide la conversión de usuarios en lotes de 500 para aumentar la eficacia.
