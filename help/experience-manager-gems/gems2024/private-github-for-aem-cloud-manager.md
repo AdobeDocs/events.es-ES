@@ -2,7 +2,7 @@
 title: Integración de repositorios privados de GitHub en AEM Cloud Manager
 description: El seminario web de AEM GEM mostrará cómo añadir un repositorio de GitHub privado en Cloud Manager, vincularlo directamente a las canalizaciones y realizar pruebas de desplazamiento a la izquierda para identificar problemas en el nivel de solicitud de extracción antes de combinar código.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

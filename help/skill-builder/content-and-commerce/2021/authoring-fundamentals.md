@@ -9,12 +9,12 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8945
 exl-id: 7e719f00-26f2-449f-aefc-38d1a9ca7291
 duration: 3837
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Conceptos básicos de Adobe Experience Manager Sites
 
-Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. Empezaremos con los componentes básicos de la creación de contenido y le presentaremos los conceptos y operaciones fundamentales. AEM Esto incluirá las funciones de administración de sitios y los conceptos básicos de administración de recursos digitales dentro de los recursos de. En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
+Aprenda a crear experiencias de cliente enriquecidas y atractivas en Adobe Experience Manager en esta serie de seminarios web con cinco partes. Empezaremos con los componentes básicos de la creación de contenido y le presentaremos los conceptos y operaciones fundamentales. Esto incluirá las funciones de administración de sitios y los conceptos básicos de administración de recursos digitales en AEM. En la última parte de la serie, descubra funciones que pueden ayudarle a ahorrar tiempo y ser más eficientes reutilizando el contenido y entregándolo en todos los canales.
 
 ## Cree experiencias web hermosas rápidamente
 

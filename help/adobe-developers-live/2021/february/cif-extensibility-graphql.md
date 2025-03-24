@@ -8,13 +8,13 @@ feature: Commerce Integration Framework
 topic: Development, Integrations
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
 exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
 duration: 1249
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Obtenga información sobre cómo ampliar los componentes principales de Commerce mediante GraphQL.
 
-Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[Comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 

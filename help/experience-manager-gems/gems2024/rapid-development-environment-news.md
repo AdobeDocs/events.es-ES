@@ -2,7 +2,7 @@
 title: ¿Qué novedades hay en los entornos de desarrollo rápido para AEM?
 description: La sesión demostrará cómo los RDE permiten una rápida implementación y revisión de los cambios, reduciendo los tiempos de respuesta de desarrollo y proporcionando comentarios casi instantáneos. También introducirá nuevas funciones como un registro mejorado y compatibilidad con front-end.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%

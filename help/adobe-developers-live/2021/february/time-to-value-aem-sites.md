@@ -8,13 +8,13 @@ feature: Developer Tools
 topic: Development
 role: Developer
 level: Intermediate
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg
 exl-id: 722ca68e-a74c-4040-b047-ac153739a7a7
 duration: 1680
-source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Descubra cómo el marco de trabajo Modelo de base digital le permite implementar rápidamente un diseño con funcionalidad OOTB y una personalización mínima.
 
-Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
+Continuar la conversación en **[Comunidades de Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 

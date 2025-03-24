@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9214
 type: Event
 exl-id: 2f0533ca-a96f-4fa1-90fd-37ba37180a2f
 duration: 1898
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 11%
@@ -22,7 +22,7 @@ ht-degree: 11%
 
 Adobe Developer Console es la puerta de enlace a las API de Adobe, los eventos, el tiempo de ejecución y App Builder. Únase para obtener una descripción general de los servicios y las herramientas disponibles como parte del ecosistema de Adobe Developer.
 
-Continuar la conversación en **[comunidades de Experience League](https://adobe.ly/2Y2DDld)**.
+Continuar la conversación en **[Comunidades de Experience League](https://adobe.ly/2Y2DDld)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 

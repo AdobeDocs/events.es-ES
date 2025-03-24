@@ -2,7 +2,7 @@
 title: Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos
 description: Los desarrolladores de AEM pueden explorar nuevas API abiertas de Assets y eventos de E/S nativos de la nube para crear extensiones de AEM fuera de proceso, optimizar los flujos de trabajo, mejorar la velocidad de desarrollo y reducir el mantenimiento, con casos de uso prácticos y prácticas recomendadas demostradas.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

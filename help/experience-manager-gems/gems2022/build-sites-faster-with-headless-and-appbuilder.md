@@ -1,9 +1,9 @@
 ---
-title: AEM Creación de sitios web más rápida con sin encabezado y App Builder
-description: SPA Vea una presentación y una demostración sobre cómo arrancar e implementar rápidamente la aplicación de una sola página () mediante los flujos de trabajo y las herramientas de Adobe App Builder.
+title: Cree sitios web más rápido con AEM sin encabezado y App Builder
+description: Vea una presentación y una demostración sobre cómo arrancar e implementar rápidamente la aplicación de una sola página (SPA) mediante flujos de trabajo y herramientas de Adobe App Builder.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service, 6.5
+version: Experience Manager as a Cloud Service, Experience Manager 6.5
 feature: App Builder
 topic: Headless
 role: Developer
@@ -12,18 +12,18 @@ kt: 10053
 thumbnail: 341311.jpeg
 exl-id: 9d5b5cd4-e401-43e1-a9ed-2c992decd45b
 duration: 3399
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# AEM Creación de sitios web más rápida con sin encabezado y App Builder
+# Cree sitios web más rápido con AEM sin encabezado y App Builder
 
-AEM La grabación de este seminario web de GEMs incluye una presentación y una demostración sobre lo siguiente:
+La grabación de este seminario web de AEM GEM incluye una presentación y una demostración sobre lo siguiente:
 
-SPA Arranque e implemente rápidamente aplicaciones de una sola página () utilizando flujos de trabajo y herramientas de Adobe App Builder, sin que se requieran las habilidades tradicionales de Experience Manager, como Java y Sling. Con Experience Manager Headless, los especialistas en marketing y los desarrolladores pueden tener experiencia en su propio dominio. Los desarrolladores controlan el marco general de la aplicación, mientras que los especialistas en marketing determinan el contenido y cómo se muestra.
+Arranque e implemente rápidamente aplicaciones de una sola página (SPA) con flujos de trabajo y herramientas de Adobe App Builder, sin necesidad de habilidades tradicionales de Experience Manager, como Java y Sling. Con Experience Manager sin encabezado, los especialistas en marketing y los desarrolladores pueden tener experiencia en su propio dominio. Los desarrolladores controlan el marco general de la aplicación, mientras que los especialistas en marketing determinan el contenido y cómo se muestra.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
@@ -32,7 +32,7 @@ Este seminario web se realizó el 23 de marzo de 2022 y fue presentado por Duy N
 >[!MORELIKETHIS]
 >
 >* [Subproceso contextual correspondiente](https://adobe.ly/3LkSWdm)
->* Regístrese en [Grupo de usuarios de de Adobe AEM](https://aem-augs.adobe.com/) para recibir notificaciones sobre próximos seminarios web.
+>* Regístrese en [el grupo de usuarios de AEM de Adobe](https://aem-augs.adobe.com/) para recibir notificaciones sobre próximos seminarios web.
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
