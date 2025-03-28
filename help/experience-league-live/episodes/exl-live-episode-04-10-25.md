@@ -7,9 +7,10 @@ feature: Collaboration
 event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
+source-git-commit: c79fce8485ff5e4584df436688bf7d0aeac5061f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -25,6 +26,6 @@ Ahora disponible para los clientes de EE. UU., Real-Time CDP Collaboration ofrec
 * Descubra cuáles son los casos de uso que resolveremos de inmediato y qué se avecina
 * Escuche directamente a los expertos en productos.
 
-[![ExL ACTIVO el 10 de abril de 2025](assets/WebBanner_Apr10_2025.jpg)](https://www.youtube.com/live/OPRzvdLUu7E)
+[![ExL ACTIVO el 10 de abril de 2025](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
 
-Haga clic en la imagen anterior para establecer un recordatorio de YouTube.
+[**REGÍSTRESE AHORA!**](https://engage.adobe.com/ExpLeagueLive-250410.html)
