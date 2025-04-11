@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: ca10c0d6d26fe2348776cb92eeb306fc0511737f
+source-git-commit: 67295e039205f8e84a4de2e1876ed88f5f1595d4
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -21,14 +21,11 @@ Nuestros expertos, que se emitieron por primera vez el 10 de abril de 2025, anal
 
 En esta sesión, hemos explorado:
 
-* Por qué hemos creado este producto y cómo ayuda a resolver los desafíos de privacidad del consumidor y audiencia con sencillez e interoperabilidad
+* Por qué creamos el producto y cómo ayuda a resolver los desafíos de privacidad del consumidor y audiencia con simplicidad e interoperabilidad
 * Real-Time CDP Collaboration en acción, con demostraciones de productos
 * Casos de uso admitidos ahora y futuros
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
-<!-- 
-**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
--->
 
 ## Recursos adicionales
 

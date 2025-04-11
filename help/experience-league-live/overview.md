@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2838fbbcafd0454e47c069365cfc912473fbaccf
+source-git-commit: 2c493534364159569f7a9b304cfd79913dd7f6f5
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 3%
+source-wordcount: '161'
+ht-degree: 4%
 
 ---
 
@@ -24,25 +24,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 ## Próximos eventos de Experience League LIVE
 
 <div>Vuelva pronto para obtener información sobre el próximo programa programado.</div>
-&lt;!— 
-<table>
-<tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
-      <img alt="Experience League LIVE 10 de abril" src="episodes/assets/WebBanner_Apr10_2025.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-04-10-25.md">
-        <strong>No espere... ¡Colabore! Presentando Real-Time CDP Collaboration</strong>
-      </a>
-      <br/><em>con Nina Caruso, Clayton Smith y Doug Moore</em>
-      <br/><em>10 de abril de 2025</em>
-    </div>
-  </td>
- </tr>
-</table>
 
-</div>
---&gt;
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
