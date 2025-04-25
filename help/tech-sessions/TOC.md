@@ -2,10 +2,10 @@
 user-guide-title: Sesiones técnicas de Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Las sesiones técnicas de Experience Cloud son un enfoque proactivo de la desviación de casos que ofrece a los clientes seminarios web específicos para cada solución.
-source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
+source-git-commit: 373605f79b3122382e221252232a26535ff3109b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 14%
+source-wordcount: '146'
+ht-degree: 15%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 14%
 
 + [Sesiones técnicas de Experience Cloud](overview.md)
 + 2025 {#2025}
+   + [Solución de problemas de rendimiento de entrega Adobe Campaign Classic](2025/acc-delivery-performance.md)
    + [Aprovechamiento al máximo de Marketo Measure](2025/getting-most-marketo-measure.md)
    + Migración de Marketo a Adobe Admin Console {#marketo-admin-console}
       + [Premigración](2025/marketo-pre-migration.md)
