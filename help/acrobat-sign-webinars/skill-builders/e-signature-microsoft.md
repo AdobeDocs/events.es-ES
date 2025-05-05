@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Amplíe el uso de sus aplicaciones de Microsoft, como Word, Outlook y Sharepoint, agregando Adobe Acrobat Sign a los flujos de trabajo existentes. Esta sesión le enseñará a empezar a racionalizar los procesos de documentos en aplicaciones de Microsoft comunes para que no necesite cambiar de contexto solo para obtener una firma o comprobar un estado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455053/?learn=on&captions=spa)
 
 ## ¿Qué aplicaciones admite la integración de Acrobat Sign?
 

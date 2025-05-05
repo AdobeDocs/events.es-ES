@@ -25,6 +25,6 @@ Información general sobre los últimos desarrollos en la plataforma Adobe Comme
 
 + Presentado por Jason Ford, Director de ANZ Solution Engineering - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455450/?learn=on&captions=spa)
 
 [&lt; Volver a Adobe Commerce Accelerator Day](./overview.md)

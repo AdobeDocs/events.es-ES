@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ofrezca a su equipo de ventas una ventaja con propuestas, contratos, facturas y mucho más rellenados previamente en segundos mediante la automatización de tareas diarias como la preparación de documentos impulsados por datos justo en Salesforce. Document Builder le permite generar dinámicamente un documento utilizando los datos de Salesforce antes de enviarlo para su firma, lo que hace que un proceso que alguna vez fue engorroso sea más simplista y optimizado. Le guiaremos por el proceso paso a paso que le ayudará a ahorrar tiempo y esfuerzo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454916/?learn=on&captions=spa)
 
 ## ¿Cuál es el propósito de Document Builder para Acrobat Sign?
 

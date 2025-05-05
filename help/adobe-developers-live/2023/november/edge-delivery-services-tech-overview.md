@@ -25,4 +25,4 @@ ht-degree: 5%
 
 AEM Tal vez EL más hablado sobre el cambio en el mundo de la, ven a ver una descripción técnica detallada de los nuevos Edge Delivery Services AEM que se unen a la familia de la.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455924/?learn=on&captions=spa)

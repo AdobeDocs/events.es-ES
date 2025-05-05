@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Forms adaptable sin encabezado es una solución para crear y administrar formularios web sin encabezado dentro de la plataforma de Adobe Experience Manager. Esta función permite a las organizaciones crear, publicar y administrar formularios interactivos a los que se puede acceder e interactuar mediante API, en lugar de hacerlo a través de una interfaz gráfica de usuario tradicional.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454971/?learn=on&captions=spa)

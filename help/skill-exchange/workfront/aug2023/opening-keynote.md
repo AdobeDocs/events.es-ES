@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En esta sesión, el Director de marketing de productos, Richard Whitehead, le guiará por la evolución de Workfront, incluidos los aspectos destacados, las funciones nuevas y disponibles, y finalizará con las innovaciones de los productos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453832/?learn=on&captions=spa)

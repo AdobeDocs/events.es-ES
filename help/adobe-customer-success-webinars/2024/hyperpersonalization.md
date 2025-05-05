@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Informar sobre la nueva era de la hiperpersonalización. Fundaremos un modelo de madurez de personalización, analizaremos los bloqueadores comunes y proporcionaremos consejos tácticos para empezar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457348/?learn=on&captions=spa)
 
 ## Puntos clave de debate
 

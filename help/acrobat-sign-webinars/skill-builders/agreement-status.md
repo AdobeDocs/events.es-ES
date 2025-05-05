@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Conozca todos los detalles de las herramientas y prácticas recomendadas de administración de acuerdos para que pueda conocer el estado de sus acuerdos en cualquier momento. Esta sesión tratará sobre: qué acciones puede realizar con los documentos desde la pestaña Administrar, cómo procesar y utilizar datos de formularios web y envíos masivos, y cómo buscar y filtrar para encontrar los documentos que necesita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455004/?learn=on&captions=spa)
 
 En esta sesión, el ponente analiza cómo administrar y rastrear los acuerdos mediante Adobe Acrobat Sign. palo de golf Explican los diferentes estados de los acuerdos, demuestran las acciones que se pueden llevar a cabo en los acuerdos en curso y proporcionan recursos para un aprendizaje posterior.

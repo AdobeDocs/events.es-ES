@@ -33,4 +33,4 @@ También verá una demostración en directo de la plataforma para dar vida a est
 
 MBI simplifica los informes con paneles que muestran todo, desde el valor promedio de los pedidos hasta el valor de duración del cliente y las tasas de retención. Con estas potentes perspectivas, puede estar capacitado para tomar medidas y aumentar el valor de su negocio en línea.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413902/?quality=12&learn=on&captions=spa)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Conozca los conceptos básicos de Acrobat Sign para empezar a firmar documentos rápidamente. Le mostraremos cómo: Preparar y enviar sus documentos para su firma electrónica Ver lo que ven sus firmantes Administrar y realizar un seguimiento del progreso de los acuerdos Crear su propia firma y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455468/?learn=on&captions=spa)
 
 ## Puntos clave
 

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Analytics tiene un número aparentemente ilimitado de características y funciones. Hemos seleccionado algunos de los más infrautilizados, pero poderosos, de una amplia gama de clientes e industrias. En esta sesión aprenderá a aplicarlas al flujo de trabajo de análisis y a aumentar rápidamente el valor de sus perspectivas para su organización.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456588/?learn=on&captions=spa)

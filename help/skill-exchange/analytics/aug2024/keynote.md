@@ -26,4 +26,4 @@ Empoderar a los equipos con datos es esencial para impulsar la innovación y mej
 * Conozca las prácticas recomendadas para proporcionar el contexto adecuado y garantizar un uso eficaz de los datos.
 * Descubra cómo Adobe Analytics y Customer Journey Analytics pueden ayudar a potenciar sus equipos con datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453590/?learn=on&captions=spa)

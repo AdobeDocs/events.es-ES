@@ -28,4 +28,4 @@ Obtenga información sobre cómo administrar la priorización del flujo de datos
 - Comprender la importancia y las prácticas recomendadas de la priorización del flujo de datos
 - Optimización de campañas de marketing en tiempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456808/?learn=on&captions=spa)

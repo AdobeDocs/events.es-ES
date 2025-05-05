@@ -25,4 +25,4 @@ Conozca la estrategia detrás de la preparación de la organización desde una p
 * Aprenda a alinearse en los casos de uso empresariales como organización
 * Recursos y acciones clave para la preparación de CDP en tiempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457066/?learn=on&captions=spa)

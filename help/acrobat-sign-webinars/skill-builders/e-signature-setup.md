@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Obtenga información acerca de tres formas sencillas de configurar los documentos para su firma electrónica. Ya sean PDF, archivos de Microsoft 365 o incluso un simple archivo de imagen, esta sesión le proporcionará las herramientas necesarias para firmar ese documento. Explicaremos tres métodos: el sencillo entorno de creación de arrastrar y soltar de Adobe Acrobat Sign Configurar un formulario de PDF en Adobe Acrobat Usar etiquetas de texto para acelerar la creación de documentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455947/?learn=on&captions=spa)
 
 ## ¿Cuál es la ventaja de utilizar etiquetas de texto junto con Microsoft Word?
 

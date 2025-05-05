@@ -26,4 +26,4 @@ En esta sesión, aprenderá lo siguiente:
 * Utilice diferentes tipos de programas y técnicas de automatización para segmentar su audiencia y realizar la transición sin problemas mediante las fases de participación, venta de productos y renovación.
 * Creación de contenido hiperpersonalizado con tokens de nivel de persona o programa y Velocity Scripting
 
->[!VIDEO](https://video.tv.adobe.com/v/3432946/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456853/?learn=on&captions=spa)

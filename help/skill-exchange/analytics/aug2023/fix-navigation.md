@@ -20,4 +20,4 @@ ht-degree: 0%
 
 La navegación es clave para que los visitantes encuentren el camino alrededor del sitio y entren en los canales de conversión. Descubra cómo puede realizar un seguimiento de la eficacia de su navegación y cómo mejorarla con Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457370/?learn=on&captions=spa)

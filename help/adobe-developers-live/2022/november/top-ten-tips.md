@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Un buen rendimiento de la experiencia es clave para el éxito de la experiencia. En esta sesión, compartiremos con usted nuestras 10 sugerencias y prácticas recomendadas principales para ayudar a sus desarrolladores a hacer que sus sitios web de Adobe Experience Manager sean más rápidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457178/?quality=12&learn=on&captions=spa)

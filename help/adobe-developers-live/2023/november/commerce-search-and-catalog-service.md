@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Obtenga información acerca de los servicios de Buscar y catálogo para mejorar y optimizar las experiencias de tienda.  Esta demostración explica el conector de servicios de comercio y cómo aprovecharlo con su tienda mediante GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454730/?learn=on&captions=spa)

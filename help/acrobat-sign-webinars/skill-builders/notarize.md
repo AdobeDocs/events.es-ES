@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Notarizar la integración: la forma más rápida y sencilla de certificar sus documentos ante notario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454375/?learn=on&captions=spa)
 
 ## Temas clave tratados
 

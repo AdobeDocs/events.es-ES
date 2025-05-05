@@ -20,4 +20,4 @@ ht-degree: 0%
 
 En el mundo digital y en canales múltiples de hoy en día, los consumidores tienen la capacidad de interactuar donde, cuando y como quieran. Y el experto en marketing debe estar listo, de lo contrario se arriesgan a una mala experiencia del cliente o, peor aún, a un desgaste. La respuesta no es solo una plataforma de marketing que admita la orquestación de mensajes entre canales, sino también tener una organización de marketing que admita la planificación, ejecución y medición de campañas de marketing en todos los canales.
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457044/?quality=12&learn=on&captions=spa)

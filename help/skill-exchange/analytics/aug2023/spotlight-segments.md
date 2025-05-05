@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Todo acerca de los segmentos: Cómo cortar y fragmentar los datos para obtener información
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456610/?learn=on&captions=spa)

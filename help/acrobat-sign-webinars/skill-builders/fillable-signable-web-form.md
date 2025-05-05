@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Aprenda a crear un formulario web que permita a cualquier persona completar y firmar, sin necesidad de iniciar la transacción ni siquiera conocer la dirección de correo electrónico del firmante. También verá cómo preparar una plantilla de documento que se pueda utilizar para transacciones de firma individuales, así como para publicar en una dirección URL única para un uso compartido amplio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455448/?learn=on&captions=spa)
 
 ## Puntos clave
 

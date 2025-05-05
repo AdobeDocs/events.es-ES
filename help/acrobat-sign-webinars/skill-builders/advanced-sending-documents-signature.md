@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Obtenga una explicación más detallada de todas las opciones disponibles al enviar acuerdos para su firma. En esta sesión, aprenderá sobre lo siguiente: Envío a varios destinatarios Funciones de destinatario disponibles (firmante, rellenador de formularios, delegado y otros) Adición de un campo CC Protección de contraseña, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454882/?learn=on&captions=spa)
 
 El seminario web proporciona información sobre las funciones avanzadas de Acrobat Sign para configurar flujos de trabajo de varios participantes, configurar funciones de destinatario y utilizar grupos de destinatarios y mensajes privados. Este aprendizaje puede ayudar a agilizar el proceso de envío de documentos para su firma y mejorar la colaboración entre los participantes firmantes.
 

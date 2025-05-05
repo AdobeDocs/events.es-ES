@@ -23,4 +23,4 @@ ht-degree: 0%
 
 AEM Este intercambio de habilidades se centra en cómo un nuevo desarrollador de puede iniciar e implementar un nuevo proyecto. AEM Se centrará en temas como el tipo de archivo del proyecto, la configuración de Cloud Manager y las herramientas de desarrollo, entre otros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457274/?learn=on&captions=spa)

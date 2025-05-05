@@ -27,7 +27,7 @@ Este seminario web ofrece información más detallada sobre cómo el acelerador 
 * Experimentos de contenido y optimización
 * IA generativa
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444462/?learn=on&enablevpops&captions=spa)
 
 ## Puntos clave
 

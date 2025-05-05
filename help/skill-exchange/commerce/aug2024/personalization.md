@@ -26,4 +26,4 @@ En esta sesión aprenderá lo siguiente:
 * Prácticas recomendadas para aprovechar la segmentación y el contenido dinámico en Adobe Commerce
 * Estrategias para una administración de contenido eficaz que mejore la participación de los clientes
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456943/?learn=on&captions=spa)

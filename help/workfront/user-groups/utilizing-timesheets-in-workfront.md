@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Nicholas Twillie y Alma Martinez de Walgreens hablan sobre el tiempo de seguimiento, a través de hojas de horas, en Workfront. A continuación, observe cómo Christian Barnes le muestra el lado técnico de las hojas de horas.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457334/?quality=12&learn=on&captions=spa)

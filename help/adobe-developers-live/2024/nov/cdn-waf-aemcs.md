@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Desbloquee todo el potencial de la CDN administrada por Adobe con reglas de CDN personalizables, protección de WAF y la canalización de configuración. Marius Petria, experto informático senior en Adobe, Quentin Vecchio, ingeniero de desarrollo de software en Adobe, y Florian Froese, ingeniero de desarrollo de software en Adobe, comparten estrategias para mejorar el rendimiento y la seguridad de las aplicaciones de Adobe Experience Manager as a Cloud Service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440605/?learn=on&enablevpops&captions=spa)
 
 ## Discusión de comunidad
 

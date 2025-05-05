@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Obtenga información más detallada sobre las opciones disponibles en el entorno de creación de Acrobat Sign. Los temas tratados incluyen: Información general sobre la preparación de las plantillas de documento de Acrobat Sign mediante Acrobat, etiquetado de texto y el entorno de creación de Acrobat Sign. Profundizar en el entorno de creación, que abarca la clonación frente a la copia de campos, la adición de campos especializados, la asignación de campos y la configuración de campos condicionales y de cálculo. Cómo enviar las plantillas para su firma, comparando la plantilla de documento con la plantilla de campo de formulario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455900/?learn=on&captions=spa)
 
 ## Puntos clave
 

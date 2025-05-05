@@ -80,7 +80,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Introducción de IA y Personalization a los Edge Delivery Services de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Introducción de IA y Personalization a los Edge Delivery Services de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440409/?format=jpeg&nocache=1733162925381&captions=spa" alt="Introducción de IA y Personalization a los Edge Delivery Services de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Configuración de CDN y WAF en Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Configuración de CDN y WAF en Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440605/?format=jpeg&nocache=1733162925358&captions=spa" alt="Configuración de CDN y WAF en Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager para Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager para Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440431/?format=jpeg&nocache=1733162926516&captions=spa" alt="Extension Manager para Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Modelo de migración de Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Modelo de migración de Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440442/?format=jpeg&nocache=1733162927528&captions=spa" alt="Modelo de migración de Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Prácticas recomendadas para la entrega con rendimiento" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Prácticas recomendadas para la entrega con rendimiento"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440420/?format=jpeg&nocache=1733162927540&captions=spa" alt="Prácticas recomendadas para la entrega con rendimiento"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

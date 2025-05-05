@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront: Abrir la nota principal
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454485/?learn=on&captions=spa)

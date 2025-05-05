@@ -25,4 +25,4 @@ ht-degree: 0%
 
 AEM La forma en que nos basamos en ella también requiere adaptación y sigue evolucionando para responder a los desafíos modernos. En esta sesión exploraremos nuevas formas de abordar tareas antiguas... haciendo que el esfuerzo del desarrollador sea más fácil que nunca.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426338/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456294/?learn=on&captions=spa)

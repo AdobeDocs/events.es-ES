@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Descubra cómo la función Enviar por lotes de Acrobat Sign puede ahorrarle tiempo. Si necesita que varias personas firmen copias únicas de una actualización de directivas en toda la empresa, un NDA o cualquier otro documento, Enviar en lote le permite preparar el archivo una vez, enviarlo a varios firmantes con un clic y rastrear fácilmente las respuestas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454894/?learn=on&captions=spa)
 
 ## Puntos clave
 

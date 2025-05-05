@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Nivelando hacia arriba: Educando al usuario casual de Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456687/?learn=on&captions=spa)

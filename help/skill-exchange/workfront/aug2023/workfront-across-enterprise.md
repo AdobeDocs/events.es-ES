@@ -31,4 +31,4 @@ Cómo han evolucionado tanto su proceso como su infraestructura con el paso del 
 Asesoramiento práctico para integrar Workfront en su pila tecnológica más amplia y madurar flujos de trabajo clave
 Cómo IPG está sentando las bases para la cadena de suministro de contenido
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456661/?learn=on&captions=spa)
