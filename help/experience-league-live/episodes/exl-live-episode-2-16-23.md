@@ -27,5 +27,5 @@ Los tiempos de carga del sitio y el rendimiento general tienen un impacto direct
 
 Vea el vídeo anterior para ver este evento de flujo en directo, en el que expertos en entrega de experiencias de Adobe analizaron qué considerar y qué pasos puede seguir para mejorar el rendimiento.
 
-**¿Tiene preguntas al respecto?** Continúe con la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) de Adobe Experience League.
+**¿Tiene preguntas al respecto?** Continúe con la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513?profile.language=es#M36836) de Adobe Experience League.
 

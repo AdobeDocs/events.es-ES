@@ -26,7 +26,7 @@ La versión 8 de Adobe Campaign tendrá un aspecto completamente nuevo. La exper
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continúe la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} de Adobe Experience League.
+Continúe la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=es#M2671){target="_blank"} de Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -49,6 +49,6 @@ La nueva interfaz de usuario web de Campaign es importante porque ofrece una exp
 * **[Interfaz de usuario web de Campaign: funciones clave](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=es){target="_blank"}**
   *Documentación detallada sobre lo que está disponible actualmente en la interfaz de usuario web de Adobe Campaign.*
 
-* **[Interfaz de usuario web de Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* **[Interfaz de usuario web de Adobe Campaign - Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=es){target="_blank"}**
   *Cómo crear vídeos y tutoriales sobre las características y capacidades de la interfaz de usuario web de Adobe Campaign.*
 

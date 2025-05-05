@@ -33,5 +33,5 @@ Jan Exner, Mgr. Consultor de administración, Adobe
 [Análisis web para desarrolladores](https://webanalyticsfordevelopers.com/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/es/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

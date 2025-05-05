@@ -33,5 +33,5 @@ AEM AEM Para maximizar la experiencia de la, es importante que ajuste bien la ca
 
 [Obtener archivo](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/es/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

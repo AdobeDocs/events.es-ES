@@ -26,7 +26,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Cree y administre una amplia gama de atractivos sitios web, aplicaciones móviles y formularios. Además, aprenda a crear experiencias de comercio multicanal en una sola plataforma con nuestra solución de comercio flexible con tecnología de IA.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sesiones de exploración</span>
     </a>
   </td>
@@ -38,7 +38,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Desarrolle perfiles de clientes en tiempo real extrayendo datos de todas las fuentes para crear recorridos personalizados en canales múltiples.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sesiones de exploración</span>
     </a>
   </td>
@@ -50,7 +50,7 @@ El Generador de habilidades es una serie de seminarios web diseñados para crear
     <p>
     <em>Impulse la personalización en tiempo real en cualquier canal mediante datos en línea y sin conexión en toda la organización.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sesiones de exploración</span>
     </a>
   </td>  

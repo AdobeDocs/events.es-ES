@@ -24,7 +24,7 @@ Introducción a los libros de reproducción de casos de uso: un catálogo proces
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=es#M488).
 
 >[!ENDSHADEBOX]
 
@@ -51,7 +51,7 @@ Un ejemplo de caso de uso que se analiza en esta sesión es un caso de uso de na
 
 ## Recursos adicionales
 
-* **[Resumen de manuales de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Resumen de manuales de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=es){target="_blank"}**
   *Los libros de reproducción de casos de uso pueden ayudarle a superar el problema que se produce al empezar a usar Real-Time CDP o Adobe Journey Optimizer, cuando es posible que no sepa exactamente por qué empezar o cómo crear los recursos adecuados para lograr los casos de uso deseados.*
 
 * **[Introducción a los manuales de casos de uso](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=es){target="_blank"}**

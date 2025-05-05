@@ -31,7 +31,7 @@ Automatice la salida de recursos para todos los canales y pantallas con Dynamic 
 
 ## Recursos
 
-*[Vídeos de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Vídeos de Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=es#dynamic-media)
 *[Guía de Kickstart de estrategia para medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guía de ajustes preestablecidos de imagen de estrategia de medios enriquecidos](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[La imagen es todo Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

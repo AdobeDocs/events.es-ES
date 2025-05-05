@@ -36,5 +36,5 @@ David Catalan, Desarrollador de QE, Adobe
 
 [Obtener archivo](assets/q-a-developer-mode-7-16-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/es/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

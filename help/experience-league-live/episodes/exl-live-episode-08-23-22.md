@@ -96,7 +96,7 @@ ht-degree: 0%
 
 <br> 
 
-Continúe la discusión sobre este tema en [discusión de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+Continúe la discusión sobre este tema en [discusión de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=es#M240).
 <br> 
 
 ## Sesiones adicionales de Experience League en directo de esta serie de recopilación de datos

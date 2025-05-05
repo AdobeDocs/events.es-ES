@@ -31,8 +31,8 @@ Entrega de la promesa de experiencia, con acceso a menos datos. Tanto si es un a
 
 ## Información adicional
 
-[Resumen de coincidencia de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Resumen de coincidencia de segmentos](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=es)
 
-[Audience Marketplace para compradores de datos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace para compradores de datos](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=es)
 
 [Destinos basados en personas](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=es)

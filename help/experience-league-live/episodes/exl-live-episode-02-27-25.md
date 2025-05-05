@@ -27,7 +27,7 @@ En esta sesión, hemos explorado:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Continúe con la discusión sobre la publicación de la comunidad [Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}**
+**Continúe con la discusión sobre la publicación de la comunidad [Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=es){target=“_blank”}**
 
 ## Recursos adicionales
 

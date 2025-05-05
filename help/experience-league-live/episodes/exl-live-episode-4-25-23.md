@@ -27,5 +27,5 @@ Si no tiene experiencia con las modernas herramientas de recopilación de datos 
 
 Inicie el vídeo anterior para ver una reproducción de este evento de flujo en directo.
 
-¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=es#M476).
 

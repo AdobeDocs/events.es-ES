@@ -26,8 +26,8 @@ Descubra la forma más reciente y fantástica (NUEVA) de migrar Adobe Analytics 
 
 Configuramos un flujo de datos en el perímetro de e instalamos y configuramos la extensión del SDK web en nuestra propiedad de etiquetas. Se muestra cómo migrar distintos tipos de reglas desde la extensión de Analytics al SDK web.
 
-Para hacer preguntas o establecer una interfaz con expertos en Adobe, así como con sus colegas, visite el [debate de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Para hacer preguntas o establecer una interfaz con expertos en Adobe, así como con sus colegas, visite el [debate de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538?profile.language=es){target="_blank"}.
 
-Para obtener más información, consulte [Implementar Adobe Analytics mediante el SDK web de Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Para obtener más información, consulte [Implementar Adobe Analytics mediante el SDK web de Adobe Experience Platform](https://experienceleague.adobe.com/es/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
 Para asistir a un próximo seminario web **sobre pasos estratégicos para implementar el SDK web**, regístrese [AQUÍ](https://engage.adobe.com/step_by_step_guide_implement.html).

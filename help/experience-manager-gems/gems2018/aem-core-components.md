@@ -24,7 +24,7 @@ Obtenga información acerca de los componentes principales y sus funciones relac
 
 Gabriel Walt, Product Manager, Adobe
 
-AEM [Documentación de componentes principales de](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+AEM [Documentación de componentes principales de](https://helpx.adobe.com/es/experience-manager/core-components/user-guide.html)
 
 AEM AEM Gems - Componentes principales de la - Fecha: 05/12/2018
 

@@ -31,12 +31,12 @@ Configurar una estrategia clara para optimizar la capacidad de detección.
 
 ## Recursos
 
-*[Usar esquemas de metadatos para administrar metadatos de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Usar esquemas de metadatos para administrar metadatos de recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=es)
 *[Ampliar esquemas de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=es)
 *[Optimizar la creación de metadatos con metadatos en cascada](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=es)
 *[Aplicar metadatos automáticamente a los recursos mediante perfiles de metadatos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=es)
-*[Esquemas de metadatos de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Administrar metadatos de recursos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Esquemas de metadatos de AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=es#administer)
+*[Administrar metadatos de recursos](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=es#RegisteringacustomnamespacewithinAEM)
 
 ## Grabaciones de series
 

@@ -25,7 +25,7 @@ En el acelerado panorama actual del marketing digital, descifrar cómo descubren
 * Introducción a los canales de marketing: Conozca la importancia de identificar y categorizar varios canales de marketing para comprender su impacto en la presencia digital.
 * Configuración de Adobe Analytics: obtenga conocimientos prácticos sobre la configuración de códigos de seguimiento de campaña, la captura de datos relevantes y la utilización de Adobe Launch para una recopilación de datos eficaz.
 
-  Para descargar la herramienta para generar códigos de seguimiento de campañas que se muestra en esta sesión, visite [Dominio de canales y atribución de marketing de Adobe Analytics](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) en perspectivas de Experience League.
+  Para descargar la herramienta para generar códigos de seguimiento de campañas que se muestra en esta sesión, visite [Dominio de canales y atribución de marketing de Adobe Analytics](https://experienceleague.adobe.com/es/perspectives/mastering-adobe-analytics-marketing-channels-attribution) en perspectivas de Experience League.
 
 * Reglas de clasificación y procesamiento: Descubra cómo utilizar el Generador de reglas de clasificación y configurar las Reglas de procesamiento de canal de marketing para una clasificación de fuentes de tráfico precisa.
 * Modelos de atribución: Explore los diferentes modelos de atribución disponibles en Adobe Analytics y cómo aplicarlos para medir y optimizar la eficacia de sus esfuerzos de marketing.

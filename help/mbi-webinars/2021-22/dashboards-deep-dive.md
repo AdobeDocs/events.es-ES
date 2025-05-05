@@ -35,5 +35,5 @@ Realice una visita guiada por los cuatro paneles incluidos en la configuración 
 
 ## Recursos útiles
 
-[Paneles](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Exportando datos de gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Paneles](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=es)
+[Exportando datos de gráfico](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=es)

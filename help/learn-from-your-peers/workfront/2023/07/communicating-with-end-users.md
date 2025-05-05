@@ -25,6 +25,6 @@ En este seminario web bajo demanda, Lyndsy Denk, directora de formación y capac
 * Sugerencias para decidir qué canales utilizar para sus comunicaciones
 * Cómo pensar en su estrategia de comunicación de una manera iterativa, empezando desde donde está y madurando a medida que avanza
 
-También puede descargar el &quot;Communications Cookbook&quot; con ideas y ejemplos de comunicaciones reales que sus colegas están compartiendo con sus usuarios aquí: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+También puede descargar el &quot;Communications Cookbook&quot; con ideas y ejemplos de comunicaciones reales que sus colegas están compartiendo con sus usuarios aquí: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=es
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

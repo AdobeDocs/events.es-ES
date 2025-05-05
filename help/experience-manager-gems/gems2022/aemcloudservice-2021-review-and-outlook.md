@@ -31,6 +31,6 @@ Este seminario web se realizó el 25 de enero de 2022 y fue presentado por Bertr
 
 >[!MORELIKETHIS]
 >
->* [Página de eventos del grupo de usuarios de Adobe Experience Manager correspondiente](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [Página de eventos del grupo de usuarios de Adobe Experience Manager correspondiente](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266?profile.language=es)
 >* [Subproceso contextual correspondiente](https://adobe.ly/3rqbSOz)
 >* Regístrese en [el grupo de usuarios de AEM de Adobe](https://aem-augs.adobe.com/) para recibir notificaciones sobre próximos seminarios web.

@@ -31,13 +31,13 @@ Aspectos básicos de la configuración y el uso de DAM.
 
 ## Recursos
 
-* [Guía del usuario para AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configurando la estructura de carpetas de los AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Guía del usuario para AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=es)
+* [Configurando la estructura de carpetas de los AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=es)
 * [Configurar permisos de carpeta de AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=es)
-* [Use colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Buscar recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Obtenga resultados de búsqueda precisos con las facetas de búsqueda dinámica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Sintaxis avanzada de búsqueda de texto completo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Use colecciones para organizar y compartir recursos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=es)
+* [Buscar recursos visualmente similares con aprendizaje automático](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=es)
+* [Obtenga resultados de búsqueda precisos con las facetas de búsqueda dinámica](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=es)
+* [Sintaxis avanzada de búsqueda de texto completo](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=es#using)
 
 ## Grabaciones de series
 

@@ -27,5 +27,5 @@ Con tantas demandas en su tiempo y atención, necesita poder crear y acceder a p
 
 Vea el vídeo anterior para ver este evento de flujo en directo, en el que los expertos de Adobe [!DNL Analytics] dieron buenos consejos para personalizar y acceder a las perspectivas en Analysis Workspace y en la aplicación de paneles de [!DNL Analytics].
 
-¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=es#M3037).
 

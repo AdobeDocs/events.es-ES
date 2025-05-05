@@ -27,5 +27,5 @@ La recopilación de datos es muy importante durante el Adobe. Debe poder confiar
 
 Vea el vídeo anterior para ver este evento de flujo en directo, en el que los expertos en recopilación de datos de Adobe ofrecieron un resumen de las actualizaciones recientes importantes, así como un vistazo a los próximos elementos de la hoja de ruta.
 
-¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+¿Tiene preguntas al respecto? Continúe la discusión sobre este tema en Adobe Experience League [Community post](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923?profile.language=es#M316).
 

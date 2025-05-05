@@ -24,5 +24,5 @@ Para lograr justamente eso, únase a nosotros para el debate en vivo con tres ex
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-Para discutir esta sesión, visite la [discusión en la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"}.
+Para discutir esta sesión, visite la [discusión en la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205?profile.language=es){target="_blank"}.
 

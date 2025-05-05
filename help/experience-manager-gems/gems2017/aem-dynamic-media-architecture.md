@@ -36,5 +36,5 @@ ht-degree: 0%
 
 [Obtener archivo](assets/dynamicmedia83017.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/es/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

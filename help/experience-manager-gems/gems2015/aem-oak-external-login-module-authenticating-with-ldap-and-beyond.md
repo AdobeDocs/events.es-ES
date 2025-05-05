@@ -28,5 +28,5 @@ Consulte el nuevo módulo de inicio de sesión externo de Apache Jackrabbit Oak.
 
 [Obtener archivo](assets/oak-ldap-cqgems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/es/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

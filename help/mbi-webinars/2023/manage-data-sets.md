@@ -33,5 +33,5 @@ Durante este seminario web grabado, aprenderá a calcular el retorno de la inver
 
 ## Recursos útiles
 
-[Un recorrido por el Administrador de Datas Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Conecte Sus Datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Un recorrido por el Administrador de Datas Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=es)
+[Conecte Sus Datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=es)

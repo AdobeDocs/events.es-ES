@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-Continuar la discusión sobre el [Foro de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Continuar la discusión sobre el [Foro de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=es#M3582).
 
 >[!ENDSHADEBOX]
 
