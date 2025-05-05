@@ -21,7 +21,7 @@ ht-degree: 0%
 # Reactivación con Workfront {#wake-up-with-workfront-recordings}
 
 + [Reactivación con Workfront](overview.md)
-+ {#2025} de 2025
++ de 2025{#2025}
    + [Preguntarme Cualquier Cosa](2025/ask-me-anything.md)
    + [Maximice la productividad con Workfront Fusion](2025/maximize-productivity.md)
    + [Optimizar y mantener su entorno](2025/optimize-maintain-environment.md)

@@ -13,7 +13,7 @@ ht-degree: 1%
 # Eventos de GEMS de Experience Manager {#experience-manager-gems-recordings}
 
 + [Información general](overview.md)
-+ {#gems2025} de 2025
++ de 2025{#gems2025}
    + [Introducción a CDN administrada por Adobe](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [Desbloquear el poder de AEM Sites: Domine las API de administración de contenido](gems2024/content-management-apis.md)
@@ -22,7 +22,7 @@ ht-degree: 1%
    + [Integración de repositorios privados de GitHub en AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
    + [Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Introducción a Edge Delivery Services para AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
-   + AEM [Introducción a la creación y los Edge Delivery Services de la](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [AEM Introducción a la creación y los Edge Delivery Services de la](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Crear tiendas en Edge Delivery Services en Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [APM de New Relic para AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
@@ -102,7 +102,7 @@ ht-degree: 1%
    + [AEM Visita técnica a escondidas](gems2015/aem-tech-sneak-peek.md)
    + [Sugerencias y trucos para la interfaz táctil de  [!DNL AEM Sites] Touch](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Seguimiento de las métricas de calidad del proyecto de JavaScript](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ {#gems2014} de 2014
++ de 2014{#gems2014}
    + [Implementar Adobe Analytics AEM en una instancia de local mediante el servicio en la nube de DTM](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [Cómo sacar el máximo partido a su paquete de funciones DAM](gems2014/aem-dam-feature-pack.md)
    + [Entrega de contenido administrado a sus aplicaciones nativas](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
@@ -119,7 +119,7 @@ ht-degree: 1%
    + [AEM Inmersión técnica en la plataforma de 6](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [AEM Descripción técnica de la plataforma 6](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM Personalización de la interfaz de usuario para el 6](gems2014/aem-user-interface-customization-for-aem6.md)
-+ {#gems2013} de 2013
++ de 2013{#gems2013}
    + [AEM Arquitectura de la plataforma 5.6](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [AEM Solución de problemas de CQ/5.6](gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [eCommerce Integration Framework](gems2013/aem-ecommerce-integration-framework.md)

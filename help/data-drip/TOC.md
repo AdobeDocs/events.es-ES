@@ -20,7 +20,7 @@ ht-degree: 0%
 # Goteo de datos {#data-drip-recordings}
 
 + [Goteo de datos](overview.md)
-+ {#2025} de 2025
++ de 2025{#2025}
    + [Conceptos básicos de Adobe Analytics y más](2025/adobe-analytics-basics-beyond.md)
    + [Canales de marketing y modelado de atribución](2025/marketing-channel-attribution-modeling.md)
 

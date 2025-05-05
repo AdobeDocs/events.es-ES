@@ -47,7 +47,7 @@ ht-degree: 4%
 + Marketo {#marketo}
    + Noviembre de 2024 {#nov2024}
       + [Auditorías de segmentación avanzada](marketo/nov2024/advanced-segmentation.md)
-   + {#sept2024} de septiembre de 2024
+   + de septiembre de 2024{#sept2024}
       + [Programas de participación de varias secuencias](marketo/sept2024/multi-stream-engagement-programs.md)
    + Julio de 2024 {#july2024}
       + [Mapa del experto en marketing: Estrategias, creación y análisis de campañas de Marketo](marketo/july2024/marketers-map-marketo-campaigns.md)
@@ -57,7 +57,7 @@ ht-degree: 4%
       + [Dominio de puntuación de persona con Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
    + Noviembre de 2023 {#nov2023}
       + [MARKETO ENGAGE y DYNAMIC CHAT](marketo/nov2023/dynamic-chat.md)
-   + {#sept2023} de septiembre de 2023
+   + de septiembre de 2023{#sept2023}
       + [Aumento de la capacidad de entrega de correo electrónico con Marketo Engage](marketo/sept2023/email-deliverability.md)
    + Junio de 2023 {#june2023}
       + [Seguimiento, análisis y optimización de campañas de marketing](marketo/june2023/marketing-campaigns.md)

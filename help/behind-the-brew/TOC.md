@@ -21,7 +21,7 @@ ht-degree: 13%
 
 + [Información general](overview.md)
 + Detrás de la preparación {#behind-the-brew}
-+ {#2025} de 2025
++ de 2025{#2025}
    + [App Builder de Adobe Developer](2025/app-builder.md)
    + [Adobe Commerce Intelligence (fka MBI)](2025/commerce-intelligence.md)
    + [Una profundización en la búsqueda en directo](2025/deep-dive-live-search.md)

@@ -35,7 +35,7 @@ Sarah Xu, evangelista de desarrolladores, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Solr como un índice de Oak AEM para el código de tiempo de trabajo {100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000](solr-as-an-oak-index-for-aem.md)
+>* [Solr como un índice de Oak AEM para el código de tiempo de trabajo &lbrace;100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000](solr-as-an-oak-index-for-aem.md)
 >* AEM [Desbloqueando Recursos De Análisis Más Potentes Con La Versión 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html) De.
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

@@ -56,7 +56,7 @@ ht-degree: 5%
       + [ROI de Analytics](analytics/oct2022/analytics-roi.md)
       + [Analytics Conozca los aspectos destacados de Experience Makers](analytics/oct2022/spotlight.md)
       + [Dominio del cinturón de herramientas de Adobe Analytics](analytics/oct2022/toolbelt.md)
-   + {#sept2022} de septiembre de 2022
+   + de septiembre de 2022{#sept2022}
       + [Primeros pasos](analytics/sept2022/getting-started.md)
       + [Análisis de los datos](analytics/sept2022/analyzing-the-data.md)
       + [Poniéndolo todo junto](analytics/sept2022/putting-it-all-together.md)
@@ -79,7 +79,7 @@ ht-degree: 5%
       + [Análisis de los datos](analytics/oct2021/analyze-data.md)
       + [Primeros pasos](analytics/oct2021/getting-started.md)
       + [Poniéndolo todo junto](analytics/oct2021/putting-all-together.md)
-   + {#sept2021} de septiembre de 2021
+   + de septiembre de 2021{#sept2021}
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Sugerencias y trucos para Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [Análisis de los datos](analytics/sept2021/analyze-data.md)
