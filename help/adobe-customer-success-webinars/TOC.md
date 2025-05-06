@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Seminarios web de éxito del cliente de Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
-+ de 2025{#2025}
++ 2025 {#2025}
    + [Adobe Digital Insights](2025/adobe-digital-insights.md)
    + [Integración de AEM y Workfront](2025/aem-workfront-integration.md)
    + [Crear páginas Web Efectivas](2025/build-effective-web-pages.md)
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [Modelo operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Dominio de la lógica secuencial](2025/mastering-sequential-logic.md)
    + [Optimización del rendimiento de AEM](2025/optimize-aem-performance.md)
+   + [El marketing más inteligente comienza aquí: integración de Google y Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization impulsado por IA de Adobe Target](2024/ai-personalization.md)
