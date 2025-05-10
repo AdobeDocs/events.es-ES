@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # Revolucionar la experiencia del seminario web: Descubra el impacto de los seminarios web interactivos
 
@@ -34,3 +34,10 @@ La campeona de Adobe Marketo Engage, Maria Cruz, ha aprovechado los seminarios w
 * **Los procesos automatizados ahorran tiempo** La transición a seminarios web interactivos permite la automatización de procesos como el enrutamiento de posibles clientes, las alertas de ventas y los seguimientos, lo que reduce el esfuerzo manual y acelera los flujos de trabajo.
 
 * **Crear libros de reproducción repetibles** La creación de un libro de reproducción repetible basado en las perspectivas y los conocimientos de los seminarios web puede ayudar a escalar los esfuerzos con seguridad y a mejorar las estrategias futuras de los seminarios web.
+
+## Recursos adicionales
+
+* Únase al [hilo de discusión](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) en la Comunidad de países de mercadotecnia, donde se publican preguntas y respuestas.
+* [Obtenga más información acerca de las características de GenAI en los seminarios web interactivos](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [Explorar aspectos básicos de seminarios web interactivos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Aprenda a utilizar los pods interactivos de seminarios web (encuestas, preguntas y respuestas, CTA)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
