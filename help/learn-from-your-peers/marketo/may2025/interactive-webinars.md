@@ -39,5 +39,5 @@ La campeona de Adobe Marketo Engage, Maria Cruz, ha aprovechado los seminarios w
 
 * Únase al [hilo de discusión](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) en la Comunidad de países de mercadotecnia, donde se publican preguntas y respuestas.
 * [Obtenga más información acerca de las características de GenAI en los seminarios web interactivos](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [Explorar aspectos básicos de seminarios web interactivos](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [Aprenda a utilizar los pods interactivos de seminarios web (encuestas, preguntas y respuestas, CTA)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [Explorar aspectos básicos de seminarios web interactivos](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [Aprenda a utilizar los pods interactivos de seminarios web (encuestas, preguntas y respuestas, CTA)](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
