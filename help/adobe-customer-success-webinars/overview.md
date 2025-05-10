@@ -352,7 +352,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Experimentación GenAI en AJO y su relación con Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1746904158667" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444462/?format=jpeg&nocache=1746904158667&captions=spa" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -699,7 +699,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1746904160228" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433671/?format=jpeg&nocache=1746904160228&captions=spa" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -860,7 +860,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Priorización del flujo de datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1746904160290" alt="Priorización del flujo de datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456808/?format=jpeg&nocache=1746904160290&captions=spa" alt="Priorización del flujo de datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1044,7 +1044,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Madurez de Personalization: la ruta hacia la hiperpersonalización" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1746904160344" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457348/?format=jpeg&nocache=1746904160344&captions=spa" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1090,7 +1090,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximización de la eficiencia: equipos lean y Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1746904160376" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457011/?format=jpeg&nocache=1746904160376&captions=spa" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1205,7 +1205,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Liderazgo estratégico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1746904160416" alt="Liderazgo estratégico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456786/?format=jpeg&nocache=1746904160416&captions=spa" alt="Liderazgo estratégico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1366,7 +1366,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1746904160472" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456709/?format=jpeg&nocache=1746904160472&captions=spa" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
