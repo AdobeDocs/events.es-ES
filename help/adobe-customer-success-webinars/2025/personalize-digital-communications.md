@@ -9,9 +9,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
+source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Descubra cómo AEM Forms puede ayudar a las organizaciones de servicios financie
    * El procesamiento en persona es 42 veces más costoso que el digital.
    * La incorporación de un cliente en persona cuesta 55 dólares más que en línea.
 
-* **Funciones de AEM Forms** AEM Forms es una solución integral que aumenta la eficiencia operativa y la experiencia de usuario excepcional. Las funciones clave incluyen formularios omnicanal, flujos de trabajo automatizados, comunicaciones personalizadas con los clientes e integración con Adobe Experience Cloud y AEM Sights. Estas capacidades ayudan a las organizaciones a reducir el abandono de formularios en un 63 %, aumentar el autoservicio en un 113 % y mejorar la velocidad de finalización de formularios en un 58 %.
+* **Funciones de AEM Forms** AEM Forms es una solución integral que aumenta la eficiencia operativa y la experiencia de usuario excepcional. Las funciones clave incluyen formularios omnicanal, flujos de trabajo automatizados, comunicaciones personalizadas con los clientes e integración con el ecosistema de Adobe Experience Cloud. Estas capacidades ayudan a las organizaciones a reducir el abandono de formularios en un 63 %, aumentar el autoservicio en un 113 % y mejorar la velocidad de finalización de formularios en un 58 %.
 
 * **Innovaciones en el diseño de formularios** La introducción de un diseñador basado en la nube simplifica la creación de formularios con la funcionalidad de arrastrar y soltar, fragmentos para contenido reutilizable e integración con modelos de datos. Esta herramienta modernizada reduce la dependencia de TI y permite actualizaciones más rápidas, lo que soluciona el tiempo de respuesta de ocho semanas para los cambios de formulario en algunas organizaciones.
 
