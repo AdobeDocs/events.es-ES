@@ -3,10 +3,10 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: e3f251f2b3030f4d9fdf072aee05be25f06d89b4
+source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 5%
+source-wordcount: '659'
+ht-degree: 9%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 5%
 
 + [Información general](overview.md)
 + Adobe Commerce {#commerce}
-   + Agosto de 2024 {#aug2024}
+   + Ago de 2024 {#aug2024}
       + [Presentación de apertura](commerce/aug2024/keynote.md)
       + [Mejora del rendimiento de Adobe Commerce](commerce/aug2024/commerce-performance.md)
       + [Extensibilidad efectiva](commerce/aug2024/extensibility.md)
       + [Maximización de SEO en flujos de trabajo de migración](commerce/aug2024/seo-migration-workflows.md)
       + [Personalización de la experiencia del cliente](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
-   + Agosto de 2024 {#aug2024}
+   + Ago de 2024 {#aug2024}
       + [Presentación de apertura](analytics/aug2024/keynote.md)
       + [Alertas y anotaciones](analytics/aug2024/alerts-annotations.md)
       + [Elementos destacados de Experience Makers](analytics/aug2024/spotlight-reporting-analysis.md)
@@ -32,7 +32,7 @@ ht-degree: 5%
       + [Descubrimiento de valiosas perspectivas](analytics/aug2024/uncover-valuable-insights.md)
       + [Uso de métricas calculadas](analytics/aug2024/calculated-metrics.md)
       + [Visualizaciones con Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
-   + Agosto de 2023 {#aug2023}
+   + Ago de 2023 {#aug2023}
       + [Todo acerca de los segmentos](analytics/aug2023/spotlight-segments.md)
       + [Análisis de los datos](analytics/aug2023/analyze-the-data.md)
       + [Educar al usuario casual de Workspace](analytics/aug2023/spotlight-workspace-user.md)
@@ -56,7 +56,7 @@ ht-degree: 5%
       + [ROI de Analytics](analytics/oct2022/analytics-roi.md)
       + [Analytics Conozca los aspectos destacados de Experience Makers](analytics/oct2022/spotlight.md)
       + [Dominio del cinturón de herramientas de Adobe Analytics](analytics/oct2022/toolbelt.md)
-   + de septiembre de 2022{#sept2022}
+   + Septiembre de 2022 {#sept2022}
       + [Primeros pasos](analytics/sept2022/getting-started.md)
       + [Análisis de los datos](analytics/sept2022/analyzing-the-data.md)
       + [Poniéndolo todo junto](analytics/sept2022/putting-it-all-together.md)
@@ -79,12 +79,12 @@ ht-degree: 5%
       + [Análisis de los datos](analytics/oct2021/analyze-data.md)
       + [Primeros pasos](analytics/oct2021/getting-started.md)
       + [Poniéndolo todo junto](analytics/oct2021/putting-all-together.md)
-   + de septiembre de 2021{#sept2021}
+   + Septiembre de 2021 {#sept2021}
       + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
       + [Sugerencias y trucos para Adobe Analytics](analytics/sept2021/tips-and-tricks.md)
       + [Análisis de los datos](analytics/sept2021/analyze-data.md)
       + [Primeros pasos](analytics/sept2021/getting-started.md)
-      + [SPA Navegación por los retos de la en Test Builder y Analysis Workspace](analytics/sept2021/navigate-spa.md)
+      + [Navegación por los desafíos de SPA en Test Builds &amp; Analysis](analytics/sept2021/navigate-spa.md)
       + [Poniéndolo todo junto](analytics/sept2021/putting-all-together.md)
    + Junio de 2021 {#jun2021}
       + [Sugerencias y trucos para Adobe Analytics](analytics/jun2021/tips-and-tricks.md)
@@ -97,34 +97,34 @@ ht-degree: 5%
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](aem/aug2024/keynote.md)
       + [AEM Sites con editor universal](aem/aug2024/universal-editor.md)
-      + [AEM Experiencias coherentes con la personalización y la gobernanza de la](aem/aug2024/customize-elements.md)
+      + [Experiencias coherentes con la personalización y la gobernanza de AEM](aem/aug2024/customize-elements.md)
       + [Estrategias de administración de recursos digitales](aem/aug2024/spotlight-dam-strategies.md)
       + [Administración de recursos Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
       + [Mejora de la cadena de suministro de contenido](aem/aug2024/spotlight-content-supply-chain.md)
-      + [SPA Enfoques de Master Headless y Editor de](aem/aug2024/headless-spa-editor.md)
+      + [Enfoques de Master Headless y SPA Editor](aem/aug2024/headless-spa-editor.md)
       + [Metadatos, estructura de contenido y taxonomía](aem/aug2024/dam-performance.md)
-      + [Print Production](aem/aug2024/print-production.md)
+      + [Producción de impresión](aem/aug2024/print-production.md)
    + Agosto de 2023 {#aug2023}
-      + Seguimiento de desarrollador {#developer-track}
-         + [AEM Kit de inicio para desarrolladores de](aem/aug2023/deploy-new-project.md)
+      + Seguimiento del desarrollador {#developer-track}
+         + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
          + [Creación de un sistema de estilos efectivo y escalable](aem/aug2023/scalable-style-system.md)
          + [Migrar a AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
          + [Correos electrónicos de marketing personalizados](aem/aug2023/personalized-marketing-emails.md)
-      + Seguimiento web {#webtrack}
-         + [Introducción a AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+      + Pista web {#webtrack}
+         + [Introducción a los AEM Assets](aem/aug2023/getting-started-aem-assets.md)
          + [Aprovechamiento de un DAM colaborativo](aem/aug2023/collaborative-dam.md)
          + [Escala de preparación para IA](aem/aug2023/metadata.md)
          + [Destacar](aem/aug2023/spotlight.md)
    + Agosto de 2022 {#aug2022}
-      + Seguimiento de desarrollador {#developer-track}
+      + Seguimiento del desarrollador {#developer-track}
          + [Elementos destacados de Experience Makers](aem/aug2022/spotlight.md)
-         + [AEM Campeón de la sesión de múltiples inquilinos](aem/aug2022/multi-tenancy.md)
-         + [AEM Componentes principales y sistemas de estilo](aem/aug2022/core-components.md)
-         + [AEM Ampliación de la interfaz sin encabezado con App Builder](aem/aug2022/app-builder.md)
+         + [Sesión de campeón de AEM de inquilinos múltiples](aem/aug2022/multi-tenancy.md)
+         + [Componentes principales y sistemas de estilos de AEM](aem/aug2022/core-components.md)
+         + [Ampliación de AEM sin encabezado con App Builder](aem/aug2022/app-builder.md)
       + Especialista en marketing/productor web {#marketer}
          + [El poder de la reutilización](aem/aug2022/reusability.md)
-         + [AEM Aumente el valor empresarial con la personalización de contenido en las](aem/aug2022/personalization.md)
-         + [AEM Maximizar la implementación de la](aem/aug2022/implementation.md)
+         + [Aumente el valor empresarial con la personalización de contenido en AEM](aem/aug2022/personalization.md)
+         + [Maximice la implementación de AEM](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](marketo/aug2024/keynote.md)
@@ -153,11 +153,11 @@ ht-degree: 5%
       + [Su hoja de ruta de Marketo](marketo/aug2021/marketo-roadmap.md)
    + Febrero de 2021 {#feb2021}
       + [Un salto de cuerda superior en objetos personalizados y velocidad](marketo/feb2021/custom-objects.md)
-      + [Adobe [!DNL Marketo Engage] Segmento Rockstar](marketo/feb2021/rockstar.md)
-      + [Creando programas dentro del Adobe  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Segmento Adobe [!DNL Marketo Engage] Rockstar](marketo/feb2021/rockstar.md)
+      + [Creando programas en Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [El poder de una campaña inteligente](marketo/feb2021/power-of-smart-campaign.md)
       + [Informes dentro de  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
-      + [Últimos Consejos Y Trucos Para Su Forms](marketo/feb2021/forms-tips-and-tricks.md)
+      + [Sugerencias Y Trucos De Ultimate Para Su Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](workfront/aug2024/keynote.md)
@@ -186,7 +186,6 @@ ht-degree: 5%
       + [Futuro de Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Aumentar el interés de los creadores de experiencia](workfront/apr2022/grow-track-spotlight.md)
       + [Descubra los aspectos destacados de Track Experience Makers](workfront/apr2022/learn-track-spotlight.md)
-      + [Fechas y plazos de los proyectos maestros](workfront/apr2022/projects-dates-timelines.md)
       + [Explicación de los objetos de Workfront](workfront/apr2022/understanding-objects.md)
 + Picaduras digitales {#digital-bites}
    + [Desbloquee la eficiencia operativa con el mejor modelo operativo de su clase](digital-bites/operational-model.md)
