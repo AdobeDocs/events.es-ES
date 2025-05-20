@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
 + 2025 {#2025}
-   + [Adobe Digital Insights](2025/adobe-digital-insights.md)
+   + [Estado de adopción digital y GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [Resultados de las vacaciones de 2024 y tendencias de 2025](2025/adobe-digital-insights.md)
    + [AEM con GenAI](2025/aem-genai.md)
    + [Integración de AEM y Workfront](2025/aem-workfront-integration.md)
    + [IA y ADOBE TARGET](2025/ai-adobe-target.md)
