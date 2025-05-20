@@ -7,9 +7,10 @@ feature: Content Analytics
 event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
+source-git-commit: d4bc02599900c0daea2fca4f19c4c68bf52ec410
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -18,15 +19,15 @@ ht-degree: 0%
 
 Únase a nosotros en un profundo seminario web de una hora en el que profundizaremos en el mundo transformador del análisis de contenido, con la tecnología de IA de vanguardia de Adobe. En esta sesión se explorará cómo el análisis de contenido puede revolucionar la forma de medir, comprender y optimizar el rendimiento del contenido.
 
-En esta sesión aprenderá a: 
-* Comprenda cómo IA analiza recursos (imágenes) y experiencias (texto, CTA) para identificar lo que resuena con su audiencia. 
+En esta sesión aprenderá a:
+* Comprenda cómo IA analiza recursos (imágenes) y experiencias (texto, CTA) para identificar lo que resuena con su audiencia.
 
-* Identifique los activos infrautilizados, reduzca la fatiga de contenido y optimice los presupuestos conectando el contenido a los KPI como las conversiones y las descargas. 
+* Identifique los activos infrautilizados, reduzca la fatiga de contenido y optimice los presupuestos conectando el contenido a los KPI como las conversiones y las descargas.
 
-* Descubra cómo Content Analytics revela las preferencias de audiencia para adaptar las experiencias a los usuarios. 
+* Descubra cómo Content Analytics revela las preferencias de audiencia para adaptar las experiencias a los usuarios.
 
-* Explore nuevas herramientas de Adobe, como miniaturas de recursos y vistas detalladas, para visualizar y actuar sobre las perspectivas de contenido. 
+* Explore nuevas herramientas de Adobe, como miniaturas de recursos y vistas detalladas, para visualizar y actuar sobre las perspectivas de contenido.
 
-[![ExL ACTIVO el 22 de mayo de 2025](assets/May-22-2025-WebBanner.jpg)](https://www.youtube.com/live/0ApnRRtZxeY)
+[![ExL ACTIVO el 22 de mayo de 2025](assets/May-22-2025-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-250522.html)
 
-**Haga clic en la imagen para establecer un recordatorio en YouTube**
+[**Regístrese ahora!**](https://engage.adobe.com/ExpLeagueLive-250522.html)
