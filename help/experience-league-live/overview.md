@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '214'
 ht-degree: 3%
 
 ---
@@ -26,20 +26,18 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 <table>
     <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE 22 de mayo" src="episodes/assets/May-22-2025-WebBanner.jpg">
+              <img alt="Experience League LIVE 28 de mayo" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-05-22-25.md">
                 <strong>Content Analytics: optimice el rendimiento con información de IA</strong>
               </a>
               <br/><em>con Shay O'Reilly, Jennifer Werkmeister y Doug Moore</em>
-              <br/><em>22 de mayo de 2025</em>
+              <br/><em>28 de mayo de 2025</em>
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE 22 de mayo" src="assets/WebBannerExLLive-June05-2025.png">
+              <img alt="Experience League LIVE 5 de junio" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-47-2025-06-05.md">
@@ -49,7 +47,19 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
               <br/><em>5 de junio de 2025</em>
             </div>
         </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
+              <img alt="Experience League LIVE 18 de junio" src="episodes/assets/exl-live-web-banner-20250618.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-06-18-25.md">
+                <strong>Límite de frecuencia principal y priorización de conflictos</strong>
+              </a>
+              <br/><em>con Sandra Hausmann, Ariel Sultan, Aaron Forrest y Keara Fausett</em>
+              <br/><em>18 de junio de 2025</em>
+            </div>
+        </td>
     </tr>
+
 </table>
 
 </div>
@@ -114,5 +124,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 

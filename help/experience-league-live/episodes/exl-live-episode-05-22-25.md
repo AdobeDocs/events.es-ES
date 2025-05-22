@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: d4bc02599900c0daea2fca4f19c4c68bf52ec410
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,6 @@ En esta sesión aprenderá a:
 
 * Explore nuevas herramientas de Adobe, como miniaturas de recursos y vistas detalladas, para visualizar y actuar sobre las perspectivas de contenido.
 
-[![ExL ACTIVO el 22 de mayo de 2025](assets/May-22-2025-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-250522.html)
+[![ExL ACTIVO el 22 de mayo de 2025](assets/ExL-LIVE-May-28-2025-WebBanner.jpg)](https://www.youtube.com/live/FSlE6HeCWyQ)
 
-[**Regístrese ahora!**](https://engage.adobe.com/ExpLeagueLive-250522.html)
+**Haga clic en la imagen anterior para establecer un recordatorio de YouTube.**
