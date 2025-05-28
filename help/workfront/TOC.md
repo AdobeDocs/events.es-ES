@@ -2,7 +2,8 @@
 user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
-source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
+solution: Workfront
+source-git-commit: 2dc76496062fdb4cf7b0c8bd09a1d1afd90fdb08
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -16,14 +17,14 @@ ht-degree: 0%
 + Administración {#administration}
    + [Pistas de auditoría y cumplimiento](user-groups/audit-trails-and-compliance.md)
    + [Automatización de flujos de trabajo con Workfront Fusion](user-groups/automating-workflows-with-workfront-fusion.md)
-   + [Agencias creativas: flujo de trabajo y proceso](user-groups/creative-agencies-workflows-and-process.md)
+   + [Agencias de Creative: flujo de trabajo y proceso](user-groups/creative-agencies-workflows-and-process.md)
    + [Aprovechamiento de Forms personalizado](user-groups/leveraging-custom-forms.md)
    + [Prácticas recomendadas para administradores de sistemas](user-groups/system-admin-best-practices.md)
    + [Mantenimiento del sistema de Workfront](user-groups/workfront-system-maintenance.md)
 + Agile {#agile}
    + [Agile en Marketing](user-groups/agile-in-marketing.md)
 + Informes y paneles {#reporting-and-dashboards}
-   + [Agencias creativas: informes y paneles](user-groups/creative-agencies-reporting-and-dashboards.md)
+   + [Agencias de Creative: Informes y paneles](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [Medición de calidad y participación](webinars/gauging-quality-and-engagement.md)
    + [Introducción a los informes de modo de texto](webinars/introduction-to-text-mode-reporting.md)
    + [Informes y paneles](user-groups/reporting-and-dashboards.md)
@@ -36,12 +37,12 @@ ht-degree: 0%
 + Revisar y aprobar el trabajo {#review-and-approve-work}
    + [Flujos de trabajo y aprobaciones de marketing](user-groups/marketing-workflows-and-approvals.md)
    + [Flujos de trabajo y aprobaciones de TI](user-groups/it-workflows-and-approvals.md)
-+ Hojas de horas {#timesheets}
++ Plantillas de horas {#timesheets}
    + [Uso de plantillas de horas en Workfront](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront Proof {#workfront-proof}
    + [Prácticas recomendadas para maximizar Workfront Proof](webinars/best-practices-to-maximize-workfront-proof.md)
    + [Seguimiento de las prácticas recomendadas de Workfront Proof](webinars/follow-up-to-workfront-proof-best-practices.md)
-   + [Agencias creativas: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+   + [Agencias de Creative: Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [Aprovechamiento de Workfront Proof](user-groups/leveraging-workfront-proof.md)
 + Colas de solicitudes y admisión {#request-queues-and-intake}
    + [Colas de solicitudes y Forms de admisión](user-groups/request-queues-and-intake-forms.md)
