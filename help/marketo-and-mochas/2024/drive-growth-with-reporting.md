@@ -1,7 +1,7 @@
 ---
 title: 'Marketo y Mochas: impulsar el crecimiento con informes (madurez Pt 3)'
-description: Únase a las asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, en la parte 3 de la serie de seminarios web Marketo Madurez, para explorar cómo aprovechar las herramientas de creación de informes de Marketo para impulsar el crecimiento empresarial, supervisar el rendimiento y ofrecer métricas impactantes con preguntas y respuestas en directo.
-solution: Marketo
+description: Únase a las asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, en la tercera parte de la serie de seminarios web sobre madurez de Marketo, que exploran cómo aprovechar las herramientas de creación de informes de Marketo para impulsar el crecimiento empresarial, supervisar el rendimiento y ofrecer métricas impactantes con preguntas y respuestas en directo.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -33,8 +33,8 @@ Vencimiento La parte 3 es la tercera parte de la serie Vencimiento de Marketo, q
 ## Presentadores
 
 * Cynthia Chang y Carly Gaver fueron las presentadoras.
-* Cynthia ha estado con Adobe durante dos años, anteriormente trabajando en consultoría y como cliente de Marketo.
-* Carly lleva tres años trabajando en Adobe, con experiencia en marketing digital y automatización de marketing.
+* Cynthia ha trabajado en Adobe durante dos años, anteriormente en consultoría y como cliente de Marketo.
+* Carly lleva tres años trabajando para Adobe, con experiencia en marketing digital y automatización de marketing.
 
 ## Puntos clave
 
@@ -53,7 +53,7 @@ Vencimiento La parte 3 es la tercera parte de la serie Vencimiento de Marketo, q
 ### Problemas comunes y soluciones
 
 * **Registro de campaña pendiente** provocado por la acumulación de varios procesos, demasiadas campañas de déclencheur y listas inteligentes ineficientes.
-* **Problemas de sincronización de CRM** Los problemas comunes incluyen permisos, validación de campos, límite de CPU Apex y cambios en los valores de la lista de selección.
+* **Problemas de sincronización de CRM** Los problemas más comunes incluyen permisos, validación de campos, límite de Apex CPU y cambios en los valores de la lista de selección.
 * **Acceso y control de usuarios**: audite regularmente el acceso de los usuarios y garantice el cumplimiento de las prácticas recomendadas de gobernanza.
 
 ### Informes avanzados y análisis

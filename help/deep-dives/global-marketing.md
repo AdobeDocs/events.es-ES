@@ -1,7 +1,7 @@
 ---
 title: 'Desbloquear el marketing global con Marketo Engage: Adobe Champion Deep Dive, agosto de 2024'
-description: Únase a August Deep Dive para desbloquear el marketing global con Marketo Engage, lo que abarca la estructuración de datos, el cumplimiento legal, la compatibilidad de campañas con segmentaciones, fragmentos de código, contenido dinámico y mucho más, con perspectivas sobre la optimización de espacios de trabajo y particiones para varias marcas e instancias.
-solution: Marketo
+description: Únase a August Deep Dive para desbloquear el marketing global con Marketo Engage, que cubre la estructuración de datos, el cumplimiento legal, la compatibilidad de campañas con segmentaciones, fragmentos, contenido dinámico y mucho más, con perspectivas sobre la optimización de espacios de trabajo y particiones para varias marcas e instancias.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
 exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Su organización está preparada para aprovechar Marketo Engage para admitir var
 
 ### Importancia del marketing global
 
-* Se trata sobre el uso de Marketo Engage para varios idiomas, países, unidades de negocio y productos.
+* Se trata el uso de Marketo Engage para varios idiomas, países, unidades de negocio y productos.
 * Enfatizó el alcance, los requisitos y el cumplimiento de los requisitos legales.
 * Se han destacado complejidades como los matices culturales, las consideraciones lingüísticas y el mantenimiento de un mensaje coherente pero relevante a nivel local.
 
@@ -53,4 +53,4 @@ Su organización está preparada para aprovechar Marketo Engage para admitir var
 
 * Perspectivas sobre la optimización de espacios de trabajo y particiones para varias marcas e instancias.
 
-Este seminario web proporciona directrices completas sobre estrategias de marketing globales, utilización de Marketo Engage, prácticas recomendadas de administración de datos, conformidad con la privacidad y personalización de contenido de correo electrónico para campañas globales eficaces.
+Este seminario web proporciona directrices completas sobre las estrategias de marketing globales, la utilización de Marketo Engage, las prácticas recomendadas de administración de datos, el cumplimiento de la privacidad y la personalización de contenido de correo electrónico para campañas globales eficaces.

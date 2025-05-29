@@ -1,20 +1,20 @@
 ---
 title: Domine los recorridos complejos de los clientes con los programas de participación de varias secuencias
 description: Explore cómo interactuar y nutrir sistemáticamente las relaciones con los clientes con programas de participación de múltiples flujos y múltiples contactos en cada paso de su recorrido. Los programas de participación le permiten conocer las necesidades y el comportamiento de sus clientes y proporcionarles el recorrido y el contenido necesarios.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Experienced
 doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
-
 
 # Domine los recorridos complejos de los clientes con los programas de participación de varias secuencias
 
@@ -36,8 +36,8 @@ En esta sesión de Aprendizaje de compañeros se ha hablado de la configuración
 
 ## Recursos a los que se hace referencia en esta presentación
 
-* [Explicación de los programas de participación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [Explicación de la puntuación de participación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [Agregar un programa a un flujo de programa de participación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [Descripción general de la biblioteca de importación de programas](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [Explicación de los programas de participación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [Explicación de la puntuación de participación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [Agregar un programa a un flujo de programa de participación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [Descripción general de la biblioteca de importación de programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [Hilo de discusión de la comunidad de Marketing Nation](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

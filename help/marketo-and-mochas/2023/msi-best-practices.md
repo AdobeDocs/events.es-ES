@@ -1,7 +1,7 @@
 ---
 title: Optimización y prácticas recomendadas de MSI
 description: Libere todo el potencial de las perspectivas de ventas (MSI) de Marketo con Cynthia Chang y James Leedom a medida que profundizan en funciones clave, integración de Salesforce, administración de licencias y estrategias para impulsar la eficacia de ventas y marketing.
-solution: Marketo
+solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -12,7 +12,7 @@ jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
 duration: 3615
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

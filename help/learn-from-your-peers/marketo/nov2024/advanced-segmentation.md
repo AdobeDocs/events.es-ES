@@ -1,7 +1,7 @@
 ---
 title: 'Auditorías de segmentación avanzada: garantía de precisión y rendimiento en Marketo Engage'
 description: Únase al campeón de Adobe Marketo Engage, Darshil Shah, para dominar las auditorías de segmentación avanzadas, aprender a optimizar las estrategias de segmentación, alinearse con los comportamientos de los clientes, mantener el cumplimiento del RGPD y mejorar el rendimiento de marketing mediante prácticas recomendadas y actualizaciones en tiempo real.
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -73,8 +73,8 @@ En este seminario web aprenderá sobre lo siguiente:
 
 * [Diapositivas de presentación](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
 * Únase a la conversación [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} sobre la Comunidad de Países de Marketing
-* [Crear una segmentación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [Editar una segmentación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* [Crear una segmentación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [Editar una segmentación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Serie de éxito de Marketo Engage: [Segmentación](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [Actualizaciones de la comprobación de estado de la segmentación](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"}: sugerencias y trucos para mantener actualizada la segmentación
-* [Informe de rendimiento del correo electrónico](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [Informe de rendimiento del correo electrónico](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
