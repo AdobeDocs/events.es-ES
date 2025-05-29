@@ -8,26 +8,32 @@ event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+source-git-commit: 2e75e6b36e806ef9958dc76f7b832f15b69d8a02
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
 # Content Analytics: Optimización del rendimiento con perspectivas de IA
 
-Únase a nosotros en un profundo seminario web de una hora en el que profundizaremos en el mundo transformador del análisis de contenido, con la tecnología de IA de vanguardia de Adobe. En esta sesión se explorará cómo el análisis de contenido puede revolucionar la forma de medir, comprender y optimizar el rendimiento del contenido.
+Nuestros expertos, que se emitieron por primera vez el 28 de mayo de 2025, analizaron el mundo transformador del análisis de contenido, impulsado por la tecnología de IA de vanguardia de Adobe. Content Analytics revoluciona la forma de medir, comprender y optimizar el rendimiento del contenido.
 
-En esta sesión aprenderá a:
-* Comprenda cómo IA analiza recursos (imágenes) y experiencias (texto, CTA) para identificar lo que resuena con su audiencia.
+En esta sesión, hemos explorado:
 
-* Identifique los activos infrautilizados, reduzca la fatiga de contenido y optimice los presupuestos conectando el contenido a los KPI como las conversiones y las descargas.
+* Cómo analiza la IA los recursos (imágenes) y las experiencias (texto, CTA) para identificar lo que resuena en su audiencia.
+* Descubra cómo identificar los activos infrautilizados, reducir la fatiga de contenido y optimizar los presupuestos conectando el contenido a KPI como conversiones y descargas.
+* Descubrió cómo Content Analytics revela las preferencias de audiencia para adaptar las experiencias a los usuarios.
+* Se han explorado nuevas herramientas de Adobe, como miniaturas de recursos y vistas detalladas, para visualizar y actuar sobre las perspectivas de contenido.
 
-* Descubra cómo Content Analytics revela las preferencias de audiencia para adaptar las experiencias a los usuarios.
+>[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
-* Explore nuevas herramientas de Adobe, como miniaturas de recursos y vistas detalladas, para visualizar y actuar sobre las perspectivas de contenido.
+>[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-[![ExL ACTIVO el 22 de mayo de 2025](assets/ExL-LIVE-May-28-2025-WebBanner.jpg)](https://www.youtube.com/live/FSlE6HeCWyQ)
+Continúe con la discusión sobre el [Foro de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
 
-**Haga clic en la imagen anterior para establecer un recordatorio de YouTube.**
+>[!ENDSHADEBOX]
+
+## Recursos adicionales
+
+[Vídeos de Content Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
