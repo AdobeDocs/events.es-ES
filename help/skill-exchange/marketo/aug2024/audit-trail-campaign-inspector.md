@@ -26,4 +26,4 @@ En esta sesión, aprenderá lo siguiente:,
 * Prácticas recomendadas para utilizar la pista de auditoría, incluidos qué comprobar, con qué frecuencia y por qué importa, junto con las ventajas adicionales de la última versión de junio de 2024.
 * Cómo utilizar el Inspector de campaña para revisar regularmente las campañas inteligentes, lo que incluye qué buscar (volumen, lote frente a déclencheur, campañas de déclencheur de alta latencia que podrían ralentizar la instancia, etc.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456954/?learn=on&captions=spa)
