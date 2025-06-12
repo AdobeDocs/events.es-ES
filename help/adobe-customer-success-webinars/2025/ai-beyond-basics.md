@@ -26,4 +26,4 @@ Puntos clave de debate
 * Examine los casos de uso clave, la aplicación de las capacidades y las sugerencias y trucos para la progresión de la madurez.
 * Analice las próximas funciones y mejoras de la herramienta
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463361/?learn=on&enablevpops&captions=spa)
