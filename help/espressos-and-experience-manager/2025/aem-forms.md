@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms mejora la gestión del rendimiento al ofrecer eficiencia operativa y experiencias de usuario excepcionales. Entre las ventajas principales se incluyen el aumento de las tasas de cumplimentación de formularios, las tasas de conversión, la mejora de la experiencia del usuario y la reducción de los errores del cliente. Las funciones abarcan formularios omnicanal, flujos de trabajo automatizados, comunicaciones interactivas con los clientes e integración con Adobe Experience Cloud, compatibles con IA para mejorar la personalización. Los impactos comerciales incluyen un aumento del 2,5 veces en las tasas de conversión de inscripciones en línea, una edición de formularios un 85 % más rápida y una disminución del 50 % en los errores de los clientes. El rendimiento nativo de la nube garantiza que los formularios sean actuales, escalables, seguros y disponibles. Las innovaciones incluyen la creación basada en documentos, los formularios conversacionales y la compatibilidad con editores universales. La IA ayuda a crear formularios, automatizar pruebas y mejorar la eficacia. Acceda a las primeras innovaciones poniéndose en contacto con Adobe. Las sesiones de la cumbre incluyen liderazgo mental, innovaciones de primer nivel y estudios de casos. Acceda a recursos, regístrese en la cumbre y póngase en contacto con los administradores de cuentas de soluciones para obtener más ayuda.
+title: Espressos y Experience Manager - AEM Forms
+description: AEM Forms aumenta el rendimiento con formularios omnicanal, personalización con tecnología de IA y escalabilidad nativa de la nube, lo que impulsa conversiones de 2,5 veces, ediciones un 85 % más rápidas y un 50 % menos de errores.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

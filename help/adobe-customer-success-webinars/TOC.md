@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
 + 2025 {#2025}
+   + [Automatización de la unidad IA en Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [AI: más allá de lo básico](2025/ai-beyond-basics.md)
+   + [Optimización de experiencias digitales con perspectivas de IA](2025/accelerating-digital-experience-optimization.md)
+   + [Dominio del Digital Asset Manager en AEM Content Hub](2025/mastering-dam-aem-content-hub.md)
+   + [Tendencias digitales y preparación para el futuro](2025/digital-trends-preparing-future.md)
+   + [Arquitectura Northstar](2025/northstar-architecture.md)
+   + [New Relic Essentials para AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
    + [Estado de adopción digital y GenAI](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [Resultados de las vacaciones de 2024 y tendencias de 2025](2025/adobe-digital-insights.md)
    + [AEM con GenAI](2025/aem-genai.md)
