@@ -30,6 +30,6 @@ Esta sesión es ideal para los especialistas en marketing, los equipos de operac
 
 Vea estos tutoriales:
 
-* [Identificar posibles conflictos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [Asignar puntuaciones de prioridad a acciones entrantes](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[límite y priorización de frecuencia de Recorrido](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [Identificar posibles conflictos](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [Asignar puntuaciones de prioridad a acciones entrantes](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[límite y priorización de frecuencia de Recorrido](https://experienceleague.adobe.com/es/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
