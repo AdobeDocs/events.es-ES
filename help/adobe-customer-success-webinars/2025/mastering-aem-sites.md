@@ -1,5 +1,5 @@
 ---
-title: 'Dominio de AEM Sites: Guía para principiantes sobre plantillas, navegación y SEO'
+title: 'Dominio de AEM Sites: plantillas, navegación y SEO'
 description: 'Conozca los aspectos básicos de AEM Sites: cómo utilizar plantillas de página, diseñar una navegación intuitiva y aplicar prácticas de SEO clave para aumentar la visibilidad y el rendimiento del sitio.'
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ Esta sesión proporciona una comprensión básica de tres aspectos esenciales de
 * Navegación fácil de usar para una experiencia de sitio óptima
 * Establecimiento de las bases de SEO en AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464318/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
