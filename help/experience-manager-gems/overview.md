@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sesiones de GEM de AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -36,17 +36,41 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
 
 <!-- CARDS
 
+* gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Maximize the impact of your web experience with AEM Sites Optimizer">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="gems2025/maximize-impact-with-sites-optimizer.md" title="GEMS de AEM: maximice el impacto de su experiencia web con AEM Sites Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464069/?format=jpeg&nocache=1751034389257" alt="GEMS de AEM: maximice el impacto de su experiencia web con AEM Sites Optimizer"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" title="GEMS de AEM: maximice el impacto de su experiencia web con AEM Sites Optimizer">GEMS de AEM: maximice el impacto de su experiencia web con AEM Sites Optimizer</a>
+                    </p>
+                    <p class="is-size-6">Descubra cómo Sites Optimizer utiliza la IA para impulsar el rendimiento del sitio, la SEO y la participación del usuario con perspectivas y recomendaciones en tiempo real para los equipos de marketing y desarrollo.</p>
+                </div>
+                <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Getting started with Adobe Managed CDN">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2025/getting-started-adobe-managed-cdn.md" title="GEM de AEM: Introducción a CDN administrada por Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1739484199651" alt="GEM de AEM: Introducción a CDN administrada por Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1751034389279" alt="GEM de AEM: Introducción a CDN administrada por Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +110,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/aem-authoring-and-edge-delivery.md" title="Introducción a AEM Authoring y Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1739484200021" alt="Introducción a AEM Authoring y Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1751034389807" alt="Introducción a AEM Authoring y Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +133,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/content-management-apis.md" title="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1739484200038" alt="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1751034389752" alt="GEM de AEM: desbloqueo del poder de AEM Sites: Domine las API de administración de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +156,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-assets.md" title="Integración de AEM Assets con Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1739484200051" alt="Integración de AEM Assets con Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1751034389820" alt="Integración de AEM Assets con Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +179,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/edge-delivery-for-aem-forms.md" title="Introducción a Edge Delivery Services para AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1739484200089" alt="Introducción a Edge Delivery Services para AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1751034389770" alt="Introducción a Edge Delivery Services para AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +202,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" title="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1739484200062" alt="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1751034389783" alt="Mejora de la experiencia del desarrollador para AEM Assets con nuestras nuevas API y eventos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +225,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/private-github-for-aem-cloud-manager.md" title="Integración de repositorios privados de GitHub en AEM Cloud Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1739484200072" alt="Integración de repositorios privados de GitHub en AEM Cloud Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1751034389832" alt="Integración de repositorios privados de GitHub en AEM Cloud Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +248,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/rapid-development-environment-news.md" title="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1739484200081" alt="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1751034389733" alt="¿Qué novedades hay en los entornos de desarrollo rápido para AEM?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +271,7 @@ Los seminarios web se celebran periódicamente.  Sugerencias importantes,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" title="Crear tiendas en Edge Delivery Services con Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1739484200100" alt="Crear tiendas en Edge Delivery Services con Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1751034389795" alt="Crear tiendas en Edge Delivery Services con Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +329,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/es/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -324,7 +348,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=es) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
