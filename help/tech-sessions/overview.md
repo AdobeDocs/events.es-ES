@@ -3,10 +3,10 @@ title: Sesiones técnicas de Experience Cloud
 description: Mejore sus habilidades con Adobe Experience Cloud con sesiones técnicas en directo y bajo demanda dirigidas por expertos en Adobe. Obtenga consejos y estrategias útiles en cualquier momento para disfrutar de una experiencia de aprendizaje perfecta.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Desbloquee todo el potencial de Adobe Experience Cloud con sesiones técnicas en directo y bajo demanda. Estos seminarios web están cuidadosamente diseñados para ir más allá del soporte tradicional. Dirigidas por expertos experimentados en Adobe, las sesiones proporcionan valiosos consejos, trucos y estrategias para ayudarle a navegar por las soluciones técnicas con confianza, evitando así obstáculos comunes. Los expertos de Adobe son ingenieros de asistencia técnica que abordan los principales problemas y trabajan activamente en los casos diarios. Con las opciones en directo y bajo demanda, tiene la flexibilidad de acceder a la información cuando la necesite, lo que garantiza una experiencia de aprendizaje sin problemas.
 
-## Sesiones de 2054
+## Sesiones de 2025
 
 <!-- CARDS
 {cta = Watch}
