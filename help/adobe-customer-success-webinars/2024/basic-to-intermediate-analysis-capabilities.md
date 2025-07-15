@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Analytics y CJA: Inicio rápido para las funciones de análisis básico a intermedio
 
-Obtenga información sobre cómo empezar rápidamente con Adobe Analytics y Customer Journey Analytics (CJA) para apoyar sus actividades de marketing con decisiones basadas en datos: Aprenda a configurar su organización para capacidades de análisis sólidas, comprenda cuándo usar mejor qué solución de análisis y asigne las capacidades de Analytics y CJA a niveles de madurez de análisis para crear informes de marketing clave.
+Obtenga información sobre cómo empezar rápidamente a usar Adobe Analytics y Customer Journey Analytics (CJA) para admitir sus actividades de marketing con decisiones basadas en datos: Aprenda a configurar su organización para capacidades de análisis sólidas, comprenda cuándo usar mejor qué solución de análisis y asigne las capacidades de Analytics y CJA a niveles de madurez de análisis para crear informes de marketing clave.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Obtenga información sobre cómo empezar rápidamente con Adobe Analytics y Cust
 
 * **Introducción a los oradores**
    * Frederick, director de éxito del cliente sénior de Adobe, presentó la sesión.
-   * La Dra. Kirsten Schaffer, directora de Éxito del Cliente en Adobe, es la presentadora.
+   * La Dra. Kerstin Schäfer, Estratega principal de éxito del cliente en Adobe, es la presentadora.
 
 * **Contenido de la sesión**
    * La sesión cubre la configuración de una organización para funcionalidades analíticas sólidas, aspectos de gobernanza y rutas de ejecución para análisis y Customer recorrido Analytics.
@@ -38,7 +38,7 @@ Obtenga información sobre cómo empezar rápidamente con Adobe Analytics y Cust
 
 * **Temas clave tratados**
    * **Fuerzas externas e internas** que afectan el análisis digital, incluidos los cambios de mercado, la privacidad y la gobernanza, la democracia de datos y la complejidad de los datos.
-   * **Creación de una base analítica sólida** Estrategia de medición, recopilación de datos, perspectiva y análisis, aprendizaje y administración de datos.
+   * **Creación de una base analítica sólida** Estrategia de medición, recopilación de datos, insight y análisis, aprendizaje y administración de datos.
    * **Configuración de un equipo de análisis digital** Funciones y responsabilidades, creación de un equipo híbrido y administración eficaz de las solicitudes de análisis.
    * **Opciones de habilitación de Adobe** Experience League, cursos a petición, clases basadas en instructores, soporte de la comunidad.
 
