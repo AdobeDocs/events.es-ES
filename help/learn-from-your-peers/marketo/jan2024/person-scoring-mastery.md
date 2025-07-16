@@ -37,6 +37,6 @@ En este seminario web, aprenderá lo siguiente:
 * Hilo del seminario web de la comunidad Marketing Nation - [Debate](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Puntuación de persona/posible cliente con ejercicios de influencia local: [Descargar hoja de cálculo](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * La gran lista de reglas de puntuación de posibles clientes - [Ver hoja de cálculo](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Biblioteca de importación de programas de Marketo Engage: [Documentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Biblioteca de importación de programas de Marketo Engage: [Documentación](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=es){target="_blank"}
 * Puntuación de posibles clientes: todo lo que debe saber sobre el proceso antes, durante y después: [Seminario web bajo demanda](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * El campeón se hace cargo de la puntuación de posibles clientes - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
