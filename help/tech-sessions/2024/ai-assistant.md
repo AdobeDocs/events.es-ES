@@ -1,14 +1,15 @@
 ---
 title: Impulse su productividad con el asistente de IA en Adobe Experience Platform
-description: Únase a Rachel Hanessian y Ariel Sultan para asistir a un detallado seminario web en el que aprenderá a configurar, comenzar y explorar casos de uso con el asistente de IA para aumentar la productividad en Real-Time CDP, Journey Optimizer y Customer Journey Analytics.
+description: Únase a Rachel Hanessian y Ariel Sultan en un seminario web profundo, donde aprenderá a configurar, comenzar y explorar casos de uso con AI Assistant para aumentar la productividad en Real-Time CDP, Journey Optimizer y Customer Journey Analytics.
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%

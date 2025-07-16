@@ -2,19 +2,20 @@
 title: 'Adobe Pass: nueva API de REST v2'
 description: Esta sesión se centra en la introducción de la nueva API REST v2 de Adobe y en guiar a los usuarios a través de su proceso de migración.
 role: Developer
+solution: Pass
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 3230
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17685
 hidefromtoc: true
-source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
+exl-id: 745411bb-48d7-4410-a236-d02c2927ac1b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Pass: nueva API de REST v2
 
@@ -56,4 +57,3 @@ Esta sesión se centra en la introducción de la nueva API REST v2 de Adobe y en
    * La API de REST 2 requiere volver a autenticarse, ya que no es compatible con la versión 1.
    * La preautorización se realiza con fines de interfaz de usuario, mientras que la autorización es necesaria para los tokens de medios.
    * SSO es compatible mediante un nuevo token de servicio de Adobe.
-

@@ -1,19 +1,20 @@
 ---
 title: Seminario web sobre administración de usuarios
 description: Únase a nuestro seminario web bajo demanda para dominar la configuración y organización de los usuarios de Workfront. Conozca a los expertos de Thermo Fisher Scientific y Adobe Workfront acerca de las licencias, los niveles de acceso, los grupos, los equipos, la jerarquía de objetos, los permisos de uso compartido y las prácticas recomendadas para una administración eficaz de los usuarios.
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # Explicación de la administración de usuarios
 

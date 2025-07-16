@@ -4,16 +4,17 @@ description: Obtenga información de profesionales experimentados sobre cómo ha
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Sugerencias para hacerse cargo de una instancia de Workfront existente
 
@@ -25,6 +26,6 @@ En este seminario web bajo demanda, Jace Newbold, responsable de consultoría en
 * Lo que cada administrador debe hacer hoy para prepararse a sí mismos (y a los futuros administradores) para el éxito
 * Una lista de comprobación descargable con preguntas, recursos y vínculos para guiarle a través del proceso de auditoría y documentación de su instancia
 
-Asegúrese de consultar también la Lista de comprobación de instancias heredadas y el modelo: https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Asegúrese de consultar también la Lista de comprobación de instancias heredadas y el modelo: https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

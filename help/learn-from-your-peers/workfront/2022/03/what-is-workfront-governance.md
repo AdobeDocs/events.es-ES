@@ -3,17 +3,18 @@ title: ¿Qué ES Workfront Governance?
 description: Explore la gobernanza en Workfront con nuestro seminario web bajo demanda. Aprenda de los expertos de Mayo Clinic College of Medicine y Workfront sobre el inicio de prácticas pequeñas y en evolución, y su recorrido con la gobernanza integral.
 role: Admin
 level: Beginner, Intermediate, Experienced
+solution: Workfront
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # ¿Qué ES Workfront Governance?
 

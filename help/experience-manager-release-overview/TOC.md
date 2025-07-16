@@ -3,7 +3,8 @@ user-guide-title: Información general sobre la versión Adobe Experience Manage
 user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service
 breadcrumb-title: Actualizaciones de la versión de AEM CS
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+solution: Experience Manager
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 4%
