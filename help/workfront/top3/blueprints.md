@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ¡Oigan todos! Soy yo, su &quot;On-Demand Workfront CSM&quot; y estoy de vuelta con otro Top 3 de Vídeo!  Esta vez hablemos de [modelos](https://experienceleague.adobe.com/es/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Probablemente me haya oído decir que los modelos son el atajo a su &quot;trabajo de Workfront&quot;, pero ¿cuáles son las otras formas de utilizar modelos para realizar un seguimiento rápido de sus necesidades empresariales?
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465313/?learn=on&enablevpops&captions=spa)
 
 Si desea experimentar primero antes de instalar cualquier elemento en Producción, no se preocupe.  Primero juega con ellos en tu [entorno de vista previa de espacio aislado](https://experienceleague.adobe.com/es/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment).
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Aprenda a ampliar la funcionalidad de Adobe Experience Manager para autores en superficies de edición sin encabezado y el editor universal con Iryna Lagno, ingeniera de software senior de Adobe. Habilite las extensiones de IU entre organizaciones e incluso publíquelas para que otras puedan aprovecharlas a través de Extension Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440431/?learn=on&enablevpops&captions=spa)
 
 ## Discusión de comunidad
 
