@@ -1,7 +1,7 @@
 ---
 title: Crear tiendas en Edge Delivery Services con Adobe Commerce
 description: El seminario web de AEM GEM le enseñará a crear una tienda de alto rendimiento en Edge Delivery Services para Adobe Commerce, que abarque la configuración del proyecto, la integración de Commerce SaaS, los componentes front-end personalizables y las nuevas funciones de creación para mejorar las experiencias de Commerce.
-solution: Experience Manager
+solution: Experience Manager, Commerce
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
 exl-id: 6294fa1b-4807-484b-ac51-f01bb1dd9656
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%

@@ -3,6 +3,7 @@ title: Conceptos básicos de AEM Introducción a la creación de AEM Conceptos y
 description: La sesión de Conceptos básicos de creación de AEM abarcó conceptos clave, el modelo de entorno dual, los desafíos de creación de contenido, las herramientas de creación, las funciones de colaboración y traducción, y los servicios de entrega de Edge.
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
+feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,7 +11,7 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 1%

@@ -1,6 +1,7 @@
 ---
 title: Configuración de CDN y WAF en Adobe Experience Manager as a Cloud Service
-description: Mejore el rendimiento y la seguridad de las aplicaciones de Adobe Experience Manager as a Cloud Service con reglas de CDN personalizables, protección de WAF y la canalización de configuración, compartidas por los expertos en Adobe.
+description: Mejore el rendimiento y la seguridad de las aplicaciones de Adobe Experience Manager as a Cloud Service con reglas de CDN personalizables, protección de WAF y la canalización de configuración, compartidas por los expertos de Adobe.
+solution: Experience Manager as a Cloud Service
 feature: Security
 topic: Performance, Security
 role: Developer
@@ -10,7 +11,7 @@ duration: 2211
 last-substantial-update: 2024-11-26T00:00:00Z
 jira: KT-16574
 exl-id: a9f38e79-c707-443d-8b2f-e534ce4dd43d
-source-git-commit: 946d7cd484e8c5d4358d4099b3518705cab8d4a3
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Configuración de CDN y WAF en Adobe Experience Manager as a Cloud Service
 
-Desbloquee todo el potencial de la CDN administrada por Adobe con reglas de CDN personalizables, protección de WAF y la canalización de configuración. Marius Petria, experto informático senior en Adobe, Quentin Vecchio, ingeniero de desarrollo de software en Adobe, y Florian Froese, ingeniero de desarrollo de software en Adobe, comparten estrategias para mejorar el rendimiento y la seguridad de las aplicaciones de Adobe Experience Manager as a Cloud Service.
+Desbloquee todo el potencial de la CDN administrada por Adobe con reglas de CDN personalizables, protección de WAF y la canalización de configuración. Marius Petria, científico informático senior de Adobe, Quentin Vecchio, ingeniero de desarrollo de software de Adobe, y Florian Froese, ingeniero de desarrollo de software de Adobe, comparten estrategias para mejorar el rendimiento y la seguridad de las aplicaciones de Adobe Experience Manager as a Cloud Service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440605/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
 
 ## Discusión de comunidad
 
@@ -35,5 +36,5 @@ Continuar la conversación en la [discusión](https://adobe.ly/3O0TyYa) de la co
 * **Configuración declarativa**: la configuración se realiza utilizando archivos YAML y se implementa mediante una canalización de configuración en Cloud Manager, lo que lo convierte en un proceso rápido y directo.
 * **Transformaciones de solicitudes y respuestas** Las nuevas características permiten las transformaciones de solicitudes para normalizar las direcciones URL y quitar parámetros de consulta innecesarios, así como las transformaciones de respuestas para establecer encabezados antes de enviar respuestas a los clientes.
 * **Filtros de tráfico y limitación de velocidad** Los filtros de tráfico pueden bloquear IP o países específicos e implementar límites de velocidad para protegerse contra ataques DDoS. La limitación de velocidad se puede configurar en función de varios criterios, como la IP del cliente, el agente de usuario y la ruta de solicitud.
-* El Adobe **Herramientas de monitoreo y análisis** proporciona herramientas como los paneles de Elasticsearch/Kibana y Splunk para analizar el tráfico y el uso, lo que ayuda a identificar y mitigar posibles amenazas a la seguridad.
-* **Demostración práctica** La presentación incluye una demostración que muestra cómo implementar configuraciones de CDN mediante Cloud Manager AEM y cómo manejar errores y validar configuraciones localmente mediante el uso de.
+* **Herramientas de monitoreo y análisis** Adobe proporciona herramientas como los paneles de Elasticsearch/Kibana y Splunk para analizar el tráfico y el uso, lo que ayuda a identificar y mitigar posibles amenazas a la seguridad.
+* **Demostración práctica** La presentación incluye una demostración que muestra cómo implementar configuraciones de CDN usando Cloud Manager y cómo manejar errores y validar configuraciones localmente usando AEM.

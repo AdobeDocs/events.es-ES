@@ -1,21 +1,22 @@
 ---
-title: 'AEM GEMs: Introducción a CDN administrado por Adobe'
-description: Aprenda a configurar la CDN administrada por Adobe en AEM Cloud Service para mejorar el rendimiento y la seguridad con las nuevas funciones de configuración de CDN.
+title: 'GEM de AEM: Introducción a CDN administrada por Adobe'
+description: Obtenga información sobre cómo configurar la CDN administrada por Adobe en AEM Cloud Service para mejorar el rendimiento y la seguridad con las nuevas funciones de configuración de CDN.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-
-# AEM GEMs: Introducción a CDN administrado por Adobe
+# GEM de AEM: Introducción a CDN administrada por Adobe
 
 Obtenga información acerca de la CDN administrada por Adobe en AEM Cloud Service y cómo se puede configurar. Únase a nosotros para explorar las nuevas funcionalidades de configuración de CDN que se pueden utilizar para mejorar el rendimiento y la seguridad de sus aplicaciones de AEM as a Cloud Service. En esta sesión descubrirá lo siguiente:
 
@@ -28,7 +29,7 @@ Obtenga información acerca de la CDN administrada por Adobe en AEM Cloud Servic
 
 *Grabado el 22 de enero de 2025*
 
-¿Tiene una pregunta, tal vez un comentario?  Únase a la discusión en [Comunidades de Experience League](https://adobe.ly/4haufPK).
+¿Tiene una pregunta, tal vez un comentario?  Únase a la conversación en [Experience League Communities](https://adobe.ly/4haufPK).
 
 ## Puntos clave
 
@@ -36,7 +37,7 @@ Obtenga información acerca de la CDN administrada por Adobe en AEM Cloud Servic
 
 * **Dominios y certificados personalizados** esenciales para alojar dominios y certificados personalizados con el fin de establecer conexiones seguras.
 * **El almacenamiento en caché** de las respuestas HTTP de la caché es considerablemente más rápido (menos de 10 milisegundos) en comparación con la recuperación del origen (cientos de milisegundos).
-* El Adobe **CDN** predeterminado y personalizado proporciona una CDN administrada predeterminada, pero los usuarios también pueden traer su propia CDN.
+* **CDN personalizada y lista para usar** Adobe proporciona una CDN administrada lista para usar, pero los usuarios también pueden traer su propia CDN.
 
 ### Opciones de configuración
 
@@ -50,11 +51,11 @@ Obtenga información acerca de la CDN administrada por Adobe en AEM Cloud Servic
 
 * **Canalización de configuración** Implementa archivos YAML para configurar reglas CDN.
 * **Protección de tráfico** Use reglas de filtro de tráfico para bloquear, registrar y alertar el tráfico según los patrones.
-* **Limitación de velocidad** Protect contra ataques DDoS mediante la limitación del número de solicitudes por IP.
+* **Limitación de velocidad** Proteja contra ataques DDoS limitando el número de solicitudes por IP.
 
 ### Herramientas y análisis
 
-* **Pila de Elasticsearch Kibana** Analice el uso y el tráfico con los paneles proporcionados.
+* **Elasticsearch Kibana Stack** Analice el uso y el tráfico con los paneles proporcionados.
 * **Reenvío de registros**: reenvía registros a una instancia de Splunk para su análisis.
 
 ### Aspectos destacados de demostración

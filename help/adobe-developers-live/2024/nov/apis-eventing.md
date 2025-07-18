@@ -1,6 +1,7 @@
 ---
 title: API y eventos modernos de Adobe Experience Manager
 description: Amplíe las aplicaciones e integre los servicios de AMS con las API modernas, con el apoyo de un equipo dedicado y recursos completos en developer.adobe.com, con nuevas API para fragmentos de contenido, integración de eventos y oportunidades para los pioneros.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -9,17 +10,17 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-
 # API y eventos modernos de Adobe Experience Manager
 
-Descubra cómo el sistema de eventos nativo en la nube de Adobe Experience Manager moderniza los flujos de trabajo mediante la integración perfecta con sistemas externos. Mathias Siegel, director de producto principal, e Ian Reasor, experto informático senior en Adobe, comparten las API, los eventos y los casos de uso más recientes.
+Descubra cómo el sistema de eventos nativo en la nube de Adobe Experience Manager moderniza los flujos de trabajo mediante la integración perfecta con sistemas externos. Mathias Siegel, director de producto principal, e Ian Reasor, experto informático senior de Adobe, comparten las API, los eventos y los casos de uso más recientes.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440203/?learn=on&enablevpops)
@@ -40,4 +41,3 @@ Continuar la conversación en la [discusión](https://adobe.ly/3YMhKU9) de la co
 * **Animación para usar nuevas API** Se recomienda a los usuarios cambiar a estas nuevas API, ya que representan la dirección futura del desarrollo de API de AMS.
 * **Tokens de autenticación y acceso** El proceso de generación de tokens de acceso se está finalizando y estará disponible en próximas versiones.
 * **Participación y soporte** El equipo está abierto a preguntas y participación para oportunidades de adopción temprana y más discusiones sobre casos de uso de API.
-

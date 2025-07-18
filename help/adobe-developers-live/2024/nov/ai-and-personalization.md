@@ -1,6 +1,7 @@
 ---
-title: Introducción de IA y Personalization a los Edge Delivery Services de Adobe Experience Manager
-description: Aprenda a integrar la IA y la personalización en los Edge Delivery Services de Adobe Experience Manager con la arquitectura básica, la búsqueda semántica y los casos de uso avanzados que muestra Andreas Haller, arquitecto de soluciones principales de Cognizant Netcentric.
+title: Introducción de IA y Personalization en Adobe Experience Manager Edge Delivery Services
+description: Aprenda a integrar la IA y la personalización en Adobe Experience Manager Edge Delivery Services con la arquitectura básica, la búsqueda semántica y los casos de uso avanzados que muestra Andreas Haller, arquitecto de soluciones principales en Cognizant Netcentric.
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: Edge Delivery Services, Search, Generative AI
 topic: Artificial Intelligence, Personalization
 role: Developer
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 1029
 last-substantial-update: 2024-11-25T00:00:00Z
 jira: KT-16578
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+exl-id: d560045b-4404-41f6-b53e-787877faab5b
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# Introducción de IA y Personalization en Adobe Experience Manager Edge Delivery Services
 
-# Introducción de IA y Personalization a los Edge Delivery Services de Adobe Experience Manager
+Descubra la arquitectura fundamental para integrar la personalización y la IA en Adobe Experience Manager Edge Delivery Services. Únase a Andreas Haller, arquitecto principal de soluciones en Cognizant Netcentric, ya que muestra casos de uso avanzados y búsqueda semántica para mejorar sus proyectos.
 
-Descubra la arquitectura fundamental para integrar la personalización y la IA en los Edge Delivery Services de Adobe Experience Manager. Únase a Andreas Haller, arquitecto de soluciones principales en Cognizant Netcentric, ya que muestra casos de uso avanzados y búsqueda semántica para mejorar sus proyectos.
-
->[!VIDEO](https://video.tv.adobe.com/v/3440409/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
 
 ## Discusión de comunidad
 
