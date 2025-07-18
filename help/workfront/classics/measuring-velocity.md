@@ -27,7 +27,7 @@ Ahorre tiempo copiando y pegando los cálculos siguientes.
 >[!NOTE]
 >
 >La sintaxis para los cálculos de campos personalizados ha cambiado desde que se realizó la presentación en 2019, aunque los conceptos y otras instrucciones que se proporcionan en la presentación siguen siendo precisos.
->>**Los cálculos incluidos a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
+>&#x200B;>**Los cálculos incluidos a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
 
 **Fecha de primera confirmación**
 
