@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Bienvenido a Perspectivas de expertos.  Soy Cynthia Boon, tu Workfront CSM &quot;On-Demand&quot; y para este episodio tenemos a Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=es) ! Discutimos la historia de Lyndsy en Workfront y luego una profundización en su cola de solicitudes del servicio de asistencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469292/?learn=on&enablevpops&captions=spa)
 
 Durante nuestra charla, Lyndsy compartió:
 

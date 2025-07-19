@@ -112,7 +112,7 @@ Tanto si es un administrador de Workfront, un administrador de proyectos o un us
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="¡Versus! - Grupos vs. Equipos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="¡Versus! - Grupos vs. Equipos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467356/?format=jpeg&nocache=1752859089086&captions=spa" alt="¡Versus! - Grupos vs. Equipos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +150,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Colas de solicitudes con Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1752859089318" alt="Expert Insights - Colas de solicitudes con Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469292/?format=jpeg&nocache=1752859089318&captions=spa" alt="Expert Insights - Colas de solicitudes con Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
