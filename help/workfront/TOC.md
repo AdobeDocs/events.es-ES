@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Eventos de Workfront {#workfront-recordings}
 
-+ [Grupos de usuarios y seminarios web de Workfront](overview.md)
++ [Talleres a petición de Workfront](overview.md)
 
++ Seminarios web sobre versiones {#releases}
+   + [Versión 25.7](releases/25-7-release-webinar.md)
+   + [Versión 25.4](releases/25-4-release-webinar.md)
+   + [Versión 25.1](releases/25-1-release-webinar.md)
+   + [Versión 24.1](releases/24-1-release-webinar.md)
 + Principales 3 {#top3}
    + [Enfoques de Creative con modelos](top3/blueprints.md)
 + ¡Versus! {#versus}
    + [Grupos vs. Equipos](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
-+[Colas de solicitudes con Lyndsy Denk](expert-insights/request-queues.md)
+   + [Colas de solicitudes con Lyndsy Denk](expert-insights/request-queues.md)
 + Rebobinado de taller {#workshop-rewind}
    + Flujo de trabajo {#workflow}
       + [Formas de administrar recursos de Creative](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + Colas de solicitudes y admisión {#request-queues-and-intake}
       + [Colas de solicitudes y Forms de admisión](user-groups/request-queues-and-intake-forms.md)
 
-+ Versiones {#releases}
-   + [Versión 25.7](releases/25-7-release-webinar.md)
-   + [Versión 25.4](releases/25-4-release-webinar.md)
-   + [Versión 25.1](releases/25-1-release-webinar.md)
-   + [Versión 24.1](releases/24-1-release-webinar.md)
+
 
