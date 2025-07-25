@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
+source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    + [Dominio de la Lógica Secuencial: Iniciar Paradas](2025/sequential-logic-start-stop.md)
    + [Optimización del rendimiento de AEM](2025/optimize-aem-performance.md)
    + [Personalizar las comunicaciones digitales](2025/personalize-digital-communications.md)
+   + [Plan de desarrollo al valor con CJA](2025/roadmap-to-value-cja.md)
    + [Ganador del patrocinio ejecutivo para proyectos de AEP](2025/exec-sponsorship-aep-projects.md)
    + [Fundamentos y prácticas recomendadas de Workfront Fusion](2025/adobe-workfront-fusion-best-practices.md)
    + [El marketing más inteligente comienza aquí: integración de Google y Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)

@@ -2,10 +2,10 @@
 user-guide-title: Sesiones técnicas de Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Las sesiones técnicas de Experience Cloud son un enfoque proactivo de la desviación de casos que ofrece a los clientes seminarios web específicos para cada solución.
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 14%
+source-wordcount: '165'
+ht-degree: 13%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 14%
 
 + [Sesiones técnicas de Experience Cloud](overview.md)
 + 2025 {#2025}
-   + [Migración de Adobe Analytics a AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
    + [Solución de problemas de rendimiento de entrega Adobe Campaign Classic](2025/acc-delivery-performance.md)
    + [Configuraciones de Dispatcher en AEM as a Cloud Service](2025/dispatcher-configurations.md)
    + [Aprovechamiento al máximo de Marketo Measure](2025/getting-most-marketo-measure.md)
+   + [Fastly y Adobe Commerce](2025/fastly-and-adobe-commerce.md)
    + Migración de Marketo a Adobe Admin Console {#marketo-admin-console}
       + [Premigración](2025/marketo-pre-migration.md)
       + [Posterior a la migración](2025/marketo-post-migration.md)
+   + [Migración de Adobe Analytics a AEP Web SDK](2025/migrate-analytics-to-aep-web-sdk.md)
 + 2024 {#2024}
    + Plataforma de datos de contenido en tiempo real {#rtcdp-office-hours-2024}
       + [Solución de problemas de AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
