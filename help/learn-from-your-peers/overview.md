@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Aprenda, con expertos y compañeros de Adobe, cómo sacar el máximo partido a sus soluciones de Adobe. [!DNL Experience Makers - Learn from your peers]  es una serie global de eventos virtuales de aprendizaje de clientes, que se centran en profundizar en  [!DNL Adobe Experience Cloud] soluciones.
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,68 @@ ht-degree: 0%
 
 Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus soluciones de Adobe. Con los temas seleccionados para los practicantes, _por_ practicantes, estas sesiones interactivas comparten casos de uso, prácticas recomendadas, sugerencias y trucos &quot;del arte de lo posible&quot;.
 
-## Eventos de 2024
+## General
 
-### Commerce
+<!-- CARDS
+{cta  = Watch event}
+
+* ./adobe-user-groups.md
+* ./adobe-champion-application.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore Adobe User Groups across Experience Cloud">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./adobe-user-groups.md" title="Explorar los grupos de usuarios de Adobe en Experience Cloud" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1754072728941" alt="Explorar los grupos de usuarios de Adobe en Experience Cloud"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./adobe-user-groups.md" target="_blank" rel="referrer" title="Explorar los grupos de usuarios de Adobe en Experience Cloud">Explorar grupos de usuarios de Adobe en Experience Cloud</a>
+                    </p>
+                    <p class="is-size-6">Conéctese con compañeros de Adobe Experience Cloud a través de grupos de usuarios regionales y descubra cómo desarrollar sus habilidades, resolver desafíos del mundo real y liderar la comunidad de MarTech.</p>
+                </div>
+                <a href="./adobe-user-groups.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how to apply and stand out as a Champion">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./adobe-champion-application.md" title="Aprenda a postularse y destaque como Campeón" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1754072728955" alt="Aprenda a postularse y destaque como Campeón"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./adobe-champion-application.md" target="_blank" rel="referrer" title="Aprenda a postularse y destaque como Campeón">Aprenda a postularse y destaque como Campeón</a>
+                    </p>
+                    <p class="is-size-6">Únase al equipo de marketing de adopción de Adobe y a los actuales campeones de Adobe para asistir a un seminario web exclusivo en el que le guiaremos a través del programa y compartiremos sugerencias sobre el envío de una solicitud destacada.</p>
+                </div>
+                <a href="./adobe-champion-application.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+## Commerce
 
 <!-- CARDS
 * commerce/2024/agile-sdlc.md {cta  = Watch event}
@@ -28,7 +87,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="Un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1746904592243" alt="Un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1754072729417" alt="Un enfoque centrado en la comunicación, los requisitos y las pruebas en Agile SDLC"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,7 +108,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Adobe Experience Manager
+## Adobe Experience Manager
 
 <!-- CARDS
 
@@ -65,7 +124,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/july2024/global-digital-presence.md" title="Desbloquear el éxito a escala con una combinación global" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1746904593156" alt="Desbloquear el éxito a escala con una combinación global"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1754072729756" alt="Desbloquear el éxito a escala con una combinación global"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +145,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Marketo
+## Marketo
 
 <!-- CARDS
 
@@ -106,7 +165,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/may2025/interactive-webinars.md" title="Revolucionar la experiencia del seminario web: Descubra el impacto de los seminarios web interactivos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1746904594008" alt="Revolucionar la experiencia del seminario web: Descubra el impacto de los seminarios web interactivos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1754072730267" alt="Revolucionar la experiencia del seminario web: Descubra el impacto de los seminarios web interactivos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -129,7 +188,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/nov2024/advanced-segmentation.md" title="Auditorías de segmentación avanzada: garantía de precisión y rendimiento en Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1746904593992" alt="Auditorías de segmentación avanzada: garantía de precisión y rendimiento en Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1754072730316" alt="Auditorías de segmentación avanzada: garantía de precisión y rendimiento en Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +211,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="Domine los recorridos complejos de los clientes con los programas de participación de varias secuencias" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1746904594019" alt="Domine los recorridos complejos de los clientes con los programas de participación de varias secuencias"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1754072730284" alt="Domine los recorridos complejos de los clientes con los programas de participación de varias secuencias"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +234,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="Mapa del experto en marketing: Una guía completa para la estrategia, la creación y el análisis de campañas de Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1746904594029" alt="Mapa del experto en marketing: Una guía completa para la estrategia, la creación y el análisis de campañas de Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1754072730294" alt="Mapa del experto en marketing: Una guía completa para la estrategia, la creación y el análisis de campañas de Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +257,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1746904594038" alt="Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1754072730324" alt="Desbloquear la potente automatización del flujo de trabajo: aplicaciones prácticas de la API de REST de Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +280,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Dominio de la puntuación de personas con Marketo Engage: matices localizados en un marco global" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457442/?format=jpeg&nocache=1746904594047&captions=spa" alt="Dominio de la puntuación de personas con Marketo Engage: matices localizados en un marco global"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1754072730305" alt="Dominio de la puntuación de personas con Marketo Engage: matices localizados en un marco global"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +301,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Workfront
+## Workfront
 
 <!-- CARDS
 
@@ -258,7 +317,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="Articulación del impacto: medición y uso compartido del valor de Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1746904595407" alt="Articulación del impacto: medición y uso compartido del valor de Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1754072730653" alt="Articulación del impacto: medición y uso compartido del valor de Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +340,7 @@ Aprenda, con expertos y compañeros de Adobe, a sacar el máximo partido a sus s
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Seminario web de prácticas de administración del sistema de Workfront con personal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1746904595393" alt="Seminario web de prácticas de administración del sistema de Workfront con personal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1754072730669" alt="Seminario web de prácticas de administración del sistema de Workfront con personal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
