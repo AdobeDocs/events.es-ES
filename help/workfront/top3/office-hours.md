@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Soy yo de nuevo, su &quot;On-Demand Workfront CSM&quot; Cynthia Boon y tengo un tema para usted que aparece todo el tiempo durante los eventos.  Si acaba de empezar a establecer horarios de oficina o solo desea actualizarlos, consulte el siguiente vídeo. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470145/?learn=on&enablevpops&captions=spa)
 
 El horario de oficina es otra parte importante de su plan general de comunicación de Workfront. ¿Busca más ideas sobre cómo comunicarse con los usuarios? Consulte [Guía de comunicaciones para el usuario final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=es).
 

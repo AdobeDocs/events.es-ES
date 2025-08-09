@@ -33,7 +33,7 @@ Le sorprenderán todas las fantásticas ideas que comparte, entre ellas: 
 * Iniciar revisiones de resumen de Creative para adaptarlas a las necesidades de sus usuarios y proyectos. 
 * *¡BONUS!*: ¡También comparte un ejemplo de uno de sus casos de uso de Fusion favoritos!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469942/?learn=on&enablevpops&captions=spa)
 
 ## Recursos
 
