@@ -1,19 +1,20 @@
 ---
 title: Cultivo de una organización de marketing Agile
 description: La sesión sobre el cultivo de una organización de marketing ágil destacó los principios del marketing ágil, sus beneficios, los desafíos con el enfoque tradicional de cascada, la necesidad de un cambio cultural y la gestión del cambio, y las funciones y la estructura esenciales para un marketing ágil exitoso.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # Cultivo de una organización de marketing Agile
 

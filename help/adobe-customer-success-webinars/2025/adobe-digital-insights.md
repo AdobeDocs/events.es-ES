@@ -1,19 +1,20 @@
 ---
 title: 'Perspectivas digitales de Adobe: Descubra los resultados de las vacaciones de 2024 y las tendencias de principios de 2025'
 description: Únase al seminario web de Adobe para obtener información sobre las tendencias de compras en las fiestas de 2024 y las previsiones de mercado de principios de 2025, explorar categorías de productos de alto crecimiento y conocer las prácticas recomendadas para crear experiencias de compra personalizadas mediante IA y tecnologías avanzadas.
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Perspectivas digitales de Adobe: Descubra los resultados de las vacaciones de 2024 y las tendencias de principios de 2025
 

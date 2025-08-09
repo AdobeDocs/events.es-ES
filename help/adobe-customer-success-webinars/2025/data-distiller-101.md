@@ -1,19 +1,20 @@
 ---
 title: Data Distiller 101
 description: El seminario web Data Distiller 101 destaca sus capacidades de segmentación de datos, enriquecimiento e integración IA/ML, y ofrece soluciones escalables para arquitectos de datos y entidades de marketing a fin de mejorar la toma de decisiones basada en datos.
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Data Distiller 101
 
@@ -39,7 +40,7 @@ El seminario web destacó cinco casos de uso principales de Data Distiller:
 
 * Creación de modelos de datos centrados en la marca para una empresa minorista de América del Sur.
 * Enriquecimiento de correos electrónicos de próxima mejor oferta con datos personalizados para una compañía de telecomunicaciones.
-* Optimización de datos para el modelado de informes y atribuciones para un minorista de lujo.
+* Optimización de datos para el modelado de informes y atribuciones para un retailer de lujo.
 * Personalización de perspectivas para el tablero operativo.
 * Aprovechamiento de las canalizaciones de funciones de IA y ML para modelos de formación y puntuación.
 
