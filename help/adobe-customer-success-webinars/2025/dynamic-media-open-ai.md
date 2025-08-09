@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # Dominio de Dynamic Media con API abierta
 
-Este seminario web está diseñado para profesionales familiarizados con la versión tradicional de Dynamic Media y que deseen comprender e implementar [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) con la API abierta.  Exploraremos el funcionamiento de alto nivel de Dynamic Media Ultimate con la API abierta y lo compararemos con la versión tradicional de Dynamic Media. Nuestro objetivo es proporcionar una comprensión completa de las diferencias entre estos dos enfoques, lo que permite a los participantes familiarizados con Dynamic Media adaptarse fácilmente al modelo de API abierta.
+Este seminario web está diseñado para profesionales familiarizados con la versión tradicional de Dynamic Media y que deseen comprender e implementar [Dynamic Media Ultimate](https://experienceleague.adobe.com/es/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) con la API abierta.  Exploraremos el funcionamiento de alto nivel de Dynamic Media Ultimate con la API abierta y lo compararemos con la versión tradicional de Dynamic Media. Nuestro objetivo es proporcionar una comprensión completa de las diferencias entre estos dos enfoques, lo que permite a los participantes familiarizados con Dynamic Media adaptarse fácilmente al modelo de API abierta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

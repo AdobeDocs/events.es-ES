@@ -25,7 +25,7 @@ Este taller se grabó el 8 de abril de 2025 y contó con la participación de Ro
 Junto con la grabación bajo demanda, hemos incluido la presentación con diapositivas y sugerencias que se compartieron en el chat:  
 
 * [PDF de plataforma de diapositivas](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=es)
 
 ## Sugerencias
 
@@ -39,4 +39,4 @@ Junto con la grabación bajo demanda, hemos incluido la presentación con diapos
 
 Uno de los temas más grandes que vimos en el chat fue el desafío de intentar mantener las plantillas de proyecto simples, pero al mismo tiempo rastrear el esfuerzo y garantizar que los equipos estén cumpliendo con todos los pasos necesarios para completar el proyecto.  
 
- Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) en Experience League y registrarse.
+ Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?lang=es&filters=Workfront) en Experience League y registrarse.
