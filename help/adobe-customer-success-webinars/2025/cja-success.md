@@ -20,7 +20,7 @@ ht-degree: 0%
 
 En nuestra cuarta sesión, analizamos cómo la falta de un fuerte patrocinio ejecutivo retrasará la toma de decisiones, la asignación del presupuesto y la gestión del cambio. En este seminario web, exploramos el papel fundamental que desempeñan los líderes ejecutivos en la defensa de los programas de Adobe Customer Journey Analytics, la alineación de equipos interfuncionales y la obtención de resultados empresariales cuantificables. Aprenda estrategias prácticas para atraer a las partes interesadas de alto nivel, comunicar los valores de forma eficaz y crear una cultura de toma de decisiones basada en datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470857/?learn=on&enablevpops&captions=spa)
 
 ## Casos comerciales de manufactura
 
