@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -26,9 +26,11 @@ ht-degree: 1%
 + ¡Versus! {#versus}
    + [Grupos vs. Equipos](versus/groups-vs-teams.md)
 + Expert Insights {#expert-insights}
+   + [Cadena de suministro de contenido](expert-insights/content-supply-chain.md)
    + [Flujos de trabajo de Workfront no tradicionales](expert-insights/non-traditional-workfront-workflows.md)
    + [Colas de solicitudes con Lyndsy Denk](expert-insights/request-queues.md)
    + [Informes de SLA en Workfront](expert-insights/sla-reporting.md)
+   + [Administración de trabajo empresarial](expert-insights/enterprise-work-management.md)
 + Rebobinado de taller {#workshop-rewind}
    + Integraciones {#integrations}
       + [Explorar los cambios de los campos de selección múltiple con facilidad](workshop-rewind/integrations/mulit-select-fields.md)
