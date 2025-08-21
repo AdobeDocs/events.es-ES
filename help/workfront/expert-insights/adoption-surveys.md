@@ -7,25 +7,26 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
 # Expert Insights - Encuestas de adopción con Jaime Davidson
 
 Es su CSM de Workfront bajo demanda aquí, y he vuelto con un nuevo vídeo.  Esta vez, tenemos una presentación de uno de nuestros fantásticos clientes, Jaime Davidson de Cognizant!  Tuvo la amabilidad de ofrecer su tiempo y su experiencia durante nuestro evento de noviembre de Connect, compartiendo su experiencia y recursos para implementar las Encuestas de adopción de Workfront. *¡Bono!* Nuestra propia CSM de Workfront, Danielle Johnston también comparte sus ideas y recomendaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469953/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Recursos
 
@@ -35,7 +36,7 @@ Durante la presentación, Jaime y Danielle analizaron algunos recursos suplement
 * [Chat del administrador de Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Encuesta de adopción de usuarios de Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=es)
+¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Acerca del altavoz
 
@@ -46,4 +47,3 @@ Jaime es un experto líder en automatización de marketing y optimización de pr
 ## ¿Tiene algo que compartir?
 
 ¿Tiene una buena historia para compartir, ya sea durante un evento o en un vídeo de Expert Insights? Póngase en contacto con nuestro equipo en [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
