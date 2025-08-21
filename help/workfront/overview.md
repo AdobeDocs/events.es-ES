@@ -74,7 +74,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="Principales 3: Enfoques de Creative con modelos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755810021557" alt="Principales 3: Enfoques de Creative con modelos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465313/?format=jpeg&nocache=1755810021557&captions=spa" alt="Principales 3: Enfoques de Creative con modelos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="Los 3 enfoques principales en horario de oficina" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755810021545" alt="Los 3 enfoques principales en horario de oficina"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470145/?format=jpeg&nocache=1755810021545&captions=spa" alt="Los 3 enfoques principales en horario de oficina"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Tanto si es un administrador de Workfront, un administrador de proyectos o un us
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="¡Versus! - Grupos vs. Equipos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755810021828" alt="¡Versus! - Grupos vs. Equipos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467356/?format=jpeg&nocache=1755810021828&captions=spa" alt="¡Versus! - Grupos vs. Equipos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Perspectivas de expertos - Adopción con Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1755810022202" alt="Perspectivas de expertos - Adopción con Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469930/?format=jpeg&nocache=1755810022202&captions=spa" alt="Perspectivas de expertos - Adopción con Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +208,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - Encuestas de adopción con Jaime Davidson" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1755810022164" alt="Expert Insights - Encuestas de adopción con Jaime Davidson"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469953/?format=jpeg&nocache=1755810022164&captions=spa" alt="Expert Insights - Encuestas de adopción con Jaime Davidson"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="Expert Insights - Agile con Natalie Mitchell" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1755810022193" alt="Expert Insights - Agile con Natalie Mitchell"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469919/?format=jpeg&nocache=1755810022193&captions=spa" alt="Expert Insights - Agile con Natalie Mitchell"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +254,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Cadena de suministro de contenido con Corre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755810022153" alt="Expert Insights - Cadena de suministro de contenido con Corre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469997/?format=jpeg&nocache=1755810022153&captions=spa" alt="Expert Insights - Cadena de suministro de contenido con Corre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,7 +277,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1755810022138" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470008/?format=jpeg&nocache=1755810022138&captions=spa" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -300,7 +300,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Expert Insights - Fusión con Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1755810022184" alt="Expert Insights - Fusión con Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470019/?format=jpeg&nocache=1755810022184&captions=spa" alt="Expert Insights - Fusión con Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,7 +323,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="Expert Insights: Flujos de trabajo de Workfront no tradicionales con Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755810022175" alt="Expert Insights: Flujos de trabajo de Workfront no tradicionales con Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469942/?format=jpeg&nocache=1755810022175&captions=spa" alt="Expert Insights: Flujos de trabajo de Workfront no tradicionales con Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -346,7 +346,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/reporting-practices.md" title="Perspectivas de los expertos - Prácticas de creación de informes con Nichole Vargas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469894/?format=jpeg&nocache=1755810022226" alt="Perspectivas de los expertos - Prácticas de creación de informes con Nichole Vargas"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469968/?format=jpeg&nocache=1755810022226&captions=spa" alt="Perspectivas de los expertos - Prácticas de creación de informes con Nichole Vargas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -369,7 +369,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Colas de solicitudes con Lyndsy Denk" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755810022234" alt="Expert Insights - Colas de solicitudes con Lyndsy Denk"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469292/?format=jpeg&nocache=1755810022234&captions=spa" alt="Expert Insights - Colas de solicitudes con Lyndsy Denk"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,7 +392,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/resource-management.md" title="indefinido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469890/?format=jpeg&nocache=1755810022210" alt="indefinido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469906/?format=jpeg&nocache=1755810022210&captions=spa" alt="indefinido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Informes de SLA en Workfront con Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755810022242" alt="Informes de SLA en Workfront con Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469981/?format=jpeg&nocache=1755810022242&captions=spa" alt="Informes de SLA en Workfront con Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

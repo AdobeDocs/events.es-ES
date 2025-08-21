@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ¿Busca consejos sobre cómo empezar a utilizar la gestión de recursos? Únase a su CSM de Workfront bajo demanda para entrevistar a nuestra experta residente en gestión de recursos de Adobe Workfront, Corinna Jevons, y explorar las preguntas comunes y los mejores enfoques para implementar esta función de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469906/?learn=on&enablevpops&captions=spa)
 
 ## Recursos
 

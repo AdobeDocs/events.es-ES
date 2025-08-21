@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenido de nuevo a Expert Insights.  Soy Cynthia Boon, tu Workfront CSM &quot;On-Demand&quot;, y en este episodio, ¡nos acompaña Ewan Hruska! Él es verdaderamente un mágico, &quot;Caballero de la Fusión&quot; y comparte los beneficios de la Fusión junto con su experto consejo para sacar el máximo partido de la herramienta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470019/?learn=on&enablevpops&captions=spa)
 
 ## ¡Necesita su ayuda!
 
