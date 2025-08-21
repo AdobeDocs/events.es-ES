@@ -27,21 +27,21 @@ ht-degree: 0%
 
 ## Recursos
 
-Alerta de funciones.  Consulte los detalles sobre [el nuevo campo Tiempo de trabajo](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519) : Ahora puede ajustar la capacidad del usuario Y calcular la disponibilidad según el horario del usuario.
+Alerta de funciones.  Consulte los detalles sobre [el nuevo campo Tiempo de trabajo](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=es#M519) : Ahora puede ajustar la capacidad del usuario Y calcular la disponibilidad según el horario del usuario.
 
 ¿Busca maneras de analizar mejor sus datos para asegurarse de que está listo? Consulte el catálogo de modelos listos para instalar.
 
-[Use modelos de Workfront para optimizar su entorno de administración de trabajo.](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Use modelos de Workfront para optimizar su entorno de administración de trabajo.](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=es)
 
 ¿Busca la diferencia entre el Planificador de recursos y el Distribuidor de cargas de trabajo? Aquí hay algunos vídeos cortos:
 
-* [¿Qué es el Planificador de recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [Asignar trabajo en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [¿Qué es el Planificador de recursos?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=es)
+* [Asignar trabajo en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=es)
 
 Dado que el Planificador de recursos y el Distribuidor de cargas de trabajo son dos herramientas diferentes dentro de la función de Gestión de recursos, es clave comprender el filtrado dentro de ambos. Encontrará más información aquí:
 
-* [Filtrar información en el Planificador de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [Filtrar información en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [Filtrar información en el Planificador de recursos](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=es)
+* [Filtrar información en el Distribuidor de cargas de trabajo](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=es)
 
 ## Acerca del altavoz
 

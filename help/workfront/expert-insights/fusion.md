@@ -27,19 +27,19 @@ Bienvenido de nuevo a Expert Insights.  Soy Cynthia Boon, tu Workfront CSM &quot
 
 ## ¡Necesita su ayuda!
 
-Como Ewan mencionó en el vídeo, está trabajando en una guía de prácticas recomendadas de Fusion y le encantaría saber de usted.  Si utiliza Fusion para apoyar sus procesos, comparta sus consejos, recomendaciones y sugerencias en [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114), y él tratará de incluir tantos como sea posible.
+Como Ewan mencionó en el vídeo, está trabajando en una guía de prácticas recomendadas de Fusion y le encantaría saber de usted.  Si utiliza Fusion para apoyar sus procesos, comparta sus consejos, recomendaciones y sugerencias en [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=es), y él tratará de incluir tantos como sea posible.
 
 ## Consejo
 
 * Fusion es una representación visual de sus procesos. ¡La documentación es tu amiga! Hablando de documentación, guarde los detalles de cómo genera sus procesos.  Mejor aún, ¡vídese caminando a través de ellos!
 * Mida el esfuerzo y las horas de su trabajo repetitivo
-* La calculadora de ROI de Adobe Workfront que Ewan mencionó está adjunta a [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
+* La calculadora de ROI de Adobe Workfront que Ewan mencionó está adjunta a [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=es).
 * Utilice Fusion para resolver sus desafíos interfuncionales, ahorrar tiempo (y dinero) y evitar errores.
 
 ## Recursos
 
-* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Información general sobre el vídeo de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=es)
+* [Información general sobre el vídeo de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=es)
 
 ## Acerca del altavoz
 
