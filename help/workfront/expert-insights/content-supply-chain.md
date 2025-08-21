@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Cadena de suministro de contenido con Corre Kombol
 
@@ -31,7 +31,7 @@ Core es un CSM verdaderamente estratégico que marca el ritmo en cómo usar las 
 * Comience por identificar los puntos de pintura de proceso y vaya desde allí. No deje que la tecnología supere el objetivo.
 * Conéctese con otros clientes que tengan un recorrido similar en la comunidad o en los eventos. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469997/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Recursos
 
@@ -53,4 +53,4 @@ Tiene experiencia en identificar las necesidades de los clientes, desarrollar so
 
 ## ¿Tiene algo que compartir?
 
-¿Tiene una buena historia para compartir, ya sea durante un evento o en un vídeo de Expert Insights? Póngase en contacto con nuestro equipo en [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+¿Tiene una buena historia para compartir, ya sea durante un evento o en un vídeo de Expert Insights? Póngase en contacto con nuestro equipo en [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
