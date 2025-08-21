@@ -52,12 +52,12 @@ La adopción es un tema al que volvemos con regularidad y, en esta edición de n
 
 ## Recursos
 
-* ¿Busca más ejemplos? Consulte [Publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) para obtener más ideas compartidas en los comentarios.
-* [Todo acerca de modelos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
-* [Informe de última nota](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
-* [Agregar formato condicional básico a una vista](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
-* [Agregar paneles al panel de navegación izquierdo](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
-* [Plantillas de diseño - Fijación](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
+* ¿Busca más ejemplos? Consulte [Publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=es) para obtener más ideas compartidas en los comentarios.
+* [Todo acerca de modelos](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=es)
+* [Informe de última nota](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=es)
+* [Agregar formato condicional básico a una vista](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=es)
+* [Agregar paneles al panel de navegación izquierdo](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=es)
+* [Plantillas de diseño - Fijación](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=es)
 
 ## Acerca del altavoz
 

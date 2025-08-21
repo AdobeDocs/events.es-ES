@@ -35,7 +35,7 @@ Durante la presentación, Jaime y Danielle analizaron algunos recursos suplement
 * [Chat del administrador de Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Encuesta de adopción de usuarios de Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=es)
 
 ## Acerca del altavoz
 

@@ -33,15 +33,15 @@ Como se promete en el vídeo, la presentación de Madalyn está vinculada a sus 
 
 Durante la presentación, Madalyn compartió sus formularios personalizados y campos calculados, por lo que si acaba de empezar a utilizar estas funciones, aquí hay algunos vínculos que le indicarán la dirección correcta. 
 
-* Lista de reproducción del tutorial - [Crear y compartir Forms personalizado](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Lista de reproducción del tutorial - [Crear y compartir Forms personalizado](https://experienceleague.adobe.com/es/playlists/workfront-create-and-manage-custom-forms)
 
-* Artículo - [Introducción a los campos y expresiones calculados](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artículo - [Introducción a los campos y expresiones calculados](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Sugerencias y trucos: [campos calculados que todos deberían conocer y cómo informar sobre ellos](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Sugerencias y trucos: [campos calculados que todos deberían conocer y cómo informar sobre ellos](https://experienceleague.adobe.com/es/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 ¿Te interesan más consejos de Madalyn? Eche un vistazo a su serie de consejos y trucos en la Comunidad de Workfront. 
 
-* [Bytes técnicos del martes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Bytes técnicos del martes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=es#M2742)
 
 ## Acerca del altavoz 
 
