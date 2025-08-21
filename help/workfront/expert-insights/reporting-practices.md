@@ -27,7 +27,7 @@ Para que conste, ella es tan increíble, inteligente y generosa para trabajar co
 
 Únete a mí, tu CSM de Workfront On-Demand, mientras charlo con Nichole sobre cómo se convirtió en nuestra Gurú de los Informes, sus características y consejos favoritos, y cómo todos nosotros podemos ser &quot;más como Nichole&quot;! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469968/?learn=on&enablevpops&captions=spa)
 
 ## Sugerencias
 

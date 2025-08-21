@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenido de nuevo a Expert Insights.  Soy Cynthia Boon, tu Workfront CSM &quot;On-Demand&quot;, y en este episodio, ¡nos acompaña Danielle Johnston!  Comparte sus ideas sobre cómo empezar, formas de usar Workfront para apoyar sus esfuerzos de gobernanza y centro de excelencia, y nos anima a ser el cambio positivo que queremos ver en Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470008/?learn=on&enablevpops&captions=spa)
 
 ## Sugerencias
 

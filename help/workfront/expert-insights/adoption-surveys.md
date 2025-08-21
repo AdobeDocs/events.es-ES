@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Es su CSM de Workfront bajo demanda aquí, y he vuelto con un nuevo vídeo.  Esta vez, tenemos una presentación de uno de nuestros fantásticos clientes, Jaime Davidson de Cognizant!  Tuvo la amabilidad de ofrecer su tiempo y su experiencia durante nuestro evento de noviembre de Connect, compartiendo su experiencia y recursos para implementar las Encuestas de adopción de Workfront. *¡Bono!* Nuestra propia CSM de Workfront, Danielle Johnston también comparte sus ideas y recomendaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469953/?learn=on&enablevpops&captions=spa)
 
 ## Recursos
 

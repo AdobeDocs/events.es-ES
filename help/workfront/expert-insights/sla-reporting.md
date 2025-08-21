@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenido a otra entrega de Expert Insights.  Soy Cynthia Boon, su CSM de Workfront bajo demanda, y estoy encantada de compartir que tenemos a la única, Madalyn Destafney, compartiendo parte de su amplia experiencia para ayudar a los clientes a implementar y medir los Acuerdos de Nivel de Servicio (SLA) usando Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469981/?learn=on&enablevpops&captions=spa)
 
 Como se promete en el vídeo, la presentación de Madalyn está vinculada a sus pasos, expresiones calculadas y ejemplos de informes. 
 

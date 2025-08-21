@@ -25,7 +25,7 @@ La adopción es un tema al que volvemos con regularidad y, en esta edición de n
 
 Únase a mí, su CSM de Workfront bajo demanda, mientras charlo con Leslie sobre por qué la adopción es un tema tan importante, junto con algunas de nuestras estrategias favoritas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469930/?learn=on&enablevpops&captions=spa)
 
 ## Sugerencias, consejos y mucho más
 
