@@ -33,7 +33,7 @@ Lleve los informes de Workfront al siguiente nivel con las técnicas avanzadas d
 
 Libere el poder de los informes de Workfront combinando experiencia técnica con narración.
 
-* **Modo de texto avanzado **Habilita informes flexibles y personalizados que van más allá de las limitaciones predeterminadas de la interfaz de usuario.
+* **Modo de texto avanzado &#x200B;** Habilita informes flexibles y personalizados que van más allá de las limitaciones predeterminadas de la interfaz de usuario.
 * **Combinar columnas** Reduce el desorden y mejora la legibilidad, lo que le permite presentar detalles clave del proyecto en una sola vista.
 * **Expresiones de valores** Proporcionan información en tiempo real, como el estado del proyecto y los cálculos de programación, directamente en los informes.
 * **Indicadores personalizados** permiten a los usuarios filtrar e interactuar con los informes de forma dinámica para satisfacer diversas necesidades del equipo.
