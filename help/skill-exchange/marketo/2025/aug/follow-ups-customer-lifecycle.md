@@ -25,7 +25,7 @@ Reacción en cadena: cuándo solicitar una campaña y cuándo ejecutarla: aunque
 
 ## Recursos adicionales
 
-* [Campañas ejecutables](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Campañas ejecutables](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Todo lo que necesita saber sobre el nuevo tipo de campaña ejecutable en Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [Campañas ejecutables: Descubra cómo los ejecutables pueden aumentar la eficacia y el impacto](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -35,6 +35,6 @@ Dominar la participación del ciclo vital multicanal más allá del correo elect
 
 * [Profundización más allá de los correos electrónicos: marketing multicanal con notificaciones de aplicaciones, Dynamic Chat y aplicaciones de mensajería](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Participación omnicanal](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Cómo crear un mensaje en la aplicación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Cómo crear notificaciones push](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Cómo crear un mensaje en la aplicación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Cómo crear notificaciones push](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [Cómo crear una plantilla de WhatsApp](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
