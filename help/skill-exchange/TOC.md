@@ -3,9 +3,9 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Sugerencias para hacer frente a Recorridos complejos en Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Recorridos más allá del correo electrónico](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Agosto de 2025 {#aug2025}
+      + [Mejora de la categorización de datos](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Racionalización de los seguimientos](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](marketo/aug2024/keynote.md)
       + [Aplicaciones avanzadas de los programas de participación](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [Informes dentro de  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Sugerencias Y Trucos De Ultimate Para Su Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Agosto de 2025 {#aug2025}
+      + [Presentación de apertura](workfront/2025/aug/keynote.md)
+      + [Modo de texto avanzado](workfront/2025/aug/advanced-text-mode.md)
+      + [Automatización de la creación de cuentas de usuario con Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Centro de excelencia](workfront/2025/aug/center-of-excellence.md)
+      + [Dominio de las herramientas de IA de Workfront](workfront/2025/aug/workfront-ai-tools.md)
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](workfront/aug2024/keynote.md)
       + [Personalización del Distribuidor de cargas de trabajo](workfront/aug2024/workload-balancer.md)
