@@ -3,9 +3,9 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [Recorridos más allá del correo electrónico](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Agosto de 2025 {#aug2025}
+      + [Presentación de apertura](marketo/2025/aug/opening-keynote.md)
+      + [Motor de ciclo vital con tecnología IA](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio for Global Marketing Operations](marketo/2025/aug/design-studio.md)
       + [Mejora de la categorización de datos](marketo/2025/aug/data-categorization-with-ai.md)
       + [Racionalización de los seguimientos](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Agosto de 2024 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [Modo de texto avanzado](workfront/2025/aug/advanced-text-mode.md)
       + [Automatización de la creación de cuentas de usuario con Fusion](workfront/2025/aug/fusion-user-account-creation.md)
       + [Centro de excelencia](workfront/2025/aug/center-of-excellence.md)
+      + [Habilitar a los usuarios en las nuevas funciones](workfront/2025/aug/enable-users-new-features.md)
+      + [Introducción a revisiones y aprobaciones](workfront/2025/aug/review-approval.md)
       + [Dominio de las herramientas de IA de Workfront](workfront/2025/aug/workfront-ai-tools.md)
+      + [Optimización de flujos de trabajo de Creative con Workfront + AEM](workfront/2025/aug/workflows-workfront-aem.md)
    + Agosto de 2024 {#aug2024}
       + [Presentación de apertura](workfront/aug2024/keynote.md)
       + [Personalización del Distribuidor de cargas de trabajo](workfront/aug2024/workload-balancer.md)
