@@ -27,7 +27,7 @@ El establecimiento de un Centro de Excelencia (CoE) es crucial para impulsar la 
 * **Consideraciones de personal** Explore los aspectos críticos de la asignación de personal a su CoE identificando las funciones y responsabilidades clave para su práctica de administración. Aprenda a crear un equipo que pueda apoyar e impulsar de forma eficaz las iniciativas de su CoE.
 * **Sugerencias y trucos** Obtenga información práctica y prácticas recomendadas para administrar y mantener su CoE. Descubra estrategias para superar desafíos comunes, fomentar la colaboración y garantizar una mejora continua. Únase a nosotros para equiparse con los conocimientos y las herramientas necesarias para crear un próspero Centro de excelencia dentro de su organización de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471587/?learn=on&enablevpops&captions=spa)
 
 ## Pasos clave para iniciar el código
 

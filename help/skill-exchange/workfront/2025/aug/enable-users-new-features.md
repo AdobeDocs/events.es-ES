@@ -21,7 +21,7 @@ ht-degree: 0%
 
 &quot;La agitación es lo opuesto al estancamiento - el uno es la vida, el otro es la muerte&quot; ~Ernestine Rose Como administrador del sistema, las notas de la versión pueden ser vistas como la próxima intriga sobre cómo podemos seguir mejorando nuestros sistemas y resolviendo más problemas, pero para muchos de nuestros usuarios, el cambio no siempre es tan fácilmente aceptado. Únete a nosotros a medida que profundizamos en algunas formas exitosas en las que podemos construir una cultura de cambio, presentar soluciones a las partes interesadas adecuadas y mejorar continuamente nuestros sistemas para que sigamos añadiendo valor, ya sea que el sistema sea nuevo o que funcione a todo vapor. Sistema (gobernanza) para compartir actualizaciones generales del sistema Sugerencias para crear una cultura de cambio que permita la adopción por parte del usuario. Identificar el mejor ROI para el cambio: alto valor, bajo esfuerzo. Primero, informar sobre líneas de base e impactos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471494/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471541/?learn=on&enablevpops&captions=spa)
 
 ## Impulso de la innovación y la adopción en Workfront
 
