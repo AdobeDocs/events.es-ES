@@ -3,16 +3,16 @@ title: 'Creadores de experiencia: intercambio de habilidades'
 description: Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '1643'
 ht-degree: 0%
 
 ---
 
 # Creadores de experiencia: intercambio de habilidades {#overview}
 
-<img alt="Creadores de experiencia: intercambio de habilidades" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=es" />
+<img alt="Creadores de experiencia: intercambio de habilidades" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Creadores de experiencia El intercambio de habilidades es una serie global de eventos virtuales de aprendizaje de clientes, centrados en profundizar en las soluciones de Adobe Experience Cloud. Este programa ofrece la oportunidad de aprender de los expertos en productos de Adobe y de otros expertos a través del intercambio de prácticas recomendadas, sugerencias y trucos.
 
@@ -29,6 +29,188 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
 </div>
 
 ## Eventos de 2025
+
+### Analytics y Customer Journey Analytics
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* analytics/2025/aug/dashboards-insights.md
+* analytics/2025/aug/demystifying-common-metrics.md
+* cja/2025/aug/modern-takes-classic-aa.md
+* analytics/2025/aug/analysis-workspace-customizations.md
+* analytics/2025/aug/scalable-workflows.md
+* analytics/2025/aug/segmentation-personalization.md
+* analytics/2025/aug/workspace-features.md
+
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Why Dashboards Don’t Deliver Insights (And What Actually Does)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/dashboards-insights.md" title="Por qué los paneles no ofrecen información (y qué sucede realmente)" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757003827094" alt="Por qué los paneles no ofrecen información (y qué sucede realmente)"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/dashboards-insights.md" target="_blank" rel="referrer" title="Por qué los paneles no ofrecen información (y qué sucede realmente)">Por qué los paneles no ofrecen información (y qué es lo que realmente hace)</a>
+                    </p>
+                    <p class="is-size-6">Aprenda a ir más allá de los paneles y a crear un sistema para obtener perspectivas con informes narrativos, pruebas de hipótesis y estrategias de análisis procesables.</p>
+                </div>
+                <a href="analytics/2025/aug/dashboards-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Demystifying Common Metrics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/demystifying-common-metrics.md" title="Desmitificación de métricas comunes" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757003827064" alt="Desmitificación de métricas comunes"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/demystifying-common-metrics.md" target="_blank" rel="referrer" title="Desmitificación de métricas comunes">Desmitificación de métricas comunes</a>
+                    </p>
+                    <p class="is-size-6">Aprenda a interpretar las métricas de Adobe Analytics (visitas, visitantes, vistas de página, devoluciones, tasas de conversión y mucho más) para mejorar la precisión y las perspectivas de la creación de informes.</p>
+                </div>
+                <a href="analytics/2025/aug/demystifying-common-metrics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Cocinar con CJA - Recetas clásicas AA" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757003827084" alt="Cocinar con CJA - Recetas clásicas AA"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="Cocinar con CJA - Recetas clásicas AA">Cocinar con CJA - Recetas modernas de AA clásicas</a>
+                    </p>
+                    <p class="is-size-6">Descubra cómo utilizar campos derivados, clasificaciones y dimensiones habilitadas para listas en Customer Journey Analytics para desbloquear perspectivas flexibles y retroactivas.</p>
+                </div>
+                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Three Game-Changing Customizations in Adobe Analytics Workspace">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/analysis-workspace-customizations.md" title="Tres personalizaciones que cambian el juego en Adobe Analytics Workspace" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757003827039" alt="Tres personalizaciones que cambian el juego en Adobe Analytics Workspace"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/analysis-workspace-customizations.md" target="_blank" rel="referrer" title="Tres personalizaciones que cambian el juego en Adobe Analytics Workspace">Tres personalizaciones que cambian el juego en Adobe Analytics Workspace</a>
+                    </p>
+                    <p class="is-size-6">Descubra cómo personalizar paneles de marca, establecer ID únicos de visitantes y combatir el tráfico de bots en Adobe Analytics con las perspectivas de la campeona Isha Gupta y Deb William.</p>
+                </div>
+                <a href="analytics/2025/aug/analysis-workspace-customizations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data in Motion - Scalable Analytics Workflows for Insight-Driven Teams">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/scalable-workflows.md" title="Datos en movimiento: flujos de trabajo de Analytics escalables para equipos impulsados por Insight" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757003827053" alt="Datos en movimiento: flujos de trabajo de Analytics escalables para equipos impulsados por Insight"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/scalable-workflows.md" target="_blank" rel="referrer" title="Datos en movimiento: flujos de trabajo de Analytics escalables para equipos impulsados por Insight">Datos en movimiento: flujos de trabajo de Analytics escalables para equipos impulsados por Insight</a>
+                    </p>
+                    <p class="is-size-6">Aprenda a optimizar los flujos de trabajo de Adobe Analytics, fortalecer la gobernanza y empoderar a los equipos con perspectivas que impulsen la activación, la colaboración y el crecimiento.</p>
+                </div>
+                <a href="analytics/2025/aug/scalable-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving Impact with Segmentation & Personalization in Adobe Analytics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/segmentation-personalization.md" title="Impacto en la segmentación y personalización en Adobe Analytics" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757003827103" alt="Impacto en la segmentación y personalización en Adobe Analytics"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/segmentation-personalization.md" target="_blank" rel="referrer" title="Impacto en la segmentación y personalización en Adobe Analytics">Impacto importante con la segmentación y personalización en Adobe Analytics</a>
+                    </p>
+                    <p class="is-size-6">Obtenga información sobre cómo generar, administrar y activar segmentos en Adobe Analytics. Explore el Generador de segmentos, Segment IQ y las estrategias de personalización que impulsan el ROI.</p>
+                </div>
+                <a href="analytics/2025/aug/segmentation-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace Features that you Should be Using">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/workspace-features.md" title="Funciones de Workspace que debería utilizar" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757003827074" alt="Funciones de Workspace que debería utilizar"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/workspace-features.md" target="_blank" rel="referrer" title="Funciones de Workspace que debería utilizar">Características de Workspace que debería usar</a>
+                    </p>
+                    <p class="is-size-6">Descubra las principales funciones de Adobe Analytics Workspace (formato condicional, menús desplegables, modelos de atribución y métricas calculadas) para descubrir perspectivas más profundas.</p>
+                </div>
+                <a href="analytics/2025/aug/workspace-features.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ### Experience Manager
 
@@ -48,7 +230,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Presentación de apertura de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471399/?format=jpeg&nocache=1756943155218&captions=spa" alt="Presentación de apertura de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757003827758" alt="Presentación de apertura de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -66,12 +248,12 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Smart, Scalable, and Structured - Building a Future-Ready Content Framework">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="aem/2025/aug/content-framework.md" title="indefinido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="indefinido"
+                    <a href="aem/2025/aug/content-framework.md" title="Inteligente, escalable y estructurado: creación de un marco de contenido preparado para el futuro" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757003827742" alt="Inteligente, escalable y estructurado: creación de un marco de contenido preparado para el futuro"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,9 +261,9 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" title="indefinido">sin definir</a>
+                        <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" title="Inteligente, escalable y estructurado: creación de un marco de contenido preparado para el futuro">Inteligente, escalable y estructurado: creación de un marco de contenido preparado para el futuro</a>
                     </p>
-                    <p class="is-size-6">indefinido</p>
+                    <p class="is-size-6">Descubra cómo los metadatos, la taxonomía, los fragmentos de contenido y la automatización con tecnología de IA de AEM optimizan las operaciones de contenido, aumentan la capacidad de detección y escalan la entrega.</p>
                 </div>
                 <a href="aem/2025/aug/content-framework.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
@@ -89,12 +271,12 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Taxonomy & Structure - AEM’s Secret to Scalable Asset Management">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="aem/2025/aug/scalable-asset-management.md" title="indefinido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="indefinido"
+                    <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomía y estructura: el secreto de AEM para la administración de recursos escalables" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757003827770" alt="Taxonomía y estructura: el secreto de AEM para la administración de recursos escalables"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,9 +284,9 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" title="indefinido">sin definir</a>
+                        <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" title="Taxonomía y estructura: el secreto de AEM para la administración de recursos escalables">Taxonomía y estructura: secreto de AEM para la administración de recursos escalables</a>
                     </p>
-                    <p class="is-size-6">indefinido</p>
+                    <p class="is-size-6">Descubra cómo la taxonomía, la estructura de carpetas, el control y las etiquetas inteligentes de AEM desbloquean la administración eficiente de recursos digitales, aumentan la capacidad de detección y garantizan el control de la marca.</p>
                 </div>
                 <a href="aem/2025/aug/scalable-asset-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
@@ -135,7 +317,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471358/?format=jpeg&nocache=1756943156021&captions=spa" alt="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757003828090" alt="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +340,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="Navegación por la nueva norma: equilibrio entre Personalization, privacidad y seguridad de los datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1756943155992" alt="Navegación por la nueva norma: equilibrio entre Personalization, privacidad y seguridad de los datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757003828063" alt="Navegación por la nueva norma: equilibrio entre Personalization, privacidad y seguridad de los datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +363,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Saque el máximo partido a sus inversiones en medios con Real-Time CDP Collaboration de Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1756943155977" alt="Saque el máximo partido a sus inversiones en medios con Real-Time CDP Collaboration de Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757003828079" alt="Saque el máximo partido a sus inversiones en medios con Real-Time CDP Collaboration de Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +386,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="Cómo calmar el caos del cliente: consejos para hacer frente a Recorridos complejos en Adobe Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1756943156007" alt="Cómo calmar el caos del cliente: consejos para hacer frente a Recorridos complejos en Adobe Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757003828102" alt="Cómo calmar el caos del cliente: consejos para hacer frente a Recorridos complejos en Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,7 +409,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="Solución de Recorridos de Adobe más allá del correo electrónico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1756943156035" alt="Solución de Recorridos de Adobe más allá del correo electrónico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757003828112" alt="Solución de Recorridos de Adobe más allá del correo electrónico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +450,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Presentación de apertura" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471478/?format=jpeg&nocache=1756943156421&captions=spa" alt="Presentación de apertura"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757003828494" alt="Presentación de apertura"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -291,7 +473,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="De MQL a AIQL: creación de un motor de ciclo vital con tecnología de IA en Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1756943156412" alt="De MQL a AIQL: creación de un motor de ciclo vital con tecnología de IA en Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757003828462" alt="De MQL a AIQL: creación de un motor de ciclo vital con tecnología de IA en Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +496,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471423/?format=jpeg&nocache=1756943156442&captions=spa" alt="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757003828474" alt="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -337,7 +519,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="Mejora de la categorización de datos en Marketo Engage mediante modelos de IA optimizados" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1756943156451" alt="Mejora de la categorización de datos en Marketo Engage mediante modelos de IA optimizados"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757003828484" alt="Mejora de la categorización de datos en Marketo Engage mediante modelos de IA optimizados"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,7 +542,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Elementos destacados de Experience Makers - Optimización de los seguimientos en el ciclo vital del cliente" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1756943156433" alt="Elementos destacados de Experience Makers - Optimización de los seguimientos en el ciclo vital del cliente"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757003828446" alt="Elementos destacados de Experience Makers - Optimización de los seguimientos en el ciclo vital del cliente"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +586,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="Presentación de apertura" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1756943157000" alt="Presentación de apertura"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757003828856" alt="Presentación de apertura"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -427,7 +609,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="Elevar los informes de Workfront con el modo de texto avanzado" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1756943157019" alt="Elevar los informes de Workfront con el modo de texto avanzado"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757003828871" alt="Elevar los informes de Workfront con el modo de texto avanzado"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +632,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparación de su organización de Workfront para un centro de excelencia" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471587/?format=jpeg&nocache=1756943157009&captions=spa" alt="Preparación de su organización de Workfront para un centro de excelencia"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757003828883" alt="Preparación de su organización de Workfront para un centro de excelencia"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +655,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Habilitar a los usuarios con nuevas funciones: la agitación es la vida" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471541/?format=jpeg&nocache=1756943157057&captions=spa" alt="Habilitar a los usuarios con nuevas funciones: la agitación es la vida"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757003828924" alt="Habilitar a los usuarios con nuevas funciones: la agitación es la vida"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +678,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatización de la creación de cuentas de usuario de Workfront con Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471574/?format=jpeg&nocache=1756943157030&captions=spa" alt="Automatización de la creación de cuentas de usuario de Workfront con Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757003828895" alt="Automatización de la creación de cuentas de usuario de Workfront con Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +701,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Introducción a revisiones y aprobaciones" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471563/?format=jpeg&nocache=1756943157047&captions=spa" alt="Introducción a revisiones y aprobaciones"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757003828916" alt="Introducción a revisiones y aprobaciones"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -542,7 +724,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="Maximice la eficiencia con IA: Dominio de las herramientas de IA de Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1756943157038" alt="Maximice la eficiencia con IA: Dominio de las herramientas de IA de Workfront"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757003828904" alt="Maximice la eficiencia con IA: Dominio de las herramientas de IA de Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -565,7 +747,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="Optimización de flujos de trabajo de Creative con Workfront + Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1756943157065" alt="Optimización de flujos de trabajo de Creative con Workfront + Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757003828932" alt="Optimización de flujos de trabajo de Creative con Workfront + Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
