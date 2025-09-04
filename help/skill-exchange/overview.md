@@ -48,7 +48,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Presentación de apertura de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1756943155218" alt="Presentación de apertura de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471399/?format=jpeg&nocache=1756943155218&captions=spa" alt="Presentación de apertura de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,7 +135,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756943156021" alt="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471358/?format=jpeg&nocache=1756943156021&captions=spa" alt="Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +268,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Presentación de apertura" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756943156421" alt="Presentación de apertura"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471478/?format=jpeg&nocache=1756943156421&captions=spa" alt="Presentación de apertura"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +314,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756943156442" alt="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471423/?format=jpeg&nocache=1756943156442&captions=spa" alt="Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +450,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Preparación de su organización de Workfront para un centro de excelencia" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756943157009" alt="Preparación de su organización de Workfront para un centro de excelencia"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471587/?format=jpeg&nocache=1756943157009&captions=spa" alt="Preparación de su organización de Workfront para un centro de excelencia"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +473,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Habilitar a los usuarios con nuevas funciones: la agitación es la vida" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756943157057" alt="Habilitar a los usuarios con nuevas funciones: la agitación es la vida"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471541/?format=jpeg&nocache=1756943157057&captions=spa" alt="Habilitar a los usuarios con nuevas funciones: la agitación es la vida"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatización de la creación de cuentas de usuario de Workfront con Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756943157030" alt="Automatización de la creación de cuentas de usuario de Workfront con Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471574/?format=jpeg&nocache=1756943157030&captions=spa" alt="Automatización de la creación de cuentas de usuario de Workfront con Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +519,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="Introducción a revisiones y aprobaciones" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756943157047" alt="Introducción a revisiones y aprobaciones"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471563/?format=jpeg&nocache=1756943157047&captions=spa" alt="Introducción a revisiones y aprobaciones"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

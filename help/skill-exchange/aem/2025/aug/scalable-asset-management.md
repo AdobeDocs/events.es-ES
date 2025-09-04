@@ -27,7 +27,7 @@ En esta sesión, Katie Junge y Melanie Bartlett compartirán sus consejos rápid
 * Escalabilidad y futuras pruebas de su DAM
 * Capacidad de detección de recursos optimizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3471385/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471426/?learn=on&enablevpops&captions=spa)
 
 ## Desbloquear la administración de activos digitales escalables
 
