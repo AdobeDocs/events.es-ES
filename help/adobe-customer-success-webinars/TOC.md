@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 4%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 4%
       + [Data Distiller 101](2025/data-distiller-101.md)
       + [Ganador del patrocinio ejecutivo para proyectos de AEP](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
+      + [Cadena de suministro de contenido y Adobe GenStudio](2025/csc-gen-studio.md)
       + [Modelo operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)

@@ -1,9 +1,9 @@
 ---
 user-guide-title: seminarios web de Acrobat Sign
 user-guide-description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
@@ -13,10 +13,11 @@ ht-degree: 1%
 
 + [Información general](overview.md)
 + [Acrobat Sign 101](./skill-builders/getting-started.md)
++ [Versión de julio de 2025 de Adobe Acrobat Sign](skill-builders/acrobat-july-release.md)
 + [Preparar sus contratos para su firma electrónica](./skill-builders/e-signature-setup.md)
 + [Trabaje con firmas electrónicas en sus aplicaciones de Microsoft](./skill-builders/e-signature-microsoft.md)
 + [Sugerencias avanzadas para enviar documentos para su firma](./skill-builders/advanced-sending-documents-signature.md)
-+ [Post es un formulario web que se puede rellenar y firmar](./skill-builders/fillable-signable-web-form.md)
++ [Publicar un formulario web que se puede rellenar y firmar](./skill-builders/fillable-signable-web-form.md)
 + [Recopilar muchas firmas con un solo clic](./skill-builders/collect-signatures.md)
 + [Entorno de creación](./skill-builders/authoring-environment.md)
 + [Visibilidad del estado del acuerdo](./skill-builders/agreement-status.md)
