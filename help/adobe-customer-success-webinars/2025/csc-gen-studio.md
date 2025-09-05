@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Este seminario web proporciona información general de alto nivel sobre la cadena de suministro de contenido moderno, ilustrando cómo las organizaciones pueden acelerar, simplificar y regular la creación y entrega de contenido en cada canal y audiencia. Los espectadores conocerán la potencia integrada de Adobe GenStudio as a product suite, que incluye AEM Sites, AEM Assets, Workfront y Creative Cloud, para desbloquear la colaboración en tiempo real, automatizar flujos de trabajo y permitir la ejecución creativa escalable y en la marca. La sesión está diseñada para educar a los líderes empresariales y de TI sobre cómo una plataforma unificada de cadena de suministro de contenido puede impulsar la agilidad de marketing, el impacto creativo y el crecimiento comercial cuantificable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472982/?learn=on&enablevpops&captions=spa)
 
 ## Desbloqueo de la creación de contenido perfecta con Adobe
 
