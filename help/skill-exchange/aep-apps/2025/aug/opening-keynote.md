@@ -31,4 +31,4 @@ Descubra cómo Adobe Experience Platform y la IA auténtica están remodelando l
 Aproveche estas perspectivas para optimizar sus flujos de trabajo, mejorar la personalización y afianzar su experiencia en la administración de experiencias digitales.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471358/?learn=on&enablevpops&captions=spa)

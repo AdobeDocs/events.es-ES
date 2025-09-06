@@ -23,7 +23,7 @@ Acumen empresarial y razonamiento ético: tome decisiones inteligentes y éticas
 Metodología de investigación y arte narrativo: transforme los hallazgos de los datos en narrativas atractivas para las partes interesadas.
 Competencia técnica e inteligencia emocional: Ofrezca apoyo y soluciones con empatía, no solo con habilidad técnica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471184/?learn=on&enablevpops&captions=spa)
 
 ## Desbloquear Analytics para el impacto humano
 

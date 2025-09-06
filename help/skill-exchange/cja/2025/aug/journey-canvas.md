@@ -24,7 +24,7 @@ Los asistentes aprenderán a utilizar el análisis a nivel de recorrido para ide
 
 Por último, profundizaremos en estrategias para ampliar estas perspectivas en toda la organización conectando los resultados del lienzo de Recorrido con los paneles granulares, lo que permite la optimización continua en cada punto de contacto. Tanto si es su primera vez en CJA como si es un profesional experimentado, esta sesión le proporcionará una metodología clara para utilizar Lienzo de Recorrido con el fin de mejorar sus programas de CX e impulsar resultados tangibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471217/?learn=on&enablevpops&captions=spa)
 
 ## Lienzo de recorrido: del análisis a la activación
 

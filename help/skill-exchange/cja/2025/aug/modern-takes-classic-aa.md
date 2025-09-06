@@ -25,7 +25,7 @@ ht-degree: 0%
 Tanto si le faltan las reglas de procesamiento como si intenta encontrar la panorámica perfecta (vista de datos) para su próximo análisis, esta sesión le guiará por la cocina del análisis moderno, paso a paso.
 Venga con ganas de obtener información y disfrute de un menú completo de técnicas preparadas para CJA
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471243/?learn=on&enablevpops&captions=spa)
 
 ## Transformación de Analytics con CJA: Consideraciones clave
 

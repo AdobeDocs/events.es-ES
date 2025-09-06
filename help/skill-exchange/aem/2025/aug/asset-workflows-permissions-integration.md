@@ -26,7 +26,7 @@ En esta sesión, los administradores y los bibliotecarios de DAM aprenderán a u
 * Explicación y aplicación de permisos y control de acceso dentro de DAM
 * Capacidades de DAM, prácticas recomendadas y estrategias de integración con DAM
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471455/?learn=on&enablevpops&captions=spa)
 
 ## Desbloquear la administración eficiente de activos digitales
 

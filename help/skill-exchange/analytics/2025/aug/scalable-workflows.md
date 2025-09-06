@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Únase a la campeona de Adobe, Ioana Maftei, directora sénior de análisis en IBM, mientras comparte cómo crear flujos de trabajo de análisis escalables y controlados que hagan que la cadena de suministro de contenido sea mensurable. Aprenda a proporcionar las perspectivas adecuadas a las personas adecuadas en el momento adecuado, permitir la colaboración entre equipos y adaptar los proyectos de Analysis Workspace para adaptarlos a diferentes funciones y necesidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471232/?learn=on&enablevpops&captions=spa)
 
 ## Asignación de funciones a fases de Analytics
 
