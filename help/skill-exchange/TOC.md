@@ -3,7 +3,7 @@ user-guide-title: El intercambio de habilidades
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Colección de grabaciones de Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 9%
@@ -25,7 +25,6 @@ ht-degree: 9%
    + Agosto de 2025 {#aug2025}
       + [Presentación de apertura](aep-apps/2025/aug/opening-keynote.md)
       + [Equilibrio entre Personalization, privacidad y seguridad de los datos](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Desmitificación de métricas comunes](analytics/2025/aug/demystifying-common-metrics.md)
       + [Inversiones en medios y Real-Time CDP Collaboration de Adobe](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [Sugerencias para hacer frente a Recorridos complejos en Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Recorridos más allá del correo electrónico](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 9%
       + [Los paneles no ofrecen información](analytics/2025/aug/dashboards-insights.md)
       + [Narración De Datos Con Analysis Workspace](analytics/2025/aug/data-storytelling.md)
       + [Datos a PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+      + [Desmitificación de métricas comunes](analytics/2025/aug/demystifying-common-metrics.md)
       + [Flujos de trabajo de Analytics escalables](analytics/2025/aug/scalable-workflows.md)
       + [Segmentación y personalización](analytics/2025/aug/segmentation-personalization.md)
       + [Funciones de Workspace que debería utilizar](analytics/2025/aug/workspace-features.md)
