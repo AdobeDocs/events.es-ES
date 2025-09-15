@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Descubra cómo Monique garantiza que las personas adecuadas tengan el acceso adecuado: uso de funciones, grupos, equipos y formularios personalizados para simplificar la escala y reducir la sobrecarga de administración. Esta sesión le mostrará formas prácticas de limpiar su instancia, mejorar el control y optimizar la configuración de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473961/?learn=on&enablevpops&captions=spa)

@@ -412,7 +412,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Presentación de apertura de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Presentación de apertura de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471399/?format=jpeg&nocache=1757465010566&captions=spa" alt="Presentación de apertura de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Creadores de experiencia El intercambio de habilidades es una serie global de ev
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Maximice su licencia de Workfront: consejos profesionales para la administración de usuarios y las licencias" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Maximice su licencia de Workfront: consejos profesionales para la administración de usuarios y las licencias"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473961/?format=jpeg&nocache=1757465013296&captions=spa" alt="Maximice su licencia de Workfront: consejos profesionales para la administración de usuarios y las licencias"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
