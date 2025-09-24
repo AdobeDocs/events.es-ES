@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
+source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 20%
+source-wordcount: '231'
+ht-degree: 13%
 
 ---
 
@@ -28,6 +28,34 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
               <img alt="Experience League LIVE 30 de septiembre de 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
+            <div>
+              <a href="episodes/exl-live-episode-09-30-25.md">
+                <strong>Amplía tu alcance móvil con RCS y WhatsApp en Journey Optimizer</strong>
+              </a>
+              <br/><em>con Sandra Hausmann, Travis Jordan y Nikhil Sharma</em>
+              <br/><em>30 de septiembre de 2025</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
+              <img alt="Experience League LIVE 16 de octubre de 2025" src="assets/exl-live-episode-10-16-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-16-25.md">
+                <strong>Libere el poder de Customer Journey Analytics B2B edition</strong>
+              </a>
+              <br/><em>con Doug Moore, Kari Olson, Caitlin Baunach</em>
+              <br/><em>16 de octubre de 2025</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
+              <img alt="Experience League LIVE 22 de octubre de 2025" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>Experiencias y eficiencia del cliente de próxima generación con Adobe Experience Platform Agent Orchestrator</strong>
+              </a>
+              <br/><em>con Daniel Wright, Namita Krishnan y Huong Vu</em>
+              <br/><em>22 de octubre de 2025</em>
             </div>
         </td>
     </tr>
@@ -96,5 +124,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 

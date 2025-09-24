@@ -8,14 +8,14 @@ event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: d403b748907dcc941a9877028f472bdab452bf02
+source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# Impulso de contenido personalizado en Journey Optimizer con fragmentos de contenido de AEM y Dynamic Media
+# Amplíe su alcance móvil con RCS y WhatsApp en Journey Optimizer
 
 En este programa de Experience League Live, Travis Jordan y Nikhil Sharma mostrarán cómo Adobe Journey Optimizer ha ampliado recientemente la participación móvil con potentes nuevas incorporaciones y funcionalidades de canal, incluidos WhatsApp, RCS y el proveedor de SMS personalizado.
 
