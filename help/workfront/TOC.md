@@ -3,7 +3,7 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 2%
@@ -30,7 +30,7 @@ ht-degree: 2%
    + [Adopción](expert-insights/adoption.md)
    + [Encuestas de adopción](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
-   + [Cadena de suministro de contenido](expert-insights/content-supply-chain.md)
+   + [Supply chain de contenido](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [Gobernanza y centros de excelencia](expert-insights/centers-of-excellence.md)
    + [Flujos de trabajo de Workfront no tradicionales](expert-insights/non-traditional-workfront-workflows.md)
@@ -51,10 +51,6 @@ ht-degree: 2%
       + [Dominio de notificaciones por correo electrónico](workshop-rewind/workflow/email-notifications.md)
       + [Plantillas de proyecto](workshop-rewind/workflow/project-templates.md)
       + [Libere el poder de Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
 
 + Clásicos {#classics}
    + Administración {#administration}
@@ -92,3 +88,7 @@ ht-degree: 2%
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
