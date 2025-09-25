@@ -2,10 +2,10 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,14 +42,15 @@ ht-degree: 4%
       + [AI: más allá de lo básico](2025/ai-beyond-basics.md)
       + [Prácticas recomendadas y perspectivas para el modelado de esquemas XDM](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
+      + [Casos de uso y resolución de problemas del gráfico de identidad](2025/identity-graph.md)
       + [Ganador del patrocinio ejecutivo para proyectos de AEP](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [Cadena de suministro de contenido y Adobe GenStudio](2025/csc-gen-studio.md)
+      + [Supply chain de contenido y Adobe GenStudio](2025/csc-gen-studio.md)
       + [Modelo operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
    + Varias soluciones {#multisolution2025}
-      + [Conceptos básicos de cadena de suministro de contenido](2025/content-supply-chain-basics.md)
+      + [Conceptos básicos de Supply chain de contenido](2025/content-supply-chain-basics.md)
       + [Optimización de experiencias digitales con perspectivas de IA](2025/accelerating-digital-experience-optimization.md)
       + [Mejora de programas de fidelización mediante Personalization y datos](2025/enhance-loyalty-programs.md)
       + [Mejora de Personalization](2025/enhancing-personalization.md)
@@ -97,7 +98,7 @@ ht-degree: 4%
    + [Dominio de Adobe Admin Console](2024/adobe-admin-console.md)
    + [Dominio de las cookies y privacidad de datos](2024/mastering-cookies-data-privacy.md)
    + [Dominio de la lógica secuencial](2024/sequential-logic.md)
-   + [Preparación de la organización para la cadena de suministro de contenido](2024/organizational-readiness-content-supply-chain.md)
+   + [Preparación de la organización para el Supply chain de contenido](2024/organizational-readiness-content-supply-chain.md)
    + [Integración de Real-Time Customer Data Platform y Marketo](2024/aep-marketo-integration.md)
    + [Preparación para la migración de Real-time Customer Data Platform](2024/rtcdp-migration-readiness.md)
    + [Liderazgo estratégico](2024/strategic-leadership.md)
