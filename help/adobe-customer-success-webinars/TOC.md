@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Enriquecimiento de Adobe Commerce con Adobe Experience Platform](2025/enriching-adobe-commerce.md)
       + [Transformación de Commerce B2B y B2B2C](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [Creación del patrocinio ejecutivo](2025/cja-success.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [Personalizar las comunicaciones digitales](2025/personalize-digital-communications.md)
       + [Información general del editor universal](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [Agentes de IA](2025/ai-agents.md)
       + [AI: más allá de lo básico](2025/ai-beyond-basics.md)
       + [Prácticas recomendadas y perspectivas para el modelado de esquemas XDM](2025/model-xdm-schemas.md)
       + [Data Distiller 101](2025/data-distiller-101.md)
