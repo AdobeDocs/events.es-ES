@@ -3,9 +3,9 @@ user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: Obtenga información sobre AEM Gems, una serie de consejos técnicos proporcionados por expertos en Adobe Experience Manager.
 breadcrumb-title: Eventos de GEM de AEM
 solution: Experience Manager
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '777'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 1%
 
 + [Información general](overview.md)
 + 2025 {#gems2025}
+   + [Dominio de la eficiencia de caché para un rendimiento óptimo de la página](gems2025/mastering-cache-efficiency-for-optimal-page-performance.md)
    + [Maximice el impacto de su experiencia web con AEM Sites Optimizer](gems2025/maximize-impact-with-sites-optimizer.md)
    + [Introducción a CDN administrada por Adobe](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
