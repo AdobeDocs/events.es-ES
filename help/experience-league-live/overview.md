@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: a3f2daa37a2fb1896ed4e3b1d640b82715319178
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 13%
@@ -51,7 +51,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
               <img alt="Experience League LIVE 30 de octubre de 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
+              <a href="episodes/exl-live-episode-10-30-25.md">
                 <strong>La próxima era de experimentación: cómo la IA agresiva está impulsando pruebas y crecimiento más inteligentes</strong>
               </a>
               <br/><em>con Sandra Hausmann, Brent Kostak, Justin Grover y David Arbor</em>
@@ -124,5 +124,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
