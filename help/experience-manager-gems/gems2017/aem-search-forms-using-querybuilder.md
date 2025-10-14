@@ -30,7 +30,7 @@ AEM La mayoría de los desarrolladores se han encontrado con el generador de con
 
 Demostración
 
-* AEM [Constructor de consultas de la lista de distribución](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregado por Alexander Klimetschek
+* AEM [Constructor de consultas de la lista de distribución](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), entregado por Alexander Klimetschek
 
 AEM Documentación de
 

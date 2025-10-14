@@ -32,4 +32,4 @@ Peter Klassen, Product Manager, Adobe
 
 * [Notas de la versión de AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [Gestión de AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* AEM [Planeando su actualización a la versión 6.0 de la versión ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html) de la versión de
+* AEM [Planeando su actualización a la versión 6.0 de la versión &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html) de la versión de
