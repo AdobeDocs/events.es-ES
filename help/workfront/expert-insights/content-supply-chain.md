@@ -37,13 +37,13 @@ Core es un CSM verdaderamente estratégico que marca el ritmo en cómo usar las 
 
 ### Sesiones de cumbre
 
-* [Cómo Adobe optimizó su cadena de suministro de contenido - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore el enfoque de Adobe para implementar su cadena de suministro de contenido en su propia organización de marketing 
-* [Revolucionar la producción de contenido con Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra cómo Adobe puede maximizar su cadena de suministro de contenido y acelerar su flujo de trabajo creativo 
+* [Cómo Adobe optimizó su cadena de suministro de contenido - S316](https://business.adobe.com/es/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : Explore el enfoque de Adobe para implementar su cadena de suministro de contenido en su propia organización de marketing 
+* [Revolucionar la producción de contenido con Adobe - S305](https://business.adobe.com/es/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : Descubra cómo Adobe puede maximizar su cadena de suministro de contenido y acelerar su flujo de trabajo creativo 
 
 ### Demostraciones de productos
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html): debido a que se necesita una [demostración del producto] interactiva para ilustrar el ámbito de lo que puede existir dentro de nuestra solución de administración de trabajo empresarial.  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html): me encanta lo completo que es para que nuestros clientes empiecen a unir sus necesidades con las soluciones que existen hoy en Adobe.
+* [Workfront](https://business.adobe.com/es/product-demos/workfront/interactive-tour.html): debido a que se necesita una [demostración del producto] interactiva para ilustrar el ámbito de lo que puede existir dentro de nuestra solución de administración de trabajo empresarial.  
+* [GenStudio](https://business.adobe.com/es/resources/sdk/getting-started-with-adobe-genstudio.html): me encanta lo completo que es para que nuestros clientes empiecen a unir sus necesidades con las soluciones que existen hoy en Adobe.
 
 ## Acerca del altavoz 
 
