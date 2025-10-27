@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1a45f3ef18803495f5bc77b0eb0d626ff7e558fe
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 15%
+source-wordcount: '184'
+ht-degree: 17%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
-              <img alt="Experience League LIVE 22 de octubre de 2025" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
-                <strong>Experiencias y eficiencia del cliente de próxima generación con Adobe Experience Platform Agent Orchestrator</strong>
-              </a>
-              <br/><em>con Daniel Wright, Namita Krishnan, Huong Vu y Cole Connelly</em>
-              <br/><em>22 de octubre de 2025</em>
-            </div>
-        </td>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
               <img alt="Experience League LIVE 30 de octubre de 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
@@ -113,5 +102,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
