@@ -1,7 +1,7 @@
 ---
 title: 'Espressos y Experience Manager: Content Hub frente a Brand Portal'
 description: Vea cómo AEM Content Hub transforma la distribución de recursos con una implementación más rápida, un coste añadido cero e integración perfecta para todos los clientes de Asset Cloud Service.
-solution: Experience Manager Assets
+solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19499
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: f0d7a52dd0634ddb011beb1155866c498dd8d4d9
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
