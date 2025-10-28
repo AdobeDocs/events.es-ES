@@ -10,9 +10,9 @@ event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
 solution: Marketo Engage
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '99'
 ht-degree: 5%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 5%
 
 + [Información general](overview.md)
 + 2025 {#2025}
+   + [Aprovechamiento de GenAI](2025/harness-gen-ai.md)
    + [Heredar una instancia de Bizible nueva o actual](2025/inheriting-bizible-instance.md)
    + [Auditoría de una instancia heredada o actual](2025/auditing-inherited-instance.md)
    + [5 funciones de Marketo que debe conocer](2025/5-features-to-know.md)

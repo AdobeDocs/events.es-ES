@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '522'
 ht-degree: 3%
 
 ---
@@ -51,6 +51,7 @@ ht-degree: 3%
       + [Modelo operativo GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+      + [Aprovechamiento de una arquitectura NorthStar](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [Plan de desarrollo al valor con Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
    + Varias soluciones {#multisolution2025}
       + [Conceptos básicos de Supply chain de contenido](2025/content-supply-chain-basics.md)
