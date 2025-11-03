@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '146'
+ht-degree: 21%
 
 ---
 
@@ -19,29 +19,30 @@ ht-degree: 17%
 
 Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League.  Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
+<!--
 <div id="upcoming-events">
 
-## Próximos eventos de Experience League LIVE
+## Upcoming Experience League LIVE events
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 de octubre de 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong>La próxima era de experimentación: cómo la IA agresiva está impulsando pruebas y crecimiento más inteligentes</strong>
+                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
-              <br/><em>con Sandra Hausmann, Brent Kostak, Justin Grover y David Arbor</em>
-              <br/><em>30 de octubre de 2025</em>
+              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
+              <br/><em>Oct 30, 2025</em>
             </div>
         </td>
     </tr>
-
-</table>
-
+    
+</table>    
+  
 </div>
-
+-->
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -102,5 +103,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
