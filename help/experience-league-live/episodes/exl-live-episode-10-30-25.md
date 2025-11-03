@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
+source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ Tanto si es un experto en marketing, gestor de productos o estratega de optimiza
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-¡Únase a nosotros en la comunidad de [Adobe Journey Optimizer y pregúntenme cualquier cosa!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=es) el miércoles 12 de noviembre de 8 a. m. a 9 a. m. PT. Nos acompañarán expertos de Adobe Journey Optimizer: Cole Connelly (@coleconnelly), director de producto de Sr, Huong Vu (@HuongVu), directora de marketing de producto, Namita Krishnan (@Namita_Krishnan), directora de producto, Brent Kostak (@bkostak), directora de marketing de producto de Sr, David Arbor (@user03474), científico de investigación de Sr, Justin Grover (@justin_grover), directora de producto, Sandra Hausmann (@SHausmann), ingeniero técnico de marketing de Sr y Daniel Wright (@dwright), ingeniero técnico de marketing de Sr.
+¡Únase a nosotros en la comunidad de [Adobe Journey Optimizer y pregúntenme cualquier cosa!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) el miércoles 12 de noviembre de 8 a. m. a 9 a. m. PT. Nos acompañarán expertos de Adobe Journey Optimizer: Cole Connelly (@coleconnelly), director de producto de Sr, Huong Vu (@HuongVu), directora de marketing de producto, Namita Krishnan (@Namita_Krishnan), directora de producto, Brent Kostak (@bkostak), directora de marketing de producto de Sr, David Arbor (@user03474), científico de investigación de Sr, Justin Grover (@justin_grover), directora de producto, Sandra Hausmann (@SHausmann), ingeniero técnico de marketing de Sr y Daniel Wright (@dwright), ingeniero técnico de marketing de Sr.
 
 Responderemos a sus preguntas durante este chat en vivo.
+
+## Recursos adicionales
+
+* [Dentro del acelerador de experimentación de IA de Adobe - Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
