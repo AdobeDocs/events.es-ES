@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: a2880622b706440262b91279a69eadda493cbe81
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '376'
 ht-degree: 19%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 19%
       + [Adobe Commerce y App Builder Essentials: de lo básico al impacto](commerce/2025/commerce-and-app-builder.md)
       + [Comunicación, requisitos y pruebas en Agile SDLC](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + Noviembre {#nov2025}
+      + [Caos de metadatos al dominio](experience-manager/nov2025/metadata-mayhem.md)
    + Agosto {#aug2025}
       + [Etiquetas inteligentes de AEM](experience-manager/aug2025/smart-tags.md)
    + Julio {#jul2024}
