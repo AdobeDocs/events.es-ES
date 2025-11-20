@@ -1,13 +1,13 @@
 ---
 title: Simplifique la resolución de problemas y la administración de casos de asistencia con el Agente de asistencia técnica del producto
 description: Con la tecnología de Adobe Experience Platform Agent Orchestrator, el agente de soporte de productos está diseñado para ayudar a estos equipos en sus aplicaciones de Adobe Experience Platform al proporcionar una forma interactiva de solucionar, diagnosticar y escalar problemas, lo que permite resoluciones más rápidas y una mayor eficacia operativa.
-kt: KT-18493
-solution: Journey Optimizer, Target
-feature: AI Assistant, Experimentation
-event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
-event-start-time: 2025-10-30 08:30-8
-event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+kt: KT-19794
+solution: Experience Platform
+feature: AI Assistant
+event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
+event-start-time: 2025-12-16 09:00-8
+event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
+source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
