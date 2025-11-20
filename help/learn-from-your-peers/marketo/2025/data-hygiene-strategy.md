@@ -34,6 +34,6 @@ Escuche a la campeona de Adobe Marketo Engage, Miray Vu, comprender el papel cr�
 ## Recursos adicionales
 
 * Únase a la [discusión](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) sobre la Comunidad de países de mercadotecnia, donde se publican preguntas y respuestas.
-* [Higiene de datos de Marketo Engage mediante campañas ejecutables](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Dominio de la higiene de los datos para la sincronización de Salesforce CRM con Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Higiene de datos de Marketo Engage mediante campañas ejecutables](https://business.adobe.com/es/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Dominio de la higiene de los datos para la sincronización de Salesforce CRM con Marketo Engage](https://experienceleague.adobe.com/es/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Cómo realizar la deduplicación mediante la API de REST de Marketo Engage](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
