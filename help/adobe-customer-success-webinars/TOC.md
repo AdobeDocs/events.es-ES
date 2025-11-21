@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '551'
 ht-degree: 4%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 4%
    + Customer Journey Analytics {#cja2025}
       + [Creación del patrocinio ejecutivo](2025/cja-success.md)
       + [Cambiar estrategias de administración](2025/cja-adoption.md)
+      + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
       + [Diseño exitoso de un modelo operativo para CJA](2025/cja-operating-model.md)
       + [Arquitectura básica](2025/cja-vision.md)
       + [Migración a CJA desde Adobe Analytics](2025/analytics-to-cja-migration.md)
