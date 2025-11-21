@@ -26,11 +26,11 @@ Este taller se grabó el 12 de junio de 2025 y contó con la participación de L
 Junto con la grabación bajo demanda, hemos incluido las plataformas de diapositivas y sugerencias que se compartieron en el chat:  
 * [Diapositivas de Workfront con recursos](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson’s+Smarter+Way+to+Unlocked+True+Event+Costs.pdf)
 * [Diapositivas de presentación de Lucas’ Fusion](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=es)
 
 ¿Acaba de empezar a usar Fusion? Consulte estos recursos. 
-* [Formación de Workfront Fusion en Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [Eche un vistazo a la lista de plantillas de Fusion disponibles aquí](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates): recientemente se han publicado un puñado de plantillas nuevas.  
+* [Formación de Workfront Fusion en Experience League](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [Eche un vistazo a la lista de plantillas de Fusion disponibles aquí](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates): recientemente se han publicado un puñado de plantillas nuevas.  
 * **Sugerencia profesional de los clientes en el chat** Al aprender Fusion, empiece con pequeñas automatizaciones de Workfront a Workfront 
 
-Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) en Experience League y registrarse.
+Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?lang=es&filters=Workfront) en Experience League y registrarse.
