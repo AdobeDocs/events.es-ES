@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
+source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 21%
+source-wordcount: '179'
+ht-degree: 17%
 
 ---
 
@@ -19,30 +19,28 @@ ht-degree: 21%
 
 Experience League LIVE es un programa de streaming en vivo producido por el equipo de Experience League.  Es una oportunidad para conectar con expertos en productos de Adobe y aprender consejos, trucos y estrategias útiles que puede poner en práctica con las aplicaciones de Adobe Experience Cloud.
 
-<!--
-<div id="upcoming-events">
 
-## Upcoming Experience League LIVE events
+
+## Próximos eventos de Experience League LIVE
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
+              <img alt="Experience League LIVE 16 de diciembre de 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
+                <strong>Simplifique la solución de problemas y la administración de casos de soporte con el Agente de soporte técnico</strong>
               </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
+              <br/><em>con Daniel Wright, Huong Vu y Shreya Anantha Raman</em>
+              <br/><em>16 de diciembre de 2025</em>
             </div>
         </td>
     </tr>
-    
-</table>    
-  
-</div>
--->
+
+</table>
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -103,5 +101,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
