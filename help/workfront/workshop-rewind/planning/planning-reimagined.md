@@ -24,9 +24,9 @@ ht-degree: 0%
 Si se perdió la sesión en vivo, revise las [diapositivas de SNHU de HMac](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf) y vea la grabación bajo demanda para seguir.
 * (Nota: todos los proyectos del mazo son solo ejemplos)
 
-Para obtener más información sobre lo que viene a continuación de Workfront Planning, asegúrese de marcar la [página Actividad de la versión de Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) en Experience League.
+Para obtener más información sobre lo que viene a continuación de Workfront Planning, asegúrese de marcar la [página Actividad de la versión de Adobe Workfront Planning](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) en Experience League.
 
-¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)!
+¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
 

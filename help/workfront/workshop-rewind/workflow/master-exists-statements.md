@@ -23,7 +23,7 @@ Durante este taller, compartieron conocimientos técnicos y aplicaciones prácti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-¿Se ha perdido la sesión en directo? ¡No te preocupes! Revisa la [presentación](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550) de Skye &amp; Nathan y mira la grabación bajo demanda para seguirla.
+¿Se ha perdido la sesión en directo? ¡No te preocupes! Revisa la [presentación](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=es) de Skye &amp; Nathan y mira la grabación bajo demanda para seguirla.
 
 ¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)!
 

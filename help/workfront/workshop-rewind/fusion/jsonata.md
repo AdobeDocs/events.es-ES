@@ -25,7 +25,7 @@ Además, se trataron tres ejemplos del mundo real, desde la búsqueda y el filtr
 
 Si no pudo asistir en vivo, no se preocupe: revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) y vea la grabación bajo demanda para continuar.
 
-Consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) para descargarla y siga el archivo zip de materiales de formación.
+Consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=es) para descargarla y siga el archivo zip de materiales de formación.
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
 
