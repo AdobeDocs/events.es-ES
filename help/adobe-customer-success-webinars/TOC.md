@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
+source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '556'
 ht-degree: 4%
 
 ---
@@ -73,6 +73,7 @@ ht-degree: 4%
       + [Resultados de las vacaciones de 2024 y tendencias de 2025](2025/adobe-digital-insights.md)
       + [Estrategias de elaboración para una medición eficaz](2025/impactful-insights.md)
       + [Cultivo de una organización de marketing Agile](2025/agile-marketing-organization.md)
+      + [Desarrollar casos prácticos de uso B2B](2025/practical-business-use-cases.md)
       + [Tendencias digitales y preparación para el futuro](2025/digital-trends-preparing-future.md)
       + [Arquitectura Northstar](2025/northstar-architecture.md)
       + [Crecimiento impulsado por IA y libros de estrategias de mejor rendimiento](2025/ai-driven-growth.md)
