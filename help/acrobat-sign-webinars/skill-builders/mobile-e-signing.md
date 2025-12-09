@@ -19,4 +19,4 @@ ht-degree: 0%
 
 El enfoque móvil de Acrobat Sign transforma la firma electrónica móvil en una experiencia perfecta. Elimina la frustración del pellizco y el zoom al ofrecer una vista optimizada para móviles, lo que garantiza que los destinatarios puedan firmar acuerdos sin esfuerzo en cualquier dispositivo. Esto mejora las tasas de finalización y reduce los retrasos, lo que permite a las empresas finalizar los acuerdos rápidamente. La configuración sin código simplifica el proceso para los remitentes, lo que elimina la necesidad de desarrollo personalizado. Adopte la eficiencia y mejore los resultados empresariales con las innovadoras soluciones móviles de Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477532/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477535/?captions=spa&learn=on&enablevpops)
