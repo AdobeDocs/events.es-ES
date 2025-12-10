@@ -35,13 +35,13 @@ El modo texto puede ser desafiante, pero las recompensas son increíbles.  ¡Sol
 ## Recursos
 
 ¿Busca recursos adicionales? ¡Los tenemos!
-* [Panel del cliente: Lecciones aprendidas de administradores veteranos de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - ¡Katherine compartió más información!
-* [Colecciones de referencia en un informe](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [Explorador de API](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* Y si eres nuevo en Informes, empieza con el artículo Perspectiva de Nichole, [8 pasos para crear informes simples y efectivos en Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Panel del cliente: Lecciones aprendidas de administradores veteranos de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=es#M3487) - ¡Katherine compartió más información!
+* [Colecciones de referencia en un informe](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [Explorador de API](https://experienceleague.adobe.com/es/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=es#M1406)
+* Y si eres nuevo en Informes, empieza con el artículo Perspectiva de Nichole, [8 pasos para crear informes simples y efectivos en Adobe Workfront](https://experienceleague.adobe.com/es/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Para obtener más recursos, incluido el modo de copiar y pegar texto, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848).
+Para obtener más recursos, incluido el modo de copiar y pegar texto, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=es#M4848).
 
 
 ## Acerca del altavoz

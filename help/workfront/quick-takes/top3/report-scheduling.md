@@ -23,6 +23,6 @@ Esta vez comparto mis formas favoritas de sacar el máximo partido a Programaci�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285).
+Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=es).
 
 Si te gusta conocer nuevas ideas y enfoques creativos, no olvides registrarte en los próximos talleres en la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events).

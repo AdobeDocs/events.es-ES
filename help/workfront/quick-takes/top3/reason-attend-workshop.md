@@ -21,5 +21,5 @@ Los talleres de Adobe Workfront son una excelente manera de familiarizarse con n
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-Una vez que hayas terminado, ve a la [página de eventos de Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) para inscribirte en futuros talleres.
+Una vez que hayas terminado, ve a la [página de eventos de Experience League](https://experienceleague.adobe.com/es/events?filters=Workfront) para inscribirte en futuros talleres.
 
