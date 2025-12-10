@@ -29,7 +29,7 @@ El modo texto puede ser desafiante, pero las recompensas son increíbles.  ¡Sol
 * Aproveche la comunidad. : confíe en Experience League, libros de cocina, el Explorador de API y compañeros. No reinventen la rueda.
 * Persistir, pero tomar descansos. - Si está atascado, cierre el portátil, dé un paseo y vuelva con los ojos frescos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477137/?captions=spa&learn=on&enablevpops)
 
 
 ## Recursos

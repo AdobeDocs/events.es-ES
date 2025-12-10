@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Los talleres de Adobe Workfront son una excelente manera de familiarizarse con nuestro producto. Vea un vídeo rápido sobre las 3 razones principales por las que debería asistir a nuestros talleres.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477030/?captions=spa&learn=on&enablevpops)
 
 Una vez que hayas terminado, ve a la [página de eventos de Experience League](https://experienceleague.adobe.com/es/events?filters=Workfront) para inscribirte en futuros talleres.
 

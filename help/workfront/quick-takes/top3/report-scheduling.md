@@ -21,7 +21,7 @@ Soy yo otra vez, su &quot;On-Demand Workfront CSM&quot; Cynthia Boon con otro &q
 
 Esta vez comparto mis formas favoritas de sacar el máximo partido a Programación de informes. En el vídeo, muestro ejemplos de cómo usar esta función para obtener aún más de todos los fantásticos informes que genera.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477077/?captions=spa&learn=on&enablevpops)
 
 Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=es).
 

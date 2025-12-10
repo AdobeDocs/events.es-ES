@@ -24,7 +24,7 @@ Es su &quot;On-Demand Workfront CSM&quot; de nuevo con ejemplos de mis hacks fav
 * Solicitudes que se muestran directamente en un calendario (ejemplo de incorporación de nuevo empleado)
 * ¡Y una propina extra!
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477066/?captions=spa&learn=on&enablevpops)
 
 Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=es).
 

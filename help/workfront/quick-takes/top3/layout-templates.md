@@ -19,7 +19,7 @@ ht-degree: 0%
 
 No es de sorprender, las plantillas de diseño hacen que sus instancias de Adobe Workfront se adapten mejor a sus necesidades específicas como administrador del sistema, por lo que consulte mis 3 razones principales por las que debería utilizar plantillas de diseño.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477043/?captions=spa&learn=on&enablevpops)
 
 Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=es#M313).
 

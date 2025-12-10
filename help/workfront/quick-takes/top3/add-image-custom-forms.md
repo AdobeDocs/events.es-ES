@@ -21,7 +21,7 @@ Eche un vistazo a esta edición de vídeo de las 3 principales razones por las q
 
 Esto incluye consejos divertidos y funcionales para mejorar la comunicación y hacer que las solicitudes de rellenado sean más interesantes para los usuarios finales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477055/?captions=spa&learn=on&enablevpops)
 
 Para obtener más recursos, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=es#M374).
 
