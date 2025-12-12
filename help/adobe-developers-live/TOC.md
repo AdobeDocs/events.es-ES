@@ -2,10 +2,10 @@
 user-guide-title: Eventos de Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Colección de grabaciones del evento de contenido de Adobe Developer Live
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 6%
+source-wordcount: '984'
+ht-degree: 5%
 
 ---
 
@@ -16,9 +16,22 @@ ht-degree: 6%
 + 2025 {#2025}
    + [Keynote - Creación de la Web de la Agencia Keynote](2025/keynote.md)
    + [Evolución agéntica de AEM](2025/agentic-evolution-aem.md)
+   + [Agentes de IA con LLM Optimizer](2025/llm-optimizer.md)
    + [IA en proyectos de Adobe](2025/ai-in-projects.md)
    + [Enfrentamiento de codificación de IA](2025/coding-agent.md)
+   + [Innovaciones de desarrollo de AI Commerce](2025/app-builder-extensions.md)
+   + [Detección de contenido de IA con AEM](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [Inteligencia artificial aplicada al contenido en AEM](2025/content-ai.md)
+   + [Creación de documentos a escala](2025/document-authoring-at-scale.md)
+   + [Publicación dinámica](2025/dynamic-publishing.md)
    + [Explorar agentes de Adobe Experience Manager](2025/aem-agents.md)
+   + [Migración y modernización de experiencias](2025/modernize-experiences.md)
+   + [Modernización de Qantas con Edge Delivery Services](2025/modernizing-qantas.md)
+   + [Optimización del código con AEM Sites Optimizer](2025/code-optimization.md)
+   + [Instantáneas de entorno de desarrollo rápido](2025/rapid-development-snapshots.md)
+   + [Racionalización de los servicios gubernamentales con IA](2025/government-digital-services.md)
+   + [Desbloquear IA en AEM](2025/transform-aem-with-agents.md)
 + 2024 {#2024}
    + Noviembre {#nov2024}
       + [Presentación](2024/nov/keynote.md)

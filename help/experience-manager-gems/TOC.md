@@ -3,9 +3,9 @@ user-guide-title: Eventos de GEMS de Adobe Experience Manager
 user-guide-description: Obtenga información sobre AEM Gems, una serie de consejos técnicos proporcionados por expertos en Adobe Experience Manager.
 breadcrumb-title: Eventos de GEM de AEM
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [Analizador de prácticas recomendadas de AEM para entornos locales y de AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Caso práctico de cliente e implementación de AEM Headless en uso](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Mirando bajo el capó - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Integrar el marco de AEM y CIF para crear una experiencia de comercio electrónico enriquecida e inmersiva](gems2022/aem-and-cif-framework-integration.md)
    + [Cree sitios web más rápido con AEM sin encabezado y App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service: revisión de 2021 y perspectivas para 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 listo para el mundo: integración de traducciones y prácticas recomendadas](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Novedades de Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [Análisis profundo del Editor de texto enriquecido de AEM (RTE)](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Profundización en los detalles de implementación de tiendas, módulos y segmentos en ContextHub](gems2019/contexthub-deep-dive.md)
    + [Creación de experiencias omnicanal sin encabezado con AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
