@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra el rendimiento de los agentes de codificación de IA en proyectos Edge Delivery Services reales. Conozca sus puntos fuertes, desafíos y el impacto en la experiencia del desarrollador. Esta sesión de Adobe Developers Live 2025 muestra la automatización práctica en comparación con la &quot;codificación del ambiente&quot;, y resalta dónde sobresale la IA y dónde lucha. Únase a Lars Trieloff para probar la ingeniería auténtica y comparar agentes de codificación de IA líderes para revelar perspectivas sobre el futuro de las experiencias digitales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477619/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477651/?captions=spa&learn=on&enablevpops)
 
 Esta sesión, Coding Agent Showdown: Lo bueno, lo malo y lo feo, pone a prueba la ingeniería auténtica. Lars Trieloff compara agentes de codificación de IA líderes en proyectos de Edge Delivery Services en el mundo real, revelando dónde la experiencia del desarrollador se encuentra con la experiencia del agente. Observen dónde brilla la IA, dónde lucha y qué separa la automatización práctica de la &quot;codificación de la vibración&quot;. Grabado en vivo desde San José.
 

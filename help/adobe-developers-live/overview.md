@@ -117,7 +117,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="Enfrentamiento de codificación de IA: lo bueno, lo malo y lo feo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="Enfrentamiento de codificación de IA: lo bueno, lo malo y lo feo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477651/?captions=spa&format=jpeg&nocache=1765499677608" alt="Enfrentamiento de codificación de IA: lo bueno, lo malo y lo feo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +278,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Explorar agentes de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Explorar agentes de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477663/?captions=spa&format=jpeg&nocache=1765499677627" alt="Explorar agentes de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
