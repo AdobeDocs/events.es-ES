@@ -19,7 +19,7 @@ ht-degree: 1%
 
 La inteligencia artificial aplicada al contenido de Adobe Experience Manager transforma las experiencias digitales al utilizar el contenido existente para la búsqueda semántica, el descubrimiento generativo y las variaciones de contenido automáticas. Descubra cómo la arquitectura y las canalizaciones de enriquecimiento de la inteligencia artificial aplicada al contenido ofrecen experiencias digitales inteligentes. Descubra sus capacidades para administrar contenido de forma eficiente y desbloquear las oportunidades de IA, mejorando la transformación digital de su empresa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477729/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477822/?captions=spa&learn=on&enablevpops)
 
 En esta sesión, que ofrece información sobre contenido en Adobe Experience Manager con inteligencia artificial aplicada al contenido, participan Fabrizio Fortino, ingeniero de software en la nube sénior, y Julia Daurer, directora de desarrollo de software en Adobe. Grabada en directo desde Basilea, esta presentación explora cómo la inteligencia artificial aplicada al contenido de Adobe Experience Manager utiliza el contenido existente de los clientes para impulsar la búsqueda semántica, el descubrimiento generativo y las variaciones de contenido automáticas a través de flujos de trabajo auténticos. Obtenga información acerca la arquitectura de la IA de contenido, las canalizaciones de enriquecimiento y las capacidades de prueba A/B diseñadas para ofrecer experiencias digitales inteligentes.
 

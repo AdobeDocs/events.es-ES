@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Explore cómo Adobe Experience Manager transforma los sitios web empresariales para la era de la IA. Descubra cómo los agentes de IA automatizan la migración del sitio, enriquecen el contenido y mejoran la capacidad de detección, lo que reduce el tiempo de inicio. Obtenga información sobre la integración de interfaces conversacionales, la creación de nuevas páginas y la mejora del diseño para una mejor participación del usuario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477717/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477789/?captions=spa&learn=on&enablevpops)
 
 Esta sesión, Migración y modernización de experiencias con Adobe Experience Manager para la participación del usuario y el descubrimiento nativo de IA, incluye a Giorgia Fiscaletti, ingeniero de fiabilidad de la nube de Adobe, y Paolo Mottadelli, director de ingeniería de Adobe. Grabada en directo desde Basilea, esta presentación muestra cómo los agentes de Adobe Experience Manager modernizan los sitios web empresariales para la era de la IA. Descubra cómo los agentes de IA migran, enriquecen y estandarizan automáticamente el contenido para el descubrimiento generativo, la gestión de la implementación de bloques y la generación de diseños para reducir el tiempo de lanzamiento y mejorar la capacidad de detección de contenido.
 

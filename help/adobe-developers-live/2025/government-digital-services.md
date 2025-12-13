@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra cómo la IA transforma los servicios digitales gubernamentales al integrar Adobe Experience Manager y Microsoft SharePoint. Descubra cómo los formularios adaptables simplifican el envío, la validación y la entrega de servicios, mejorando la experiencia y la eficacia de los ciudadanos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477752/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477800/?captions=spa&learn=on&enablevpops)
 
 Esta sesión, que aprovecha la IA y la integración Adobe-Microsoft para optimizar los servicios digitales del gobierno, presenta a Cristian Bota, ingeniero de software sénior del Ensemble, grabada en directo desde Basilea. Conozca cómo el Gobierno del Yukón está transformando el acceso a los programas públicos mediante Adobe Experience Manager Forms, Sites y Acrobat Sign para el Gobierno, integrados con las Listas SharePoint de Microsoft. Descubra cómo la inteligencia artificial aplicada interpreta los requisitos del cliente mediante un generador automatizado de Forms, lo que permite crear formularios adaptables que simplifican el envío, la validación y la entrega de servicios en el ecosistema de Adobe y Microsoft.
 

@@ -163,7 +163,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="Innovaciones de desarrollo de AI Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="Innovaciones de desarrollo de AI Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477684/?captions=spa&format=jpeg&nocache=1765499677619" alt="Innovaciones de desarrollo de AI Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="Detección de contenido de IA con Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="Detección de contenido de IA con Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477743/?captions=spa&format=jpeg&nocache=1765499677611" alt="Detección de contenido de IA con Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Inteligencia artificial aplicada al contenido en Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Inteligencia artificial aplicada al contenido en Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477822/?captions=spa&format=jpeg&nocache=1765499677634" alt="Inteligencia artificial aplicada al contenido en Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="Creación de documentos a escala: la base de las experiencias inteligentes y optimizadas para IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="Creación de documentos a escala: la base de las experiencias inteligentes y optimizadas para IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477811/?captions=spa&format=jpeg&nocache=1765499677631" alt="Creación de documentos a escala: la base de las experiencias inteligentes y optimizadas para IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Optimización del código con AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Optimización del código con AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477720/?captions=spa&format=jpeg&nocache=1765499677637" alt="Optimización del código con AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -324,7 +324,7 @@ Los equipos de productos de Adobe de Adobe Experience Cloud, Document Cloud y Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/modernize-experiences.md" title="Migración y modernización de experiencias con Adobe Experience Manager para la participación del usuario y el descubrimiento nativo de IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477717/?format=jpeg&nocache=1765499677675" alt="Migración y modernización de experiencias con Adobe Experience Manager para la participación del usuario y el descubrimiento nativo de IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477789/?captions=spa&format=jpeg&nocache=1765499677675" alt="Migración y modernización de experiencias con Adobe Experience Manager para la participación del usuario y el descubrimiento nativo de IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

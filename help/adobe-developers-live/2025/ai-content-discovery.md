@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra cómo la IA transforma la detección de contenido con Adobe Experience Manager. Aprenda a utilizar el Asesor de contenido para la búsqueda semántica y las recomendaciones de recursos con tecnología de IA. Esta sesión cubre el descubrimiento basado en instrucciones de campaña y el acceso rápido a representaciones de Dynamic Media, lo que simplifica la reutilización y entrega de contenido a través de una pila de OpenAPI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477743/?captions=spa&learn=on&enablevpops)
 
 Esta sesión, Descubrimiento de contenido impulsado por IA con representaciones preparadas para el canal, incluye a Matt Briscoe, Deepa Gupta y Mathias Siegel, que muestra cómo los desarrolladores pueden utilizar el Asesor de contenido para descubrir recursos y fragmentos de contenido con búsquedas semánticas y recomendaciones impulsadas por IA. Descubra cómo el descubrimiento basado en instrucciones de campaña y el acceso rápido a las representaciones de Dynamic Media en Scene7 y DM simplifican la reutilización y la entrega de contenido a través de una pila de OpenAPI. Grabado en vivo desde San José.
 

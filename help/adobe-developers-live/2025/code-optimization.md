@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Descubra cómo Adobe Experience Manager Sites Optimizer ayuda a los desarrolladores a mejorar la calidad del código mediante la detección de scripts redundantes y estructuras DOM pesadas. En esta sesión se muestra cómo utilizar la herramienta para mejorar los elementos vitales de la web principal, reducir la deuda técnica y aumentar el rendimiento. Aprenda a aplicar recomendaciones sin problemas dentro del flujo de trabajo para obtener correcciones más rápidas, una SEO más sólida y experiencias de usuario más fluidas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477720/?captions=spa&learn=on&enablevpops)
 
 Esta sesión, Dentro del motor: Optimización de código con Adobe Experience Manager Sites Optimizer, incluye Deck Reyes que muestra cómo Sites Optimizer analiza las implementaciones de front-end y back-end para detectar scripts redundantes, estructuras DOM pesadas y cuellos de botella de elementos principales de elementos web vitales. Aprenda a aplicar sus recomendaciones para reducir la deuda técnica y mejorar el rendimiento directamente en AEM. Grabado en vivo desde San José.
 
