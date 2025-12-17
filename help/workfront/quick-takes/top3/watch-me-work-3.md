@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 Edición Especial! Mírame Trabajar: 3 maneras [3er vídeo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470205/?captions=spa&learn=on&enablevpops)
 
 Explore las tres funciones principales que ayudan a los trabajadores y solicitantes a optimizar su flujo de trabajo en Workfront. Descubra cómo las solicitudes de borrador, las vistas de formulario personalizadas y los tableros pueden mejorar la productividad y optimizar los procesos. Estas herramientas son esenciales para administrar tareas de forma eficaz, colaborar visualmente y realizar un seguimiento de los objetivos dentro de proyectos grandes. Descubra cómo estas funciones pueden ayudarle con su trabajo y mejorar su experiencia en Workfront.
 

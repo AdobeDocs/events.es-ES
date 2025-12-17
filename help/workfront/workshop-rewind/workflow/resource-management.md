@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Descubra estrategias y herramientas esenciales para una administración eficaz de los recursos en Adobe Workfront. Obtenga información sobre cómo optimizar la planificación de recursos y el equilibrio de cargas de trabajo para alcanzar sus objetivos empresariales. Esta presentación le guiará a través de la configuración y preparación necesarias para garantizar datos precisos, lo que le ayudará a pronosticar las necesidades de recursos y administrar la capacidad del equipo de forma eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477148/?captions=spa&learn=on&enablevpops)

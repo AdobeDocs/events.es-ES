@@ -23,7 +23,7 @@ Soy yo otra vez, tu &quot;On-Demand Workfront CSM&quot; Cynthia Boon con una ser
 * Administrador/planificador de proyectos
 * Trabajador/solicitante
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470179/?captions=spa&learn=on&enablevpops)
 
 ## Recursos adicionales
 

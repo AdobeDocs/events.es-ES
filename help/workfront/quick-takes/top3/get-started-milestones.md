@@ -23,7 +23,7 @@ Este es un excelente informe para líderes de alto nivel e incluso para solicita
 
 Incluir un informe de hitos en el panel del proyecto o compartir este informe (mejor aún, programarlo automáticamente para su envío regular) es una buena manera de mantener a las partes interesadas, incluso a los usuarios que no son de Workfront, comprometidas con el progreso de los proyectos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470157/?captions=spa&learn=on&enablevpops)
 
 ## Recursos adicionales
 

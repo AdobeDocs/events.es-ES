@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 Edición Especial! Véame Trabajar: 3 maneras [Segundo vídeo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470191/?captions=spa&learn=on&enablevpops)
 
 Explore las principales funciones que utilizan los jefes de proyecto en Adobe Workfront. Descubra cómo las pestañas, los paneles de resumen y los filtros rápidos pueden mejorar el flujo de trabajo y la eficacia. Obtenga información sobre la administración eficaz de varias tareas y proyectos, lo que garantiza operaciones sin problemas y una productividad mejorada. Vea el vídeo para ver estas funciones en acción y mejorar sus habilidades de administración de proyectos.

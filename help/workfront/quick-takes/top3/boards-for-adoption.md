@@ -23,7 +23,7 @@ Soy yo otra vez, su &quot;On-Demand Workfront CSM&quot; Cynthia Boon con otro &q
 
 Si no ha tenido la oportunidad de experimentar con la función Tableros, no se preocupe. En el vídeo, comparto cómo dar acceso a los usuarios y un par de formas en que pueden empezar rápidamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470096/?captions=spa&learn=on&enablevpops)
 
 ## Recursos adicionales
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Tenemos muchas preguntas sobre cómo usar el modo de texto para combinar información en un informe, así que tenemos un vídeo paso a paso, así como algunos recursos a continuación para ayudarle a empezar. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470123/?captions=spa&learn=on&enablevpops)
 
 ¿Busca más? Tenemos **Tres consejos para obtener bonos** en la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=es).
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Hola de parte de su &quot;On-Demand Workfront CSM&quot; Cynthia Boon! ¿Quiere usar los tableros de Workfront, pero no sabe por dónde empezar? La forma más sencilla de empezar es con plantillas creadas previamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470134/?captions=spa&learn=on&enablevpops)
 
 Este es un artículo que proporciona instrucciones paso a paso.
 
