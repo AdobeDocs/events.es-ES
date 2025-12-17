@@ -1,5 +1,5 @@
 ---
-title: 'Seminario web: Descubra todas nuestras mejoras más recientes, versión de julio de 2025 de Adobe Acrobat Sign'
+title: 'Descubra todas nuestras mejoras más recientes: versión de julio de 2025 de Acrobat Sign'
 description: 'Descubra las actualizaciones de julio de 2025 de Acrobat Sign: conformidad con PDF/A, notificaciones de WhatsApp y seguridad mejorada de los acuerdos para líderes y administradores.'
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# Seminario web: Descubra todas nuestras mejoras más recientes: Versión de julio de 2025 de Adobe Acrobat Sign
+# Descubra todas nuestras mejoras más recientes: versión de julio de 2025 de Acrobat Sign
 
 Explore las nuevas funciones y características creadas para aquellos que lideran, administran e impulsan el éxito con Acrobat Sign.
 

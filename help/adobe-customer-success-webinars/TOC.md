@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [Diseño de un modelo operativo](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Aprovechamiento de una arquitectura NorthStar](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [Modernizar campañas](2025/ajo-adobe-campaign.md)
       + [Plan de desarrollo al valor con Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [Nuevo editor de correo electrónico](2025/marketo-new-email-editor.md)
    + Varias soluciones {#multisolution2025}
       + [Conceptos básicos de Supply chain de contenido](2025/content-supply-chain-basics.md)
       + [Optimización de experiencias digitales con perspectivas de IA](2025/accelerating-digital-experience-optimization.md)
