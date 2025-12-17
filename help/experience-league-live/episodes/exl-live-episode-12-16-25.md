@@ -28,4 +28,4 @@ Vea esta sesión en directo en la que el equipo de producto detrás del agente d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[¡Continúe con la conversación en la conversación de la comunidad!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[¡Continúe con la conversación en la conversación de la comunidad!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=es#M1909){target="_blank"}
