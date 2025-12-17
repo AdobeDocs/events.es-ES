@@ -29,8 +29,8 @@ Incluir un informe de hitos en el panel del proyecto o compartir este informe (m
 
 Para obtener más información sobre los hitos, consulte estos recursos gratuitos:
 
-* [Crear una ruta de hitos y pasos de hitos](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Usar la vista de Hito](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Crear una ruta de hitos y pasos de hitos](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Usar la vista de Hito](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [Envío y uso compartido de informes](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

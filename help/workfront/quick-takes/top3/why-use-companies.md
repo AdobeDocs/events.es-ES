@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-¿Busca más recursos o ideas para usar Compañías? Consulte [Publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313) para ver prácticas recomendadas más detalladas.
+¿Busca más recursos o ideas para usar Compañías? Consulte [Publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=es) para ver prácticas recomendadas más detalladas.
 
 

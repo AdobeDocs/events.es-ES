@@ -23,8 +23,8 @@ Hola de parte de su &quot;On-Demand Workfront CSM&quot; Cynthia Boon! ¿Quiere u
 
 Este es un artículo que proporciona instrucciones paso a paso.
 
-[Crear un nuevo tablero con una plantilla](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[Crear un nuevo tablero con una plantilla](https://experienceleague.adobe.com/es/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-¿Tiene ideas para compartir o tiene preguntas de seguimiento sobre el vídeo? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)!
+¿Tiene ideas para compartir o tiene preguntas de seguimiento sobre el vídeo? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307?profile.language=es)!
 
 

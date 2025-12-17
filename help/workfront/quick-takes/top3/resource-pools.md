@@ -29,7 +29,7 @@ Su &quot;On-Demand Workfront CSM&quot; está de vuelta con un nuevo Top 3 de ví
 
 ## Recursos adicionales
 
-* Para obtener más información, consulte el [artículo de información general sobre conjuntos de recursos](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* ¿Busca más? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)!
+* Para obtener más información, consulte el [artículo de información general sobre conjuntos de recursos](https://experienceleague.adobe.com/es/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* ¿Busca más? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=es)!
 
 
