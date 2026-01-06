@@ -21,4 +21,4 @@ El nuevo canal web permite a los especialistas en marketing crear campañas web 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-¿Tiene preguntas al respecto? Continúe con la discusión de este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121) de Adobe Experience League.
+¿Tiene preguntas al respecto? Continúe con la discusión de este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366?profile.language=es#M121) de Adobe Experience League.
