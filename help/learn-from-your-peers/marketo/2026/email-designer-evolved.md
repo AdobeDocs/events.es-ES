@@ -33,11 +33,11 @@ En este seminario web aprenderá lo siguiente:
 
 ## Recursos adicionales
 
-* [Información general de Designer por correo electrónico](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [Asistente de IA](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Fragmentos personalizables](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Contenido condicional](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [Temas de marca](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Comparación de funciones antiguas y nuevas de Designer de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Información general de Designer por correo electrónico](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [Asistente de IA](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Fragmentos personalizables](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Contenido condicional](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Temas de marca](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [Comparación de funciones antiguas y nuevas de Designer de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Notas de la versión](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/current)
-* [Campeón en profundidad: descubre el nuevo Designer de correo electrónico en Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Campeón en profundidad: descubre el nuevo Designer de correo electrónico en Marketo Engage](https://experienceleague.adobe.com/es/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
