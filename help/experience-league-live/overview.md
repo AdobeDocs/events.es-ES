@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 19%
+source-wordcount: '185'
+ht-degree: 17%
 
 ---
 
@@ -24,15 +24,19 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 ## Próximos eventos de Experience League LIVE
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            Próximamente habrá nuevos programas. Vuelve a esta página para ver los programas disponibles.
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE 28 de enero de 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Consulte Audience Agent para descubrir información sobre audiencias y crear audiencias listas para usar en minutos. </strong></a>
+      <br/><em>con Shelby Mansuri, Keara Fausett y Alyssa Espiritu</em>
+      <br/><em>28 de enero de 2026 a las 8:30 PT</em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Establecer un recordatorio</a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
