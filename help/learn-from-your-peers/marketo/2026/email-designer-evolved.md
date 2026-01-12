@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
+source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '224'
 ht-degree: 4%
 
 ---
@@ -33,11 +33,12 @@ En este seminario web aprenderá lo siguiente:
 
 ## Recursos adicionales
 
-* [Información general de Designer por correo electrónico](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [Asistente de IA](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [Fragmentos personalizables](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [Contenido condicional](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [Temas de marca](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [Comparación de funciones antiguas y nuevas de Designer de correo electrónico](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [Información general de Designer por correo electrónico](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [Asistente de IA](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [Fragmentos personalizables](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [Contenido condicional](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [Temas de marca](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [Comparación de funciones antiguas y nuevas de Designer de correo electrónico](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [Notas de la versión](https://experienceleague.adobe.com/es/docs/marketo/using/release-notes/current)
-* [Campeón en profundidad: descubre el nuevo Designer de correo electrónico en Marketo Engage](https://experienceleague.adobe.com/es/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Campeón en profundidad: descubre el nuevo Designer de correo electrónico en Marketo Engage](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Únase a la conversación en la comunidad con preguntas y respuestas](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
