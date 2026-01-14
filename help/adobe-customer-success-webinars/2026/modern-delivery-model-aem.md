@@ -19,4 +19,4 @@ ht-degree: 0%
 
 En el mundo digital de hoy, ofrecer experiencias de alto rendimiento en varios canales y regiones es crucial. Descubra por qué las organizaciones adoptan modelos de entrega modernos para mejorar la velocidad y la flexibilidad. Obtenga información acerca de las diferencias entre los servicios de entrega con encabezado, sin encabezado, híbrido y Edge. Explore cómo los componentes principales y los marcos de localización admiten estrategias de varias marcas y regiones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478778/?captions=spa&learn=on&enablevpops)
