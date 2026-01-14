@@ -2,10 +2,10 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
+source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 4%
+source-wordcount: '595'
+ht-degree: 5%
 
 ---
 
@@ -13,6 +13,14 @@ ht-degree: 4%
 # Seminarios web de éxito del cliente de Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Seminarios web de éxito del cliente de Adobe](overview.md)
++ 2026 {#2026}
+   + Experience Manager {#aem2026}
+      + [Modelos de envío modernos para AEM Sites](2026/modern-delivery-model-aem.md)
+      + [Ventajas estratégicas de AEM Cloud Service](2026/moving-to-aemcs.md)
+   + Experience Platform {#aep2026}
+      + [Cambio de inteligencia integrada](2026/embedded-intelligence.md)
+   + General {#general2025}
+      + [Estrategias de IA para el éxito de vacaciones](2026/2025-holiday-results.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Enriquecimiento de Adobe Commerce con Adobe Experience Platform](2025/enriching-adobe-commerce.md)
