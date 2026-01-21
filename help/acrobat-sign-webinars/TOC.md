@@ -1,9 +1,9 @@
 ---
 user-guide-title: seminarios web de Acrobat Sign
 user-guide-description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [Sugerencias avanzadas para enviar documentos para su firma](./skill-builders/advanced-sending-documents-signature.md)
    + [Recopilar muchas firmas con un solo clic](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [Notarizar integración](./skill-builders/notarize.md)
    + [Publicar un formulario web que se puede rellenar y firmar](./skill-builders/fillable-signable-web-form.md)
    + [Automaciones de flujo de trabajo](./skill-builders/workflow-automations.md)
