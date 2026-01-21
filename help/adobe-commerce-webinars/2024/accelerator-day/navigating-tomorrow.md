@@ -24,6 +24,6 @@ Un resumen de las sesiones de Adobe Commerce en la Cumbre 2024, algunas de las n
 
 + Presentado por Scott Rigby, responsable de producto de Adobe Commerce en JAPAC
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454562/?captions=spa&learn=on)
 
 [&lt; Volver a Adobe Commerce Accelerator Day](./overview.md)

@@ -24,6 +24,6 @@ Presente ejemplos de clientes activos en Adobe Commerce para demostrar la vangua
 
 + Presentado por Carl Screwvala, ingeniero de soluciones sénior - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455491/?captions=spa&learn=on)
 
 [&lt; Volver a Adobe Commerce Accelerator Day](./overview.md)

@@ -25,6 +25,6 @@ Información general y demostración de la personalización para Commerce median
 
 + Presentado por Mike Lynch, especialista en Commerce para empresas - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454441/?captions=spa&learn=on)
 
 [&lt; Volver a Adobe Commerce Accelerator Day](./overview.md)
