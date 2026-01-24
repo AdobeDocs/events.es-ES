@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Descubra una hoja de ruta práctica para optimizar las cadenas de suministro de contenido. Descubra cómo la integración de Flujo de trabajo y Planificación, Creación y Producción, Administración de activos, Entrega y activación, y Creación de informes e perspectivas genera resultados cuantificables. Explore los patrones comunes del sector, asigne objetivos a las soluciones de Adobe y utilice la hoja de ruta para guiar los próximos pasos y medir el impacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479089/?captions=spa&learn=on&enablevpops)
