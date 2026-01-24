@@ -29,7 +29,7 @@ Vea cómo se han diseñado las nuevas funciones para facilitar la conexión de l
 - [Información general sobre Adobe Workfront Planning](https://experienceleague.adobe.com/es/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Información general de la API de Workfront Planning](https://developer.adobe.com/wf-planning/api/v1/)
 - [Explorador de API de flujo de trabajo de Workfront](https://developer.adobe.com/workfront/api-explorer/)
-- ¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? No dude en incluirlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!). Todos los meses se agregan nuevos eventos, así que asegúrese de consultar la página Eventos de Experience League para ver las sesiones más recientes.
+- ¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? No dude en incluirlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!?profile.language=es). Todos los meses se agregan nuevos eventos, así que asegúrese de consultar la página Eventos de Experience League para ver las sesiones más recientes.
 
 
 
