@@ -1,8 +1,9 @@
 ---
 user-guide-title: seminarios web de Acrobat Sign
 user-guide-description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
+cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
+source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
