@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 18%
+source-wordcount: '218'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,21 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
       <br/><em>con Anjul Bhambhri y Daniel Wright</em>
       <br/><em>3 de marzo de 2026 a las 9:00 PT</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Obtenga más información acerca de esta sesión.</a></b>
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
+      <img alt="Experience League LIVE 3 de marzo de 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Vea cómo Campaign Orchestration en Journey Optimizer administra sus programas de marketing multicanal grandes y de uno a varios, desde la creación de audiencias hasta el inicio.</strong></a>
+      <br/><em>con Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva y Lee Henderson</em>
+      <br/><em>12 de marzo de 2026 a las 8:30 PT</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">Obtenga más información acerca de esta sesión.</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +102,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 

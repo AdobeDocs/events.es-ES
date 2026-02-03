@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '352'
 ht-degree: 13%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Conozca la orquestación de Campaign en Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Agentes de Adobe Experience Platform para una mayor eficacia de marketing y mejores resultados empresariales](episodes/exl-live-episode-03-03-26.md)
    + [Agentes en el trabajo: Creación y activación de audiencias y recorridos](episodes/exl-live-episode-01-28-26.md)
    + [Simplifique la resolución de problemas y la administración de casos de asistencia con el Agente de asistencia técnica del producto](episodes/exl-live-episode-12-16-25.md)
