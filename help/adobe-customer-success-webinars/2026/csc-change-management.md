@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Descubra cómo llevar a su organización a un Supply chain de contenido basado en datos utilizando una lente de administración de cambios de probada eficacia. Esta sesión mostrará cómo alinear líderes, equipar equipos y establecer nuevas formas de trabajar para que los equipos, la automatización y los datos compartidos se traduzcan en un tiempo de salida al mercado más rápido, una mayor reutilización de recursos y una gobernanza más sólida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479820/?captions=spa&learn=on&enablevpops)
 
 * **Liderar el cambio, no solo las herramientas** Aprenda a enmarcar el cambio a un Supply chain de contenido automatizado en términos comerciales que genere una aceptación real, aclarando el &quot;por qué ahora&quot;, alineando a los ejecutivos y convirtiendo los primeros proyectos piloto en impulso para la organización en general.
 
