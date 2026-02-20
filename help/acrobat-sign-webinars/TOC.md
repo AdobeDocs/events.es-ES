@@ -3,9 +3,9 @@ user-guide-title: seminarios web de Acrobat Sign
 user-guide-description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
    + [Creación y uso de flujos de trabajo](./skill-builders/create-use-workflows.md)
 + 101: Introducción para administradores {#getstartedadmins}
    + [Aumente su experiencia de administración de Acrobat Sign](./skill-builders/acrobat-sign-admin-experience.md)
+   + [Administradores en ETLA](./skill-builders/acrobat-sign-admin-etla.md)
    + [Informes avanzados](./skill-builders/advanced-reporting.md)
 + 102 - Tareas avanzadas {#advancedtasks}
    + [Sugerencias avanzadas para enviar documentos para su firma](./skill-builders/advanced-sending-documents-signature.md)
