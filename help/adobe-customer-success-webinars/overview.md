@@ -2844,11 +2844,11 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;
     style=&quot;width: 100%; proporción de aspecto: 16 / 9; ajuste de objeto: cover desbordamiento: oculto; visualización: block; margen: auto;&quot;>
     &lt;/a>
     &lt;/figure>
