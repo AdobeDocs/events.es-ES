@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '639'
 ht-degree: 5%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 5%
 + 2026 {#2026}
    + Customer Journey Analytics {#cja2026}
       + [Creación de archivos BRD-SDR para Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
+      + [Desbloquear identidad](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
       + [Creación en Edge Delivery Services](2026/authoring-eds.md)
       + [Maximizar las cadenas de suministro de contenido](2026/value-with-content-supply-chain.md)
