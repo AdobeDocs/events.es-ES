@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 27%
 
 ---
 
@@ -22,21 +22,6 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 
 ## Próximos eventos de Experience League LIVE
-
-<table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 3 de marzo de 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Únase a una sesión de preguntas y respuestas con Anjul Bhambhri, vicepresidente senior de Adobe Experience Cloud, para conocer la visión audaz de Adobe sobre las capacidades innovadoras de IA automática.</strong></a>
-      <br/><em>con Anjul Bhambhri, Gina Casagrande y Daniel Wright</em>
-      <br/><em>3 de marzo de 2026 a las 9:00 PT</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">Obtenga más información acerca de esta sesión.</a></b>
-    </div>
-  </td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -102,5 +87,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
