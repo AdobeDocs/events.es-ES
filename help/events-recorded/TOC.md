@@ -14,7 +14,7 @@ ht-degree: 11%
 
 + [Información general](overview.md)
 + Por serie {#series}
-   + [Seminarios web de Acrobat Analyzer](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+   + [Seminarios web de Acrobat Analyzer](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=es)
    + [Seminarios web de Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=es)
    + [Seminarios web de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html?lang=es)
    + [Seminarios web de éxito del cliente de Adobe](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=es)
@@ -41,7 +41,7 @@ ht-degree: 11%
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=es)
 + Por solución {#solution}
    + Acrobat Analyzer {#aaa}
-      + [Seminarios web de Acrobat Analyzer](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+      + [Seminarios web de Acrobat Analyzer](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=es)
    + Acrobat Sign {#as}
       + [Seminarios web de Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=es)
    + Servicios de Adobe Acrobat {#aas}
