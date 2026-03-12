@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '354'
 ht-degree: 7%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 7%
       + [Misión de documentación posible](analytics/2022/mission-possible.md)
       + [Contar historias impactantes con datos](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
+   + 2026 {#2026}
+      + [Recomendaciones de productos de Adobe Commerce: de la configuración al crecimiento estratégico](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
    + 2025 {#2025}
       + [Adobe Commerce y App Builder Essentials: de lo básico al impacto](commerce/2025/commerce-and-app-builder.md)
    + 2024 {#2024}
@@ -64,7 +66,7 @@ ht-degree: 7%
       + [Cómo hacer que su contenido  [!DNL Adobe Marketo Engage] se pueda escalar](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Caos de metadatos](https://experienceleague.adobe.com/es/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Caos de metadatos](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articulación del impacto: medición y uso compartido del valor de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplificar la planificación de recursos con automatización](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
