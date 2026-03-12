@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
-source-git-commit: 92da52440ae10b82194a9e695e56fd7904d47905
+exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
+source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Aprenda del seminario web de sus colegas: Recomendaciones de productos de Adobe Commerce: de la configuración al crecimiento estratégico
 
@@ -25,15 +25,15 @@ Reconocidos como los mejores profesionales que impulsan la innovación en todo e
 
 ## Qué va a aprender
 
-+ Impulsar recomendaciones estratégicas: alinear el tipo de recomendación con los KPI reales (aclaramiento, AOV, retención).
-+ Borrar inventario: cómo aumentar la exposición y realizar ventas cruzadas de stock de movimiento lento
-+ Aumentar AOV: empareje &quot;comprado frecuentemente juntos&quot; con un ajuste de la IU para aumentar las tasas de archivos adjuntos
-+ Mejore la retención de clientes: personalice módulos con datos de comportamiento para atraer a los clientes que regresan
-+ Combinar IA con estrategia humana: aproveche las reglas manuales de relación de productos para lanzamientos y campañas de marca
-+ Pasar de la configuración a la optimización: comprender los conceptos básicos de la configuración (configuración, inclusiones/exclusiones y ubicación de CMS/Page Builder), evitar escollos comunes y utilizar controles de administración y análisis para mejorar continuamente.
+* Impulsar recomendaciones estratégicas: alinear el tipo de recomendación con los KPI reales (aclaramiento, AOV, retención).
+* Inventario claro: cómo aumentar la exposición y realizar ventas cruzadas de stock en movimiento lento
+* Aumentar AOV: empareje &quot;comprados frecuentemente juntos&quot; con un ajuste de la IU para aumentar las tasas de archivos adjuntos
+* Mejore la retención de clientes: personalice los módulos con datos de comportamiento para atraer a los clientes que regresan
+* Combine la IA con la estrategia humana: aproveche las reglas manuales de relación de productos para lanzamientos y campañas de marca
+* Pasar de la configuración a la optimización: comprender los conceptos básicos de la configuración (configuración, inclusiones/exclusiones y ubicación de CMS/Page Builder), evitar escollos comunes y utilizar controles de administración y análisis para mejorar continuamente.
 
 Tanto si está empezando como si desea optimizar con las capacidades nativas de IA, esta sesión está diseñada para proporcionarle una orientación práctica y concreta que le permita obtener resultados tangibles sobre los ingresos y la experiencia del cliente que puede aplicar inmediatamente.
 
 ## Recursos adicionales
 
-+ [diapositivas de presentación](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf).
+* [Diapositivas de presentación](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
