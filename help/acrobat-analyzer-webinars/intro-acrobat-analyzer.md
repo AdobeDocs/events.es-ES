@@ -1,29 +1,28 @@
 ---
-title: Presentación de Acrobat Analyzer
-description: Descubra Adobe Acrobat Analyzer, una herramienta GenAI para Acrobat Sign que automatiza los flujos de trabajo de los documentos, reduce los riesgos y mejora la eficacia en la toma de decisiones.
+title: Introducing Acrobat Analyzer
+description: Discover Adobe Acrobat Analyzer, a GenAI tool for Acrobat Sign that automates document workflows, reduces risks, and improves decision-making efficiency.
 role: Admin, Leader, User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2026-03-06T00:00:00Z
-jira: KT-20491
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+jira: KT-20535
+exl-id: 08269373-e0c7-4a46-9c58-b37761beabb1
+source-git-commit: 27fe23c75a418be21fe90df4d8c3309d1d56848f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
+# Introducing Acrobat Analyzer
 
-# Presentación de Acrobat Analyzer
+Join us for an introduction to Adobe Acrobat Analyzer – a new GenAI capability with Acrobat Sign designed to extract structured, auditable insights from large volumes of documents, helping business teams automate workflows, reduce risk, and make faster decisions at scale.
 
-Únase para obtener una introducción a Adobe Acrobat Analyzer, una nueva capacidad GenAI con Acrobat Sign diseñada para extraer perspectivas estructuradas y auditables de grandes volúmenes de documentos, lo que ayuda a los equipos empresariales a automatizar flujos de trabajo, reducir el riesgo y tomar decisiones más rápidas a escala.
+>[!VIDEO](https://video.tv.adobe.com/v/3481448/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3480894/?learn=on&enablevpops)
+This webinar will show how Adobe Acrobat Analyzer makes document intelligence accessible to every function within the enterprise. In this Webinar, you will learn:
 
-Este seminario web mostrará cómo Adobe Acrobat Analyzer hace que la inteligencia de documentos sea accesible para todas las funciones dentro de la empresa. En este seminario web, aprenderá lo siguiente:
-
-* Introducción a Acrobat Analyzer
-* Cómo puede utilizar Acrobat Analyzer para automatizar las revisiones de miles de documentos y acelerar los flujos de trabajo de los documentos en todas las funciones empresariales
-* Cómo habilitarlo en su cuenta de Acrobat Sign
-
+* Introduction to Acrobat Analyzer
+* How you can use Acrobat Analyzer to automate reviews of thousands of documents and accelerate document workflows across business functions
+* How to enable it in your Acrobat Sign account
