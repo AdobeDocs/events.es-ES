@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 27%
+source-wordcount: '154'
+ht-degree: 34%
 
 ---
 
@@ -25,15 +25,8 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
-      <img alt="Experience League LIVE 3 de marzo de 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Vea cómo Campaign Orchestration en Journey Optimizer administra sus programas de marketing multicanal grandes y de uno a varios, desde la creación de audiencias hasta el inicio.</strong></a>
-      <br/><em>con Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva y Lee Henderson</em>
-      <br/><em>12 de marzo de 2026 a las 8:30 PT</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">Obtenga más información acerca de esta sesión.</a></b>
-    </div>
+    <td style="vertical-align: top;">
+      ¡Vuelve pronto a esta página para próximos programas de Experience League LIVE!
   </td>
 </tr>
 </table>
@@ -87,5 +80,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
