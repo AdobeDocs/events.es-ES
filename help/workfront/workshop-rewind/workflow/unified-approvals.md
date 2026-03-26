@@ -19,6 +19,6 @@ ht-degree: 4%
 
 Descubra los aspectos clave de las aprobaciones unificadas, incluida la dirección, la creación de informes y las próximas funciones. La rebobinación de este taller proporciona perspectivas valiosas para ayudarle a mantenerse informado y optimizar el flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481852/?captions=spa&learn=on&enablevpops)
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
