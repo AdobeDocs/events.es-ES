@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Talleres a petición de Workfront](overview.md)
 
 + Seminarios web sobre versiones {#releases}
+   + [Seminario web sobre la versión del segundo trimestre de 2026](releases/26-q2-release-webinar.md)
+   + [Seminario web sobre la versión del primer trimestre de 2026](releases/26-q1-release-webinar.md)
    + [Seminario web sobre la versión del cuarto trimestre de 2025](releases/25-q4-release-webinar.md)
    + [Versión 25.7](releases/25-7-release-webinar.md)
    + [Versión 25.4](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [Versión 24.1](releases/24-1-release-webinar.md)
 + Rebobinado de taller {#workshop-rewind}
    + Fusion {#fusion}
+      + [Automatización de PDF con marca con Workfront Fusion](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [Automatización de convenciones de nomenclatura](workshop-rewind/fusion/automating-naming-conventions.md)
       + [Automatizar procesos de trabajo](workshop-rewind/fusion/automate-work-processes.md)
       + [Ventajas de Fusion y prácticas recomendadas](workshop-rewind/fusion/benefits-best-practices.md)
       + [Importaciones de datos](workshop-rewind/fusion/data-imports.md)
       + [Ventajas y casos de uso de Fusion](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion Decoded Parte 2 - Comenzar a construir](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Cómo Workfront Fusion ayuda a los humanos](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Explorar los cambios de los campos de selección múltiple con facilidad](workshop-rewind/fusion/mulit-select-fields.md)
       + [Gestión proactiva de excepciones](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [Schneider Electric impulsa la eficiencia de Workfront](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [Optimizar flujos de trabajo](workshop-rewind/fusion/automate-workflows.md)
+      + [Sugerencias, trucos y aspectos destacados de la versión](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [Desbloquear los costes de eventos reales](workshop-rewind/fusion/event-costs.md)
       + [Actualizar a Suscripciones de eventos V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planificación {#planning}
       + [Lo último en Planificación de Workfront](workshop-rewind/planning/workfront-planning.md)
       + [Demostración de Adobe Workfront Planning](workshop-rewind/planning/planning-demo.md)
+      + [Creación de la implementación base](workshop-rewind/planning/base-implementation.md)
+      + [Conexión de paneles de Planning, de flujo de trabajo y de lienzo](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Cómo Syracuse aprovecha la planificación](workshop-rewind/planning/syracuse-planning.md)
       + [Casos de uso de Creative de SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Éxito de nivel de equipo con la planificación de Workfront](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Versión y hoja de ruta de Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 1%
       + [Aumentar la eficiencia](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Administración de cambios en Workfront](workshop-rewind/workflow/change-management.md)
       + [Integración de Supply chain de contenido](workshop-rewind/workflow/content-supply-chain.md)
+      + [Recopilación de datos](workshop-rewind/workflow/data-collection.md)
       + [Definición y comunicación del valor de Workfront](workshop-rewind/workflow/workfront-value.md)
       + [Sugerencias de comunicación efectivas en Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Consejos de gobernanza, ejecución y adopción](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [Plantillas de proyecto](workshop-rewind/workflow/project-templates.md)
       + [Reinventando los informes de Creative](workshop-rewind/workflow/creative-briefs.md)
       + [Conceptos básicos de administración de recursos](workshop-rewind/workflow/resource-management.md)
+      + [Recursos para acelerar la adopción y el valor](workshop-rewind/workflow/accelerate-adoption.md)
+      + [Repensando la administración de recursos](workshop-rewind/workflow/rethink-resource-management.md)
       + [Patrocinio ejecutivo seguro](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Autodidacta para el éxito](workshop-rewind/workflow/self-taught-to-success.md)
       + [Limpieza de primavera con informes de Workfront](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10 consejos de comunicación](workshop-rewind/workflow/10-communication-tips.md)
       + [10 consejos del modo de texto](workshop-rewind/workflow/text-mode-tips.md)
       + [10 consejos más sobre el modo texto](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [Transformar la confusión del usuario en confianza](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Solución de problemas de campos calculados de Workfront](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Conversión de modelos en programas de formación](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [Explicación de las aprobaciones unificadas](workshop-rewind/workflow/unified-approvals.md)
       + [Desbloquear tableros de Workfront](workshop-rewind/workflow/unlock-boards.md)
       + [Libere el poder de Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
       + [Uso de Workfront para informes efectivos](workshop-rewind/workflow/effective-reorgs.md)
