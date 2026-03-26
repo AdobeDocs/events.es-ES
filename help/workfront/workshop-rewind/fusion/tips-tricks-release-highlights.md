@@ -24,7 +24,7 @@ ht-degree: 2%
 
 Si se ha perdido la sesión, no se preocupe. Revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) y vea la grabación bajo demanda para continuar.
 
-¿Busca más recursos para las preguntas y respuestas del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111)!
+¿Busca más recursos para las preguntas y respuestas del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
 

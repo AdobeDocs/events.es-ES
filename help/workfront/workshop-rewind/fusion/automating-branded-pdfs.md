@@ -22,7 +22,7 @@ Convierta los datos de Workfront en resultados pulidos y listos para las partes 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-¿Busca más recursos del evento, incluyendo la presentación de diapositivas y el archivo zip analizados durante la sesión? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587)!
+¿Busca más recursos del evento, incluyendo la presentación de diapositivas y el archivo zip analizados durante la sesión? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
 
