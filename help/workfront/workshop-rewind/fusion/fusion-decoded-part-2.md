@@ -22,6 +22,6 @@ ht-degree: 3%
 
 Sumérjase en Fusion Decoded Parte 2 para comprender las estrategias de creación básicas para los flujos de trabajo y sistemas de Fusion. Esta sesión está diseñada para administradores, desarrolladores y líderes que buscan mejorar sus conocimientos y mejorar sus implementaciones de Fusion. Vea cómo el taller rebobina para obtener perspectivas y técnicas procesables.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481841/?captions=spa&learn=on&enablevpops)
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
