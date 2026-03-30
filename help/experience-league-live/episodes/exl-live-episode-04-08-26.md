@@ -7,9 +7,10 @@ feature: Channel Configuration
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
-source-git-commit: 8fb6d38bd2b8cd12d72ba777c617d20b96b23c13
+exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
+source-git-commit: e52dfcf3727825ea194768cd5e74ad276c8656cf
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -20,10 +21,10 @@ Explore nuevas superficies y casos de uso para la participación de los clientes
 <br>
 </br>
 
-[![Banner de evento ExL en vivo el 8 de abril](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![Banner de evento ExL en vivo el 8 de abril](assets/April-8-2026-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other){target=“_blank”}
 <br>
 </br>
-<b>[Configurar un recordatorio para el programa!](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[Regístrese ahora!](https://engage.adobe.com/ExpLeagueLive-260408.html?sdid=HCS3X75V&mv=other)</b>
 
 <br>
 </br>
@@ -36,4 +37,3 @@ Cubriremos lo siguiente:
 - Notificaciones push web: amplíe la participación más allá de las aplicaciones móviles al llegar a los clientes directamente en su explorador web, lo que involucra directamente a los visitantes incluso cuando los sitios web no se abren activamente utilizando los mismos flujos de trabajo de usuario que la notificación push móvil en Journey Optimizer
 
 - Bandeja de entrada de mensajes: cree una bandeja de entrada persistente con marca en la que los clientes puedan volver a visitar mensajes importantes, contenido personalizado y ofertas, reduciendo las notificaciones perdidas y mejorando a la vez la relevancia y la experiencia del usuario.
-
