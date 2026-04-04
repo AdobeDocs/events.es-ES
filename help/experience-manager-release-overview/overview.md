@@ -30,7 +30,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="Vídeo de información general sobre la versión 2026.03.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="Vídeo de información general sobre la versión 2026.03.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483063/?captions=spa&format=jpeg&nocache=1775063376142" alt="Vídeo de información general sobre la versión 2026.03.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
