@@ -156,7 +156,7 @@ Tanto si es un administrador de Workfront, un administrador de proyectos o un us
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Principales 3: Enfoques de Creative con modelos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="Principales 3: Enfoques de Creative con modelos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465313/?captions=spa&format=jpeg&nocache=1776187710590" alt="Principales 3: Enfoques de Creative con modelos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Tanto si es un administrador de Workfront, un administrador de proyectos o un us
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="¡Versus! - Grupos vs. Equipos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="¡Versus! - Grupos vs. Equipos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467356/?captions=spa&format=jpeg&nocache=1776187710595" alt="¡Versus! - Grupos vs. Equipos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,7 +220,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/text-mode.md" title="Modo de texto principal con Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1776187710857" alt="Modo de texto principal con Katherine Lanning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477137/?captions=spa&format=jpeg&nocache=1776187710857" alt="Modo de texto principal con Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -243,7 +243,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Informes de SLA en Workfront con Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="Informes de SLA en Workfront con Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469981/?captions=spa&format=jpeg&nocache=1776187710866" alt="Informes de SLA en Workfront con Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +266,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Perspectivas de expertos con Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Perspectivas de expertos con Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483114/?captions=spa&format=jpeg&nocache=1776187710852" alt="Perspectivas de expertos con Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
