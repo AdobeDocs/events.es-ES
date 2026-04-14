@@ -1,24 +1,26 @@
 ---
 title: Seminario web sobre la versión del segundo trimestre de 2026 de Adobe Workfront
-description: Únase al seminario web sobre la versión de Adobe Workfront del segundo trimestre de 2026 para explorar nuevas funciones y actualizaciones adaptadas a administradores, desarrolladores, líderes y usuarios.
+description: Descubra las últimas actualizaciones de la versión del segundo trimestre de 2026 de Adobe Workfront, incluidas las mejoras en planificación, flujo de trabajo y mucho más.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 13
-last-substantial-update: 2026-03-26T00:00:00Z
-jira: KT-20613
+duration: 4466
+last-substantial-update: 2026-04-13T00:00:00Z
+jira: KT-20802
 exl-id: d82886e6-c6e3-49aa-95b3-257b0cd4f9ad
-hide: true
-hidefromtoc: true
-source-git-commit: bc12861cad5ee726f9afe065155e03f4095e647e
+source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 6%
+source-wordcount: '169'
+ht-degree: 2%
 
 ---
 
 # Seminario web sobre la versión del segundo trimestre de 2026 de Adobe Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3481863/?captions=spa&learn=on&enablevpops)
+Explore las últimas funciones y actualizaciones introducidas en la versión del segundo trimestre de Adobe Workfront, implementada el 16 de abril de 2026. Este seminario web, organizado en colaboración con el equipo de gestión de productos de Adobe, destacó las nuevas funciones para la gestión de proyectos, la optimización de flujos de trabajo y el aprovechamiento de la automatización para mejorar la eficacia y la colaboración.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483385/?learn=on&enablevpops)
+
+¿Busca más información? Revise las [notas de la versión](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q2/26-q2-release-overview) en Experience League y vea [la publicación de la comunidad](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-adobe-workfront-second-quarter-2026-release-webinar-april-9-2026-249769?fid=23&tid=249769) con vínculos a la presentación de diapositivas, vídeos de demostración individuales y mucho más.
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
