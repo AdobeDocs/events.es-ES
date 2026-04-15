@@ -31,7 +31,7 @@ Si no ha tenido la oportunidad de experimentar con la función Tableros, no se p
 
 Como se promete en el vídeo, tenemos un montón de recursos para compartir, incluyendo artículos y breves demostraciones en vídeo:
 
-* [Introducción a los tableros en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Inclusión anticipada de funciones para tableros de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Creación o edición de un tablero: incluye descripciones de cada plantilla de tableros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Tableros Adobe Workfront: breves demostraciones de vídeo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Introducción a los tableros en Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=es)
+* [Inclusión anticipada de funciones para tableros de Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=es)
+* [Creación o edición de un tablero: incluye descripciones de cada plantilla de tableros](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=es)
+* [Tableros Adobe Workfront: breves demostraciones de vídeo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=es)

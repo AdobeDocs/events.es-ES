@@ -25,6 +25,6 @@ A medida que las organizaciones crecen, también lo hace la complejidad de la in
 
 Si se ha perdido la sesión, no se preocupe. Revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/022626+-+Enablement+that+Scales+-+Training+and+Blueprints+slides.pdf) y vea la grabación bajo demanda para continuar.
 
-¿Busca más recursos del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830)!
+¿Busca más recursos del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.

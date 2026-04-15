@@ -24,4 +24,4 @@ Cubrimos el lienzo de orquestación de campaña y los esquemas relacionales, la 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-Para continuar la conversación sobre este tema, visite la [discusión de la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+Para continuar la conversación sobre este tema, visite la [discusión de la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=es){target="_blank"}

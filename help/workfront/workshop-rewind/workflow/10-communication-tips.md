@@ -25,6 +25,6 @@ ht-degree: 2%
 
 Si se ha perdido la sesión, no se preocupe. Revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) y vea la grabación bajo demanda para continuar.
 
-¿Busca más recursos del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874)!
+¿Busca más recursos del evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.

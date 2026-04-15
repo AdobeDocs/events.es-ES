@@ -36,9 +36,9 @@ Se irá con ideas pensadas, entre ellas:
 ## Recursos
 
 Jen también comparte algunos de sus recursos favoritos, incluyendo por qué las plantillas de Fusion, los modelos y las prácticas recomendadas compartidas pueden marcar la diferencia. Obtenga más información aquí:
-* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Lista de modelos disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Comunidad de Workfront de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/es/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Lista de modelos disponibles](https://experienceleague.adobe.com/es/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Comunidad de Workfront de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=es)
 
 ¡Pero espera!  ¡Tiene más consejos que compartir!
 

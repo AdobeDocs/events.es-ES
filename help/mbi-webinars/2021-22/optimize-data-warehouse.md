@@ -46,5 +46,5 @@ En este seminario web:
 
 ## Recursos útiles
 
-[Optimizando la base de datos para análisis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[Dimensiones de datos recomendadas para la segmentación y el filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Optimizando la base de datos para análisis](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=es)
+[Dimensiones de datos recomendadas para la segmentación y el filtrado](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=es)

@@ -24,5 +24,5 @@ Las nuevas funciones de Composición y Portal de audiencias han llevado la segme
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-¿Tiene preguntas sobre este programa? Continúe con la discusión de este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366) de Adobe Experience League.
+¿Tiene preguntas sobre este programa? Continúe con la discusión de este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073?profile.language=es#M366) de Adobe Experience League.
 

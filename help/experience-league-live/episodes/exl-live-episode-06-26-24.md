@@ -23,7 +23,7 @@ Conozca las últimas funciones de Adobe Real-Time CDP que se han lanzado en los 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**Para continuar con el debate, visite nuestro [debate sobre la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}.**
+**Para continuar con el debate, visite nuestro [debate sobre la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150?profile.language=es#M67){target="_blank"}.**
 
 **Mostrar detalles**: ¿Es usted un profesional actual de Real-Time CDP y busca insight en las novedades del producto, por qué importa y cómo Adobe puede ayudarle a mejorar sus estrategias de administración de datos de clientes? No busques más, ¡has llegado al lugar correcto! En esta serie, profundizaremos en lo que se ha lanzado recientemente en Real-Time CDP para que pueda aprovechar las novedades de inmediato y crear un impacto para su organización.\
 En esta sesión, analizaremos y mostraremos cinco nuevas funciones que se han lanzado en los últimos meses:

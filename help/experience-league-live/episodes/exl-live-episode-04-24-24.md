@@ -29,6 +29,6 @@ En este episodio de Experience League Live, únase a los expertos en productos R
 
 >[!BEGINSHADEBOX &quot;¿Tiene preguntas?&quot;]
 
-**Continúe con la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"} de Adobe Experience League.**
+**Continúe con la discusión sobre este tema en la [publicación de la comunidad](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=es#M205){target="_blank"} de Adobe Experience League.**
 
 >[!ENDSHADEBOX]
