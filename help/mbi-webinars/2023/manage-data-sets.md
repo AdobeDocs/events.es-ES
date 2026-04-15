@@ -1,19 +1,22 @@
 ---
 title: Administración de conjuntos de datos en Commerce Intelligence
-description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
-landing-page-description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
-short-description: Vea este seminario web para conocer algunas de las potentes funciones del Administrador de Datas Warehouse de Commerce Intelligence.
+description: Vea este seminario web para conocer algunas de las potentes funciones de Commerce Intelligence Data Warehouse Manager.
+landing-page-description: Vea este seminario web para conocer algunas de las potentes funciones de Commerce Intelligence Data Warehouse Manager.
+short-description: Vea este seminario web para conocer algunas de las potentes funciones de Commerce Intelligence Data Warehouse Manager.
 kt: 10410
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
 duration: 3410
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 21%
+source-wordcount: '180'
+ht-degree: 18%
 
 ---
 
@@ -33,5 +36,5 @@ Durante este seminario web grabado, aprenderá a calcular el retorno de la inver
 
 ## Recursos útiles
 
-[Un recorrido por el Administrador de Datas Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=es)
-[Conecte Sus Datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=es)
+[Un recorrido por Data Warehouse Manager](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[Conecte Sus Datos](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

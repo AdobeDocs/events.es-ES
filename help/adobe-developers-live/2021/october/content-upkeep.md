@@ -2,6 +2,8 @@
 title: Mantenimiento de contenido
 description: Muestre las funciones disponibles en el conjunto de herramientas de modernización de Adobe Experience Manager. Descubra cómo los equipos de desarrollo pueden utilizarlo para consolidar, convertir o actualizar contenido para reducir la carga de los autores a medida que evoluciona la biblioteca de componentes.
 solution: Experience Manager
+feature: Authoring
+topic: Development, Headless
 role: User
 level: Beginner
 version: Experience Manager as a Cloud Service
@@ -9,10 +11,10 @@ kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
 duration: 1843
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: '121'
+ht-degree: 28%
 
 ---
 

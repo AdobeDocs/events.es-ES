@@ -1,14 +1,16 @@
 ---
 title: 'Pregunte al experto: prácticas recomendadas para maximizar Workfront Proof'
 description: Aprenda a configurar los ajustes de, habilitar buenos informes y evitar escollos comunes en Proof. Este seminario web se grabó el 26 de febrero de 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ Puede acceder y descargar un informe de resumen de impresión para las pruebas q
 
 **Pregunta**
 
-Al solicitar que los usuarios tengan acceso a ProofHQ de creación de informes, también se les dará acceso a la sección de la izquierda (por ejemplo, flujos de trabajo, contactos, configuración de cuenta, etc)?
+Al solicitar que los usuarios tengan acceso a ProofHQ de informes, ¿esto también les dará acceso a la sección de la izquierda (por ejemplo, flujos de trabajo, contactos, configuración de cuenta, etc.)?
 
 **Respuesta**
 
@@ -313,7 +315,7 @@ Sí. Si elimina una prueba que reside en el área de Papelera de la Cuenta de Pr
 
 **Pregunta**
 
-¿Hay alguna manera de tener una nueva decisión que activar si el otro usuario rechaza o aprueba con cambios? es decir. El departamento de pruebas ve algo, el gerente del proyecto tendrá que tomar una nueva decisión... incluso si ya la miraron y la aprobaron. (intentando que el administrador de proyectos no tenga que esperar al departamento de corrección de pruebas para realizar su revisión)?
+¿Hay alguna manera de tener una nueva decisión que activar si el otro usuario rechaza o aprueba con cambios? Es decir, el departamento de pruebas ve algo, el administrador del proyecto tendrá que tomar una nueva decisión... incluso si ya la miraron y la aprobaron. (intentando que el administrador de proyectos no tenga que esperar al departamento de corrección de pruebas para realizar su revisión)?
 
 **Respuesta**
 

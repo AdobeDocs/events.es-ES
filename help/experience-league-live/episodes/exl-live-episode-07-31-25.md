@@ -4,15 +4,16 @@ description: Descubra cómo las últimas integraciones de Adobe Experience Manag
 kt: KT-18261
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Jyothitha Chandran, Kaitlin White
 last-substantial-update: 2025-07-31T00:00:00Z
 exl-id: 0accdf09-75c4-4ec7-b892-93c5d39c1bc5
-source-git-commit: 53783552b0f98d5bdb3178ae76879df08af8ac23
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '285'
+ht-degree: 14%
 
 ---
 

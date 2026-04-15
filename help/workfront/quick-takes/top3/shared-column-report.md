@@ -1,19 +1,21 @@
 ---
 title: Crear informes de columna compartida
 description: Descubra las 3 razones principales para utilizar informes de columnas compartidas en Adobe Workfront. Mejore la estética y la comunicación de los informes con instrucciones paso a paso.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 743
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18653
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 952bbc23-692e-4af0-99ff-51b3f079d2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Principales 3 razones para crear un informe de columna compartida
 
@@ -23,8 +25,6 @@ ht-degree: 0%
 
 Tenemos muchas preguntas sobre cómo usar el modo de texto para combinar información en un informe, así que tenemos un vídeo paso a paso, así como algunos recursos a continuación para ayudarle a empezar. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470123/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-¿Busca más? Tenemos **Tres consejos para obtener bonos** en la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=es).
-
-
+¿Busca más? Tenemos **Tres consejos para obtener bonos** en la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641).

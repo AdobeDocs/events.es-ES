@@ -1,16 +1,18 @@
 ---
 title: Canales de marketing y modelado de atribución
 description: Libere el poder de Adobe Analytics para configurar canales de marketing y aprovechar el modelado de atribución con orientación experta
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +45,7 @@ En esta sesión de Data Drip, la asesora empresarial de Adobe, Taylor Walker, no
 
 * **Grabación y recursos** El seminario web se está grabando y se enviará por correo electrónico. También hay documentos y recursos disponibles para descargar durante la sesión.
 
-## Puntos clave
+## Principales conclusiones
 
 * **Canales de marketing**
 

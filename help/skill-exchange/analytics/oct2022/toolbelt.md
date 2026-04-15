@@ -2,6 +2,8 @@
 title: Dominio del conjunto de herramientas de Adobe Analytics
 description: Obtenga información de un experto en Adobe que le guiará a través de estrategias y casos de uso para avanzar en el uso de Analysis Workspace. En esta sesión, aprenderá a llevar el análisis al siguiente nivel y verá demostraciones de las funciones más recientes de Adobe Analytics para ayudarle a crear su historia de recorrido del cliente.
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11535
 thumbnail: 3411894.jpeg
 exl-id: b721d878-7346-4e78-af03-1a4a85c5ae9b
 duration: 2921
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

@@ -1,6 +1,8 @@
 ---
 title: 'Madurez de Personalization: la ruta hacia la hiperpersonalización'
-description: 'Informar sobre la nueva era de la hiperpersonalización. Fundaremos un modelo de madurez de la personalización, analizaremos los bloqueadores comunes y proporcionaremos sugerencias tácticas para empezar.Puntos de debate clave: el Recorrido moderno del cliente​ la ruta hacia la hiperpersonalización​ Cómo comenzar en su organización'
+description: 'Informar sobre la nueva era de la hiperpersonalización. Fundaremos un modelo de madurez de personalización, analizaremos los bloqueadores comunes y proporcionaremos consejos tácticos para empezar.Puntos clave de debate: el Recorrido moderno del cliente​ la ruta hacia la hiperpersonalización​ cómo empezar en su organización'
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Informar sobre la nueva era de la hiperpersonalización. Fundaremos un modelo de madurez de personalización, analizaremos los bloqueadores comunes y proporcionaremos consejos tácticos para empezar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457348/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## Puntos clave de debate
 

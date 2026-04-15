@@ -1,6 +1,8 @@
 ---
 title: 'Marketo y Mochas: Atribución de Marketo Measure'
 description: Únase a Elizabeth Lundberg y Kate Colbert en esta sesión de Marketo y Mochas para explorar la atribución en Marketo Measure, incluidos los modelos de acciones, las prácticas recomendadas para seleccionar el adecuado y las preguntas y respuestas en directo para mejorar sus perspectivas de marketing.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3413506.jpeg
 event-start-time: 2023-1-24 08:30-8
 exl-id: 6f3b1c89-0176-4495-8e28-c265da3581d5
 duration: 3493
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

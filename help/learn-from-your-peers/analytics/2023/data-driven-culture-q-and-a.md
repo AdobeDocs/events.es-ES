@@ -4,14 +4,16 @@ description: Durante el seminario web  [!DNL Adobe Analytics] Creación de una c
 role: User
 doc-type: Event
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 last-substantial-update: 2023-02-16T00:00:00Z
 jira: KT-11881
 thumbnail: 3415614.jpeg
 exl-id: 0b1d8ebd-bb3c-4c28-8bc9-c561edc14a0a
 duration: 1578
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -20,4 +22,4 @@ ht-degree: 0%
 
 Durante el seminario web [!DNL Adobe Analytics], Creación de una cultura basada en datos, se hicieron más de 35 preguntas por parte de [!DNL Adobe Analytics] usuarios de todo el mundo. Debido a que nuestro [!DNL Adobe Analytics] Campeón no pudo responder todas esas preguntas durante las preguntas y respuestas en vivo, las trajimos de regreso y organizamos una sesión de seguimiento de preguntas y respuestas para responder TUS preguntas y compartir conocimientos aún más expertos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455126/?captions=spa&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)

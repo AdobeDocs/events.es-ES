@@ -3,15 +3,17 @@ title: Seminario web de comunicación con usuarios finales
 description: Explore diversas estrategias para comunicarse con los usuarios de Workfront en nuestro seminario web bajo demanda. Obtenga información de los expertos de IDEXX, Adobe y Adobe Workfront sobre los canales y tipos de comunicaciones eficaces y la evolución de su estrategia de forma iterativa.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ En este seminario web bajo demanda, Lyndsy Denk, directora de formación y capac
 * Sugerencias para decidir qué canales utilizar para sus comunicaciones
 * Cómo pensar en su estrategia de comunicación de una manera iterativa, empezando desde donde está y madurando a medida que avanza
 
-También puede descargar el &quot;Communications Cookbook&quot; con ideas y ejemplos de comunicaciones reales que sus colegas están compartiendo con sus usuarios aquí: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=es
+También puede descargar el &quot;Communications Cookbook&quot; con ideas y ejemplos de comunicaciones reales que sus colegas están compartiendo con sus usuarios aquí: https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

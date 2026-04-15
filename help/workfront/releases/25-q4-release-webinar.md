@@ -1,18 +1,20 @@
 ---
 title: Seminario web sobre la versión del cuarto trimestre de 2025 de Adobe Workfront
 description: Este seminario web destacó las nuevas mejoras, incluidas las actualizaciones de la nueva experiencia de solicitud, el revisor de IA, el Distribuidor de cargas de trabajo, así como las funciones de Planning y Fusion
+feature: Workfront Fusion, Resource Management, Strategic Planning
+topic: Performance
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3447
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19784
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 32b3a3ff-358e-4c1c-be15-19d9a79f9c2d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '222'
+ht-degree: 9%
 
 ---
-
 
 # Seminario web sobre la versión del cuarto trimestre de 2025 de Adobe Workfront
 
@@ -24,9 +26,6 @@ Si no pudo asistir a la sesión en directo, no se preocupe. Revise la [presentac
 
 Además, asegúrese de revisar las [notas de la versión](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) en Experience League, ya que no todas las características se trataron en el seminario web.
 
-¿Busca las preguntas y respuestas y transcripciones de la sesión? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946?profile.language=es)!
+¿Busca las preguntas y respuestas y transcripciones de la sesión? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
-
-
-

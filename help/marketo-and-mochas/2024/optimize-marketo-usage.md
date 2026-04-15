@@ -2,6 +2,8 @@
 title: 'Marketo y Mochas, madurez, parte 2: Optimización del uso de Marketo'
 description: Únase a los asesores comerciales de Adobe, Cynthia Chang y Carly Gaver, en la parte 2 de la serie Marketo Maturity, que se centra en la administración de datos, las integraciones CRM y la optimización de campañas para mejorar el uso de Marketo, con preguntas y respuestas en directo.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ ht-degree: 0%
 ## Temas principales discutidos
 
 **Niveles de madurez de Marketo**
-Se centra en las fases de rastreo, recorrido y ejecución para optimizar el uso de marketing a través de los niveles de madurez de Marketo.
+Se centra en rastrear, recorrer y ejecutar fases para optimizar el uso de marketing a través de los niveles de madurez de Marketo.
 
 **Administración y normalización de datos**
 Se subrayó la importancia de contar con datos limpios y procesables en Marketo mediante procesos de normalización y gestión de datos.

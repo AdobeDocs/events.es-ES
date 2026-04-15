@@ -1,6 +1,8 @@
 ---
 title: Formación avanzada sobre el entorno de creación
 description: Obtenga información más detallada sobre las opciones disponibles en el entorno de creación de Acrobat Sign.
+feature: Sign
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
 exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 Obtenga información más detallada sobre las opciones disponibles en el entorno de creación de Acrobat Sign. Los temas tratados incluyen: Información general sobre la preparación de las plantillas de documento de Acrobat Sign mediante Acrobat, etiquetado de texto y el entorno de creación de Acrobat Sign. Profundizar en el entorno de creación, que abarca la clonación frente a la copia de campos, la adición de campos especializados, la asignación de campos y la configuración de campos condicionales y de cálculo. Cómo enviar las plantillas para su firma, comparando la plantilla de documento con la plantilla de campo de formulario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455900/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
 
 ## Puntos clave
 

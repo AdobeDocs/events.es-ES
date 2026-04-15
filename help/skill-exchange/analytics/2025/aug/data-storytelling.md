@@ -3,19 +3,20 @@ title: Narración De Datos Con Analysis Workspace
 description: Conozca 5 estrategias para transformar los paneles de Adobe Analysis Workspace en historias de datos atractivas que impulsen el impacto, insight y la acción de las partes interesadas.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
-
 
 # Narración De Datos Con Analysis Workspace
 

@@ -1,13 +1,15 @@
 ---
 title: Profundización en los detalles de implementación de tiendas, módulos y segmentos en ContextHub
 description: Estas sesiones de Gems están dedicadas a echar un vistazo más de cerca a los detalles de implementación de las tiendas de ContextHub de diferentes tipos, usando diferentes capas de persistencia. Implementación de módulos personalizados (tanto a través del código como de la configuración mediante el procesador de módulos base), así como la forma de organizar los módulos en modos independientes de ContextHub. Por último, veremos cómo funcionan las características de los segmentos de ContextHub, cómo implementar un comparador personalizado y cómo crear instancias de segmentos mediante programación.
+feature: Edge Delivery Services, Release Information
+topic: Development
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: 1f03e57f9818a9b61c9825febd8b9cf24d071b25
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---

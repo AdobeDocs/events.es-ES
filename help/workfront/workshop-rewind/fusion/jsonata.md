@@ -1,19 +1,21 @@
 ---
 title: Hacer que JSON use Workfront Fusion + JSONata
 description: En esta sesión se explican los conceptos básicos de la lectura de la notación de rutas JSON, la comprensión de los tipos de datos y la elección de la ruta de inicio correcta en Fusion.
+feature: Workfront Fusion, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3618
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19780
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 28081dcd-a5d1-4444-850a-237e2378e308
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 0%
+source-wordcount: '216'
+ht-degree: 1%
 
 ---
-
 
 # Hacer que JSON use Workfront Fusion + JSONata
 
@@ -25,7 +27,6 @@ Además, se trataron tres ejemplos del mundo real, desde la búsqueda y el filtr
 
 Si no pudo asistir en vivo, no se preocupe: revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) y vea la grabación bajo demanda para continuar.
 
-Consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=es) para descargarla y siga el archivo zip de materiales de formación.
+Consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029) para descargarla y siga el archivo zip de materiales de formación.
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
-

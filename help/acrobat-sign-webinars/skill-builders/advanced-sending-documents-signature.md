@@ -2,6 +2,7 @@
 title: Sugerencias avanzadas para enviar documentos para su firma
 description: Obtenga información sobre cómo enviar a varios destinatarios Funciones de destinatario disponibles (firmante, rellenador de formularios, delegado y otros) Agregar un campo CC Protección de contraseña y más.
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
 exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Obtenga una explicación más detallada de todas las opciones disponibles al enviar acuerdos para su firma. En esta sesión, aprenderá sobre lo siguiente: Envío a varios destinatarios Funciones de destinatario disponibles (firmante, rellenador de formularios, delegado y otros) Adición de un campo CC Protección de contraseña, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454882/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 El seminario web proporciona información sobre las funciones avanzadas de Acrobat Sign para configurar flujos de trabajo de varios participantes, configurar funciones de destinatario y utilizar grupos de destinatarios y mensajes privados. Este aprendizaje puede ayudar a agilizar el proceso de envío de documentos para su firma y mejorar la colaboración entre los participantes firmantes.
 

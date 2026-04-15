@@ -2,6 +2,8 @@
 title: 'Marketo y Mochas: impulsar el crecimiento con informes (madurez Pt 3)'
 description: Únase a las asesoras empresariales de Adobe, Cynthia Chang y Carly Gaver, en la tercera parte de la serie de seminarios web sobre madurez de Marketo, que exploran cómo aprovechar las herramientas de creación de informes de Marketo para impulsar el crecimiento empresarial, supervisar el rendimiento y ofrecer métricas impactantes con preguntas y respuestas en directo.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 Vencimiento La parte 3 es la tercera parte de la serie Vencimiento de Marketo, que se centra en impulsar el crecimiento a través de la información. Como resumen,
 
-* La parte 1 se centró en la fase de rastreo, sentando las bases de la instancia de Marketo.
+* La parte 1 se centró en la fase de rastrea, que sentaba las bases de la instancia de Marketo.
 * La parte 2 abarcó la fase de marcha, optimizando y ampliando el uso.
 * La parte 3 se centra en la fase de ejecución, el escalado y la mejora de la eficiencia.
 
@@ -36,7 +38,7 @@ Vencimiento La parte 3 es la tercera parte de la serie Vencimiento de Marketo, q
 * Cynthia ha trabajado en Adobe durante dos años, anteriormente en consultoría y como cliente de Marketo.
 * Carly lleva tres años trabajando para Adobe, con experiencia en marketing digital y automatización de marketing.
 
-## Puntos clave
+## Principales conclusiones
 
 * **Supervisión**: vigila continuamente el rendimiento de la instancia, incluida la capacidad de envío y el estado de la base de datos.
 * **Auditoría**: se está revisando el acceso de los usuarios, los permisos y la sincronización de CRM.

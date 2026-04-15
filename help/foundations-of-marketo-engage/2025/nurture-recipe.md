@@ -1,6 +1,7 @@
 ---
 title: Crear la fórmula de nutrición
 description: 'Domine el cuidado en Marketo Engage: aprenda sobre estrategia, automatización, personalización y seguimiento del rendimiento para impulsar la participación y los resultados.'
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # Crear la fórmula de nutrición
 
@@ -42,5 +43,3 @@ Esta sesión cubrió lo esencial y más allá,
 * **Medición del rendimiento** Obtenga información sobre cómo rastrear, analizar y optimizar el rendimiento de sus campañas de nutrición.
 
 Esta sesión es perfecta para los especialistas en marketing que buscan crear una base sólida en Marketo e impulsar resultados mensurables a través de una nutrición más inteligente.
-
-

@@ -1,6 +1,7 @@
 ---
 title: Aprovechamiento de la integración nativa de Workfront + AEM
-description: El evento ofrece información general sobre la integración, perspectivas sobre cómo prepararse (incluidos los procesos de asignación, alineación de metadatos, garantía de los permisos adecuados, etc.) y una demostración detallada de cómo configurarla.
+description: El evento ofrece información general sobre la integración, perspectivas sobre cómo prepararse (incluidos los procesos de asignación, alineación de metadatos, garantía de permisos adecuados, etc.) y una demostración detallada de cómo configurarlo.
+feature: Work Management, Workfront Fusion
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3559
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19786
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 2014eb76-2218-4979-9f56-864be531c590
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 2%
 
 ---
-
 
 # Aprovechamiento de la integración nativa de Workfront + AEM
 
@@ -22,11 +23,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477157/?learn=on&enablevpops)
 
-Si se perdió el evento en vivo, revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/AEM-WF_Native_Integration_10-23-25.pdf) y vea la grabación bajo demanda para continuar. El evento ofrece información general sobre la integración, perspectivas sobre cómo prepararse (incluidos los procesos de asignación, alineación de metadatos, garantía de los permisos adecuados, etc.) y una demostración detallada de cómo configurarla.
+Si se perdió el evento en vivo, revise la [presentación](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/AEM-WF_Native_Integration_10-23-25.pdf) y vea la grabación bajo demanda para continuar. El evento ofrece información general sobre la integración, perspectivas sobre cómo prepararse (incluidos los procesos de asignación, alineación de metadatos, garantía de permisos adecuados, etc.) y una demostración detallada de cómo configurarlo.
 
-¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361?profile.language=es)!
+¿Tiene ideas para compartir o tiene preguntas de seguimiento del evento? ¡No dude en dejarlos en los comentarios de la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
-
-
-

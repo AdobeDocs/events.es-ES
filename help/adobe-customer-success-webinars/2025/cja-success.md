@@ -2,25 +2,26 @@
 title: Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics
 description: Conozca estrategias para obtener patrocinio ejecutivo para el éxito de Adobe Customer Journey Analytics. Impulse la alineación, asegure los presupuestos y fomente la toma de decisiones basada en datos.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics (CJA)
 
 En nuestra cuarta sesión, analizamos cómo la falta de un fuerte patrocinio ejecutivo retrasará la toma de decisiones, la asignación del presupuesto y la gestión del cambio. En este seminario web, exploramos el papel fundamental que desempeñan los líderes ejecutivos en la defensa de los programas de Adobe Customer Journey Analytics, la alineación de equipos interfuncionales y la obtención de resultados empresariales cuantificables. Aprenda estrategias prácticas para atraer a las partes interesadas de alto nivel, comunicar los valores de forma eficaz y crear una cultura de toma de decisiones basada en datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470857/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Casos comerciales de manufactura
 

@@ -2,6 +2,7 @@
 title: 'Adobe Developers Live, 23 de noviembre: Desglose sin encabezado 1'
 description: Haga un recorrido por nuestras últimas API sin encabezado y conozca las funcionalidades ampliadas de estas API, incluidas el etiquetado, el control de versiones y la búsqueda de puntos finales. Comprenda cómo facilitan la recuperación eficiente de contenido para experiencias similares a aplicaciones en varios canales digitales y vea las aplicaciones reales de estas API en acción. Esta sesión es un recurso inestimable para los desarrolladores que buscan aprovechar la tecnología sin encabezado para soluciones innovadoras.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14424
 thumbnail: 3425627.jpeg
 exl-id: 86bf94d6-deb5-49db-b919-f5de0fbe254c
 duration: 2004
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---

@@ -2,6 +2,7 @@
 title: Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston
 description: Descubra estrategias de Danielle Johnston sobre el uso de Workfront para crear gobernanza y centros de excelencia que impulsen la adopción y el cambio positivo.
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,19 +12,19 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston
 
 Bienvenido de nuevo a Expert Insights.  Soy Cynthia Boon, tu Workfront CSM &quot;On-Demand&quot;, y en este episodio, ¡nos acompaña Danielle Johnston!  Comparte sus ideas sobre cómo empezar, formas de usar Workfront para apoyar sus esfuerzos de gobernanza y centro de excelencia, y nos anima a ser el cambio positivo que queremos ver en Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470008/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
 
 ## Sugerencias
 
@@ -43,4 +44,3 @@ Danielle es una Customer Success Manager que ha ayudado a varios clientes a impl
 ## ¿Tiene algo que compartir?
 
 ¿Tiene una buena historia para compartir, ya sea durante un evento o en un vídeo de Expert Insights? Póngase en contacto con nuestro equipo en [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-

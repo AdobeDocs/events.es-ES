@@ -2,19 +2,21 @@
 title: Personalización de la experiencia del cliente
 description: En el dinámico mercado actual, dominar la gestión y la personalización de contenido es fundamental para las empresas que intentan prosperar. Únase a mientras profundizamos en el núcleo de las capacidades de Adobe Commerce y revelamos las claves para crear experiencias personalizadas que resuenen profundamente en su audiencia. Descubra cómo una estrategia sólida de personalización y administración de contenido no solo puede generar conversiones e ingresos, sino que también es la piedra angular para cultivar una lealtad duradera del cliente. Corey le guiará a través de una exploración exhaustiva de las prácticas recomendadas, mostrando cómo aprovechar las capacidades clave como Segmentos del cliente, Page Builder, Bloques dinámicos, Widgets y más para aprovechar al máximo su potencial. En esta sesión aprenderá a implementar experiencias personalizadas que impulsen el éxito del negocio. Prácticas recomendadas para aprovechar la segmentación y el contenido dinámico en Estrategias de Adobe Commerce para una administración de contenido eficaz a fin de mejorar la participación de los clientes
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2056
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16082
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: 6f438557-34f1-4cdf-88f1-b26d514af49f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Personalización de la experiencia del cliente
 
@@ -26,4 +28,4 @@ En esta sesión aprenderá lo siguiente:
 * Prácticas recomendadas para aprovechar la segmentación y el contenido dinámico en Adobe Commerce
 * Estrategias para una administración de contenido eficaz que mejore la participación de los clientes
 
->[!VIDEO](https://video.tv.adobe.com/v/3456943/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)

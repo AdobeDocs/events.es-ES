@@ -2,6 +2,8 @@
 title: Data Distiller 101
 description: El seminario web Data Distiller 101 destaca sus capacidades de segmentación de datos, enriquecimiento e integración IA/ML, y ofrece soluciones escalables para arquitectos de datos y entidades de marketing a fin de mejorar la toma de decisiones basada en datos.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Personalization, Integrations, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
 exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +30,7 @@ Esta descripción general del destilador de datos mostrará cómo superar los de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444454/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 ### Información general y propósito de Data Distiller
 
@@ -44,7 +46,7 @@ El seminario web destacó cinco casos de uso principales de Data Distiller:
 * Personalización de perspectivas para el tablero operativo.
 * Aprovechamiento de las canalizaciones de funciones de IA y ML para modelos de formación y puntuación.
 
-### Capacidades clave
+### Funcionalidades clave
 
 Data Distiller ofrece procesamiento basado en SQL, administración de datos escalable, funciones definidas por Adobe, automatización y programación, supervisión y alertas, e integración con herramientas de terceros para obtener perspectivas ampliadas.
 

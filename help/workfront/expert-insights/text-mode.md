@@ -1,19 +1,21 @@
 ---
 title: Modo de texto principal con Katherine Lanning
 description: Descubra el poder del modo de texto en Workfront con la información experta de Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights: Modo de texto con Katherine Lanning
 
@@ -29,19 +31,19 @@ El modo texto puede ser desafiante, pero las recompensas son increíbles.  ¡Sol
 * Aproveche la comunidad. : confíe en Experience League, libros de cocina, el Explorador de API y compañeros. No reinventen la rueda.
 * Persistir, pero tomar descansos. - Si está atascado, cierre el portátil, dé un paseo y vuelva con los ojos frescos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477137/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
 
 
 ## Recursos
 
 ¿Busca recursos adicionales? ¡Los tenemos!
-* [Panel del cliente: Lecciones aprendidas de administradores veteranos de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=es#M3487) - ¡Katherine compartió más información!
-* [Colecciones de referencia en un informe](https://experienceleague.adobe.com/es/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [Explorador de API](https://experienceleague.adobe.com/es/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=es#M1406)
-* Y si eres nuevo en Informes, empieza con el artículo Perspectiva de Nichole, [8 pasos para crear informes simples y efectivos en Adobe Workfront](https://experienceleague.adobe.com/es/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Panel del cliente: Lecciones aprendidas de administradores veteranos de Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - ¡Katherine compartió más información!
+* [Colecciones de referencia en un informe](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [Explorador de API](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* Y si eres nuevo en Informes, empieza con el artículo Perspectiva de Nichole, [8 pasos para crear informes simples y efectivos en Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Para obtener más recursos, incluido el modo de copiar y pegar texto, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=es#M4848).
+Para obtener más recursos, incluido el modo de copiar y pegar texto, consulte la [publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848).
 
 
 ## Acerca del altavoz

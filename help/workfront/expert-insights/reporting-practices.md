@@ -2,6 +2,7 @@
 title: Perspectivas de los expertos - Prácticas de creación de informes con Nichole Vargas
 description: 'Conozca las principales prácticas de creación de informes de Nichole Vargas: mejore sus habilidades de creación de informes de Workfront con campos calculados, consejos para la creación de historias y recursos impulsados por la comunidad.'
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18616
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Perspectivas de los expertos - Prácticas de creación de informes con Nichole Vargas
 
@@ -27,7 +28,7 @@ Para que conste, ella es tan increíble, inteligente y generosa para trabajar co
 
 Únete a mí, tu CSM de Workfront On-Demand, mientras charlo con Nichole sobre cómo se convirtió en nuestra Gurú de los Informes, sus características y consejos favoritos, y cómo todos nosotros podemos ser &quot;más como Nichole&quot;! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469968/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
 
 ## Sugerencias
 
@@ -41,15 +42,15 @@ Para que conste, ella es tan increíble, inteligente y generosa para trabajar co
 
 ## Recursos
 
-* **Blog** - [Ahorra Tiempo Usando Campos Personalizados Calculados](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=es)
-* **Artículo** - [Expresiones de datos calculados]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=es#:~:text=Puede usar expresiones de datos, que generan un nuevo campo.&amp;text=Para obtener más información acerca de cómo crear, agregue datos a un formulario personalizado.)
-* **Seguimiento de eventos** - [Taller de campos personalizados calculados](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=es)
-* **Comunidad** - [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=es#M1406)
-* **Blog** - [Use modelos de Workfront para optimizar su entorno de administración de trabajo!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=es)
+* **Blog** - [Ahorra Tiempo Usando Campos Personalizados Calculados](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Artículo** - [Expresiones de datos calculados]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=Puede usar expresiones de datos, que generan un nuevo campo.&amp;text=Para obtener más información acerca de cómo crear, agregue datos a un formulario personalizado.)
+* **Seguimiento de eventos** - [Taller de campos personalizados calculados](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
+* **Comunidad** - [Guía de informes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* **Blog** - [Use modelos de Workfront para optimizar su entorno de administración de trabajo!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *Introducción* - En este blog encontrará más información sobre los paquetes de informes del Panel de mantenimiento del sistema y del Panel de uso. 
    * *Consejo adicional!* - Suscribirse al blog para recibir notificaciones cuando se publiquen nuevos modelos. 
-* **Artículo** - [Variables de filtro comodín](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=es)
-* **Artículo** - [Agregar formato condicional básico a una vista](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=es)
+* **Artículo** - [Variables de filtro comodín](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
+* **Artículo** - [Agregar formato condicional básico a una vista](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
 
 ## Acerca del altavoz
 
@@ -58,4 +59,3 @@ Nichole Vargas es una persona activa, comprometida a superar las expectativas de
 ## ¿Tiene algo que compartir?
 
 ¿Tiene una buena historia para compartir, ya sea durante un evento o en un vídeo de Expert Insights? Póngase en contacto con nuestro equipo en [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-

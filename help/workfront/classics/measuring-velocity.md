@@ -1,15 +1,17 @@
 ---
 title: Pregunte al experto - Medición de velocidad
 description: Aprenda a medir y rastrear la velocidad mediante  [!DNL Workfront] informes. Este taller se grabó el 14 de agosto de 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
 duration: 4630
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '3962'
+source-wordcount: '3986'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Ahorre tiempo copiando y pegando los cálculos siguientes.
 >[!NOTE]
 >
 >La sintaxis para los cálculos de campos personalizados ha cambiado desde que se realizó la presentación en 2019, aunque los conceptos y otras instrucciones que se proporcionan en la presentación siguen siendo precisos.
->&#x200B;>**Los cálculos incluidos a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
+>**Los cálculos incluidos a continuación se han actualizado para reflejar las reglas de sintaxis más recientes.**
 
 **Fecha de primera confirmación**
 

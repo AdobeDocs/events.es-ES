@@ -5,13 +5,15 @@ role: Admin
 level: Beginner
 doc-type: Event
 solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
+feature: AI Assistant, Audiences, Journeys, Use Cases
+topic: Artificial Intelligence, Personalization, Integrations
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -66,7 +68,7 @@ El 42 % de los encuestados ve las aplicaciones de marketing como el uso más pro
 
 * El asistente de IA está desactivado de forma predeterminada y requiere permisos de administrador.
 * Admite control de acceso basado en funciones, en objetos y en atributos.
-* No observa los datos del consumidor final y utiliza Azure Open AI para el procesamiento.
+* No observa los datos del consumidor final y utiliza la API abierta de Azure para el procesamiento.
 
 ### Obtención de acceso
 

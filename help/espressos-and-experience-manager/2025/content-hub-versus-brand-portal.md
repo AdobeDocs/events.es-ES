@@ -3,19 +3,20 @@ title: 'Espressos y Experience Manager: Content Hub frente a Brand Portal'
 description: Vea cómo AEM Content Hub transforma la distribución de recursos con una implementación más rápida, un coste añadido cero e integración perfecta para todos los clientes de Asset Cloud Service.
 solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19499
-source-git-commit: f0d7a52dd0634ddb011beb1155866c498dd8d4d9
+exl-id: c454f585-e553-4427-9126-ede95540779c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Espressos y Experience Manager: Content Hub vs. Brand Portal
 
@@ -37,4 +38,3 @@ La administración de activos digitales (DAM) está evolucionando, y Content Hub
 * **La migración se ha vuelto sencilla** La transición desde Brand Portal es sencilla, con soporte de ingeniería y nuevas características como control de acceso basado en atributos y uso compartido mejorado.
 
 Al comprender estas capacidades, los equipos pueden optimizar la distribución y la colaboración de recursos, lo que allana el camino para una activación de contenido más rápida y un mejor ROI.
-

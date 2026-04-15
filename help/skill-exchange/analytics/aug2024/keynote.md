@@ -1,20 +1,22 @@
 ---
 title: 'Presentación de apertura: empoderar a los equipos con datos'
-description: Comprenda la importancia de la democratización de los datos y los problemas que resuelve.Conozca las prácticas recomendadas para proporcionar el contexto adecuado y garantizar un uso eficaz de los datos. Descubra cómo Adobe Analytics y Customer Journey Analytics pueden ayudar a potenciar sus equipos con datos.
+description: Comprender la importancia de la democratización de los datos y los problemas que resuelve.Conozca las prácticas recomendadas para proporcionar el contexto adecuado y garantizar un uso eficaz de los datos. Descubra cómo Adobe Analytics y Customer Journey Analytics pueden ayudar a potenciar sus equipos con datos.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15979
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
-
 
 # Presentación de apertura: empoderar a los equipos con datos
 
@@ -26,4 +28,4 @@ Empoderar a los equipos con datos es esencial para impulsar la innovación y mej
 * Conozca las prácticas recomendadas para proporcionar el contexto adecuado y garantizar un uso eficaz de los datos.
 * Descubra cómo Adobe Analytics y Customer Journey Analytics pueden ayudar a potenciar sus equipos con datos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453590/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)

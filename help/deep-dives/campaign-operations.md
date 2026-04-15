@@ -1,19 +1,21 @@
 ---
 title: Automatización y optimización de las operaciones de Campaign mediante la API de Marketo
 description: Descubra cómo optimizar sus operaciones de marketing con la API de Marketo en esta explicación detallada, donde demostraremos cómo automatizar tareas repetitivas como la creación de boletines de correo electrónico, el seguimiento de programas, la combinación de duplicados, la actualización de costes de programas y los programas de clonación, lo que le permite centrarse en iniciativas estratégicas.
+feature: Smart Lists
+topic: Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '340'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Marketo Engage Champion Deep Dive: Automatización y optimización de las operaciones de campaña mediante la API de Marketo
 
@@ -33,11 +35,11 @@ En esta explicación detallada, vamos a mostrarle cómo empezar a utilizar la AP
 ## Principales conclusiones
 
 * **Enfoque** La sesión se centró en la automatización y optimización de las operaciones de campaña mediante la API de Marketo.
-* **Importancia de la API** Las API son cruciales para automatizar tareas repetitivas, permitir que los sistemas se comuniquen y ahorrar tiempo y dinero.Conceptos básicos de la API **&#x200B; Explicación de qué es una API &#x200B;**, incluida la diferencia entre las solicitudes Get y Post, y cómo funcionan.
+* **Importancia de la API** Las API son cruciales para automatizar tareas repetitivas, permitir que los sistemas se comuniquen y ahorrar tiempo y dinero.Conceptos básicos de la API** Explicación de qué es una API **, incluida la diferencia entre las solicitudes Get y Post, y cómo funcionan.
 
 ### Casos de uso
 
-* **Creación masiva de programas** con un script de Python para clonar programas, actualizar tokens y activar campañas inteligentes. palo de golf
+* **Creación masiva de programas** con un script de Python para clonar programas, actualizar tokens y activar campañas inteligentes. &#x200B;
 * **Creación de programas bajo demanda** con Zapier para automatizar la creación de programas de Marketo basados en los envíos de formularios, incluida la generación de parámetros de UTM y la creación de tickets * **JIRA para el seguimiento.
-* **Administración de API** Sugerencias para administrar el uso de API, incluyendo la creación de servicios de punto de inicio independientes para diferentes integraciones y la supervisión del uso de llamadas de API.Herramientas y * **Recursos** Recommendations para usar herramientas como Postman para probar solicitudes de API y ChatGPT para generar código de Python.
+* **Administración de API** Sugerencias para administrar el uso de API, incluida la creación de servicios de punto de inicio independientes para diferentes integraciones y la supervisión del uso de llamadas de API.Herramientas y * **Recursos** Recommendations para usar herramientas como Postman para probar solicitudes de API y ChatGPT para generar código de Python.
 * **Casos de uso adicionales** Mención de otros casos de uso potenciales para la API de Marketo, como la reversión de cambios de datos, la deduplicación y la conexión de Marketo con IA.

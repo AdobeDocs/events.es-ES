@@ -1,6 +1,8 @@
 ---
-title: Perspectivas de Edge Network y Personalization móvil con soluciones de Adobe
-description: Descubra cómo mejorar las estrategias móviles, mejorar la participación del usuario y ofrecer experiencias personalizadas de forma eficaz mediante las soluciones de Adobe.
+title: Perspectivas de Edge Network y Personalization móvil con las soluciones de Adobe
+description: Aprenda a mejorar las estrategias móviles, mejorar la participación del usuario y ofrecer experiencias personalizadas de forma eficaz mediante las soluciones de Adobe.
+feature: Data Configuration and Collection
+topic: Personalization, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,32 +10,32 @@ duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
 exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
-# Perspectivas de Edge Network y Personalization móvil con soluciones de Adobe
+# Perspectivas de Edge Network y Mobile Personalization con las soluciones de Adobe
 
 Descubra cómo funciona la arquitectura de Edge y cómo depurar implementaciones mediante Assurance
-Directrices técnicas sobre cómo configurar el SDK móvil
+Directrices técnicas sobre cómo configurar Mobile SDK.
 Cómo ofrecer experiencias personalizadas con Target y AJO
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433328/?learn=on)
 
-## Puntos clave
+## Principales conclusiones
 
-### Céntrese en el Edge Network y el Personalization móvil:
+### Céntrese en Edge Network y Mobile Personalization:
 
 * La arquitectura de Adobe Edge para la recopilación y propagación de datos.
-* Importancia de configurar el SDK móvil para experiencias personalizadas.
+* Importancia de configurar SDK móvil para experiencias personalizadas.
 * Aprovechamiento de Target y Journey Optimizer para ofrecer experiencias personalizadas.
 
 ### Énfasis en la optimización y Personalization
 
-* Migración a versiones más recientes del SDK o uso del SDK de Edge móvil para la optimización.
+* Migración a versiones más recientes de SDK o uso de Mobile Edge SDK para la optimización.
 * Uso de la extensión dual decisioning para la personalización.
 * Mejora de la participación en la aplicación móvil y las conversiones en la aplicación mediante experiencias personalizadas.
 

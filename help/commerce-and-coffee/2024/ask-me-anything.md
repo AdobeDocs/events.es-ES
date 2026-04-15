@@ -2,6 +2,8 @@
 title: Preguntarme Cualquier Cosa
 description: Commerce and Coffee responde a las preguntas de los participantes sobre Adobe Commerce y explora la jerarquía de la empresa, las métricas de rendimiento del sitio web, la personalización B2B, las prácticas recomendadas de búsqueda en directo y las próximas mejoras de los productos.
 solution: Commerce
+feature: B2B, Payments
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
 exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -38,4 +40,4 @@ Corey y Agbi respondieron preguntas en directo y de registros, compartiendo sus 
 
 * **Técnicas B2B Personalization** utilizan catálogos compartidos, precios personalizados y métodos de pago personalizados para mejorar la experiencia del cliente.
 
-* **Próxima versión 2.4.8** Se han burlado de las mejoras en las funcionalidades principales y los tipos de productos, y se esperan más detalles durante el Adobe Summit.
+* **Próxima versión 2.4.8** Se han burlado de las mejoras en las funcionalidades principales y los tipos de productos, y se esperan más detalles en Adobe Summit.

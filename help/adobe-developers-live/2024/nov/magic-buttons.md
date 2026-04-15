@@ -2,6 +2,7 @@
 title: Botones mágicos y cómo crearlos
 description: Mejore los flujos de trabajo y las experiencias de los usuarios con la extensibilidad de la interfaz de usuario de Adobe, lo que permite integraciones personalizadas a través de Adobe App Builder, simplifica tareas complejas con un "botón mágico" y admite la integración perfecta con sistemas empresariales, con futuras expansiones a más servicios de Adobe.
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Descubra cómo ampliar la interfaz de usuario de Adobe Experience Manager para a
 
 Continuar la conversación en la [discusión](https://adobe.ly/3Ywf6kg) de la comunidad de Adobe Developers Live.
 
-## Puntos clave
+## Principales conclusiones
 
 * **Extensibilidad de la interfaz de usuario** Sarah, directora de producto en Adobe, analiza el concepto de extensibilidad de la interfaz de usuario, que permite a los desarrolladores crear integraciones y extensiones personalizadas para mejorar los flujos de trabajo y las experiencias de los usuarios.
 * **Botón Mágico** Se presenta la idea de un &quot;botón mágico&quot;, que simplifica los flujos de trabajo complejos en una sola acción, mejorando la eficiencia y reduciendo la frustración.

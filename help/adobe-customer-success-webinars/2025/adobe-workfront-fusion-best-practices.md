@@ -3,19 +3,20 @@ title: Fundamentos y prácticas recomendadas de Adobe Workfront Fusion
 description: Conozca los conceptos básicos de Workfront Fusion para automatizar los flujos de trabajo, aumentar la productividad e integrar herramientas con soluciones de código bajo, plantillas y prácticas recomendadas.
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Fundamentos y prácticas recomendadas de Adobe Workfront Fusion
 
@@ -29,7 +30,7 @@ En esta sesión, conozca los conceptos básicos de Adobe Workfront Fusion, apren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Importancia de la integración** La integración perfecta de las herramientas es crucial para mejorar la colaboración, reducir los procesos lentos y aumentar la eficiencia. Las herramientas como Workfront Fusion ayudan a conectar varias aplicaciones y automatizar los flujos de trabajo.
 
@@ -40,4 +41,3 @@ En esta sesión, conozca los conceptos básicos de Adobe Workfront Fusion, apren
 * **Prácticas recomendadas** Utilice cuentas de servicio para conexiones de Fusion en lugar de cuentas personales, mantenga convenciones de nomenclatura adecuadas y limpie periódicamente los escenarios, conexiones y enlaces web que no utilice para evitar el desorden.
 
 * Las plantillas **Plantillas y aprendizaje** de Fusion son un excelente punto de partida para que los nuevos usuarios aprendan a crear escenarios de forma eficaz. Proporcionan flujos de trabajo predefinidos que se pueden personalizar para satisfacer necesidades específicas.
-

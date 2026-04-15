@@ -4,14 +4,15 @@ description: En esta sesión, aprenderá a utilizar la extensión de Bridge de E
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
+topic: Migration
 event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: dd6f30d6c664992770f473d0ab80de561defcb35
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ Aprenda a utilizar la extensión Bridge de Edge para reducir la brecha en la mig
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Para continuar con la discusión, visite la [discusión sobre la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=es#M550){target="_blank"}.**
+**Para continuar con la discusión, visite la [discusión en la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 
 **Mostrar detalles**:
@@ -34,4 +35,4 @@ También ha oído que la recopilación de datos de Edge es el futuro del ecosist
 
 En esta sesión, aprenderá a utilizar la extensión de Bridge de Edge para salvar la brecha de la migración. Proporcionaremos instrucciones paso a paso sobre cómo configurar sus propiedades móviles y actualizar la implementación del lado del cliente para utilizar Edge Bridge.
 
-Después de la migración, aún puede acceder a sus datos en Analytics, lo que le acercará un paso más a AEP. ¿Todavía no está seguro? Le mostraremos cómo validar la implementación y depurar en tiempo real.
+Después de la migración, aún puede acceder a sus datos en Analytics, lo que le permitirá estar un paso más cerca de AEP. ¿Todavía no está seguro? Le mostraremos cómo validar la implementación y depurar en tiempo real.

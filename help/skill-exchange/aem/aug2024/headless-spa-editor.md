@@ -2,6 +2,8 @@
 title: 'Desbloquee el poder de las SPA modernas en AEM: enfoques de Master Headless y SPA Editor'
 description: Explicación de los aspectos básicos de las aplicaciones de una sola página Exploración de AEM sin encabezado y su integración con marcos de trabajo front-end Uso del Editor de SPA de AEM para un proceso de desarrollo optimizado Prácticas recomendadas para crear, implementar y administrar SPA en AEM No pierda esta oportunidad para obtener perspectivas de un experto y mejorar su estrategia digital con las técnicas modernas de SPA en AEM.
 solution: Experience Manager
+feature: Authoring
+topic: Headless, Integrations, Development
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---

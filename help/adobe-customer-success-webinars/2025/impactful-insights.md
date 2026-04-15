@@ -2,6 +2,8 @@
 title: 'Perspectivas impactantes: estrategias de elaboración para una medición eficaz'
 description: Una estrategia de medición bien implementada mejora la eficiencia operativa, fomenta la toma de decisiones basada en datos y mejora las experiencias de los clientes, proporcionando a las organizaciones una ventaja competitiva.
 solution: General
+feature: Analytics Basics
+topic: Performance, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
 exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Puntos clave de debate
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444457/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Definición de estrategia de medición** Una estrategia de medición es un marco de trabajo estructurado y colaborativo que guía la forma en que una organización recopila, analiza y utiliza datos para evaluar su rendimiento frente a los objetivos empresariales. Alinea los equipos, fomenta una cultura de toma de decisiones basada en datos e impulsa la mejora continua.
 

@@ -1,6 +1,7 @@
 ---
 title: 'Goteo de datos: ventajas de migrar de un sistema antiguo a Web SDK'
 description: Descubra cómo Adobe Web SDK optimiza la implementación, aumenta el rendimiento y reduce los costes con un seguimiento más inteligente y integraciones simplificadas a través de Edge Network.
+feature: Data Governance, Data Configuration and Collection
 topic: Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3217
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19500
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: e7a85278-aa6a-41d8-aed5-88249bd9193e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
-
 
 # Goteo de datos: ventajas de migrar de un sistema antiguo a Web SDK
 
@@ -54,4 +55,3 @@ Adobe Web SDK consolida varias bibliotecas de seguimiento (Analytics, Target y A
 * Admite esquemas XDM (Experience Data Model) estandarizados para datos coherentes en todas las plataformas.
 
 Este enfoque simplifica el mantenimiento, mejora el rendimiento y permite una colaboración perfecta entre los equipos.
-

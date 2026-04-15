@@ -2,6 +2,7 @@
 title: 'Expert Insights: gestión del trabajo empresarial con Daniel Clarke'
 description: Escuche a Daniel Clarke compartir las prácticas recomendadas de Workfront sobre administración del trabajo empresarial, adopción, métricas de liderazgo y estrategias de Fusion para el éxito.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Daniel Clarke
 speaker-title-1: Senior Manager of Restaurant Solutions
 speaker-company-1: Sysco Corporation
@@ -12,9 +13,9 @@ duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
 exl-id: db16e693-cd95-4e67-858b-b57829d1e704
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---

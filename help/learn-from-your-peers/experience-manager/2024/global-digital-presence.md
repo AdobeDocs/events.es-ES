@@ -2,6 +2,8 @@
 title: Desbloquear el éxito a escala con una combinación global
 description: Escale el contenido global con AEM mediante componentes, modelos, flujos de trabajo y fragmentos personalizados para obtener un control, una aprobación y una flexibilidad regional eficientes.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Personalizaciones y administración de componentes** Permiten matices y requisitos regionales, lo que permite una personalización específica para regiones o globalmente, lo que resulta útil para satisfacer diversas necesidades en un solo lugar.
 

@@ -2,13 +2,15 @@
 title: 10 consejos para sorprender a tu Workfront
 description: Estas sugerencias están destinadas a administradores que han estado en su instancia durante un tiempo y esperan una manera más eficiente de hacer las cosas.
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10313
 thumbnail: 342523.jpeg
 exl-id: bf741c04-9cd9-485a-8fa4-409cddf94547
 duration: 2480
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

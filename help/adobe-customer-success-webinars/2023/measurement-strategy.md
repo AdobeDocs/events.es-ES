@@ -2,6 +2,8 @@
 title: Establecimiento de una estrategia de medición efectiva
 description: Elementos de una estrategia de medición eficaz Desafíos comunes y soluciones Ejemplos de marcos estratégicos
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,7 +12,7 @@ jira: KT-13777
 thumbnail: 3422527.jpeg
 exl-id: 66447786-7df1-4d9a-8315-3ca1b4aa1c37
 duration: 2719
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 # Establecimiento de una estrategia de medición efectiva
 
-Sesión de apertura de Adobe Analytics Booster Pack, organizada por expertos en Adobe, en la que se comparten las prácticas recomendadas para una estrategia de programa de medición.
+Sesión de apertura de Adobe Analytics Booster Pack, organizada por expertos de Adobe, en la que se comparten las prácticas recomendadas para una estrategia de programa de medición.
 
 * Elementos de una estrategia de medición efectiva
 * Desafíos y soluciones comunes

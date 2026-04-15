@@ -2,6 +2,8 @@
 title: Priorización de Intelligence & Measurement
 description: Este seminario web tiene como objetivo potenciar e inspirarle para impulsar conversaciones entre soluciones en mediciones que muevan la aguja en su organización. Saldrá con una comprensión de los desafíos, el papel que pueden desempeñar los datos y cómo construir una base más sólida en el futuro.
 solution: Experience Cloud
+feature: Personalization, Analytics Basics
+topic: Personalization
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-13706
 thumbnail: 3421756.jpeg
 exl-id: 2e3aa238-6eec-4bcc-aba0-09a492c3f492
 duration: 3040
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---

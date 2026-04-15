@@ -2,6 +2,8 @@
 title: 'Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean'
 description: Explore estrategias y enfoques prácticos para aumentar la productividad y racionalizar las operaciones utilizando metodologías ágiles con Adobe Workfront, presentadas por expertos del sector.
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Estrategias perspicaces y enfoques prácticos para las organizaciones con el obj
 * Uso de Workfront para apoyar la gestión de proyectos lean
 * Aprendizaje y adaptación continuos
 
->[!VIDEO](https://video.tv.adobe.com/v/3456709/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
 
 ## Resumen de reunión
 

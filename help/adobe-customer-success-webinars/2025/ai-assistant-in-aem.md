@@ -2,6 +2,7 @@
 title: Asistente de IA en AEM
 description: Descubra cómo el asistente de IA de AEM optimiza las tareas de creación y administración. Explore su ámbito, configuración y mírelo en acción con una demostración en directo.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
-
 
 # Asistente de IA en AEM
 
@@ -49,4 +50,3 @@ Al comprender estas capacidades, los equipos pueden aprovechar el Asistente de I
 * **Sin generación de contenido** Actualmente, el asistente no genera ni crea contenido; el enfoque está en el conocimiento y la asistencia.
 
 Mejoras futuras: se están considerando funciones adicionales y capacidades más amplias, con actualizaciones previstas a medida que evolucione el producto.
-

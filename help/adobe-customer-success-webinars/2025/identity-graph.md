@@ -2,6 +2,7 @@
 title: Casos de uso y resolución de problemas del gráfico de identidad
 description: Descubra cómo el servicio de identidad de Adobe Experience Platform potencia las perspectivas de segmentación, activación y combinación de perfiles para resolver desafíos de marketing del mundo real.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Casos de uso y resolución de problemas del gráfico de identidad
 
@@ -46,4 +47,3 @@ Descubra cómo las reglas del gráfico de identidades de Adobe Experience Platfo
 * **Contraer y corregir gráficos** Los dispositivos compartidos, los datos no validados o los errores de implementación pueden fragmentar perfiles; las herramientas de simulación y los trabajos de reparación ayudan a restaurar la precisión.
 
 La comprensión de estos conceptos permite a las organizaciones maximizar el valor de los datos, garantizar el cumplimiento y ofrecer experiencias personalizadas.
-

@@ -1,6 +1,8 @@
 ---
 title: 'Marketo y Mochas: 5 funciones de Marketo que se deben conocer en 2025'
 description: Vea nuestra primera sesión del año sobre Marketo y Mochas con nuestras expertas en Marketo Engage, Carly Gaver y Kate Colbert. Carly y Kate incluyeron más de 5 funciones enriquecidas en capacidad en su paquete de Marketo que pueden ayudar a aumentar su experiencia del cliente y aumentar la demanda en 2025. ¡Sintonice y libere todo el potencial de su plataforma Marketo!
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
-
 
 # Marketo y Mochas: 5 funciones de Marketo que se deben conocer en 2025
 
@@ -30,25 +31,25 @@ Vea nuestra primera sesión del año sobre Marketo y Mochas con nuestras experta
    * [5 funciones que se deben conocer en 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Administración de cuenta de destino**
-   * Información general de [&#128279;](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
-   * [Preguntas más frecuentes](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
+   * [Información general](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Preguntas frecuentes](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Vídeo de consejos y trucos](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Públicos predictivos**
-   * Información general de [&#128279;](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Información general](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Casos de uso](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Análisis de Recorrido avanzado**
-   * [Información general de informes](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Información general sobre el ciclo vital de Modeler](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Información general de informes](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Información general sobre Lifecyle Modeler](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **espacio aislado**
-   * Información general de [&#128279;](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Información general](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Espacios de trabajo y particiones**
-   * Información general de [&#128279;](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Información general](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## Puntos clave
+## Principales conclusiones
 
 ### Estructura de sesión
 

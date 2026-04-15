@@ -2,6 +2,7 @@
 title: 'Expert Insights: Flujos de trabajo de Workfront no tradicionales con Kiersten Kollins'
 description: Descubra cómo Kiersten Kollins, de DSW, utiliza flujos de trabajo de Adobe Workfront no tradicionales, informes personalizados y automatizaciones Fusion para optimizar las operaciones de marketing y aumentar la eficacia del equipo.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ Le sorprenderán todas las fantásticas ideas que comparte, entre ellas: 
 * Iniciar revisiones de resumen de Creative para adaptarlas a las necesidades de sus usuarios y proyectos. 
 * *¡BONUS!*: ¡También comparte un ejemplo de uno de sus casos de uso de Fusion favoritos!
 
->[!VIDEO](https://video.tv.adobe.com/v/3469942/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Recursos
 
-Durante el evento, Kiersten mencionó dos recursos que adjuntamos al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=es).
+Durante el evento, Kiersten mencionó dos recursos que adjuntamos al [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Informe De Ejemplo** - Informes De Tareas Después Del Horario Laboral 
 * **Protecciones de enrutamiento de comentarios de DSW** Este es un ejemplo fantástico de cómo enseñar a sus usuarios cómo proporcionar actualizaciones en Workfront. 
 

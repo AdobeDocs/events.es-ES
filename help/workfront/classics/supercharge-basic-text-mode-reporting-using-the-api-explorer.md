@@ -1,14 +1,16 @@
 ---
 title: Consulte al experto - Informes de modo de texto básico de sobrecarga mediante el Explorador de API
 description: Obtenga información sobre el explorador de API, cómo utilizarlo y cómo mejorar sus informes aprovechando el modo de texto básico. Este seminario web se grabó el 22 de enero de 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---

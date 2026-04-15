@@ -3,19 +3,20 @@ title: Desbloquear todo el potencial de Design Studio para las operaciones de ma
 description: Aprenda a escalar con Design Studio en Marketo Engage. Descubra encapsulación, plantillas, formularios y estrategias para reducir la deuda técnica y aumentar la eficiencia.
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Desbloquear todo el potencial de Design Studio para las operaciones de marketing globales
 
@@ -29,7 +30,7 @@ Obtendrá más información sobre lo siguiente:
 * El uso de prácticas de codificación inteligente dentro de Design Studio puede futuras pruebas de sus operaciones de marketing y del cumplimiento de la marca.
 * Cómo la integración de Adobe Experience Manager (AEM) llena el vacío para que Design Studio amplíe la potencia de Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471423/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
 
 ## Desbloquear operaciones eficientes de Marketo
 

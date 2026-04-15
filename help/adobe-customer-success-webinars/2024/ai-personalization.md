@@ -2,6 +2,7 @@
 title: Maximización de las experiencias del usuario con Personalization impulsado por IA de Adobe Target
 description: La sesión de John Magnusson sobre la personalización impulsada por IA de Adobe Target destacó las funciones y los ejemplos clave, haciendo hincapié en el marco de trabajo Participación, Expandir e Incrustar.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ La sesión sobre personalización impulsada por IA de Adobe Target, dirigida por
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440934/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Enfoque de la sesión** La sesión se centró en maximizar la experiencia del usuario con la personalización basada en IA de Adobe Target.
 * **Presentador** John Magnusson, un administrador de éxito de clientes de soluciones con el equipo de integración y datos de Adobe, dirigió la sesión.
@@ -41,4 +42,4 @@ La sesión sobre personalización impulsada por IA de Adobe Target, dirigida por
 * **Experience League** se recomienda como recurso para obtener documentación detallada e instrucciones sobre cómo implementar las características de Adobe Target.
 * **Aspectos destacados de preguntas y respuestas**
    * Adobe Target se puede implementar en canales de correo electrónico e integrarse con Marketo.
-   * Target puede crear su propio conjunto de perfiles de cliente unificados e integrarlos con audiencias de CDP o Adobe para una personalización más sólida.Llamada a la acción** Se animó a los asistentes a identificar casos de uso de las herramientas de personalización de Adobe Target y aplicarlos utilizando la estrategia, el diseño, la ejecución, el análisis y el ciclo de acción definidos.
+   * Target puede crear su propio conjunto de perfiles de cliente unificados e integrarlos con las audiencias de CDP o Adobe para conseguir una personalización más sólida.Se animó a los asistentes a Call to action** a identificar casos de uso de las herramientas de personalización de Adobe Target y aplicarlos utilizando la estrategia, el diseño, la ejecución, el análisis y el ciclo de acción definidos.

@@ -1,6 +1,7 @@
 ---
 title: Creación práctica de un sitio con los nuevos bloques de JavaScript
 description: Creación práctica de un sitio con los nuevos bloques de JavaScriptObtenga información sobre la composibilidad de próxima generación, la última innovación de AEM Sites. Viene con una nueva experiencia de creación y desarrollo para construir los sitios más rápidos en la web. En esta sesión aprenderá a desarrollar nuevos sitios con composibilidad de próxima generación desde cero; cómo se configura y estructura un proyecto típico, cómo funciona el flujo de trabajo de desarrollo, cómo aplicar estilo al contenido, implementar bloques personalizados y cómo llevar los cambios a la producción con un enfoque en el rendimiento web.
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13355
 thumbnail: 3419944.jpeg
 exl-id: ba3cc23a-9179-486e-ad13-ac896fdab268
 duration: 2294
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---

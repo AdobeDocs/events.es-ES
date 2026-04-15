@@ -2,6 +2,8 @@
 title: 'Real-Time CDP: Asignación de casos de uso a las capacidades de la solución'
 description: Este seminario web explora formas clave de explorar y priorizar casos de uso, asignarlos a funciones específicas de Real-time CDP y garantizar la alineación con los resultados y el valor empresariales.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe de CDP en tiempo real: asignación de casos de uso a funciones de solución
+# Adobe Real-time CDP: asignación de casos de uso a funciones de solución
 
 Este seminario web explora formas clave de explorar y priorizar casos de uso, asignarlos a funciones específicas de Real-time CDP y garantizar la alineación con los resultados y el valor empresariales.
 
@@ -39,7 +41,7 @@ Este seminario web explora formas clave de explorar y priorizar casos de uso, as
 
 * Efectos en casos de uso como retargeting y personalización de medios pagados
 
-**Comparación de Real-Time CDP con el Audience Manager de DMP**
+**Comparación de Real-Time CDP con DMP Audience Manager**
 
 * Céntrese en la ingesta de datos, la administración de audiencias y las estructuras de salida de datos
 

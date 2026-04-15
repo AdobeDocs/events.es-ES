@@ -3,6 +3,7 @@ title: Preparación de su organización de Workfront para un centro de excelenci
 description: Aprenda a lanzar y escalar un Centro de excelencia de Workfront con estrategias de gobernanza, patrocinio ejecutivo y prácticas recomendadas de adopción.
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ El establecimiento de un Centro de Excelencia (CoE) es crucial para impulsar la 
 * **Consideraciones de personal** Explore los aspectos críticos de la asignación de personal a su CoE identificando las funciones y responsabilidades clave para su práctica de administración. Aprenda a crear un equipo que pueda apoyar e impulsar de forma eficaz las iniciativas de su CoE.
 * **Sugerencias y trucos** Obtenga información práctica y prácticas recomendadas para administrar y mantener su CoE. Descubra estrategias para superar desafíos comunes, fomentar la colaboración y garantizar una mejora continua. Únase a nosotros para equiparse con los conocimientos y las herramientas necesarias para crear un próspero Centro de excelencia dentro de su organización de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471587/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## Pasos clave para iniciar el código
 

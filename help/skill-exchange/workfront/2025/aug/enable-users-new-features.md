@@ -3,25 +3,26 @@ title: 'Habilitar a los usuarios con nuevas funciones: la agitación es la vida'
 description: 'Conozca estrategias para impulsar la adopción de Workfront: atraer usuarios, alinear funciones con objetivos empresariales y utilizar Analytics para mejorar los despliegues.'
 solution: Workfront
 feature: Get Started with Workfront, Resource Management
+topic: Integrations, Administration
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18874
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 92f42aad-f0e5-4d89-9d98-dc92891b3254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # Habilitar a los usuarios con nuevas funciones: agitación es vida
 
 &quot;La agitación es lo opuesto al estancamiento - el uno es la vida, el otro es la muerte&quot; ~Ernestine Rose Como administrador del sistema, las notas de la versión pueden ser vistas como la próxima intriga sobre cómo podemos seguir mejorando nuestros sistemas y resolviendo más problemas, pero para muchos de nuestros usuarios, el cambio no siempre es tan fácilmente aceptado. Únete a nosotros a medida que profundizamos en algunas formas exitosas en las que podemos construir una cultura de cambio, presentar soluciones a las partes interesadas adecuadas y mejorar continuamente nuestros sistemas para que sigamos añadiendo valor, ya sea que el sistema sea nuevo o que funcione a todo vapor. Sistema (gobernanza) para compartir actualizaciones generales del sistema Sugerencias para crear una cultura de cambio que permita la adopción por parte del usuario. Identificar el mejor ROI para el cambio: alto valor, bajo esfuerzo. Primero, informar sobre líneas de base e impactos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471541/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471494/?learn=on&enablevpops)
 
 ## Impulso de la innovación y la adopción en Workfront
 

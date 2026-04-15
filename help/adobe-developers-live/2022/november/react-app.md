@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live, 22 de noviembre. Cree su primera aplicación React
-description: Cree su primera aplicación React con CMS sin encabezado Experience Manager Introducción a los fragmentos de contenido de CMS sin encabezado de Adobe Experience Manager Funciones de GraphQL.En esta sesión, aprenderá a configurar rápidamente una aplicación React cargada con datos procedentes de CMS sin encabezado de Adobe Experience Manager.
+description: Cree su primera aplicación de React con CMS sin encabezado de Experience Manager Introducción a las funciones de GraphQL de fragmentos de contenido de CMS sin encabezado de Adobe Experience Manager.En esta sesión, aprenderá a configurar rápidamente una aplicación de React alimentada con datos procedentes de CMS sin encabezado de Adobe Experience Manager.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,16 +14,16 @@ kt: 11474
 thumbnail: 3411298.jpeg
 exl-id: b04737ec-86b9-44fe-ac47-90d4452da89a
 duration: 1629
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Cree Su Primera Aplicación De React
 
-Introducción a los fragmentos de contenido CMS sin encabezado de Adobe Experience Manager Funciones de GraphQL.
+Introducción a las funciones de GraphQL de los fragmentos de contenido de CMS sin encabezado de Adobe Experience Manager.
 
 En esta sesión, aprenderá a configurar rápidamente una aplicación de React alimentada con datos procedentes de CMS sin encabezado de Adobe Experience Manager.
 

@@ -2,6 +2,8 @@
 title: Cultivo de una organización de marketing Agile
 description: La sesión sobre el cultivo de una organización de marketing ágil destacó los principios del marketing ágil, sus beneficios, los desafíos con el enfoque tradicional de cascada, la necesidad de un cambio cultural y la gestión del cambio, y las funciones y la estructura esenciales para un marketing ágil exitoso.
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Dado que los especialistas en marketing se ven presionados a crear recursos y of
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444450/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Principios de Agile Marketing** El marketing ágil aplica principios desde el desarrollo de software ágil hasta los procesos de marketing, centrándose en el desarrollo iterativo, la centralidad del cliente, la transparencia, las decisiones basadas en datos y la mejora continua.
 

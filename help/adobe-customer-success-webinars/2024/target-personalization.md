@@ -2,19 +2,21 @@
 title: 'Target Personalization: Introducción a Recommendations y afinidad de la categoría'
 description: Aprenda a crear una base sólida para empezar a usar Recommendations. Reciba una mejor comprensión de los algoritmos que alimentan a Recs y de cómo aprovechar Recs correctamente.
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
-
 
 # Target Personalization: Introducción a Recommendations y afinidad de la categoría
 
@@ -22,9 +24,9 @@ Aprenda a crear una base sólida para empezar a usar Recommendations. Reciba una
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
-## Puntos clave
+## Principales conclusiones
 
-* Recommendations en Rex ofrece personalización a escala, lo que permite recomendaciones inteligentes de cientos o miles de artículos basadas en algoritmos elegidos como basado en el comportamiento, basado en la popularidad, la similitud de contenido, etc.
+* Las recomendaciones en Rex ofrecen personalización a escala, lo que permite recomendaciones inteligentes de cientos o miles de artículos basadas en algoritmos elegidos como basado en el comportamiento, basado en la popularidad, la similitud de contenido, etc.
 * Rex proporciona opciones de personalización como secuenciación, ponderación, reglas de exclusión y mucho más, lo que lo convierte en una herramienta sólida para el control personalizado de la comercialización.
 * Rex es ideal para recomendar un gran número de productos o artículos de contenido en miles o millones de artículos, proporcionando recomendaciones personalizadas basadas en perfiles de usuario.
 * Es posible que Rex no sea adecuado para escenarios con un número pequeño de ofertas, artículos de catálogo que cambian rápidamente, una frecuencia de interacción baja o cuando la personalización se basa principalmente en características del usuario como el segmento de lealtad o la geografía.

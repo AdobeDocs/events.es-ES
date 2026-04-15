@@ -1,7 +1,9 @@
 ---
-title: 'De la visión al valor: planificación de casos de uso en AEP'
-description: La sesión de planificación de casos de uso de AEP abarca la asignación de valores, la alineación de estrategias y la maximización del valor empresarial mediante KPI. Ayuda a las organizaciones a alinear los objetivos con los resultados empresariales y a aprovechar las soluciones de Adobe para lograr experiencias de cliente impactantes.
+title: 'De la visión al valor: planificación de casos de uso de AEP'
+description: La sesión de Planificación de casos de uso de AEP abarca la asignación de valores, la alineación de estrategias y la maximización del valor empresarial mediante KPI. Ayuda a las organizaciones a alinear los objetivos con los resultados empresariales y a aprovechar las soluciones de Adobe para lograr experiencias de cliente impactantes.
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%

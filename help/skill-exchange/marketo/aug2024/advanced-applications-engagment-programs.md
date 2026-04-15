@@ -2,6 +2,8 @@
 title: 'Libere el poder de los Recorridos de flujo múltiple: aplicaciones avanzadas de programas de participación'
 description: Defina las fases de recorrido del cliente con ejemplos de diferentes modelos empresariales.  Traducir el modelo de recorrido del cliente a programas de participación de varias secuencias.  Aproveche la funcionalidad nativa de creación de informes para analizar los programas de participación en los ciclos de vida de los clientes.
 solution: Marketo Engage
+feature: Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

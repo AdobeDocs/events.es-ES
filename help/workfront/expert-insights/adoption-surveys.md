@@ -8,6 +8,7 @@ speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
 feature: Workfront Integrations and Apps
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -15,9 +16,9 @@ duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
 exl-id: 75153967-b82d-4221-b44b-73aabb74402f
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -26,17 +27,17 @@ ht-degree: 0%
 
 Es su CSM de Workfront bajo demanda aquí, y he vuelto con un nuevo vídeo.  Esta vez, tenemos una presentación de uno de nuestros fantásticos clientes, Jaime Davidson de Cognizant!  Tuvo la amabilidad de ofrecer su tiempo y su experiencia durante nuestro evento de noviembre de Connect, compartiendo su experiencia y recursos para implementar las Encuestas de adopción de Workfront. *¡Bono!* Nuestra propia CSM de Workfront, Danielle Johnston también comparte sus ideas y recomendaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469953/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
 
 ## Recursos
 
 Durante la presentación, Jaime y Danielle analizaron algunos recursos suplementarios, que hemos hiperenlazado a continuación.
 
 * [Guía de Workfront para encuestas de adopción](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
-* [Chat del administrador de Workfront - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
+* [Chat del administrador de Workfront: Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Encuesta de adopción de usuarios de Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=es)
+¿Desea más información sobre la adopción y la incorporación general? ¡Echa un vistazo a nuestro blog! - [Nuevos clientes de Workfront. ¡Bienvenido al Blog de Incorporación de Éxito del Cliente de Adobe Workfront!](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## Acerca del altavoz
 

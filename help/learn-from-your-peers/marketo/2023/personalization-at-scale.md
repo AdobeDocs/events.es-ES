@@ -2,6 +2,8 @@
 title: Descifrando Personalization a escala de código usando  [!DNL Marketo Engage]
 description: Abarca las características de personalización disponibles en Adobe [!DNL Marketo Engage]; tokens, segmentaciones, contenido dinámico y fragmentos de código, y secuencias de comandos de Velocity.  Casos de uso de scripts de velocidad avanzados, incluida la personalización de contenido mediante datos procedentes de objetos personalizados.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization, Performance, Development
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +13,9 @@ thumbnail: 3419133.jpeg
 event-start-time: 2023-5-4 08:30-8
 exl-id: 56947a3f-ce77-4b57-b780-035366f59117
 duration: 2460
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

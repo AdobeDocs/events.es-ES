@@ -2,6 +2,7 @@
 title: Presentación de apertura
 description: Descubra cómo los agentes de IA están transformando el marketing B2B en B2B 3.0. Conozca estrategias para impulsar la eficacia, la personalización y los recorridos de los clientes con Marketo Engage.
 solution: Marketo Engage
+feature: Programs, Reporting
 topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
+exl-id: 2dd43d54-8bc8-431c-b03b-792aa9ece08f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Presentación de apertura
 
 El evento Adobe Experience Makers: The Skill Exchange (Marketo Engage track) contó con la participación de Badsah Mukherji, director de producto sénior del grupo Adobe, que habló sobre la transformación del marketing B2B en &quot;B2B 3.0&quot;. Esta nueva fase se centra en las experiencias de los clientes impulsadas por IA, haciendo hincapié en la participación personalizada y en segmentar los grupos de compra dentro de las cuentas. Mukherjee destacó el papel transformador de los agentes de IA en la automatización de tareas, la mejora de la eficiencia y la capacidad de los especialistas en marketing para centrarse en funciones estratégicas. Se subrayó la importancia de la colaboración entre el ser humano y la IA, pues amplificaba la creatividad en lugar de reemplazarla. Las habilidades clave para el éxito en este panorama incluyen ingeniería rápida, fluencia de datos y configuración de agentes. Adobe integra agentes de IA en herramientas como Marketo Engage para automatizar la orquestación del ciclo vital de los clientes, lo que garantiza que los especialistas en marketing que adoptan la IA prosperen en el futuro del marketing B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471478/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## Navegar por el futuro del marketing B2B
 

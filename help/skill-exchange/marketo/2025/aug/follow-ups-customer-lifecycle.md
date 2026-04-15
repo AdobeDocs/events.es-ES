@@ -2,6 +2,8 @@
 title: Elementos destacados de Experience Makers - Optimización de los seguimientos en el ciclo vital del cliente
 description: Descubra cómo las campañas de ejecutables frente a solicitudes optimizan los flujos de trabajo, mejoran la precisión de los datos y aumentan la participación con estrategias multicanal en tiempo real.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
 exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -28,9 +30,9 @@ Reacción en cadena: cuándo solicitar una campaña y cuándo ejecutarla: aunque
 
 ## Recursos adicionales
 
-* [Campañas ejecutables](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
-* [Todo lo que necesita saber sobre el nuevo tipo de campaña ejecutable en Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
-* [Campañas ejecutables: Descubra cómo los ejecutables pueden aumentar la eficacia y el impacto](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+* [Campañas ejecutables](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Todo lo que debe saber sobre el nuevo tipo de campaña ejecutable en Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
+* [Campañas ejecutables: Descubra cómo los ejecutables pueden impulsar la eficacia y el impacto](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
 ## Dominio de la participación en el ciclo vital multicanal más allá del correo electrónico
 
@@ -38,8 +40,8 @@ Dominar la participación del ciclo vital multicanal más allá del correo elect
 
 ## Recursos adicionales
 
-* [Profundización más allá de los correos electrónicos: marketing multicanal con notificaciones de aplicaciones, Dynamic Chat y aplicaciones de mensajería](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
+* [Análisis profundo más allá de los correos electrónicos: marketing multicanal con notificaciones de aplicaciones, Dynamic Chat y aplicaciones de mensajería](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Participación omnicanal](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Cómo crear un mensaje en la aplicación](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Cómo crear notificaciones push](https://experienceleague.adobe.com/es/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Cómo crear un mensaje en la aplicación](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Cómo crear notificaciones push](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [Cómo crear una plantilla de WhatsApp](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

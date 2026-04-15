@@ -1,6 +1,8 @@
 ---
 title: Nuevos paneles de Discover
-description: Únase a la asesora empresarial sénior de Adobe, Kate Colbert, y al asesor técnico, James Leedom, mientras exploran los 9 nuevos paneles de Discover en Marketo Measure, que ofrecen perspectivas dinámicas sobre métricas como Ingresos, ROI, Participación y Velocidad del posible cliente, con una demostración en directo y una sesión de preguntas y respuestas.
+description: Únase a la asesora empresarial sénior de Adobe, Kate Colbert, y al asesor técnico, James Leedom, mientras exploran los 9 nuevos paneles de Discover en Marketo Measure, que ofrecen perspectivas dinámicas sobre métricas como ingresos, retorno de la inversión, participación y velocidad del posible cliente, con una demostración en directo y una sesión de preguntas y respuestas.
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Durante esta sesión, demostraremos cómo incorporar de la manera más eficiente
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## Puntos clave
+## Principales conclusiones
 
 * Los paneles de Discover en Marketo Measure son un conjunto nuevo y mejorado de paneles creados previamente y diseñados para mejorar la facilidad de uso y añadir valor a las funciones de creación de informes.
 * Los paneles antiguos quedaron obsoletos en marzo y los nuevos ya están disponibles para todos los clientes de Marketo Measure.
@@ -31,4 +33,4 @@ Durante esta sesión, demostraremos cómo incorporar de la manera más eficiente
 * Los tableros cubren una amplia gama de áreas, que incluyen información general de ingresos, ingresos atribuidos, ROI, pasaporte de posibles clientes, pasaporte de oportunidades, velocidad, tráfico web, participación y más.
 * La configuración de los paneles en función de las necesidades comerciales específicas y la precisión de los datos es crucial para obtener perspectivas precisas y significativas.
 * El Discover Dashboard es mejor para el análisis de tendencias de alto nivel y el ROI, mientras que los informes de Salesforce son más granulares y se centran en individuos y registros específicos.
-* La opción de Data Warehouse proporciona funciones de análisis y visualización de datos más avanzadas.
+* La opción Data Warehouse proporciona funciones de análisis y visualización de datos más avanzadas.

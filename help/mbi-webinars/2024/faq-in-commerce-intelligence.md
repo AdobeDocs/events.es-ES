@@ -3,6 +3,8 @@ title: Preguntas frecuentes en Commerce Intelligence
 description: Conozca las respuestas a algunas preguntas frecuentes en Commerce Intelligence, que abarcan temas como configuraciones de autoservicio, integraciones, seguridad, prácticas recomendadas y mucho más.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Conozca las respuestas a algunas preguntas frecuentes en Commerce Intelligence, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429617/?learn=on)
 
-## Puntos clave
+## Principales conclusiones
 
 **Administración de moneda**
 
@@ -34,7 +36,7 @@ Conozca las respuestas a algunas preguntas frecuentes en Commerce Intelligence, 
 **Métodos de importación de datos**
 
 * La importación de datos se puede realizar mediante la conectividad de API, cargas de CSP y API de importación.
-* No se admite la base de datos de oracle; sin embargo, la carga de CSP o la API de importación pueden utilizarse como alternativas.
+* Oracle DB no es compatible; sin embargo, la carga de CSP o la API de importación pueden utilizarse como alternativas.
 * Las limitaciones en el uso de API incluyen una solicitud de consumo por mes y aproximadamente 100 solicitudes de registros, lo que equivale a alrededor de 100 000 registros por mes.
 
 **Integración de Data Source**

@@ -8,19 +8,20 @@ speaker-name-2: Jeremy Evans
 speaker-title-2: Senior Adoption Specialist
 speaker-company-2: Adobe
 feature: Person Scoring
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3900
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19208
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: ff824962-ee50-4fb5-8cee-74da47d46523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # Grupo de usuarios de Marketo básico: puntuación más inteligente, no más difícil
 
@@ -54,4 +55,3 @@ La puntuación de posibles clientes transforma los datos de marketing sin proces
 * Marketo ofrece herramientas flexibles para crear, probar y perfeccionar modelos de puntuación, con plantillas y compatibilidad con la comunidad.
 
 Comprender y aplicar estos principios puede impulsar una gestión más eficiente del posible cliente y una mayor velocidad de ingresos.
-

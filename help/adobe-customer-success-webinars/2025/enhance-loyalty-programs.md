@@ -1,19 +1,21 @@
 ---
 title: Mejora de programas de fidelización mediante Personalization y datos con la potencia de las soluciones de Adobe
-description: Descubra cómo las soluciones de Adobe mejoran los programas de lealtad a través de la personalización y los datos, apoyando los recorridos de los clientes desde la concienciación hasta la retención en varias industrias.
+description: Descubra cómo las soluciones de Adobe mejoran los programas de fidelidad a través de la personalización y los datos, apoyando los recorridos de los clientes desde la concienciación hasta la retención en varios sectores.
+feature: Work Management, Strategic Planning
+topic: Personalization, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2872
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17217
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: e03bd4d1-c84e-4cf1-9021-76b420e8542a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # Mejora de programas de fidelización mediante Personalization y datos con la potencia de las soluciones de Adobe
 
@@ -27,7 +29,7 @@ En esta sesión, exploraremos cómo las soluciones de Adobe pueden apoyar el rec
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443130/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Importancia de los programas de fidelización de clientes** Casi el 80% de los consumidores forman parte de uno o más programas de fidelidad y aumentar la retención de clientes en un 5% puede conllevar un aumento de las ganancias del 25% al 95%.
 
@@ -35,6 +37,6 @@ En esta sesión, exploraremos cómo las soluciones de Adobe pueden apoyar el rec
 
 * **Pilares clave de los programas de fidelización** Los programas de fidelización eficaces se basan en tres pilares clave** novedad y reconocimiento, utilidad y comunidad y pertenencia. Estos pilares ayudan a crear experiencias memorables, proporcionar incentivos prácticos y fomentar un sentido de pertenencia.
 
-* El Adobe **Uso de soluciones de Adobe** ofrece varias soluciones para mejorar los programas de fidelidad, incluidos perfiles de fidelidad holísticos, segmentación en tiempo real, perspectivas de recorrido cruzado, uso compartido de audiencias, administración de la cadena de suministro de contenido y orquestación omnicanal.
+* **Uso de soluciones de Adobe** Adobe ofrece varias soluciones para mejorar los programas de fidelidad, incluidos perfiles de fidelidad holísticos, segmentación en tiempo real, perspectivas de recorrido cruzado, uso compartido de audiencias, administración de supply chain de contenido y orquestación omnicanal.
 
 * **Recorrido del cliente y Personalization** La personalización del recorrido del cliente es crucial. Esto incluye correos electrónicos de inscripción dirigidos, mensajes de beneficios de lealtad en tiempo real, ofertas personalizadas y beneficios exclusivos específicos de cada nivel para atraer y retener clientes de forma eficaz.

@@ -1,6 +1,8 @@
 ---
 title: 'Marketo y Mochas: Entrega (parte 2)'
-description: Explore las prácticas recomendadas de envío de correo electrónico con el administrador de envío de Marketo, Sean Wirt, incluidas las estrategias de Gmail, la privacidad de correo de Apple, las direcciones IP compartidas frente a dedicadas, y una demostración detallada de la herramienta de envío de Marketo Engage, las listas semilla, las listas inteligentes y los informes.
+description: Explore las prácticas recomendadas de envío de correo electrónico con el administrador de envío de Marketo, Sean Wirt, incluidas las estrategias de Gmail, la privacidad de correo de Apple, las direcciones IP compartidas frente a dedicadas y una demostración detallada de la herramienta de envío de Marketo Engage, las listas semilla, las listas inteligentes y los informes.
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

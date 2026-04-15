@@ -1,6 +1,8 @@
 ---
 title: Administración de recursos
 description: Aproveche todo el potencial de la administración de recursos de Workfront con las directrices especializadas de Samantha Miller y Mary Ann Erickson sobre la configuración, las prácticas recomendadas y las herramientas.
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3638
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17166
 exl-id: f5330b70-e3a1-4d4d-9b0c-0d30a35af769
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ La administración de recursos de Workfront se destaca como uno de los casos de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443022/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 El seminario web presentó dos herramientas principales dentro de Adobe Work Front para la administración de recursos: el Planificador de recursos y el Distribuidor de cargas de trabajo.
 

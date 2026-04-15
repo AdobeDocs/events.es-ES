@@ -1,6 +1,7 @@
 ---
 title: 'Líderes minoristas: crecimiento impulsado por IA y libros de estrategias de alto rendimiento'
 description: Descubra cómo los minoristas utilizan el tráfico impulsado por IA para impulsar la lealtad, la participación y la conversión en este seminario web de Adobe de 2025.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Líderes minoristas: crecimiento impulsado por IA y libros de estrategias de alto rendimiento
 
@@ -37,7 +38,7 @@ Este seminario web Adobe Customer Success x Adobe Digital Insights cubre las úl
 ## Aplicar estrategias de IA paso a paso
 
 1. **Seguimiento del tráfico de IA** Configure análisis para identificar visitas de plataformas de IA (utilice segmentos LLM y UTM).
-1. **Optimizar contenido**: estructura páginas de producto con encabezados y preguntas frecuentes claros para facilitar el rastreo de IA.
+1. **Optimizar contenido**: estructura páginas de producto con encabezados y preguntas frecuentes claros para facilitar la rastrea de IA.
 1. **Expandir alcance** Comparte información de productos en medios sociales, blogs y sitios de revisión para aumentar la visibilidad.
 1. **Aproveche a los influenciadores** Asociarse con creadores de medios sociales para campañas de afiliados y contenido generado por el usuario.
 1. **Mejore los programas de fidelización** Use los datos de los clientes para personalizar las recompensas y alentar las compras que repitan.

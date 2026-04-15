@@ -1,20 +1,22 @@
 ---
-title: 'Dominio de la lógica secuencial en AA y CJA: un marco visual'
+title: 'Dominio de la lógica secuencial en AA y CJA: un marco de trabajo visual'
 description: Aprenda a dominar la lógica secuencial en Adobe Analytics y Customer Journey Analytics con un marco visual para traducir escenarios en planes procesables y crear segmentos secuenciales efectivos.
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Dominio de la lógica secuencial en AA y CJA: A Visual Framework
 
@@ -26,7 +28,7 @@ Adquiera un marco visual para traducir los escenarios de análisis secuencial a 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443129/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Lógica secuencial en Analytics** La sesión se centró en dominar la lógica secuencial usando el operador &quot;then&quot; para habilitar el análisis de alto valor. Esto implica comprender cómo definir y analizar secuencias de eventos en los datos.
 

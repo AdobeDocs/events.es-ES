@@ -2,6 +2,7 @@
 title: Creación y uso de flujos de trabajo de principio a fin
 description: Obtenga información sobre la creación y el uso de flujos de trabajo.
 feature: Workflow
+topic: Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
 exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Llamar a todos los administradores de Acrobat Sign, usuarios finales o colaboradores individuales. Esta sesión abarca la creación y el uso de flujos de trabajo. Como administrador de cuentas o de grupos de Acrobat Sign, puede definir flujos de trabajo predefinidos para enviar automáticamente documentos para su firma a las partes correctas y, a continuación, conceder acceso a todo el grupo de Acrobat Sign. Y como usuario final, aprenda a utilizar estos flujos de trabajo para asegurarse de que los documentos se firmen correctamente la primera vez, y cada vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454903/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
 
 ## Temas tratados
 

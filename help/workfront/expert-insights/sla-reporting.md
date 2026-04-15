@@ -2,6 +2,7 @@
 title: Informes de SLA en Workfront con Madalyn Destafney
 description: Aprenda a implementar y medir los acuerdos de nivel de servicio (SLA) en Adobe Workfront con consejos expertos de Madalyn Destafney, incluidas directrices paso a paso, ejemplos de campos calculados y prácticas recomendadas de formularios personalizados.
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,9 +13,9 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Bienvenido a otra entrega de Expert Insights.  Soy Cynthia Boon, su CSM de Workfront bajo demanda, y estoy encantada de compartir que tenemos a la única, Madalyn Destafney, compartiendo parte de su amplia experiencia para ayudar a los clientes a implementar y medir los Acuerdos de Nivel de Servicio (SLA) usando Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469981/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Como se promete en el vídeo, la presentación de Madalyn está vinculada a sus pasos, expresiones calculadas y ejemplos de informes. 
 
@@ -33,15 +34,15 @@ Como se promete en el vídeo, la presentación de Madalyn está vinculada a sus 
 
 Durante la presentación, Madalyn compartió sus formularios personalizados y campos calculados, por lo que si acaba de empezar a utilizar estas funciones, aquí hay algunos vínculos que le indicarán la dirección correcta. 
 
-* Lista de reproducción del tutorial - [Crear y compartir Forms personalizado](https://experienceleague.adobe.com/es/playlists/workfront-create-and-manage-custom-forms)
+* Lista de reproducción del tutorial - [Crear y compartir Forms personalizado](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Artículo - [Introducción a los campos y expresiones calculados](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Artículo - [Introducción a los campos y expresiones calculados](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Sugerencias y trucos: [campos calculados que todos deberían conocer y cómo informar sobre ellos](https://experienceleague.adobe.com/es/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Sugerencias y trucos: [campos calculados que todos deberían conocer y cómo informar sobre ellos](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 ¿Te interesan más consejos de Madalyn? Eche un vistazo a su serie de consejos y trucos en la Comunidad de Workfront. 
 
-* [Bytes técnicos del martes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=es#M2742)
+* [Bytes técnicos del martes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## Acerca del altavoz 
 

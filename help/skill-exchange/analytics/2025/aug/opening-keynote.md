@@ -1,19 +1,21 @@
 ---
 title: Presentación de apertura de Adobe Analytics
 description: Explore las habilidades esenciales de los analistas (narración, ética y empatía), además de cómo la IA y el insight humano se combinan para impulsar resultados comerciales significativos.
+feature: Data Governance, Data Configuration and Collection
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18828
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 8f1fedd4-3c00-4593-8b04-4d37be97378a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # Presentación de apertura de Adobe Analytics
 
@@ -23,7 +25,7 @@ Acumen empresarial y razonamiento ético: tome decisiones inteligentes y éticas
 Metodología de investigación y arte narrativo: transforme los hallazgos de los datos en narrativas atractivas para las partes interesadas.
 Competencia técnica e inteligencia emocional: Ofrezca apoyo y soluciones con empatía, no solo con habilidad técnica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471184/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
 
 ## Desbloquear Analytics para el impacto humano
 

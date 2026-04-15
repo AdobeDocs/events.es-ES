@@ -2,19 +2,21 @@
 title: Ganador del patrocinio ejecutivo para proyectos de Adobe Experience Platform
 description: Aprenda a convertir proyectos apasionantes en iniciativas impactantes alineando la visión con los objetivos empresariales, obteniendo la aprobación de los ejecutivos y utilizando AEP/RT-CDP para impulsar el valor.
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Ganador del patrocinio ejecutivo para proyectos de Adobe Experience Platform (AEP)
 
@@ -28,7 +30,7 @@ Aprenda a desbloquear el potencial de los proyectos de pasión y a navegar por e
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Funciones principales de AEP y Real Time-CDP**: estas plataformas ofrecen perfiles procesables en tiempo real, integración y unificación de datos, segmentación de clientes, personalización, análisis predictivo y un buen control de datos. Estas funciones pueden ayudar a las organizaciones a reducir los costes, aumentar la eficacia e impulsar el crecimiento de los ingresos.
 

@@ -2,19 +2,21 @@
 title: Capacidades de Journey Optimizer Mobile
 description: Esta sesión introductoria para Adobe Journey Optimizer permitirá a los principiantes crear experiencias de cliente de canales push y SMS que impulsen los resultados mediante la personalización. Analizaremos el uso y la personalización de los fragmentos.
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Capacidades de Journey Optimizer Mobile
 
@@ -37,7 +39,7 @@ Esta sesión introductoria para Adobe Journey Optimizer permitirá a los princip
 **Configuración de notificaciones push**
 
 * Definición de audiencias, programación y creación de notificaciones push con contenido y medios personalizados.
-* Uso de IA generativa, como Firefly, para crear imágenes personalizadas basadas en estilos de marca.
+* Utilizar IA generativa, como Firefly, para crear imágenes personalizadas basadas en estilos de marca.
 
 **Desarrollo y servicios de aplicaciones**
 

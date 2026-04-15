@@ -1,6 +1,7 @@
 ---
 title: 'Establecimiento de la confianza digital a escala: verificación de identidad y seguridad con Acrobat Sign'
 description: Descubra cómo Acrobat Sign mejora la confianza, el cumplimiento y la seguridad mediante firmas digitales, verificación de identidad global y soluciones preparadas para la regulación.
+feature: Sign
 topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3528
 last-substantial-update: 2026-03-30T00:00:00Z
 jira: KT-20657
-source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
+exl-id: c0911ab2-fb5a-4051-95d7-0052cdcea26c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Establecimiento de la confianza digital a escala: verificación de identidad y seguridad con Acrobat Sign
 

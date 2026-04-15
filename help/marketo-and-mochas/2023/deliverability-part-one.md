@@ -1,6 +1,8 @@
 ---
 title: 'Marketo y Mochas: Entrega (parte 1)'
 description: Únase a Marketo & Mochas para explorar las prácticas recomendadas de envío de correo electrónico con Sean Wirt y Cynthia Chang, lo que abarca la administración de la reputación, la calidad de los datos, las direcciones IP compartidas frente a dedicadas y una demostración del programa de envío en Marketo Engage.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: 4a21fc22-0bd0-46a2-9edb-bb3d1031ed79
 duration: 3537
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---

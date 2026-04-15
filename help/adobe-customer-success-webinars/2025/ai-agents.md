@@ -3,19 +3,20 @@ title: 'Agentes de IA en AEP: Información general'
 description: Descubra cómo los agentes de IA en Adobe Experience Platform impulsan la eficacia, admiten casos de uso reales y ofrecen un valor aplicado. Explore la visión, la hoja de ruta y cómo empezar.
 topic: Artificial Intelligence
 solution: Experience Platform
+feature: AI Assistant, Agentic AI, Audiences
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 2559
 last-substantial-update: 2025-10-01T00:00:00Z
 jira: KT-19310
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+exl-id: 2658c383-7957-4db6-807c-664a6bcd69fc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Agentes de IA en AEP: Información general
 
@@ -33,4 +34,3 @@ Adobe Experience Platform cuenta con varios agentes especializados, cada uno dis
 * **Agente de soporte técnico** optimiza la solución de problemas, la creación de tickets y el seguimiento de estado, aprovechando la documentación y los datos activos.
 
 Se accede a los agentes a través del asistente de IA, que coordina las tareas y garantiza una integración perfecta entre las soluciones de AEP. Estas herramientas impulsan la eficacia, reducen el esfuerzo manual y admiten decisiones de marketing más inteligentes.
-

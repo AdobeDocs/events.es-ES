@@ -2,19 +2,20 @@
 title: Descubra el nuevo Designer de correo electrónico en Marketo Engage
 description: Explore el nuevo diseñador de correo electrónico de Marketo Engage con los expertos en Adobe. Conozca las funciones, las prácticas recomendadas, las sugerencias, las estrategias de migración y mucho más para mejorar su marketing por correo electrónico.
 feature: Email Editor
+topic: Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3725
 last-substantial-update: 2025-04-02T00:00:00Z
 jira: KT-17621
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+exl-id: 8924f69c-0158-4962-b4a5-5d26f7b3c5f5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Descubra el nuevo Designer de correo electrónico en Marketo Engage
 

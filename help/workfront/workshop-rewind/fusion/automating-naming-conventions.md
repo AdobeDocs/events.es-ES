@@ -1,19 +1,21 @@
 ---
 title: 5 consejos para automatizar las convenciones de nomenclatura mediante Workfront Fusion
 description: Rebobinado de taller - Fusion
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19791
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 2%
 
 ---
-
 
 # 5 consejos para automatizar las convenciones de nomenclatura mediante Workfront Fusion
 
@@ -31,6 +33,6 @@ Tanto si acaba de empezar a usar Fusion como si busca ampliar sus automatizacion
 
 ## Recursos
 
-- [PDF de la diapositiva](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
+- [PDF de la plataforma deslizante](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
 - [Archivo zip](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) con material de seguimiento
 - Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.

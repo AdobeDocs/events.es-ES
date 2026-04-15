@@ -2,13 +2,15 @@
 title: El poder de la reutilización
 description: Analizaremos cómo utilizar fragmentos de experiencias para impulsar la reutilización y la eficacia en todo el ecosistema.  Esto afectará al retorno de la inversión y a la velocidad.  Los asistentes entenderán mejor cómo colocar y utilizar fragmentos de experiencias. Asistentes. aprenderá a aplicar esta función para mejorar la velocidad a la hora de impulsar la experiencia digital para sus clientes.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
 exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
 duration: 2437
-source-git-commit: ee04b99d756bdc6f7b460c91960fd49e501f57eb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

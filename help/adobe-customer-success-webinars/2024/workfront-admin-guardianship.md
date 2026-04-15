@@ -2,6 +2,8 @@
 title: Aspectos básicos de la tutela de administración de grupos y sistemas de Workfront
 description: Descubra las prácticas recomendadas para determinar el equilibrio adecuado entre los administradores de grupos y sistemas de Workfront, distribuir cargas de trabajo y mantener la integridad de los datos para escalar su empresa de forma eficiente y segura.
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Performance, Administration, Certification
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
 exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

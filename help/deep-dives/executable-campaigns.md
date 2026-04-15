@@ -1,6 +1,8 @@
 ---
 title: 'Campañas ejecutables: Descubra cómo los ejecutables pueden impulsar la eficacia y el impacto'
-description: Únase a Chris Willis, Courtny Edwards-Jones y Jane Musatova en esta inmersión en la categoría de campeones de Adobe para conocer cómo las campañas ejecutables en Marketo pueden agilizar los procesos, garantizar la precisión de los datos y automatizar flujos de trabajo complejos, con ejemplos prácticos y un enfoque en la minimización de errores y registros pendientes.
+description: Únase a Chris Willis, Courtny Edwards-Jones y Jane Musatova en esta inmersión profunda de campeones de Adobe para conocer cómo las campañas ejecutables en Marketo pueden optimizar los procesos, garantizar la precisión de los datos y automatizar flujos de trabajo complejos, con ejemplos prácticos y un enfoque en la minimización de errores y registros pendientes.
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ ht-degree: 0%
 
 ## Información general
 
-En esta edición del Adobe Champion Deep Dive, analizamos el uso de campañas ejecutables en Marketo y proporcionamos ejemplos de cómo se pueden utilizar para optimizar los procesos y garantizar la precisión de los datos. Las campañas ejecutables son un tipo de campaña inteligente que ejecuta flujos de forma sincrónica, lo que permite dependencias entre diferentes pasos. Se pueden utilizar para reintentar automáticamente los procesos fallidos, como la estandarización de datos o la calificación de posibles clientes, antes de pasar al siguiente paso. El documento también cubre el uso de campañas principales y ejecutables anidados, así como las limitaciones de las campañas ejecutables, como la incapacidad para utilizar webhooks o los pasos de espera.
+En esta edición de Adobe Champion Deep Dive, analizamos el uso de campañas ejecutables en Marketo y proporcionamos ejemplos de cómo se pueden utilizar para optimizar los procesos y garantizar la precisión de los datos. Las campañas ejecutables son un tipo de campaña inteligente que ejecuta flujos de forma sincrónica, lo que permite dependencias entre diferentes pasos. Se pueden utilizar para reintentar automáticamente los procesos fallidos, como la estandarización de datos o la calificación de posibles clientes, antes de pasar al siguiente paso. El documento también cubre el uso de campañas principales y ejecutables anidados, así como las limitaciones de las campañas ejecutables, como la incapacidad para utilizar webhooks o los pasos de espera.
 
 ## ¿Cuál es el propósito de utilizar campañas ejecutables?
 

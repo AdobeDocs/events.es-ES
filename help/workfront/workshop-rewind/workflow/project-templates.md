@@ -2,19 +2,20 @@
 title: Workfront Crowdsource Challenge - Plantillas de proyecto
 description: Descubra cómo Ologie optimiza las plantillas de proyectos de Adobe Workfront con consejos prácticos para simplificar la configuración, mejorar los informes y mantener la flexibilidad del proceso.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crowdsource Challenge: Plantillas de proyecto
 
@@ -24,8 +25,8 @@ Este taller se grabó el 8 de abril de 2025 y contó con la participación de Ro
 
 Junto con la grabación bajo demanda, hemos incluido la presentación con diapositivas y sugerencias que se compartieron en el chat:  
 
-* [PDF de plataforma de diapositivas](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=es)
+* [Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [Publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Sugerencias
 
@@ -39,4 +40,4 @@ Junto con la grabación bajo demanda, hemos incluido la presentación con diapos
 
 Uno de los temas más grandes que vimos en el chat fue el desafío de intentar mantener las plantillas de proyecto simples, pero al mismo tiempo rastrear el esfuerzo y garantizar que los equipos estén cumpliendo con todos los pasos necesarios para completar el proyecto.  
 
- Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?lang=es&filters=Workfront) en Experience League y registrarse.
+ Esperamos verlo en los futuros talleres de éxito del cliente.  No olvide consultar la lista completa de [Eventos de Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) en Experience League y registrarse.

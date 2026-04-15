@@ -1,8 +1,9 @@
 ---
 title: 'Una historia de dos percepciones: marcas frente a consumidores'
-description: El Adobe revela el nivel de comprensión y preparación de los anunciantes y editores para un futuro sin cookies, el impacto en sus casos de uso y su percepción del ecosistema en general.
+description: Adobe revela el nivel de comprensión y preparación de los anunciantes y editores para un futuro sin cookies, el impacto en sus casos de uso y su percepción del ecosistema en general.
 solution: Real-Time Customer Data Platform
 feature: Identities
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,16 +12,16 @@ kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
 duration: 2404
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '143'
+ht-degree: 9%
 
 ---
 
 # Una historia de dos percepciones: marcas frente a consumidores
 
-Hoy, los especialistas en marketing están enterrados en el desorden de información dedicada a las prácticas identitarias. Y solo el 37% de los profesionales del marketing dijeron que están muy preparados para un futuro sin cookies, según una reciente investigación de Adobe y [!DNL Advanis]. En este Adobe de seminario web se revela el nivel de comprensión y preparación de los anunciantes y editores para un futuro sin cookies, el impacto en sus casos de uso y su percepción del ecosistema en general.
+Hoy, los especialistas en marketing están enterrados en el desorden de información dedicada a las prácticas identitarias. Y solo el 37% de los profesionales de marketing dijo que están muy preparados para un futuro sin cookies, según una reciente investigación de Adobe y [!DNL Advanis]. En este seminario web, Adobe revela el nivel de comprensión y preparación de los anunciantes y editores para un futuro sin cookies, el impacto en sus casos de uso y su percepción del ecosistema en general.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 

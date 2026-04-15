@@ -1,9 +1,10 @@
 ---
 title: Consejos estratégicos y tácticos para migrar a AEM Cloud Service
-description: Migre a AEM Cloud Service AEM para obtener la mayor y más reciente oferta de servicios, migre las instancias de servicios locales y gestionados para que el Cloud Service obtenga una mejor comprensión y capacidad para vender internamente el valor de los enfoques de migración para administrar los riesgos y los costes de la migración y aprovechar de forma eficaz los esfuerzos existentes. Tácticas técnicas para realizar la migración de forma incremental cuando la tarea parece grande.
+description: Migre a AEM Cloud Service para obtener lo último y lo mejor que AEM tiene para ofrecer, migre las instancias de servicios locales y administrados a Cloud Service para obtener una mejor comprensión y capacidad para vender internamente el valor de los enfoques de migración para administrar los riesgos y los costes de la migración y aprovechar de forma eficaz los esfuerzos existentes. Tácticas técnicas para realizar la migración de forma incremental cuando la tarea parece grande.
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,16 +13,16 @@ jira: KT-14149
 thumbnail: 3424018.jpeg
 exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
 duration: 2515
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# AEM Evento de intercambio de habilidades de agosto de 2023 - Seguimiento del desarrollador de: consejos estratégicos y tácticos para migrar a AEM Cloud Service
+# Evento de intercambio de habilidades agosto de 2023: AEM Developer Track - Consejos estratégicos y tácticos para migrar a AEM Cloud Service
 
-Todos sabemos que deberíamos migrar a AEM Cloud Service AEM para obtener lo último y lo mejor que tiene que ofrecer, pero a menudo se puede sentir mucho más fácil decirlo que hacerlo. Los desafíos para migrar instancias de servicios locales y administrados a Cloud Service necesitan respuestas reales, y necesitamos saber que cuando lleguemos allí veremos valor. Los asistentes aparecerán con lo siguiente:
+Todos sabemos que deberíamos migrar a AEM Cloud Service para obtener lo último y lo mejor que AEM tiene para ofrecer, pero a menudo se puede sentir mucho más fácil decirlo que hacerlo. Los desafíos para migrar instancias de servicios locales y gestionados a Cloud Service necesitan respuestas reales, y tenemos que saber que cuando lleguemos allí, realmente veremos el valor. Los asistentes aparecerán con lo siguiente:
 
 * Una mejor comprensión y capacidad para vender internamente el valor de la migración
 * Enfoques para administrar los riesgos y los costes de la migración y aprovechar de forma eficiente los esfuerzos existentes

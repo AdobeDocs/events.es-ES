@@ -1,25 +1,27 @@
 ---
 title: Presentación de apertura de Customer Journey Analytics
 description: Explore habilidades esenciales como la fluidez contextual, la empatía y la narración para aumentar su impacto con Adobe Customer Journey Analytics.
+feature: Basics, Use Cases
+topic: Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 806
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18809
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 74c03cda-645e-4f93-a44f-b7f7fcaaa813
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Presentación de apertura de Customer Journey Analytics
 
 Presentación de apertura
 
->[!VIDEO](https://video.tv.adobe.com/v/3471127/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
 
 ## Desbloquear la excelencia de los analistas: habilidades esenciales
 

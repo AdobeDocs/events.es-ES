@@ -2,6 +2,7 @@
 title: 'Acrobat Sign 101: Introducción'
 description: Conozca los conceptos básicos de Acrobat Sign para empezar a firmar documentos rápidamente.
 feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,10 +10,10 @@ duration: 1623
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15292
 exl-id: 30be76bf-738d-4716-8de6-6f5387dbf905
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 12%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Conozca los conceptos básicos de Acrobat Sign para empezar a firmar documentos rápidamente. Le mostraremos cómo: Preparar y enviar sus documentos para su firma electrónica Ver lo que ven sus firmantes Administrar y realizar un seguimiento del progreso de los acuerdos Crear su propia firma y mucho más.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455468/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
 
 ## Puntos clave
 
@@ -29,6 +30,6 @@ Conozca los conceptos básicos de Acrobat Sign para empezar a firmar documentos 
 * Adobe Sign admite firmas electrónicas y digitales para flujos de trabajo de documentos y firmas.
 * El flujo de trabajo de un documento se puede establecer en &quot;firmar en orden&quot; para garantizar que los firmantes vayan en el orden correcto.
 * Se pueden añadir mensajes privados para participantes específicos mediante el icono de burbuja de conversación.
-* Los firmantes tienen opciones para leer el acuerdo, delegar la firma, rechazar la firma, ver el historial y descargar el PDF.
+* Los firmantes tienen opciones para leer el acuerdo, delegar la firma, rechazar la firma, ver el historial y descargar PDF.
 * Los remitentes pueden administrar los flujos de trabajo del acuerdo, ver transacciones, enviar recordatorios y acceder a documentos completados.
 * Adobe Sign actúa como un mecanismo de almacenamiento para todos los documentos firmados, pero es posible que los usuarios tengan sus propios métodos de archivado.

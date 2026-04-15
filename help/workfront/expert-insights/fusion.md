@@ -2,6 +2,7 @@
 title: Expert Insights - Fusión con Ewan Hruska
 description: Conozca las prácticas recomendadas de Fusion de Ewan Hruska. Descubra cómo documentar, optimizar y escalar flujos de trabajo con Adobe Workfront Fusion para aumentar la eficacia.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Ewan Hruska
 speaker-title-1: Senior Customer Success Architect
 speaker-company-1: Adobe
@@ -12,9 +13,9 @@ duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
 exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
-source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -23,23 +24,23 @@ ht-degree: 0%
 
 Bienvenido de nuevo a Expert Insights.  Soy Cynthia Boon, tu Workfront CSM &quot;On-Demand&quot;, y en este episodio, ¡nos acompaña Ewan Hruska! Él es verdaderamente un mágico, &quot;Caballero de la Fusión&quot; y comparte los beneficios de la Fusión junto con su experto consejo para sacar el máximo partido de la herramienta.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470019/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3469896/?learn=on&enablevpops)
 
 ## ¡Necesita su ayuda!
 
-Como Ewan mencionó en el vídeo, está trabajando en una guía de prácticas recomendadas de Fusion y le encantaría saber de usted.  Si utiliza Fusion para apoyar sus procesos, comparta sus consejos, recomendaciones y sugerencias en [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=es), y él tratará de incluir tantos como sea posible.
+Como Ewan mencionó en el vídeo, está trabajando en una guía de prácticas recomendadas de Fusion y le encantaría saber de usted.  Si utiliza Fusion para apoyar sus procesos, comparta sus consejos, recomendaciones y sugerencias en [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114), y él tratará de incluir tantos como sea posible.
 
 ## Consejo
 
 * Fusion es una representación visual de sus procesos. ¡La documentación es tu amiga! Hablando de documentación, guarde los detalles de cómo genera sus procesos.  Mejor aún, ¡vídese caminando a través de ellos!
 * Mida el esfuerzo y las horas de su trabajo repetitivo
-* La calculadora de ROI de Adobe Workfront que Ewan mencionó está adjunta a [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=es).
+* La calculadora de ROI de Adobe Workfront que Ewan mencionó está adjunta a [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114).
 * Utilice Fusion para resolver sus desafíos interfuncionales, ahorrar tiempo (y dinero) y evitar errores.
 
 ## Recursos
 
-* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=es)
-* [Información general sobre el vídeo de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=es)
+* [Lista de plantillas Fusion disponibles](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Información general sobre el vídeo de Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## Acerca del altavoz
 

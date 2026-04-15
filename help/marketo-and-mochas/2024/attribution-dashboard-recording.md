@@ -3,6 +3,7 @@ title: 'Marketo y Mochas: aspectos básicos de la grabación de paneles de atrib
 description: Únase a la asesora empresarial senior de Adobe, Cynthia Chang, y al asesor técnico, James Leedom, para asistir a una sesión exhaustiva sobre cómo dominar el modelo de atribución y los paneles de perspectivas de rendimiento (MPI) de Marketo, que abarca la configuración, el seguimiento de programas, la sincronización de datos y el impacto del marketing en los ingresos y la adquisición de clientes.
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---

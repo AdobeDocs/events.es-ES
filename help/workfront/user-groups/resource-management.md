@@ -1,15 +1,17 @@
 ---
 title: Administración de recursos (18 de mayo de 2021)
 description: Escuche a Samantha Isin compartir lo que está haciendo en Melaleuca con las herramientas de administración de recursos e informes de Workfront. También escuchar Aaron Behr, de VaynerMedia, ... (Las descripciones deben tener entre 60 y 160 caracteres)
+feature: Resource Management, Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
 exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
 duration: 4171
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

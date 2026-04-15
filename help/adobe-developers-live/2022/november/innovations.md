@@ -1,7 +1,8 @@
 ---
 title: 'Adobe Developers Live, 22 de noviembre: últimas innovaciones sin encabezado de Adobe Experience Manager para desarrolladores'
-description: Últimas innovaciones de Adobe Experience Manager sin encabezado para desarrolladoresLa oferta de productos sin encabezado de Adobe Experience Manager sigue evolucionando y mejorando, con API y otras innovaciones que proporcionan a los desarrolladores más herramientas para realizar tareas.En esta sesión, mostraremos cómo puede utilizar algunos de estos avances, incluido cómo administrar contenido sin encabezado mediante API e importar desde otras fuentes, y cómo crear consultas avanzadas de Graph QL que aprovechen la CDN para una entrega óptima.
+description: Últimas innovaciones sin encabezado de Adobe Experience Manager para desarrolladoresLa oferta de productos sin encabezado de Adobe Experience Manager sigue evolucionando y mejorando, con API y otras innovaciones que proporcionan a los desarrolladores más herramientas para hacer las cosas.En esta sesión, le mostraremos cómo puede utilizar algunos de estos avances, incluido cómo administrar contenido sin encabezado mediante API e importar de otras fuentes, y cómo crear consultas avanzadas de Graph QL que aprovechen la CDN para una entrega óptima.
 solution: Experience Manager,Experience Manager Sites
+feature: Release Information, Edge Delivery Services, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11483
 thumbnail: 3411304.jpeg
 exl-id: 7077c3ba-1a56-4715-a564-90fc4f4b2071
 duration: 2597
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

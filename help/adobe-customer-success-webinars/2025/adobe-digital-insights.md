@@ -2,6 +2,8 @@
 title: 'Perspectivas digitales de Adobe: Descubra los resultados de las vacaciones de 2024 y las tendencias de principios de 2025'
 description: Únase al seminario web de Adobe para obtener información sobre las tendencias de compras en las fiestas de 2024 y las previsiones de mercado de principios de 2025, explorar categorías de productos de alto crecimiento y conocer las prácticas recomendadas para crear experiencias de compra personalizadas mediante IA y tecnologías avanzadas.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Prepárese para desenvolver la temporada de vacaciones de 2024 con perspectivas 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Rendimiento de la temporada de vacaciones de 2024** En la temporada de vacaciones de 2024 hubo un crecimiento interanual del 8,7%, con un gasto récord de 241.400 millones de dólares, lo que contribuyó a un total de 1,05 billones de dólares en el año. Los factores clave incluyeron la sensibilidad a los precios, los canales sociales y de marketing y las compras móviles.
 

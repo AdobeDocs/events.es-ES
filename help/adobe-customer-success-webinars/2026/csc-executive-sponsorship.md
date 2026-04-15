@@ -1,6 +1,7 @@
 ---
 title: Establecimiento del patrocinio ejecutivo para impulsar el éxito a través del Supply chain de contenido
 description: Descubra cómo el patrocinio ejecutivo impulsa el éxito en el supply chain de contenido con estrategias prácticas para garantizar el apoyo del liderazgo y alinear los equipos.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
-
 
 # Establecimiento del patrocinio ejecutivo para impulsar el éxito a través del Supply chain de contenido
 

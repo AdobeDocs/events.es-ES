@@ -2,19 +2,21 @@
 title: Elementos destacados de Experience Makers
 description: Obtenga información sobre algunas funciones de Workspace que es posible que no utilice en sus proyectos Descubra cómo puede utilizar estas funciones para proporcionar perspectivas a usted y a los usuarios finales del proyecto de Workspace Obtenga algunos ejemplos de casos de uso que puede aplicar a los proyectos de Workspace de su organización.
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Elementos destacados de Experience Makers
 

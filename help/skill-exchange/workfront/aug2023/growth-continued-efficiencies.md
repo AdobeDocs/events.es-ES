@@ -3,6 +3,7 @@ title: Elementos destacados de Experience Makers - Prepárese para el crecimient
 description: Únase a nuestra sesión de Elementos destacados de Experience Makers para escuchar a tres organizaciones muy diferentes acerca de cómo han enfocado el crecimiento y la escala de sus instancias de Workfront.
 solution: Workfront
 feature: System Setup and Administration
+topic: Administration
 role: User, Admin
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14574
 thumbnail: 3425813.jpeg
 exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
 duration: 3081
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%

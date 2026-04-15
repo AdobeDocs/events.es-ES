@@ -2,19 +2,21 @@
 title: Home Sweet Home - Adaptación de las páginas principales de Workfront 101
 description: 'En esta sesión, aprenderá: Las posibilidades de la nueva página de inicio a través de las plantillas de diseño Cómo asignar diseños personalizados a usuarios y equipos Cómo simplificar la administración del trabajo con diseños de disposición de inicio intuitivos para diferentes casos de uso'
 solution: Workfront
+feature: System Setup and Administration
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 2681
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16105
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 533c3a8b-60d7-4f6c-ac1a-fcd9dda0d63a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Home Sweet Home: Personalización de las páginas principales de Workfront 101
 

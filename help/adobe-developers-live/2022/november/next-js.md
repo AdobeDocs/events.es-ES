@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live, 22 de noviembre. Incluya la creación en contexto y sin encabezado en su aplicación Next.JS
-description: Lleve la creación en contexto y sin encabezado a su AppNext.js de Next.JS proporciona una buena experiencia para desarrolladores para crear aplicaciones de React listas para la producción, especialmente con procesamiento híbrido estático y de servidor. Es un vehículo de envío perfecto para sitios con tecnología de Adobe Experience Manager. En esta sesión, le mostraremos cómo:Arrancar rápidamente una nueva aplicación Next.js que funcione con contenido de Adobe Experience ManagerUtilice el SDK editable de React para habilitar la edición en contextoRecuperar contenido de CMS sin encabezado de Adobe Experience Manager y procesarlo en la aplicación Next.js
+description: Lleve la creación en contexto y sin encabezado a su AppNext.js de Next.JS proporciona una buena experiencia para desarrolladores para crear aplicaciones de React listas para la producción, especialmente con procesamiento híbrido estático y de servidor. Es un vehículo de envío perfecto para sitios con tecnología de Adobe Experience Manager. En esta sesión, le mostraremos cómo:Arrancar rápidamente una nueva aplicación Next.js que funcione con contenido de Adobe Experience ManagerUse React Editable SDK para habilitar la edición en contextoRecuperar contenido de CMS sin encabezado de Adobe Experience Manager y procesarlo en la aplicación Next.js
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11482
 thumbnail: 3411303.jpeg
 exl-id: 0d4ceb27-5df8-49cc-86c6-ea078a1ff216
 duration: 2415
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ Next.js proporciona una buena experiencia de desarrollador para crear aplicacion
 En esta sesión, le mostraremos cómo:
 
 * Arranque rápidamente una nueva aplicación Next.js que funcione con contenido de Adobe Experience Manager
-* Utilice el SDK editable de React para habilitar la edición en contexto
-* Recupere contenido del CMS sin encabezado de Adobe Experience Manager y procese en la aplicación Next.js
+* Utilizar React Editable SDK para habilitar la edición en contexto
+* Recupere contenido de CMS sin encabezado de Adobe Experience Manager y procéselo en la aplicación Next.js
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411303/?quality=12&learn=on)

@@ -2,6 +2,7 @@
 title: 'Creative Edge: Cómo el pensamiento visionario está transformando Commerce'
 description: Este seminario web explora la integración de la creatividad y el comercio, mostrando cómo las herramientas y tecnologías de Adobe pueden ayudar a administrar los activos, escalar la creación de contenido y optimizar el contenido de supply chain. Explica la importancia de unir creatividad y comercio, y cubre temas como experiencias personalizadas, administración de recursos y uso de herramientas como Adobe Workfront, Adobe Experience Manager y Adobe Stock para optimizar el proceso de creación de contenido.
 solution: Commerce
+feature: Integration
 topic: Commerce
 role: Leader, User
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
 exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

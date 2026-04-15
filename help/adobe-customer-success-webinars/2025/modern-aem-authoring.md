@@ -3,19 +3,20 @@ title: Información general del editor universal para la creación moderna de Ad
 description: 'Explore el editor universal de AEM: casos de uso, compatibilidad con varias arquitecturas y consideraciones clave para simplificar la creación y mejorar la entrega de contenido.'
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
-
 
 # Editor universal: Información general estratégica para la creación moderna de AEM
 

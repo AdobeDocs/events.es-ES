@@ -2,6 +2,7 @@
 title: 'Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform'
 description: Klaasjan Tukker comparte perspectivas sobre datos, personalización, preparación de la organización y el papel de los asistentes de IA para acelerar la creación de experiencias. Aprenda cómo los profesionales pueden dominar la motivación, aprovechar la orquestación del agente y aumentar sus habilidades para mantenerse a la vanguardia.
 solution: Experience Platform, Customer Journey Analytics, Journey Optimizer, Real-Time Customer Data Platform
+feature: AI Assistant, Agentic AI, Audiences, Basics
 topic: Personalization, Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18846
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+exl-id: fe32abfa-2dfa-4d56-8f1c-c9dca734da28
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Presentación del intercambio de habilidades: el futuro de la creación de experiencias con IA, Adobe Experience Platform
 
@@ -31,4 +32,4 @@ Descubra cómo Adobe Experience Platform y la IA auténtica están remodelando l
 Aproveche estas perspectivas para optimizar sus flujos de trabajo, mejorar la personalización y afianzar su experiencia en la administración de experiencias digitales.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471358/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)

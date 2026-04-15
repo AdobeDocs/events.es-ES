@@ -1,20 +1,22 @@
 ---
-title: Agencias Creativas - Workfront Proof (11 de agosto de 2020)
+title: Agencias de Creative - Workfront Proof (11 de agosto de 2020)
 description: Escuche a Cindy Reichert hablar sobre cómo Brown-Forman aprovecha Workfront Proof.
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: User
 level: Beginner, Intermediate
 kt: 9999
 thumbnail: 341411.jpeg
 exl-id: 49e5bb0c-ffc5-4744-a272-4bba1c170fa7
 duration: 2358
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Agencias Creativas: Workfront Proof (11 de agosto de 2020)
+# Agencias de Creative: Workfront Proof (11 de agosto de 2020)
 
 Escuche a Cindy Reichert hablar sobre cómo Brown-Forman aprovecha Workfront Proof.
 

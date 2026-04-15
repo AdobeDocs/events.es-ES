@@ -3,23 +3,24 @@ title: Cuentos de 200 trincheras
 description: Garantice el éxito del proyecto web priorizando el rendimiento, utilizando Google PageSpeed Insights, optimizando métricas clave como LCP y TBT, administrando los recursos de forma eficiente y siguiendo las prácticas recomendadas para el desarrollo y la optimización de imágenes.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
-
 # Cuentos de 200 trincheras
 
-Con más de 200 proyectos de Edge Delivery Services completados, Kiran Murugulla, ingeniero sénior de Adobe, y Varun Mitra, arquitecto de Adobe Experience Manager Cloud, comparten las lecciones clave aprendidas. Descubra los secretos detrás de ofrecer experiencias rápidas y de alto rendimiento con elementos vitales web básicos excepcionales.
+Con más de 200 proyectos de Edge Delivery Services completados, Kiran Murugulla, ingeniero sénior de Adobe, y Varun Mitra, arquitecto de Adobe Experience Manager Cloud, comparten las lecciones clave aprendidas. Descubra los secretos detrás de la entrega de experiencias rápidas y de alto rendimiento con Core Web Vitals excepcional.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ Con más de 200 proyectos de Edge Delivery Services completados, Kiran Murugulla
 
 Continuar la conversación en la [discusión](https://adobe.ly/4fwWvvi) de la comunidad de Adobe Developers Live.
 
-## Puntos clave
+## Principales conclusiones
 
 * El rendimiento de **es crítico** El rendimiento, especialmente la velocidad de las páginas web, se destaca como un factor clave para que los proyectos web tengan éxito. Un objetivo principal es garantizar puntuaciones de rendimiento de 100.
 * **Prácticas de desarrollo**
@@ -50,4 +51,3 @@ Continuar la conversación en la [discusión](https://adobe.ly/4fwWvvi) de la co
    * Céntrese en el desarrollo con prioridad móvil.
    * Asegúrese de que la estructura del contenido sea intuitiva para los autores.
 * **Herramientas** Use herramientas como Hojas de cálculo de Google y DSA para rastrear las puntuaciones de rendimiento del sitio a lo largo del tiempo.
-

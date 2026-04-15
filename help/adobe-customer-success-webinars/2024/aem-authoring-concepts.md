@@ -4,6 +4,7 @@ description: La sesión de Conceptos básicos de creación de AEM abarcó concep
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3248
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16416
 exl-id: 5966c14a-7adb-48d8-bf20-9fb4a350745f
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -30,7 +31,7 @@ Descubra cómo AEM ofrece un entorno de creación sólido y flexible que admite 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435747/?learn=on)
 
-## Puntos clave
+## Principales conclusiones
 
 ### Conceptos básicos de creación de AEM
 
@@ -42,16 +43,16 @@ Comprender el modelo de entorno dual de AEM, que incluye el entorno de creación
 
 ### Retos de creación de contenido
 
-Reconocimiento de los desafíos para escalar la generación de contenido, como la creciente demanda de contenido, la necesidad de entrega de contenido omnicanal y la importancia de impulsar el ROI en el contenido. palo de golf
+Reconocimiento de los desafíos para escalar la generación de contenido, como la creciente demanda de contenido, la necesidad de entrega de contenido omnicanal y la importancia de impulsar el ROI en el contenido. &#x200B;
 
 ### Funciones de creación
 
 Información general sobre las distintas herramientas de creación de AEM,
 
-* **Editor de páginas**: editor tradicional de WYSIWYG para crear y editar páginas web. palo de golf
-* **Editor de fragmentos de contenido** para crear contenido sin encabezado que se pueda reutilizar en diferentes canales. palo de golf
-* **Editor universal**: Una interfaz de usuario moderna para la creación de contenido que admite contenido de AEM y contenido externo correctamente instrumentado. palo de golf
-* **Creación basada en documentos** Permite la creación de contenido mediante herramientas conocidas como Microsoft Word o Google Docs, integradas con flujos de trabajo de AEM. palo de golf
+* **Editor de páginas**: editor tradicional de WYSIWYG para crear y editar páginas web. &#x200B;
+* **Editor de fragmentos de contenido** para crear contenido sin encabezado que se pueda reutilizar en diferentes canales. &#x200B;
+* **Editor universal**: Una interfaz de usuario moderna para la creación de contenido que admite contenido de AEM y contenido externo correctamente instrumentado. &#x200B;
+* **Creación basada en documentos** Permite la creación de contenido mediante herramientas conocidas como Microsoft Word o Google Docs, integradas con flujos de trabajo de AEM. &#x200B;
 
 ### Funciones de colaboración
 

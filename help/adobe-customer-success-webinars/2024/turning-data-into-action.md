@@ -1,6 +1,8 @@
 ---
 title: 'El poder estratégico de la medición: convertir datos en acción'
 description: Las estrategias de medición eficaces generan confianza y empoderamiento al involucrar a las partes interesadas, garantizar la familiaridad de los datos y fomentar la confianza en la toma de decisiones, mientras que la confianza se establece a través de la transparencia, la gobernanza de los datos y la alineación de las partes interesadas, y el empoderamiento se logra a través de la capacitación, las herramientas accesibles y los datos procesables, todo lo cual contribuye a demostrar el valor del análisis a través del impacto empresarial y la eficiencia operativa.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Conozca los elementos esenciales para crear una estrategia de medición integral
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 **Estrategias de medición**
 

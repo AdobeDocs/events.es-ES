@@ -1,6 +1,8 @@
 ---
 title: Optimizar la tienda de Commerce
 description: Optimice su instancia de Commerce con consejos expertos de Adobe sobre mantenimiento, actividad de bots y administración de datos
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Vea cómo el asesor técnico de clientes de Adobe, Andrii Abumuslimov, dirige un
 * **Jeff McGuire**, un estratega de participación digital en Adobe
 * **Andre** es asesor técnico de clientes en Adobe, especializado en Adobe Commerce (anteriormente Magento)
 
-## Puntos clave
+## Principales conclusiones
 
 El seminario web se centra en optimizar las tiendas de comercio electrónico.
 Es interactivo, con una sesión de preguntas y respuestas al final.

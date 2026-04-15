@@ -2,6 +2,8 @@
 title: Analytics Crece el protagonismo de Experience Makers
 description: Únase a nosotros mientras destacamos a Andy Lunsford y Tyler Scott, dos clientes expertos y usuarios de Adobe Analytics. Cada uno compartirá su mejor consejo o truco sobre Adobe Analytics. Su sesión es seguida por una oportunidad de hacer preguntas en vivo. No te lo quieres perder.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ kt: 11533
 thumbnail: 3411896.jpeg
 exl-id: 66655de0-0a98-4b94-bc95-f86348d0d2de
 duration: 2731
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

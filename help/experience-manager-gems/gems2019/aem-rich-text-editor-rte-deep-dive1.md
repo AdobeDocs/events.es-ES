@@ -1,22 +1,24 @@
 ---
-title: AEM Análisis profundo del Editor de texto enriquecido (RTE)
-description: AEM Conozca las Prácticas recomendadas sobre las configuraciones enriquecidas y el uso de RTE en la. AEM Cubriremos los diferentes casos de uso, limitaciones, escollos, flujos de trabajo de configuración y pasos comunes de solución de problemas al utilizar RTE en la solución de problemas de la forma más sencilla y eficaz de los usuarios de la red de distribución de recursos También hablaremos de su arquitectura Command-Plugin y conceptos básicos como reglas HTML, núcleo y deserialización.
+title: Análisis profundo del Editor de texto enriquecido de AEM (RTE)
+description: Conozca las Prácticas recomendadas sobre las configuraciones enriquecidas y el uso de RTE en AEM. Cubriremos los diferentes casos de uso, limitaciones, escollos, flujos de trabajo de configuración y pasos comunes de solución de problemas al utilizar RTE en AEM. También hablaremos de su arquitectura Command-Plugin y conceptos básicos como reglas HTML, núcleo y deserialización.
+feature: Authoring
+topic: Development, Headless
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: d6ecba7f-e82b-4b26-9769-392449c9d070
 duration: 3186
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
-# AEM Análisis profundo del Editor de texto enriquecido (RTE){#aem-rich-text-editor-rte-deep-dive}
+# Análisis profundo del Editor de texto enriquecido de AEM (RTE){#aem-rich-text-editor-rte-deep-dive}
 
-AEM Conozca las Prácticas recomendadas sobre las configuraciones enriquecidas y el uso de RTE en la. AEM Cubriremos los diferentes casos de uso, limitaciones, escollos, flujos de trabajo de configuración y pasos comunes de solución de problemas al utilizar RTE en la solución de problemas de la forma más sencilla y eficaz de los usuarios de la red de distribución de recursos También hablaremos de su arquitectura Command-Plugin y conceptos básicos como reglas HTML, núcleo y deserialización.
+Conozca las Prácticas recomendadas sobre las configuraciones enriquecidas y el uso de RTE en AEM. Cubriremos los diferentes casos de uso, limitaciones, escollos, flujos de trabajo de configuración y pasos comunes de solución de problemas al utilizar RTE en AEM. También hablaremos de su arquitectura Command-Plugin y conceptos básicos como reglas HTML, núcleo y deserialización.
 
-## AEM Análisis profundo del Editor de texto enriquecido (RTE)
+## Análisis profundo del Editor de texto enriquecido de AEM (RTE)
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 

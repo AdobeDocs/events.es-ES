@@ -1,13 +1,15 @@
 ---
 title: Información general sobre la versión Adobe Experience Manager as a Cloud Service
 description: Obtenga información general rápida sobre las últimas funciones de Adobe Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 4d0f5c7de34d29e86eb0c3a875015508776e8e16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -31,8 +33,8 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440923/?learn=on&enablevpops&autoplay=true&captions=spa" title="Información general de la versión 2024.11.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456077/?format=jpeg&captions=spa" alt="Información general de la versión 2024.11.0 de AEM"
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="Información general de la versión 2024.11.0 de AEM" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="Información general de la versión 2024.11.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +111,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="Información general de la versión 2024.9.0 de AEM">Información general sobre la versión 2024.9.0 de AEM</a>
                     </p>
-                    <p class="is-size-6">Las funciones de esta versión se centran en las innovaciones de Experience Manager Assets y Cloud Service e incluyen las siguientes:AEM Assets: Mejora del selector de recursos para admitir colecciones​ Assets Content Hub: compatibilidad con DRM (recursos caducados y con licencia) AEM Cloud Service: compatibilidad con Cloud Manager para Edge Delivery​ Edge Side Includes (ESI)​ Autenticación básica​ Interactive AEM Developer Console</p>
+                    <p class="is-size-6">Las funciones de esta versión se centran en las innovaciones de Experience Manager Assets y Cloud Service e incluyen las siguientes:AEM Assets: Mejora del selector de recursos para admitir colecciones​ Assets Content Hub: compatibilidad con DRM (recursos caducados y con licencia) AEM Cloud Service: compatibilidad con Cloud Manager para Edge Delivery​ Edge Side Includes (ESI)​ Autenticación básica​ Interactive AEM</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más detalles</span>
@@ -145,7 +147,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="Información general de la versión 2024.7.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432543/?format=jpeg&nocache=1733938196066&captions=spa" alt="Información general de la versión 2024.7.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="Información general de la versión 2024.7.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +193,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="Información general de la versión 2024.5.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448065/?format=jpeg&nocache=1733938196089&captions=spa" alt="Información general de la versión 2024.5.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="Información general de la versión 2024.5.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +216,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="Información general de la versión 2024.4.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446308/?format=jpeg&nocache=1733938196102&captions=spa" alt="Información general de la versión 2024.4.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="Información general de la versión 2024.4.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +239,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="Información general de la versión 2024.3.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450610/?format=jpeg&nocache=1733938196095&captions=spa" alt="Información general de la versión 2024.3.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="Información general de la versión 2024.3.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +262,7 @@ Obtenga información general rápida sobre las últimas funciones de Adobe Exper
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="Información general de la versión 2024.1.0 de AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448932/?format=jpeg&nocache=1733938196099&captions=spa" alt="Información general de la versión 2024.1.0 de AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="Información general de la versión 2024.1.0 de AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

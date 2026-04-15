@@ -2,6 +2,8 @@
 title: Impulso de la participación de los clientes en el espacio Payers
 description: Descubra cómo AEM Forms revoluciona la participación de los clientes en el sector del seguro de salud al optimizar el procesamiento de reclamaciones y la inscripción de clientes, mejorando la conversión, la eficacia y el cumplimiento normativo.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -22,11 +24,11 @@ Explore una sesión reveladora que muestra cómo AEM Forms transforma la partici
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444127/?learn=on&enablevpops)
 
-## Puntos clave
+## Principales conclusiones
 
 * **Desafíos y oportunidades en el espacio del pagador** La industria de la atención médica enfrenta desafíos en la administración del crecimiento exponencial de la información y los formularios digitales, lo que conduce a ineficiencias y altos costos. Es necesario optimizar los procesos, reducir los costes y mejorar la participación de los clientes.
 
-* Las **capacidades de los formularios AEM Forms AEM** de la aplicación impulsan la eficacia operativa y las experiencias de usuario excepcionales al permitir a las organizaciones crear formularios a escala, automatizar flujos de trabajo y ofrecer experiencias omnicanal. Esto conlleva mayores tasas de conversión e inscripción, una reducción del abandono de formularios y un aumento de la productividad del equipo.
+* Las **capacidades de los formularios AEM Forms** AEM aumentan la eficiencia operativa y permiten que las organizaciones creen formularios a escala, automaticen flujos de trabajo y ofrezcan experiencias omnicanal. Esto conlleva mayores tasas de conversión e inscripción, una reducción del abandono de formularios y un aumento de la productividad del equipo.
 
 * **Solución integral** AEM Forms proporciona una solución integral que incluye formularios omnicanal, flujos de trabajo automatizados y comunicaciones interactivas con los clientes. La solución está integrada con Adobe Experience Cloud, lo que mejora la experiencia general del usuario y la eficacia operativa.
 

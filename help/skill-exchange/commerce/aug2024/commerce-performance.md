@@ -2,19 +2,21 @@
 title: 'Aumento del rendimiento de Adobe Commerce: del diagnóstico a la optimización'
 description: 'La optimización del rendimiento es crucial para garantizar una experiencia del cliente perfecta y maximizar la eficiencia de su sitio. Un sitio bien optimizado aumenta la satisfacción del cliente, aumenta las tasas de conversión y reduce los costes operativos. En esta sesión, exploraremos cómo utilizar herramientas de forma eficaz para identificar problemas de rendimiento y prácticas recomendadas para resolver problemas comunes. Puede esperar aprender: cómo utilizar SWAT y New Relic para diagnosticar y resolver problemas de rendimiento. Dificultades clave de rendimiento y cómo abordarlas de forma eficaz.'
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1751
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16084
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 1d3c3d78-7e78-4bd7-a0ce-07cbf5c6c30e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Aumento del rendimiento de Adobe Commerce: del diagnóstico a la optimización
 

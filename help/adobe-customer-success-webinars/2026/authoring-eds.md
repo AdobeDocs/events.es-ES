@@ -3,19 +3,20 @@ title: Creación en Edge Delivery Services
 description: Descubra estrategias de creación en Edge Delivery Services, comparando la creación basada en documentos y el editor universal con AEM Sites.
 solution: Experience Manager
 feature: Universal Editor, Edge Delivery Services
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3734
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20322
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 1afff015-5b4b-41cc-9b64-646f4ec02a4e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Creación en Edge Delivery Services
 
@@ -29,4 +30,3 @@ En este enfrentamiento de alto nivel, verá a la creación basada en documentos 
 * **Conozca a sus pistoleros** Comprenda los puntos fuertes, débiles y limitaciones centrales de la creación basada en documentos, los sitios de editor universal y la creación de documentos en el contexto de Edge Delivery Services.
 * **Elija el arma adecuada para la pelea correcta** Aprenda qué modelo de creación se ajusta a qué casos de uso (campañas, contenido permanente, sitios empresariales, experimentación, localización) y cómo alinearlos con las habilidades de sus equipos.
 * **Cómo el sheriff mantiene la paz** Vea cómo la creación de documentos puede actuar como el orquestador en todos los métodos de creación: aplicar la coherencia, optimizar los flujos de trabajo y permitirle elegir con seguridad las herramientas que necesita sin perder el control.
-

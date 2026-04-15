@@ -1,26 +1,27 @@
 ---
-title: Prácticas recomendadas para principiantes del PWA Studio
-description: Esta sesión es una introducción fácil de usar para principiantes a lo que PWA Studio tiene para ofrecer. Conozca las diferentes bibliotecas de PWA Studio y cómo puede utilizarlas de forma eficaz en sus proyectos de tienda. Únase a nosotros para ver ejemplos y demostraciones para ver lo fácil que es empezar y trabajar con PWA Studio.
+title: Prácticas recomendadas de PWA Studio para principiantes
+description: Esta sesión es una introducción sencilla a lo que PWA Studio tiene para ofrecer. Obtenga información acerca de las distintas bibliotecas de PWA Studio y cómo puede utilizarlas de forma eficaz en sus proyectos de tienda. Únase a nosotros para ver ejemplos y demostraciones para comprobar lo fácil que es empezar y trabajar con PWA Studio.
 solution: Commerce
 feature: Developer Tools
+topic: Commerce
 role: Developer, Architect
 level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
 duration: 1989
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '151'
+ht-degree: 23%
 
 ---
 
-# Prácticas recomendadas para principiantes del PWA Studio
+# Prácticas recomendadas de PWA Studio para principiantes
 
-Esta sesión es una introducción fácil de usar para principiantes a lo que PWA Studio tiene para ofrecer.
-Conozca las diferentes bibliotecas de PWA Studio y cómo puede utilizarlas de forma eficaz en sus proyectos de tienda.
-Únase a nosotros para ver ejemplos y demostraciones para ver lo fácil que es empezar y trabajar con PWA Studio.
+Esta sesión es una introducción sencilla a lo que PWA Studio tiene para ofrecer.
+Obtenga información acerca de las distintas bibliotecas de PWA Studio y cómo puede utilizarlas de forma eficaz en sus proyectos de tienda.
+Únase a nosotros para ver ejemplos y demostraciones para comprobar lo fácil que es empezar y trabajar con PWA Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337764/?quality=12&learn=on&hidetitle=true)
 

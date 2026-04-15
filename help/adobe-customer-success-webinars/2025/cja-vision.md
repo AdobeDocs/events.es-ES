@@ -2,19 +2,21 @@
 title: Arquitectura básica necesaria para activar el concepto de Adobe Customer Journey Analytics
 description: Descubra cómo una arquitectura NorthStar puede reducir la deuda técnica, optimizar la adopción de Adobe Customer Journey Analytics y admitir implementaciones de Adobe Experience Platform escalables y alineadas.
 solution: Customer Journey Analytics
+feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2988
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18661
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: 6c6f1d82-0d86-414c-843c-58d884830140
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # Arquitectura básica necesaria para activar el concepto de Adobe Customer Journey Analytics
 

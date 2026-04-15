@@ -2,19 +2,21 @@
 title: Impulso del éxito de CX con lienzo de Recorrido de Adobe Customer Journey Analytics
 description: Descubra cómo el lienzo de Recorrido ayuda a asignar rutas de usuario ideales frente a reales, a descubrir fricciones y a impulsar mejoras de CX mensurables con Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Impulso del éxito de CX con lienzo de Recorrido de Adobe Customer Journey Analytics
 
@@ -24,7 +26,7 @@ Los asistentes aprenderán a utilizar el análisis a nivel de recorrido para ide
 
 Por último, profundizaremos en estrategias para ampliar estas perspectivas en toda la organización conectando los resultados del lienzo de Recorrido con los paneles granulares, lo que permite la optimización continua en cada punto de contacto. Tanto si es su primera vez en CJA como si es un profesional experimentado, esta sesión le proporcionará una metodología clara para utilizar Lienzo de Recorrido con el fin de mejorar sus programas de CX e impulsar resultados tangibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471217/?learn=on&enablevpops&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Lienzo de recorrido: del análisis a la activación
 

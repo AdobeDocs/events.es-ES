@@ -2,19 +2,21 @@
 title: 'El enfoque moderno: extensibilidad efectiva en Adobe Commerce'
 description: Prácticas recomendadas para una personalización eficaz de Adobe Commerce sin modificaciones básicas La importancia de reducir la deuda técnica y evitar integraciones directas Cómo conectar Adobe Commerce con otros productos de Adobe para obtener un mejor rendimiento y experiencias del usuario
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # El enfoque moderno: extensibilidad efectiva en Adobe Commerce
 

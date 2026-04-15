@@ -1,30 +1,32 @@
 ---
 title: Introducción al análisis de Adobe Journey Optimizer en Customer Journey Analytics
-description: Esta sesión pretende mostrar la forma en la que Customer Journey Analytics y Adobe Journey Optimizer trabajan juntos para optimizar la medición de varias campañas y recorridos de Adobe Journey Optimizer.
+description: El objetivo de esta sesión es mostrar la forma en la que Customer Journey Analytics y Adobe Journey Optimizer trabajan juntos para optimizar la medición de varias campañas y recorridos de Adobe Journey Optimizer.
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
 # Introducción al análisis de Adobe Journey Optimizer en Customer Journey Analytics
 
-Esta sesión pretende mostrar la forma en la que Customer Journey Analytics y Adobe Journey Optimizer trabajan juntos para optimizar la medición de varias campañas y recorridos de Adobe Journey Optimizer.
+El objetivo de esta sesión es mostrar la forma en la que Customer Journey Analytics y Adobe Journey Optimizer trabajan juntos para optimizar la medición de varias campañas y recorridos de Adobe Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432996/?learn=on)
 
 Este seminario web muestra la integración y las capacidades de Agile Analytics en Adobe Journey Optimizer Analytics para ayudar a los usuarios a comprender el valor y las ventajas de utilizar estas herramientas en conjunto y obtener un análisis y una perspectiva más profundos.
 
-## Puntos clave
+## Principales conclusiones
 
 * La integración de Agile Analytics con Adobe Journey Optimizer Analytics permite realizar análisis y perspectivas más profundos combinando datos de diferentes fuentes para generar métricas más significativas.
 

@@ -2,14 +2,16 @@
 title: Fechas y plazos de los proyectos maestros
 description: Tanto si es un gestor de proyectos accidental como si está orientado al proceso, es fundamental tener una comprensión sólida de los plazos y las restricciones de fecha para planificar y ejecutar el trabajo en Workfront.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10310
 exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
 duration: 2200
-source-git-commit: 64c1e96ddb7688006d5bc0d376b1dadb2bbff492
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

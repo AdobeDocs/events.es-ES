@@ -4,14 +4,15 @@ description: Vea ejemplos del mundo real de la IA agéntica de Adobe en acción.
 kt: 120175
 solution: Experience Platform
 feature: Agentic AI
+topic: Artificial Intelligence, Security, Performance
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-03-03 09:00-8
 event-guests: Daniel Wright, Anjul Bhambhri, Gina Casagrande
 exl-id: 6482125f-0327-4947-bce4-113016b62c18
-source-git-commit: 6a6d2fa482ea04ebc595effbfd5d304fa23d84c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '1004'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +24,7 @@ Esta sesión exclusiva incluye una sesión de preguntas y respuestas con Anjul B
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-Para continuar la discusión sobre este programa o tema, visite la [discusión de la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926?profile.language=es){target="_blank"}
+Para continuar la discusión sobre este programa o tema, visite la [discusión de la comunidad de Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
 
 ## Preguntas del programa
 
@@ -67,7 +68,7 @@ Como mencionó Anjul, ¡lo antes posible! Puede obtener información sobre las f
 
 ### ¿Tendríamos modelos GPT en los agentes como mencionó Anjul?
 
-Consulte esta documentación: https://experienceleague.adobe.com/es/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulte esta documentación: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### El trabajo con el servidor MCP de AEM está componiendo el valor de estos agentes. ¿Son también una opción las opciones de la comunidad de servidores MCP que ofrecen una cobertura específica (como la administración de la configuración OSGi o el análisis de registros)?
 
@@ -75,7 +76,7 @@ Adobe está explorando las habilidades de agente y un servidor MCP local para la
 
 ### Por favor, ¿podrías demostrar cómo usar a los agentes de los recursos que acabas de mencionar, Anjul?
 
-Consulte esta documentación: https://experienceleague.adobe.com/es/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulte esta documentación: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### ¿Puedo usar agentes de en CJA para explicar los resultados de las ofertas, por ejemplo?
 
@@ -83,7 +84,7 @@ Data Insights Agent puede ayudar a los usuarios a explicar los resultados en CJA
 
 ### ¿Puedes mostrarnos en otro episodio cómo te integrarías con ChatGPT, Perplexity, Claude, Gemini, etc.?
 
-Consulte esta documentación: https://experienceleague.adobe.com/es/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+Consulte esta documentación: https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
 
 ### Nuestros conjuntos de datos back-end de 4 años siguen estándares de formato limpio y admiten operaciones BAU de forma eficaz, pero no trabajan con el agente de IA. ¿Qué debemos hacer? ¿Necesitamos rediseñar nuestros conjuntos de datos?
 

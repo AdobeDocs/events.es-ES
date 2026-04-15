@@ -2,6 +2,7 @@
 title: 'Adobe Developers Live, 23 de noviembre: Desglose sin encabezado 3'
 description: Iryna Lagno y Valerii Naida presentan un enfoque innovador para la gestión de contenido en Adobe Experience Manager en esta sesión grabada en directo el 6 de noviembre de 2023. Aprenda a integrar fuentes de datos externas como la API de Google Places en fragmentos de contenido y a descubrir la API de datos de lienzo y los elementos de interfaz de usuario personalizados. Esta sesión ofrece conocimientos prácticos para desarrolladores y administradores de contenido que buscan optimizar los flujos de trabajo e introducir elementos impulsados por datos en sus estrategias de contenido.
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ jira: KT-14426
 thumbnail: 3425626.jpeg
 exl-id: ab6122f0-91d6-4aee-84fa-95f8c3610cfe
 duration: 1820
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

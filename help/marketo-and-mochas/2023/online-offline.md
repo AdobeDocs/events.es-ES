@@ -1,7 +1,9 @@
 ---
 title: Canales en línea frente a canales sin conexión
-description: Únase a los asesores comerciales de automatización de marketing de Adobe, Kate Colbert y Elizabeth Lundberg, para una sesión exhaustiva de 90 minutos sobre la optimización de canales en línea y sin conexión con Marketo Measure Attribution, que incluye configuraciones estratégicas, prácticas recomendadas y preguntas y respuestas en directo.
+description: Únase a los asesores comerciales de automatización de marketing de Adobe, Kate Colbert y Elizabeth Lundberg, para asistir a una sesión exhaustiva de 90 minutos sobre la optimización de canales en línea y sin conexión con Marketo Measure Attribution, que incluye configuraciones estratégicas, prácticas recomendadas y preguntas y respuestas en directo.
 solution: Marketo Measure
+feature: Touchpoints, Channels
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
