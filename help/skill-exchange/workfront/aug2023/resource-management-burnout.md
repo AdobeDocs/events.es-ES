@@ -31,4 +31,4 @@ En esta sesión, Tia Calvert, Product Manager, y Erin Kuchera, Creative Operatio
 * Cómo incorporar el tiempo de espera en el seguimiento
 * Ejemplos de cómo Mayo Clinic usa Analytics y Resource Manager para dar transparencia a los equipos y planificar el nuevo trabajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457099/?captions=spa&learn=on)

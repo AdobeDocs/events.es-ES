@@ -30,7 +30,7 @@ ht-degree: 0%
 * Nuevas herramientas de optimización como Sites Optimizer y el Asesor de contenido para una mejor participación y conversión.
 * Escalar la personalización de uno a uno de forma segura y eficaz.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471399/?captions=spa&learn=on&enablevpops)
 
 
 ## Desbloquear el futuro de las experiencias de contenido

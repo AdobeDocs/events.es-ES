@@ -31,7 +31,7 @@ En este seminario web, aprenderá lo siguiente:
 * Configuración de un modelo de puntuación de persona transparente y escalable
 * La mejor manera de implementar esto en Marketo Engage, permite la flexibilidad del mercado local y mantiene el modelo lógico y coherente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457442/?captions=spa&learn=on)
 
 ## Recursos compartidos en el seminario web
 

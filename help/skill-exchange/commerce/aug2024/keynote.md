@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Presentación de apertura de Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453943/?captions=spa&learn=on)

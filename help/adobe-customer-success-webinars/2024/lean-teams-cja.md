@@ -22,7 +22,7 @@ ht-degree: 1%
 
 El seminario web mostrará cómo la integración de estos conceptos puede impulsar la eficiencia, mejorar las experiencias de los clientes y apoyar la toma de decisiones basada en datos dentro de las organizaciones.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457011/?captions=spa&learn=on)
 
 ## Principales conclusiones
 

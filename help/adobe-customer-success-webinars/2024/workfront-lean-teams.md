@@ -28,7 +28,7 @@ Estrategias perspicaces y enfoques prácticos para las organizaciones con el obj
 * Uso de Workfront para apoyar la gestión de proyectos lean
 * Aprendizaje y adaptación continuos
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456709/?captions=spa&learn=on)
 
 ## Resumen de reunión
 

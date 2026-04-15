@@ -32,7 +32,7 @@ Imagine comenzar su lunes con una avalancha de solicitudes de administración ur
 * Automatización de la creación de la cuenta en Admin Console con Fusion
 * Actualización de detalles adicionales del perfil de Workfront con Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471574/?captions=spa&learn=on&enablevpops)
 
 ## Prácticas recomendadas para administradores y escalado
 

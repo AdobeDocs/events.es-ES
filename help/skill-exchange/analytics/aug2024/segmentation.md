@@ -28,4 +28,4 @@ Los segmentos en Adobe Analytics pueden ser muy potentes, pero con esa potencia 
 * El poder de la lógica de exclusión
 * Elección correcta de la configuración
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456932/?captions=spa&learn=on)

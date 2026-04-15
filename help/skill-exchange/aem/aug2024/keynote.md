@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Presentación de apertura de Adobe Experience Manager
 
->[!VIDEO](https://video.tv.adobe.com/v/3433161/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454960/?captions=spa&learn=on)

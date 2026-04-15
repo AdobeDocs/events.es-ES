@@ -22,4 +22,4 @@ ht-degree: 0%
 
 El segmento &quot;Introducción&quot; de Skill Exchange está diseñado para aquellos que recién comienzan con Adobe Analytics. Al final de la sesión, los espectadores deben comprender mejor la terminología y las herramientas de Adobe Analytics, así como una introducción a nivel de principiante a las principales funciones de Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480565/?captions=spa&learn=on)

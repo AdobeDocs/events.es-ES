@@ -29,4 +29,4 @@ Esta sesión proporciona una comprensión básica de tres aspectos esenciales de
 * Navegación fácil de usar para una experiencia de sitio óptima
 * Establecimiento de las bases de SEO en AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464318/?captions=spa&learn=on&enablevpops)

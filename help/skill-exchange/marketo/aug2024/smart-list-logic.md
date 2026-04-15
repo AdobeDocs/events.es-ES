@@ -28,4 +28,4 @@ Las campañas inteligentes son los potentes motores que impulsan la magia de la 
 * Una profundización en los cuatro niveles de lógica para configurar y personalizar las audiencias
 * Trucos para solucionar problemas de lógica y comprobar que se ha dirigido correctamente a la audiencia objetivo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457301/?captions=spa&learn=on)

@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Presentado por Kam Radhakrishnan, ingeniero de soluciones sénior - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455314/?captions=spa&learn=on)
 
 [&lt; Volver a Adobe Commerce Accelerator Day](./overview.md)

@@ -27,4 +27,4 @@ Aproveche y active su estrategia de recopilación de datos para proporcionar una
 * Descripción general de arquitectura de alto nivel
 * Consideraciones para la recopilación de datos y estrategia de activación
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456227/?captions=spa&learn=on)

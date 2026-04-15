@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Llamar a todos los administradores de Acrobat Sign, usuarios finales o colaboradores individuales. Esta sesión abarca la creación y el uso de flujos de trabajo. Como administrador de cuentas o de grupos de Acrobat Sign, puede definir flujos de trabajo predefinidos para enviar automáticamente documentos para su firma a las partes correctas y, a continuación, conceder acceso a todo el grupo de Acrobat Sign. Y como usuario final, aprenda a utilizar estos flujos de trabajo para asegurarse de que los documentos se firmen correctamente la primera vez, y cada vez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454903/?captions=spa&learn=on)
 
 ## Temas tratados
 

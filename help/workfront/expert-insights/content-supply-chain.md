@@ -32,7 +32,7 @@ Core es un CSM verdaderamente estratégico que marca el paso para nosotros en c�
 * Comience por identificar los puntos de pintura de proceso y vaya desde allí. No deje que la tecnología supere el objetivo.
 * Conéctese con otros clientes que tengan un recorrido similar en la comunidad o en los eventos. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469997/?captions=spa&learn=on&enablevpops)
 
 ## Recursos
 

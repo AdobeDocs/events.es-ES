@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Presentación de apertura
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471127/?captions=spa&learn=on&enablevpops)
 
 ## Desbloquear la excelencia de los analistas: habilidades esenciales
 

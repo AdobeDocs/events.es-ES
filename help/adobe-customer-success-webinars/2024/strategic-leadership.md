@@ -27,4 +27,4 @@ Adquirir las tácticas para lograr efectivamente los objetivos organizacionales 
 - Establecer el rumbo para el éxito a largo plazo
 - Impulsar iniciativas estratégicas de forma eficaz
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456786/?captions=spa&learn=on)

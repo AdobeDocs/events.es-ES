@@ -27,7 +27,7 @@ En esta sesión centrada en el profesional, Carol Thomas-Knipes, vicepresidenta 
 
 Juntos, analizaron cómo trasladaron equipos de usos esporádicos y configuraciones ad hoc a procesos repetibles impulsados por insight que son más fáciles de mantener, escalar y evolucionar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483203/?captions=spa&learn=on&enablevpops)
 
 ## Puntos clave
 
