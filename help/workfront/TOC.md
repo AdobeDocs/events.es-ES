@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 1%
       + [Patrocinio ejecutivo seguro](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [Autodidacta para el éxito](workshop-rewind/workflow/self-taught-to-success.md)
       + [Limpieza de primavera con informes de Workfront](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Equipo de uno](workshop-rewind/workflow/team-of-one.md)
       + [10 consejos de comunicación](workshop-rewind/workflow/10-communication-tips.md)
       + [10 consejos del modo de texto](workshop-rewind/workflow/text-mode-tips.md)
       + [10 consejos más sobre el modo texto](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 1%
          + [Las 3 mejores funciones para los trabajadores de Workfront](quick-takes/top3/watch-me-work-3.md)
    + ¡Versus! {#versus}
       + [Grupos vs. Equipos](quick-takes/versus/groups-vs-teams.md)
+      + [Problemas y proyectos](quick-takes/versus/issues-vs-projects.md)
 + Expert Insights {#expert-insights}
    + [Adopción](expert-insights/adoption.md)
    + [Encuestas de adopción](expert-insights/adoption-surveys.md)
