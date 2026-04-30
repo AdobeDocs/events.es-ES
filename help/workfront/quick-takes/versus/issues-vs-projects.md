@@ -23,9 +23,9 @@ ht-degree: 9%
 
 ¿Quiere obtener más información sobre la administración del trabajo con problemas, Forms personalizado y plantillas de proyecto? Consulte más recursos:
 
-* Vea cómo un cliente administra su trabajo en acción con [Plantillas avanzadas: Cómo IDEXX reconfiguró las plantillas de proyecto para el éxito global](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates).
+* Vea cómo un cliente administra su trabajo en acción con [Plantillas avanzadas: Cómo IDEXX reconfiguró las plantillas de proyecto para el éxito global](https://experienceleague.adobe.com/es/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates).
 * No importa tus preferencias, aprende a [crear informes personalizados para la administración de problemas](https://experienceleague.adobe.com/es/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) como un profesional.
 
-¿Te interesan las nuevas ideas y enfoques? Regístrese en nuestros próximos talleres en nuestra [página de eventos de Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront). ¡Esperamos verte pronto!
+¿Te interesan las nuevas ideas y enfoques? Regístrese en nuestros próximos talleres en nuestra [página de eventos de Experience League](https://experienceleague.adobe.com/es/events?filters=Workfront). ¡Esperamos verte pronto!
 
 
