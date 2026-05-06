@@ -56,7 +56,7 @@ El mes de mayo marca el comienzo de la temporada de graduación, un tiempo para 
 
 ¿Busca más? Explore las últimas novedades de su comunidad de Adobe Workfront a través de nuestra selección revisada de eventos bajo demanda. Utilice el menú de navegación de la izquierda para examinar los temas que aparecen en Rebobinado de taller, donde las sesiones se agrupan por Fusión, Planificación y Flujo de trabajo para ayudarle a encontrar rápidamente contenido adaptado a sus necesidades.
 
-Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
+Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/es/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
 
 <!-- CARDS 
 
