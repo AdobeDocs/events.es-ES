@@ -29,7 +29,7 @@ ht-degree: 0%
 
 [Haga clic aquí para descargar la presentación de la sesión.](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481548/?captions=spa&learn=on&enablevpops)
 
 * Cómo Adobe Experience Manager Dynamic Media permite la distribución inteligente de medios mediante la configuración de perfil, representaciones inteligentes y optimización en tiempo real.
 * Cómo activar Dynamic Media a través de los componentes principales de AEM y ampliar su potencia en toda la empresa mediante las API abiertas de Dynamic Media.
