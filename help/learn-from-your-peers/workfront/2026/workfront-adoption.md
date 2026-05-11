@@ -1,6 +1,6 @@
 ---
 title: 'Configuración de la adopción sostenible de Workfront: de la arquitectura al uso diario'
-description: Descubra estrategias para la adopción sostenible de Workfront, incluidos el control, las plantillas, la automatización y la participación del usuario para el éxito a largo plazo.
+description: Descubra estrategias para la adopción sostenible de Adobe Workfront, incluidos el control, las plantillas, la automatización y la participación del usuario para el éxito a largo plazo.
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,9 +12,9 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ En esta sesión centrada en el profesional, Carol Thomas-Knipes, vicepresidenta 
 
 Juntos, analizaron cómo trasladaron equipos de usos esporádicos y configuraciones ad hoc a procesos repetibles impulsados por insight que son más fáciles de mantener, escalar y evolucionar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483203/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
 
 ## Puntos clave
 
