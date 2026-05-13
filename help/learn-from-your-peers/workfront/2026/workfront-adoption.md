@@ -10,9 +10,9 @@ duration: 9
 last-substantial-update: 2026-04-08T00:00:00Z
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: c2e4b1ad02e11c18f37a06caaad4034aff15a7d2
+source-git-commit: a205e6f38f29aa6fa18366e4082793c570ba1e43
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,9 @@ En esta sesión centrada en el profesional, Carol Thomas-Knipes, vicepresidenta 
 
 Juntos, analizaron cómo trasladaron equipos de usos esporádicos y configuraciones ad hoc a procesos repetibles impulsados por insight que son más fáciles de mantener, escalar y evolucionar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483203/?captions=spa&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
+
+[Descargar las diapositivas](../../assets/workfront/adoption-wheel-may-13-2026.pdf)
 
 ## Puntos clave
 
