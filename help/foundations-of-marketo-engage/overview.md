@@ -2,7 +2,7 @@
 title: Fundamentos de Marketo Engage
 description: Únase al grupo de usuarios de Foundational Marketo para fomentar la confianza y las habilidades principales en Adobe Marketo Engage mediante sesiones de apoyo fáciles de iniciar.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -15,7 +15,8 @@ El grupo de usuarios de Foundation Marketo está diseñado específicamente para
 
 ## Sesiones de 2026
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -53,7 +54,8 @@ El grupo de usuarios de Foundation Marketo está diseñado específicamente para
 
 ## Sesiones de 2025
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

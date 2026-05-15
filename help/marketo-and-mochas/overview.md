@@ -3,20 +3,21 @@ title: Marketo y Mochas
 description: Marketo On-Demand Events es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Adobe Marketo de la mejor manera posible.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
 # Marketo y Mochas
 
-Bienvenido a las grabaciones de Marketo y Mochas. Con estos recursos, combinados con la [documentación](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=es) y los [tutoriales](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=es) de Adobe Marketo, obtendrá una mejor comprensión sobre cómo usar Adobe Marketo para apoyar su negocio.
+Bienvenido a las grabaciones de Marketo y Mochas. Con estos recursos, combinados con la [documentación](https://experienceleague.adobe.com/docs/marketo-engage.html) y los [tutoriales](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) de Adobe Marketo, obtendrá una mejor comprensión sobre cómo usar Adobe Marketo para apoyar su negocio.
 
 ## Grabaciones de 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ Bienvenido a las grabaciones de Marketo y Mochas. Con estos recursos, combinados
 
 ## Grabaciones de 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -351,7 +353,8 @@ Bienvenido a las grabaciones de Marketo y Mochas. Con estos recursos, combinados
 
 ## Grabaciones de 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md

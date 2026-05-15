@@ -2,7 +2,7 @@
 title: seminarios web de Acrobat Sign
 description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: 23f0005edc68e39508f2435c5e633e9eb82456de
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '864'
 ht-degree: 1%
@@ -16,7 +16,8 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
 
 ## Seminarios web de versiones {#releases}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -101,7 +102,8 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
 
 ## Innovación: nuevas características destacadas {#newfeatures}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -163,7 +165,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Optimización de la firma electrónica móvil con Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477535/?captions=spa&format=jpeg&nocache=1778006131905" alt="Optimización de la firma electrónica móvil con Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1778006131905" alt="Optimización de la firma electrónica móvil con Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +188,8 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
 
 ## 101: Introducción para usuarios {#getstartedusers}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -205,7 +208,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101: Introducción" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455468/?captions=spa&format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101: Introducción"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101: Introducción"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -228,7 +231,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="Formación avanzada sobre el entorno de creación" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455900/?captions=spa&format=jpeg&nocache=1778006132196" alt="Formación avanzada sobre el entorno de creación"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1778006132196" alt="Formación avanzada sobre el entorno de creación"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +254,8 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
 
 ## 101: Introducción para administradores {#getstartedadmins}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -313,7 +317,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Informes avanzados para Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454408/?captions=spa&format=jpeg&nocache=1778006132401" alt="Informes avanzados para Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1778006132401" alt="Informes avanzados para Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,7 +340,8 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
 
 ## 102 - Tareas avanzadas {#advancedtasks}
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -354,7 +359,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="Sugerencias avanzadas para enviar documentos para su firma" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454882/?captions=spa&format=jpeg&nocache=1778006132755" alt="Sugerencias avanzadas para enviar documentos para su firma"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1778006132755" alt="Sugerencias avanzadas para enviar documentos para su firma"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -377,7 +382,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="Recopilar muchas firmas con un solo clic" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454894/?captions=spa&format=jpeg&nocache=1778006132752" alt="Recopilar muchas firmas con un solo clic"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1778006132752" alt="Recopilar muchas firmas con un solo clic"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -400,7 +405,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Document Builder para Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454916/?captions=spa&format=jpeg&nocache=1778006132748" alt="Document Builder para Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1778006132748" alt="Document Builder para Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -423,7 +428,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="Publicar un formulario web que se puede rellenar y firmar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455448/?captions=spa&format=jpeg&nocache=1778006132737" alt="Publicar un formulario web que se puede rellenar y firmar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1778006132737" alt="Publicar un formulario web que se puede rellenar y firmar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -446,7 +451,7 @@ Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454927/?captions=spa&format=jpeg&nocache=1778006132743" alt="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1778006132743" alt="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -3,9 +3,9 @@ title: Talleres a petición de Adobe Workfront
 description: Eventos de Workfront es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Workfront para mejorar el trabajo que se realiza para sus organizaciones.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '949'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 Esta serie de vídeos continuos ofrece una visión general clara y concisa de cada versión trimestral de Adobe Workfront. Tanto si es un administrador de sistemas, un usuario avanzado o simplemente tiene curiosidad por conocer las novedades, estas sesiones están diseñadas para ayudarle a mantenerse informado y seguro sobre las últimas actualizaciones. En colaboración con el equipo de Administración de productos de, estos eventos destacan las funciones clave, las mejoras de funcionalidad y las sugerencias para comprender rápidamente qué está cambiando y cómo pueden beneficiar estos cambios a su organización.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -56,9 +57,10 @@ El mes de mayo marca el comienzo de la temporada de graduación, un tiempo para 
 
 ¿Busca más? Explore las últimas novedades de su comunidad de Adobe Workfront a través de nuestra selección revisada de eventos bajo demanda. Utilice el menú de navegación de la izquierda para examinar los temas que aparecen en Rebobinado de taller, donde las sesiones se agrupan por Fusión, Planificación y Flujo de trabajo para ayudarle a encontrar rápidamente contenido adaptado a sus necesidades.
 
-Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/es/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
+Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -149,7 +151,8 @@ Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, 
 
 Tanto si es un administrador de Workfront, un administrador de proyectos o un usuario habitual, esta sección le ofrece una guía clara y concisa para ayudarle a tomar decisiones más inteligentes, optimizar su configuración y sacar más partido de Workfront, todo ello de forma rápida.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -162,7 +165,7 @@ Tanto si es un administrador de Workfront, un administrador de proyectos o un us
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Los 3 enfoques principales en horario de oficina" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470145/?captions=spa&format=jpeg&nocache=1778106659577" alt="Los 3 enfoques principales en horario de oficina"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Los 3 enfoques principales en horario de oficina"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +216,8 @@ La serie de Workfront Expert Insights es su recurso de consulta para desbloquear
 
 Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos procesables diseñados para ayudar a los usuarios de Workfront en todos los niveles a optimizar su configuración, escalar las operaciones y obtener más valor de la plataforma. Tanto si desea solucionar un desafío específico como si desea generar ideas para la innovación, Workfront Expert Insights ofrece una visión entre bastidores de cómo lo hacen los expertos.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md
@@ -227,7 +231,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights: Supply chain de contenido con Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469997/?captions=spa&format=jpeg&nocache=1778106659855" alt="Expert Insights: Supply chain de contenido con Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights: Supply chain de contenido con Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +254,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Expert Insights - Fusión con Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470019/?captions=spa&format=jpeg&nocache=1778106659859" alt="Expert Insights - Fusión con Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Expert Insights - Fusión con Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +277,7 @@ Estas sesiones incluyen soluciones reales, ejemplos de clientes y procedimientos
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470008/?captions=spa&format=jpeg&nocache=1778106659848" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

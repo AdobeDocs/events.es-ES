@@ -3,10 +3,10 @@ title: Seminarios web de éxito del cliente de Adobe
 description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: ca06e9b63d48f1b1a098b7947223ed230dde796f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '6855'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Customer Journey Analytics
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -56,7 +57,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/unlock-identities.md" title="Recorridos sin problemas: desbloqueo de identidad con CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480155/?captions=spa&format=jpeg&nocache=1776280343105" alt="Recorridos sin problemas: desbloqueo de identidad con CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480150/?format=jpeg&nocache=1776280343105" alt="Recorridos sin problemas: desbloqueo de identidad con CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +80,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Experience Manager
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -143,7 +145,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Maximizar las cadenas de suministro de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479089/?captions=spa&format=jpeg&nocache=1776280343944" alt="Maximizar las cadenas de suministro de contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1776280343944" alt="Maximizar las cadenas de suministro de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -166,7 +168,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="Modelos de envío modernos para AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478778/?captions=spa&format=jpeg&nocache=1776280343959" alt="Modelos de envío modernos para AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1776280343959" alt="Modelos de envío modernos para AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -235,7 +237,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Experience Platform
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -272,7 +275,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### General
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -314,7 +318,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/csc-change-management.md" title="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479820/?captions=spa&format=jpeg&nocache=1776280344788" alt="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1776280344788" alt="Sesión 5 de VRA: Estrategias de administración de cambios para utilizar el Supply chain de contenido"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -429,7 +433,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Workfront
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -468,7 +473,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Commerce
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -529,7 +535,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Customer Journey Analytics
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -574,7 +581,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470857/?captions=spa&format=jpeg&nocache=1776280346044" alt="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1776280346044" alt="Creación del patrocinio ejecutivo para apoyar el éxito de Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -620,7 +627,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-shared-audiences.md" title="Creación de ofertas en 30 minutos con CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477459/?captions=spa&format=jpeg&nocache=1776280346020" alt="Creación de ofertas en 30 minutos con CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1776280346020" alt="Creación de ofertas en 30 minutos con CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -758,7 +765,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Experience Manager {#AEM2025}
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -970,7 +978,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Dominio de AEM Sites: plantillas, navegación y SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464318/?captions=spa&format=jpeg&nocache=1776280346714" alt="Dominio de AEM Sites: plantillas, navegación y SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1776280346714" alt="Dominio de AEM Sites: plantillas, navegación y SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1131,7 +1139,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Experience Platform
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1173,7 +1182,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="Asistente de IA: más allá de lo básico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463361/?captions=spa&format=jpeg&nocache=1776280347348" alt="Asistente de IA: más allá de lo básico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1776280347348" alt="Asistente de IA: más allá de lo básico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1288,7 +1297,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### GenStudio for Performance Marketing
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1302,7 +1312,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472982/?captions=spa&format=jpeg&nocache=1776280347801" alt="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1776280347801" alt="Explicación del contenido de Supply chain y Adobe GenStudio as a Product Suite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1348,7 +1358,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Journey Optimizer
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1528,7 +1539,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Marketo
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1565,7 +1577,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Varias soluciones
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1677,7 +1690,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Experimentación GenAI en AJO y su relación con Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444462/?captions=spa&format=jpeg&nocache=1776280348863" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1776280348863" alt="Experimentación GenAI en AJO y su relación con Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1746,7 +1759,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Target
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1783,7 +1797,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### General
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1988,7 +2003,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ### Workfront
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2075,7 +2091,8 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 ## Sesiones de 2024
 
-<!-- CARDS  
+<!-- 
+CARDS  
 
 {cta = Watch}
 
@@ -2215,7 +2232,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433671/?captions=spa&format=jpeg&nocache=1776280350568" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1776280350568" alt="Aspectos básicos de la integración de Real-Time Customer Data Platform y Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2376,7 +2393,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Priorización del flujo de datos" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456808/?captions=spa&format=jpeg&nocache=1776280350594" alt="Priorización del flujo de datos"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1776280350594" alt="Priorización del flujo de datos"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2560,7 +2577,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Madurez de Personalization: la ruta hacia la hiperpersonalización" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457348/?captions=spa&format=jpeg&nocache=1776280350623" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1776280350623" alt="Madurez de Personalization: la ruta hacia la hiperpersonalización"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2606,7 +2623,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Maximización de la eficiencia: equipos lean y Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457011/?captions=spa&format=jpeg&nocache=1776280350610" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1776280350610" alt="Maximización de la eficiencia: equipos lean y Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2721,7 +2738,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Liderazgo estratégico" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456786/?captions=spa&format=jpeg&nocache=1776280350687" alt="Liderazgo estratégico"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1776280350687" alt="Liderazgo estratégico"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2882,7 +2899,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456709/?captions=spa&format=jpeg&nocache=1776280350723" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1776280350723" alt="Maximización de la eficiencia con Adobe Workfront: seminario web para equipos lean"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2929,11 +2946,11 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
 
 
 
-&#x200B;>>
+>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
-    &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Dominio de Workfront - Estrategias para el éxito&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Dominio de Workfront - Estrategias para el éxito&quot;
+    &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;
     style=&quot;width: 100%; appearance-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;&quot;>
     &lt;/a>
     &lt;/figure>
@@ -2943,7 +2960,7 @@ Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para perm
     &lt;p class=&quot;headline is-size-6 has-text-weight-bold&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot; title=&quot;Workfront Mastery - Estrategias para el éxito&quot;>Workfront Mastery - Estrategias para el éxito&lt;/a>
     &lt;/p>
-    &lt;p class=&quot;is-size-6&quot;>Habilite a su equipo con estrategias para aprovechar al máximo Adobe Workfront. En esta sesión, nuestros expertos le guiarán a través de las prácticas recomendadas que ofrecen valor, simplifican el control y controlan la adopción.&lt;/p>
+    &lt;p class=&quot;is-size-6&quot;>Habilite a su equipo con estrategias para aprovechar Adobe Workfront al máximo su potencial. En esta sesión, nuestros expertos le guiarán a través de las prácticas recomendadas que ofrecen valor, simplifican el control y controlan la adopción.&lt;/p>
     &lt;/div>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot; class=&quot;spectrum-Button spectrum-Button—outline spectrum-Button—primary spectrum-Button—sizeM&quot; style=&quot;align-self: flex-start; margin-top: 1rem;&quot;>
     &lt;span class=&quot;spectrum-Button-label has-no-wrap has-text-weight-bold&quot;>Ver&lt;/span>

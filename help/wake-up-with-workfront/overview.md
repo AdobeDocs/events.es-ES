@@ -3,9 +3,9 @@ title: Reactivación con Workfront
 description: La serie Wake Up with Workfront muestra las prácticas recomendadas de flujo de trabajo y administración de proyectos para todos los niveles de aptitud, con estrategias procesables, demostraciones en directo de las funciones clave de Workfront y una sesión de preguntas y respuestas final.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 La serie Wake Up with Workfront destaca las prácticas recomendadas de flujo de trabajo y administración de proyectos para clientes de todos los conjuntos de habilidades, centrándose en estrategias procesables para mejorar la colaboración e impulsar la eficacia. Las sesiones incluyen demostraciones en directo de las funciones clave de Workfront, lo que garantiza que los asistentes entiendan cómo aplicar los conceptos mencionados dentro de sus propios entornos. Cada evento también concluye con una sesión de preguntas y respuestas en directo.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

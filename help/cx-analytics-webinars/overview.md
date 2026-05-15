@@ -1,7 +1,8 @@
 ---
 title: Seminarios web a petición de CX Analytics
-description: Explore vídeos de CX Analytics bajo demanda con versiones de productos, actualizaciones de funciones, integraciones de soluciones de Adobe, seminarios web de incorporación e historias de éxito de clientes y socios en el mundo real para crear experiencia y mantenerse al día con las últimas innovaciones de CX Analytics.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: Explore vídeos de CX Analytics a petición con versiones de productos, actualizaciones de funciones, integraciones de soluciones de Adobe, seminarios web de incorporación e historias de éxito de clientes y socios en el mundo real para crear experiencia y mantenerse al día con las últimas innovaciones de CX Analytics.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # Seminarios web a petición de CX Analytics {#cx-analytics-ondemand-webinars}
 
-Explore una biblioteca revisada de vídeos de CX Analytics, que incluye versiones de productos y funciones, historias mejor combinadas en soluciones de Adobe, seminarios web de introducción e historias de éxito de socios/clientes. Vea bajo demanda para perfeccionar su experiencia en análisis y mantenerse al día con las últimas innovaciones del catálogo de productos de CX Analytics, con nuevos contenidos añadidos regularmente.
+Explore una biblioteca revisada de vídeos de CX Analytics, que incluye versiones de productos y funciones, historias mejor combinadas en soluciones de Adobe, seminarios web de introducción e historias de éxito de socios/clientes. Vea bajo demanda para perfeccionar su experiencia en análisis y mantenerse al día con las últimas innovaciones de la cartera de CX Analytics, con nuevo contenido añadido regularmente.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Explore una biblioteca revisada de vídeos de CX Analytics, que incluye versione
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

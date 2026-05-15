@@ -3,9 +3,9 @@ title: Detrás de la cerveza
 description: Behind the Brew, la serie complementaria de Commerce & Coffee, está diseñada para clientes con inclinaciones técnicas que buscan dominar las prácticas recomendadas de back-end, integraciones y funcionalidades avanzadas para mejorar sus experiencias de comercio electrónico.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 Detrás del Brew está la serie complementaria de Commerce y Café. Está diseñado para clientes con un fondo técnico que deseen conocer las prácticas recomendadas del back-end, las integraciones y la funcionalidad avanzada que pueden personalizar para mejorar las experiencias de comercio electrónico de su empresa.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -63,7 +64,7 @@ Detrás del Brew está la serie complementaria de Commerce y Café. Está diseñ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="App Builder de Adobe Developer">Creador de aplicaciones de Adobe Developer</a>
+                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="App Builder de Adobe Developer">Adobe Developer App Builder</a>
                     </p>
                     <p class="is-size-6">Integración de Adobe Commerce con cualquier aplicación de comercio electrónico mediante la guía de expertos de App Builder y la demostración en directo</p>
                 </div>

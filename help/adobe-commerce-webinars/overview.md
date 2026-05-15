@@ -3,9 +3,9 @@ title: Seminarios web de Adobe Commerce
 description: Los seminarios web de Adobe Commerce son una cadencia mensual de talleres para clientes de Adobe Commerce que cubren una amplia gama de temas, desde las prácticas recomendadas hasta la hoja de ruta del producto y las tendencias del sector.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '764'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ Los seminarios web de Adobe Commerce son una cadencia mensual de talleres para c
 
 ## Eventos de 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

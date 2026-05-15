@@ -3,7 +3,7 @@ title: Goteo de datos
 description: Únase a los expertos de Adobe en la serie de goteo de datos para explorar las últimas funciones y prácticas recomendadas de Adobe Analytics y Target, con demostraciones en directo que garantizan que los clientes maximicen el potencial del producto y sigan siendo competitivos.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 La serie de goteo de datos cuenta con expertos en Adobe y da la bienvenida a los clientes existentes de Adobe Analytics y Target de todos los niveles de habilidad. La serie se centra en algunas de las últimas funciones y prácticas recomendadas que reflejan el tema del evento. A la presentación le sigue una demostración en directo o capturas de pantalla con ejemplos de cómo actuar sobre las prácticas recomendadas utilizando las funciones del producto. Se garantiza que los clientes se irán con una mejor comprensión de cómo seguir siendo competitivos y lograr el éxito, al tiempo que se maximiza lo que el producto tiene para ofrecer.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

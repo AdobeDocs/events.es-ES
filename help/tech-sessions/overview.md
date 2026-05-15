@@ -3,9 +3,9 @@ title: Sesiones técnicas de Experience Cloud
 description: Mejore sus habilidades con Adobe Experience Cloud con sesiones técnicas en directo y bajo demanda dirigidas por expertos en Adobe. Obtenga consejos y estrategias útiles en cualquier momento para disfrutar de una experiencia de aprendizaje perfecta.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ Desbloquee todo el potencial de Adobe Experience Cloud con sesiones técnicas en
 
 ## Sesiones de 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -118,7 +119,7 @@ Desbloquee todo el potencial de Adobe Experience Cloud con sesiones técnicas en
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" title="Fastly y Adobe Commerce">Fastly y Adobe Commerce</a>
                     </p>
-                    <p class="is-size-6">Aumente el rendimiento y la seguridad digitales con las estrategias de soporte de Adobe, las sugerencias de almacenamiento en caché y las herramientas de autoservicio para lograr un éxito escalable.**</p>
+                    <p class="is-size-6">Aumente el rendimiento y la seguridad digitales con las estrategias de soporte de Adobe, las sugerencias de almacenamiento en caché y las herramientas de autoservicio para lograr un éxito escalable**.</p>
                 </div>
                 <a href="2025/fastly-and-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver</span>
@@ -223,7 +224,8 @@ Desbloquee todo el potencial de Adobe Experience Cloud con sesiones técnicas en
 
 ## Sesiones de 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Desbloquee todo el potencial de Adobe Experience Cloud con sesiones técnicas en
 
 ## Sesiones de 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

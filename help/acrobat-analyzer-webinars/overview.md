@@ -1,10 +1,11 @@
 ---
 title: Seminarios web de Acrobat Analyzer
 description: Explore los seminarios web de Adobe Acrobat Analyzer para ver cómo la inteligencia artificial generativa extrae perspectivas estructuradas y auditables de los documentos para automatizar los flujos de trabajo, reducir el riesgo y acelerar la toma de decisiones empresariales a escala.
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 Descubra cómo Adobe Acrobat Analyzer utiliza IA generativa para extraer perspectivas estructuradas y auditables de grandes volúmenes de documentos. Aprenda a automatizar los flujos de trabajo, reducir el riesgo y permitir una toma de decisiones más rápida e inteligente a escala. Examine nuestros próximos seminarios web para ver cómo puede transformar la inteligencia de documentos en toda la organización.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ Descubra cómo Adobe Acrobat Analyzer utiliza IA generativa para extraer perspec
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-
