@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Al igual que las plataformas que facilitan la administración de los datos de los clientes, las audiencias y los programas de activación también deben evolucionar. También lo hacen las personas y los procesos que admiten estas plataformas. Un modelo de Centro de excelencia de la audiencia (COE) se ha establecido desde hace mucho tiempo como la forma óptima de admitir plataformas de administración de datos (DMP).
 
->[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457359/?captions=spa&quality=12&learn=on)
 
 Para complementar este vídeo, también puede [descargar un documento técnico](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
