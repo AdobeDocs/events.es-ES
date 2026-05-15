@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Colección de grabaciones de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Adopción sostenible de Workfront](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Caos de metadatos](https://experienceleague.adobe.com/es/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Caos de metadatos](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articulación del impacto: medición y uso compartido del valor de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplificar la planificación de recursos con automatización](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 7%
       + [Fundamentos de la creación de informes operativos](workfront/2022/foundations-of-operational-reporting.md)
       + [Aprovechamiento del administrador del grupo](workfront/2022/leveraging-the-group-admin.md)
       + [¿Qué ES la gobernanza de Workfront?](workfront/2022/what-is-workfront-governance.md)
-+ [Explorar los grupos de usuarios de Adobe en Experience Cloud](./adobe-user-groups.md)
++ [Libere la ventaja de campeón de Adobe](./unlock-the-adobe-champion-advantage.md)
 + [Aprenda a postularse y destaque como Campeón](./adobe-champion-application.md)
++ [Explorar los grupos de usuarios de Adobe en Experience Cloud](./adobe-user-groups.md)
