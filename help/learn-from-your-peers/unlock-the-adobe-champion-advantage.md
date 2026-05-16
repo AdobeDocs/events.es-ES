@@ -31,5 +31,5 @@ En este seminario web, los miembros del equipo de Adobe, junto con cuatro Campeo
 **Recursos adicionales**
 
 * [Solicite el Programa de Campeones de Adobe 2026-2027](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other)
-* [Visite la página del Programa de Campeones de Adobe en Adobe Experience League](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other)
+* [Visite la página del Programa de Campeones de Adobe en Adobe Experience League](https://experienceleague.adobe.com/es/champions?cgen=X2PHHJ1W&mv=other)
 * [Consulte las contribuciones de los Campeones sobre las perspectivas de Adobe Experience League](https://experienceleague.adobe.com/es/perspectives)
