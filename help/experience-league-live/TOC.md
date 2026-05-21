@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
+source-git-commit: c59b43a7869d32b106f30bf25818c825cfa33166
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 12%
+source-wordcount: '380'
+ht-degree: 16%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 12%
 
 + [Información general](overview.md)
 + Episodios {#episodes}
+   + [Pruebe, simule y valide recorridos de forma eficaz antes de ponerlos en marcha](episodes/exl-live-episode-06-17-26.md)
    + [Nuevos casos de uso para la participación del cliente: actividades de iOS Live, push web y mensajería persistente](episodes/exl-live-episode-04-08-26.md)
    + [Conozca la orquestación de Campaign en Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Agentes de Adobe Experience Platform para una mayor eficacia de marketing y mejores resultados empresariales](episodes/exl-live-episode-03-03-26.md)
@@ -39,7 +40,7 @@ ht-degree: 12%
    + [Presentación de AI Assistant para audiencias para especialistas en marketing en Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Presentación de las tarjetas de contenido para Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Armonizar audiencias mediante la composición de audiencias federada en Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
-   + [AI Bash: desbloqueo del poder del asistente de IA en aplicaciones y campañas de Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
+   + [Bash de IA: desbloqueo de toda la potencia del Asistente de IA en las aplicaciones de Adobe Experience Platform y Campaign](episodes/exl-live-episode-09-26-24.md)
    + [¿Está listo para subir de nivel la aplicación de análisis móvil?](episodes/exl-live-episode-09-18-24.md)
    + [Resumen de verano: tres funciones que debe probar en Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
    + [Cómo las últimas versiones de Adobe Real-Time CDP pueden mover la aguja para su empresa](episodes/exl-live-episode-06-26-24.md)
