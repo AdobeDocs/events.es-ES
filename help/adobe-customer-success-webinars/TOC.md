@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
+source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '666'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
       + [Content Supply chain Estrategias de administración de cambios](2026/csc-change-management.md)
       + [Contenido Patrocinio ejecutivo de Supply chain](2026/csc-executive-sponsorship.md)
       + [Arquitectura básica para Supply chain de contenido](2026/csc-architecture.md)
+      + [Actualización del tráfico GenAI segundo trimestre de 2026](2026/gen-ai-traffic-update-q2.md)
       + [Actualización del tráfico GenAI](2026/gen-ai-traffic-update.md)
       + [Modelo operativo para Supply chain de contenido](2026/csc-operating-model.md)
    + Workfront {#workfront2026}
