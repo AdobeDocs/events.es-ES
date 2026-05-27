@@ -3,10 +3,10 @@ user-guide-title: Fundamentos de Marketo Engage
 breadcrumb-title: Fundamentos de Marketo Engage
 user-guide-description: Únase al grupo de usuarios de Foundational Marketo para fomentar la confianza y las habilidades principales en Adobe Marketo Engage mediante sesiones de apoyo fáciles de iniciar.
 solution: Marketo Engage
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 3%
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 3%
 
 + [Seminarios web sobre fundaciones de Marketo Engage](overview.md)
 + 2026 {#2026}
+   + [Implementar un boletín mensual](2026/monthly-newsletter.md)
    + [Aspectos básicos de Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
    + [Crear la fórmula de nutrición](2025/nurture-recipe.md)
