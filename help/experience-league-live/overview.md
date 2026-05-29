@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04f40ae4fcbad2ac47697dca520af1a18f4d41ef
+source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 33%
+source-wordcount: '107'
+ht-degree: 53%
 
 ---
 
@@ -24,6 +24,19 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 ## Próximos eventos de Experience League LIVE
 
 <table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
+      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-17-26.md">
+        <strong>Cómo probar, simular y validar recorridos de forma eficaz antes de activarlos</strong>
+      </a>
+      <br/><em>con Sandra Hausmann, Ariel Sultan y Nicolas Dufau</em>
+      <br/><em>17 de junio de 2026</em>
+    </div>
+  </td>
+</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
       <img alt="Experience League LIVE 21 de abril" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
@@ -88,5 +101,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
