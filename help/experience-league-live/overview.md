@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0019e73fe9b953bab04261b1a1361ef2bc1eeb58
+source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 53%
@@ -26,7 +26,7 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+      <img alt="Experience League LIVE 17 de junio" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-17-26.md">
@@ -38,15 +38,15 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
   </td>
 </tr>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-17-26.md">
-      <img alt="Experience League LIVE 21 de abril" src="episodes/assets/exl-live-june-17-2026-webbanner.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
+      <img alt="Experience League LIVE 24 de junio" src="episodes/assets/webbanner-june-24-2026.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-06-17-26.md">
-        <strong>Cómo probar, simular y validar recorridos de forma eficaz antes de activarlos</strong>
+      <a href="episodes/exl-live-episode-06-24-26.md">
+        <strong>Cómo aprovechar Target MCP y otras nuevas versiones importantes en Adobe Target</strong>
       </a>
-      <br/><em>con Sandra Hausmann, Ariel Sultan y Nicolas Dufau</em>
-      <br/><em>17 de junio de 2026</em>
+      <br/><em>con Daniel Wright, James Torio y Drew Burns</em>
+      <br/><em>24 de junio de 2026</em>
     </div>
   </td>
 </tr>
@@ -101,5 +101,5 @@ Experience League LIVE es un programa de streaming en vivo producido por el equi
 
 >[!TIP]
 >
->Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/es?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
+>Para obtener más métodos de aprendizaje, vea nuestros [cursos](https://experienceleague.adobe.com/?lang=es#dashboard/learning) gratuitos, así como [tutoriales](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=es) individuales.
 
