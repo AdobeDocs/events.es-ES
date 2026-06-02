@@ -2,9 +2,9 @@
 title: seminarios web de Acrobat Sign
 description: Obtenga información de los expertos en Adobe sobre cómo dominar los nuevos flujos de trabajo de firma electrónica en Acrobat Sign.
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: 80ce8dae288f75550ac9c967cf67f542bf5e6fce
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '948'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-february-2026-release.md" title="Novedades: versión de febrero de 2026 de Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480103/?format=jpeg&nocache=1778006131487" alt="Novedades: versión de febrero de 2026 de Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480103/?format=jpeg&nocache=1780358925778" alt="Novedades: versión de febrero de 2026 de Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-october-2025-release.md" title="Novedades: versión de octubre de 2025 de Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1778006131480" alt="Novedades: versión de octubre de 2025 de Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1780358925793" alt="Novedades: versión de octubre de 2025 de Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-july-release.md" title="Descubra todas nuestras mejoras más recientes: versión de julio de 2025 de Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1778006131492" alt="Descubra todas nuestras mejoras más recientes: versión de julio de 2025 de Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1780358925773" alt="Descubra todas nuestras mejoras más recientes: versión de julio de 2025 de Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,19 +107,44 @@ CARDS
 
 {cta  = Watch event}
 
+* ./skill-builders/regulated-best-practices.md
 * ./skill-builders/custom-workflows.md
 * ./skill-builders/identity-verification-security.md
 * ./skill-builders/mobile-e-signing.md
+* ./skill-builders/web-forms.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Configuring Acrobat Sign for Healthcare, Life Science & FDA-Regulated Best Practices">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./skill-builders/regulated-best-practices.md" title="Configuración de Acrobat Sign para atención médica, ciencias biológicas y prácticas recomendadas reguladas por la FDA" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491651/?format=jpeg&nocache=1780358926488" alt="Configuración de Acrobat Sign para atención médica, ciencias biológicas y prácticas recomendadas reguladas por la FDA"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./skill-builders/regulated-best-practices.md" target="_blank" rel="referrer" title="Configuración de Acrobat Sign para atención médica, ciencias biológicas y prácticas recomendadas reguladas por la FDA">Configuración de Acrobat Sign para atención médica, ciencias biológicas y prácticas recomendadas reguladas por la FDA</a>
+                    </p>
+                    <p class="is-size-6">Aprenda a configurar Acrobat Sign para la atención médica, las ciencias biológicas y la conformidad con FDA. Comprender las prácticas recomendadas para flujos de trabajo y regulaciones de firma electrónica.</p>
+                </div>
+                <a href="./skill-builders/regulated-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started with Custom Workflows in Acrobat Sign">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/custom-workflows.md" title="Introducción a los flujos de trabajo personalizados en Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486245/?format=jpeg&nocache=1778006131902" alt="Introducción a los flujos de trabajo personalizados en Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3486245/?format=jpeg&nocache=1780358926477" alt="Introducción a los flujos de trabajo personalizados en Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +167,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/identity-verification-security.md" title="Establecimiento de la confianza digital a escala: verificación de identidad y seguridad con Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482221/?format=jpeg&nocache=1778006131896" alt="Establecimiento de la confianza digital a escala: verificación de identidad y seguridad con Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482221/?format=jpeg&nocache=1780358926499" alt="Establecimiento de la confianza digital a escala: verificación de identidad y seguridad con Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,7 +190,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Optimización de la firma electrónica móvil con Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477535/?captions=spa&format=jpeg&nocache=1778006131905" alt="Optimización de la firma electrónica móvil con Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1780358926508" alt="Optimización de la firma electrónica móvil con Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,6 +203,29 @@ CARDS
                     <p class="is-size-6">Descubra cómo Acrobat Sign mejora la firma electrónica móvil con la configuración sin código para lograr acuerdos sin problemas.</p>
                 </div>
                 <a href="./skill-builders/mobile-e-signing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting Started with Web Forms in Acrobat Sign">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./skill-builders/web-forms.md" title="Introducción a los formularios Web Forms en Acrobat Sign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491645/?format=jpeg&nocache=1780358926483" alt="Introducción a los formularios Web Forms en Acrobat Sign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./skill-builders/web-forms.md" target="_blank" rel="referrer" title="Introducción a los formularios Web Forms en Acrobat Sign">Introducción a los formularios web en Acrobat Sign</a>
+                    </p>
+                    <p class="is-size-6">Aprenda a crear, publicar y administrar formularios web en Acrobat Sign para una recopilación de firmas optimizada y flujos de trabajo mejorados.</p>
+                </div>
+                <a href="./skill-builders/web-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ver evento</span>
                 </a>
             </div>
@@ -208,7 +256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101: Introducción" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455468/?captions=spa&format=jpeg&nocache=1778006132191" alt="Acrobat Sign 101: Introducción"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1780358927236" alt="Acrobat Sign 101: Introducción"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +279,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="Formación avanzada sobre el entorno de creación" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455900/?captions=spa&format=jpeg&nocache=1778006132196" alt="Formación avanzada sobre el entorno de creación"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1780358927241" alt="Formación avanzada sobre el entorno de creación"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -271,7 +319,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-admin-experience.md" title="Aumente su experiencia de administración de Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1778006132397" alt="Aumente su experiencia de administración de Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1780358927651" alt="Aumente su experiencia de administración de Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -294,7 +342,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-admin-etla.md" title="Acrobat Sign 101 para administradores en ETLA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479942/?format=jpeg&nocache=1778006132390" alt="Acrobat Sign 101 para administradores en ETLA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479942/?format=jpeg&nocache=1780358927656" alt="Acrobat Sign 101 para administradores en ETLA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +365,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Informes avanzados para Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454408/?captions=spa&format=jpeg&nocache=1778006132401" alt="Informes avanzados para Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1780358927661" alt="Informes avanzados para Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -359,7 +407,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="Sugerencias avanzadas para enviar documentos para su firma" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454882/?captions=spa&format=jpeg&nocache=1778006132755" alt="Sugerencias avanzadas para enviar documentos para su firma"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1780358927978" alt="Sugerencias avanzadas para enviar documentos para su firma"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -382,7 +430,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="Recopilar muchas firmas con un solo clic" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454894/?captions=spa&format=jpeg&nocache=1778006132752" alt="Recopilar muchas firmas con un solo clic"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1780358927970" alt="Recopilar muchas firmas con un solo clic"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -405,7 +453,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Document Builder para Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454916/?captions=spa&format=jpeg&nocache=1778006132748" alt="Document Builder para Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1780358927975" alt="Document Builder para Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -428,7 +476,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="Publicar un formulario web que se puede rellenar y firmar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455448/?captions=spa&format=jpeg&nocache=1778006132737" alt="Publicar un formulario web que se puede rellenar y firmar"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1780358927973" alt="Publicar un formulario web que se puede rellenar y firmar"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -451,7 +499,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454927/?captions=spa&format=jpeg&nocache=1778006132743" alt="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1780358927980" alt="Automatizaciones de flujo de trabajo con tecnología Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
