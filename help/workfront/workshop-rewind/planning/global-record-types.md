@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-¿Busca más recursos que se compartieron durante el evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)!
+¿Busca más recursos que se compartieron durante el evento? ¡Mira la [publicación de la comunidad Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=es)!
 
-Se agregan nuevos eventos cada mes, así que revise la [página Eventos de Experience League](https://experienceleague.adobe.com/en/events?lang=en) para ver las sesiones más recientes.
+Se agregan nuevos eventos cada mes, así que revise la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events?lang=en) para ver las sesiones más recientes.
