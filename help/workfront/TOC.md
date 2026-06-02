@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 1%
       + [Demostración de Adobe Workfront Planning](workshop-rewind/planning/planning-demo.md)
       + [Creación de la implementación base](workshop-rewind/planning/base-implementation.md)
       + [Conexión de paneles de Planning, de flujo de trabajo y de lienzo](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Tipos de registros globales de Workfront Planning](workshop-rewind/planning/global-record-types.md)
       + [Cómo Syracuse aprovecha la planificación](workshop-rewind/planning/syracuse-planning.md)
       + [Casos de uso de Creative de SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Éxito de nivel de equipo con la planificación de Workfront](workshop-rewind/planning/team-success-workfront-planning.md)

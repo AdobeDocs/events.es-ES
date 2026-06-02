@@ -3,10 +3,10 @@ title: Talleres a petición de Adobe Workfront
 description: Eventos de Workfront es una biblioteca de vídeos en la que expertos y compañeros han compartido sus ideas y pensamientos sobre cómo utilizar Workfront para mejorar el trabajo que se realiza para sus organizaciones.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## Rebobinado de taller
 
-El mes de mayo marca el comienzo de la temporada de graduación, un tiempo para nuevas perspectivas y aprender de aquellos que han estado allí antes. Para celebrarlo, resaltamos una selección de sesiones en las que participan clientes experimentados de Adobe Workfront que comparten consejos prácticos, experiencias del mundo real y perspectivas que puede aplicar de inmediato. Los vídeos destacados de este mes incluyen una mezcla de contenido completamente nuevo y sesiones destacadas del pasado que siguen siendo igual de relevantes hoy en día.
+¡Junio ha llegado y también la última edición de [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Este boletín es su punto de encuentro para conocer las últimas noticias, las actualizaciones, los eventos y todo lo que sucede en el mundo de Workfront.
 
 ¿Busca más? Explore las últimas novedades de su comunidad de Adobe Workfront a través de nuestra selección revisada de eventos bajo demanda. Utilice el menú de navegación de la izquierda para examinar los temas que aparecen en Rebobinado de taller, donde las sesiones se agrupan por Fusión, Planificación y Flujo de trabajo para ayudarle a encontrar rápidamente contenido adaptado a sus necesidades.
 
-Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/es/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
+Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
 
 <!-- 
 CARDS 
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="Los 3 enfoques principales en horario de oficina" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470145/?captions=spa&format=jpeg&nocache=1778106659577" alt="Los 3 enfoques principales en horario de oficina"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="Los 3 enfoques principales en horario de oficina"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights: Supply chain de contenido con Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469997/?captions=spa&format=jpeg&nocache=1778106659855" alt="Expert Insights: Supply chain de contenido con Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights: Supply chain de contenido con Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -254,7 +254,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Expert Insights - Fusión con Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470019/?captions=spa&format=jpeg&nocache=1778106659859" alt="Expert Insights - Fusión con Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Expert Insights - Fusión con Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,7 +277,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470008/?captions=spa&format=jpeg&nocache=1778106659848" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Perspectivas de expertos - Gobernanza y centros de excelencia con Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
