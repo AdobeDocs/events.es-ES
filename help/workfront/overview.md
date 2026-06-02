@@ -53,11 +53,11 @@ CARDS
 
 ## Rebobinado de taller
 
-¡Junio ha llegado y también la última edición de [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)! Este boletín es su punto de encuentro para conocer las últimas noticias, las actualizaciones, los eventos y todo lo que sucede en el mundo de Workfront.
+¡Junio ha llegado y también la última edición de [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?profile.language=es&tid=250880)! Este boletín es su punto de encuentro para conocer las últimas noticias, las actualizaciones, los eventos y todo lo que sucede en el mundo de Workfront.
 
 ¿Busca más? Explore las últimas novedades de su comunidad de Adobe Workfront a través de nuestra selección revisada de eventos bajo demanda. Utilice el menú de navegación de la izquierda para examinar los temas que aparecen en Rebobinado de taller, donde las sesiones se agrupan por Fusión, Planificación y Flujo de trabajo para ayudarle a encontrar rápidamente contenido adaptado a sus necesidades.
 
-Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
+Y asegúrese de unirse a los próximos eventos en directo para hacer preguntas, compartir perspectivas y colaborar con compañeros. Visite la [página de eventos de Experience League Workfront](https://experienceleague.adobe.com/es/events?filters=Workfront) con regularidad para ver qué novedades hay a continuación.
 
 <!-- 
 CARDS 
