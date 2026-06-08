@@ -2,9 +2,9 @@
 user-guide-title: Seminarios web de éxito del cliente de Adobe
 breadcrumb-title: Seminarios web de éxito del cliente de Adobe
 user-guide-description: Seminarios web dirigidos por el éxito del cliente de Adobe diseñados para permitirle optimizar su inversión en Experience Cloud de Adobe. Obtenga valiosos conocimientos para maximizar el valor y aumentar la adopción de las soluciones de Adobe.
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [Creación de archivos BRD-SDR para Customer Journey Analytics](2026/brd-sdr-file-best-practices.md)
       + [Desbloquear identidad](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [Transformar AEM con agentes y asistentes de IA](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Creación en Edge Delivery Services](2026/authoring-eds.md)
       + [Maximizar las cadenas de suministro de contenido](2026/value-with-content-supply-chain.md)
       + [Modelos de envío modernos para AEM Sites](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [Cambio de inteligencia integrada](2026/embedded-intelligence.md)
    + General {#general2026}
+      + [Libere el poder de la IA auténtica](2026/unlock-the-power-of-agentic-ai.md)
       + [Estrategias de IA para el éxito de vacaciones](2026/2025-holiday-results.md)
       + [Content Supply chain Estrategias de administración de cambios](2026/csc-change-management.md)
       + [Contenido Patrocinio ejecutivo de Supply chain](2026/csc-executive-sponsorship.md)
