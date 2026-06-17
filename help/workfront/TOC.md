@@ -3,9 +3,9 @@ user-guide-title: Eventos de Workfront
 breadcrumb-title: Eventos de Workfront
 user-guide-description: Eventos de Workfront
 solution: Workfront
-source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
+source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '569'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [Fusion Decoded](workshop-rewind/fusion/fusion-decoded.md)
       + [Fusion Decoded Parte 2 - Comenzar a construir](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Cómo Workfront Fusion ayuda a los humanos](workshop-rewind/fusion/inside-mayo-clinic.md)
+      + [Automatización de recursos de McKesson Fusion](workshop-rewind/fusion/mckesson-fusion-automation.md)
       + [Explorar los cambios de los campos de selección múltiple con facilidad](workshop-rewind/fusion/mulit-select-fields.md)
       + [Gestión proactiva de excepciones](workshop-rewind/fusion/proactive-exception-handling.md)
       + [Schneider Electric impulsa la eficiencia de Workfront](workshop-rewind/fusion/schneider-electric-efficiency.md)
