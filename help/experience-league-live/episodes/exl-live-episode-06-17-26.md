@@ -24,4 +24,4 @@ Le guiaremos por la forma ideal de probar sus recorridos antes del lanzamiento y
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-Únase a la conversación en la [Comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138); nuestros expertos están preparados para responder a sus preguntas.
+Únase a la conversación en la [Comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138?profile.language=es); nuestros expertos están preparados para responder a sus preguntas.
