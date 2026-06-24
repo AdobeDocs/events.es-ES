@@ -1,15 +1,14 @@
 ---
 title: Cómo aprovechar Target MCP y otras nuevas versiones importantes en Adobe Target
-description: Pruebe y valide sus recorridos antes del lanzamiento y aprenda a llevarlos más lejos con la nueva simulación de Recorrido.
-kt: 21226
+description: Aprenda a aprovechar el nuevo servidor MCP de Adobe Target para crear y analizar actividades con un agente, además de explorar pruebas bayesianas, indicadores de funciones y experimentación con CDN.
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
+source-git-commit: b0680eb53b3b68243cda9d1f2681f72d67b88511
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -28,4 +27,5 @@ Aprenderá a hacer lo siguiente:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-Visite la documentación del producto para obtener más información sobre [Adobe Target MCP server](https://experienceleague.adobe.com/es/docs/target/using/mcp/target-mcp).
+Visite la documentación del producto para obtener más información sobre [Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp).
+¿Tiene preguntas? Pregúntenles en el [foro de la comunidad](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358) — nuestros expertos están monitoreando activamente el hilo de discusión de este episodio.
