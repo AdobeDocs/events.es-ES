@@ -25,6 +25,6 @@ En esta sesión, Nathan analiza los conceptos básicos de la API de Workfront, q
 
 Desde conocimientos básicos hasta aplicaciones reales, esta sesión le proporcionará una ruta clara y accesible al mundo de las API de Workfront, guiada por un experto que trabaja con ellas todos los días. Tanto si es nuevo en las API como si desea ampliar su conjunto de herramientas técnicas, esta sesión le ayudará a conectar los puntos entre concepto y capacidad.
 
-¿Busca más recursos que se compartieron durante el evento? ¡Mira [la publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328)!
+¿Busca más recursos que se compartieron durante el evento? ¡Mira [la publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328?profile.language=es)!
 
 Se agregan nuevos eventos cada mes, así que revise la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
