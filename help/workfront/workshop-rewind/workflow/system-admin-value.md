@@ -23,7 +23,7 @@ ht-degree: 2%
 
 En esta sesión, Nuria mostrará ejemplos reales de cómo las configuraciones pequeñas e intencionales pueden desbloquear la visibilidad de los ahorros de costes, las mejoras de eficiencia y el fortalecimiento del papel del administrador del sistema de Workfront. Tanto si es nuevo en Workfront como si es un administrador experimentado, tendrá ideas prácticas para abogar mejor por su trabajo, descubrir oportunidades de crecimiento y convertirse en un socio más estratégico dentro de su organización.
 
-¿Busca más? ¡Mantén la conversación en [la publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357)!
+¿Busca más? ¡Mantén la conversación en [la publicación de la comunidad de Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?profile.language=es&tid=251357)!
 
 Se agregan nuevos eventos cada mes, así que asegúrese de consultar la [página Eventos de Experience League](https://experienceleague.adobe.com/es/events) para ver las sesiones más recientes.
 
